@@ -8,4 +8,3 @@
 * Rajkala - GitHub
 * Kelly - Documentation of Technologies
 
-;asoighsda;ogihsadf;ogih
