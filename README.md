@@ -6,6 +6,7 @@
 ## Technologies and Platforms
 
 ### Data Cleaning and Analysis
+* **QuickDBD** was used to create our database diagram and can be viewed [here](TBD link).
 * **Python** along with the **Pandas library** will be used to clean any data and perform initial analysis. 
 
 ### Database Storage
