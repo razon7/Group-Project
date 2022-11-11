@@ -14,7 +14,7 @@
 ### Presentation (30 points)
 
 Team members have drafted their project, including the following:
-- [ ] Selected topic
+- [x] Selected topic
 - [ ] Reason they selected the topic
 - [ ] Description of the source of data
 - [ ] Questions they hope to answer with the data
@@ -27,7 +27,7 @@ Main Branch README should include:
 - [ ] Description of the communication protocols
 
 Individual Branches should include:
-- [ ] At least one branch for each team member
+- [x] At least one branch for each team member
 - [ ] Each team member has at least four commits for the duration of the first segment
 
 ### Machine Learning Model (35 points)
