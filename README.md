@@ -16,6 +16,8 @@
 ### Dashboard
 * **Tableau** will be used to create and host our dashboard. 
 
+## Selected Topic - College and Early Career Salary
+College tuition costs are a hot topic these days. According to the Department of Education, the typical undergraduate student with loans graduates with nearly $25,000 in debt. Since 1980, the total cost of both four-year public and four-year private college has nearly tripled, even after accounting for inflation[^1]. Due to the Covid pandemic, federal student loan repayment has been paused since March 2020 and the Biden administration has attempted to inact a Federal Student Loan Relief program for low- to middle-income borrowers, forgiving up to $10,000 of existing post-high school educational debt. Some believe that the cost of a college education should not be the responsibility of the student alone, and others disagree. Regardless of what school of thought you subscribe to, college tuition costs are an important factor when considering where to go and what to study, while keeping a focus on what will someone earn once they graduate.
 
 
 --------------------------------------------
@@ -67,3 +69,7 @@ Team members will be expected to present a provisional database that stands in f
 ### Dashboard (0 points)
 
 There are no deliverables associated with the dashboard for this segment.
+
+
+
+[^1]: [The White House Fact Sheet: President Biden Announces Student Loan Relief...](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/)
