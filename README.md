@@ -7,6 +7,7 @@
 
 ### Data Cleaning and Analysis
 * **QuickDBD** was used to create our database diagram and can be viewed [here](TBD link).
+* **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](TBD link).
 * **Python** along with the **Pandas library** will be used to clean any data and perform initial analysis. 
 
 ### Database Storage
@@ -27,10 +28,12 @@ _Our initial focus will be to better understand our datasets, asking some basic 
 * How many colleges are in each state?
 * How many public, private, and for-profit colleges are in each state?
 * What are the average tution costs by state of a two-year and four-year college?
-* What states have the highest early career pay?
+* What states have the highest early career salary?
+* What regions have the highest early careery salary?
 
 **We intend to use the following labels as our features:**
 * State
+* Region
 * In-state Tuition
 * Out-of-state Tuition
 * Enrollment Size
@@ -38,6 +41,7 @@ _Our initial focus will be to better understand our datasets, asking some basic 
 * School Type
 
 Possible additional features:
+* Division (subcategory of Region)
 * Room and Board Costs
 * STEM Percent
 
@@ -45,19 +49,21 @@ Possible additional features:
 * Early Career Salary
 
 **At the end of this project, we seek to answer the following questions:**
-* Does the college location (state) influence early career salary?
+* Does the college location (state, region, and/or division) influence early career salary?
 * Does the college tuition cost (in-state or out-of-state) influence early career salary?
 * Does the college enrollment size influence early career salary?
 * Does the degree length (two-year or four-year) influence early career salary?
 * Does a public, private, or for-profit college influence early career salary?
 * How does a two-year degree compare to a four-year degree with regards to early career salary? 
 * How does in-state tuition costs compare to out-of-state with regards to early career salary?
+* How does geographical region (and/or division) influence early career salary?
 
 ## Data Sources
-Our data is spread across three CSV files and can be found in the Resources folder housed on the main branch of this repository. These files were sourced from [Kaggle](https://www.kaggle.com/) and below is a breakdown of where the data originated.
+Our data is spread across four CSV files and can be found in the Resources folder housed on the main branch of this repository. These files were sourced from [Kaggle](https://www.kaggle.com/) and below is a breakdown of where the data originated.
 * School name, tuition, fees, school type, degree length, state, and in-state vs out-of-state comes from [The Chronicle of Higher Education](https://www.chronicle.com/).
 * Enrollment size comes from [TuitionTracker.org](https://www.tuitiontracker.org/).
 * Potential salary data and percentage of STEM degrees comes from [payscale.com](https://www.payscale.com/).
+* Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
 --------------------------------------------
 ## Project Title (TBD)
