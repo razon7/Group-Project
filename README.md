@@ -1,12 +1,34 @@
+## Communication Protocols
+* Slack will be the primary communcation tool. Outside of our classes held on Mondays and Wednesdays, we intend to meet after class and on an as-needed basis each week. 
+* All updates to the main branch within GitHub will require approval from a minimum of two team members. 
+
+## Technologies and Platforms
+
+### Data Cleaning and Analysis
+* **Python** along with the **Pandas library** will be used to clean any data and perform initial analysis. 
+
+### Database Storage
+* **Postgresql** is our chosen database.
+
+### Machine Learning 
+* **SckiKitLearn** is the ML library we intend to use. 
+
+### Dashboard
+* **Tableau** will be used to create and host our dashboard. 
+
+
+
+--------------------------------------------
+
 # Group-Project Overview
 ## Project Title (TBD)
 
 ## Assigned Roles - Week 1
 * Billy - Project Manager (PM)
-* David - Database (circle)
-* Jumoke - Machine Learning Model (triangle)
-* Rajkala - GitHub (square)
-* Kelly - Documentation of Technologies (x)
+* David - Database (Circle)
+* Jumoke - Machine Learning Model (Triangle)
+* Rajkala - GitHub (Square)
+* Kelly - Presentation (X)
 
 ## Deliverables - Week 1
 
