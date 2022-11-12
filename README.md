@@ -28,7 +28,7 @@ Main Branch README should include:
 
 Individual Branches should include:
 - [x] At least one branch for each team member
-- [x] Each team member has at least four commits for the duration of the first segment
+- [ ] Each team member has at least four commits for the duration of the first segment
 
 ### Machine Learning Model (35 points)
 
@@ -39,8 +39,8 @@ Team members will be expected to present a provisional machine learning model th
 ### Database Integration (25 points)
 
 Team members will be expected to present a provisional database that stands in for the final database and accomplishes the following:
-- [x] Sample data that mimics the expected final database structure or schema
-- [x] Draft machine learning model is connected to the provisional database
+- [ ] Sample data that mimics the expected final database structure or schema
+- [ ] Draft machine learning model is connected to the provisional database
 
 ### Dashboard (0 points)
 
