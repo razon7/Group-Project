@@ -6,14 +6,14 @@
 ## Technologies and Platforms
 
 ### Data Cleaning and Analysis
-* **QuickDBD** was used to create our database diagram and can be viewed [here](TBD link).
-* **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](TBD link).
 * **Python** along with the **Pandas library** will be used to clean any data and perform initial analysis. 
 
 ### Database Storage
+* **QuickDBD** was used to create our database diagram and can be viewed [here](TBD link from MAIN).
 * **Postgresql** is our chosen database.
 
 ### Machine Learning 
+* **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](TBD link from MAIN).
 * **SckiKitLearn** is the ML library we intend to use. 
 
 ### Dashboard
