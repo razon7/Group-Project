@@ -1,7 +1,8 @@
 # Group Project Overview
 ## Communication Protocols
 * Slack will be the primary communcation tool. Outside of our classes held on Mondays and Wednesdays, we intend to meet after class and on an as-needed basis each week. 
-* All updates to the main branch within GitHub will require approval from a minimum of two team members. 
+* Each team member will generate their own pull request once they have completed with their weekly tasks and will notify the team, via Slack, that there is a pull request to review.
+* All pull requests within GitHub will require approval from a minimum of two team members prior to merging into the main branch. 
 
 ## Technologies and Platforms
 
