@@ -1,7 +1,7 @@
 # Group Project Overview
 ## Communication Protocols
 * Slack will be the primary communcation tool. Outside of our classes held on Mondays and Wednesdays, we intend to meet after class and on an as-needed basis each week. 
-* Each team member will generate their own pull request once they have completed with their weekly tasks and will notify the team, via Slack, that there is a pull request to review.
+* Each team member will generate their own pull request once they have completed their weekly tasks and will notify the team, via Slack, that there is a pull request to review.
 * All pull requests within GitHub will require approval from a minimum of two team members prior to merging into the main branch. 
 
 ## Technologies and Platforms
@@ -10,11 +10,11 @@
 * **Python** along with the **Pandas library** will be used to clean any data and perform initial analysis. 
 
 ### Database Storage
-* **QuickDBD** was used to create our database diagram and can be viewed [here](TBD link from MAIN).
+* **QuickDBD** was used to create our database diagram and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png).
 * **Postgresql** is our chosen database.
 
 ### Machine Learning 
-* **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](TBD link from MAIN).
+* **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/ML%20mockup.pdf).
 * **SckiKitLearn** is the ML library we intend to use. 
 
 ### Dashboard
