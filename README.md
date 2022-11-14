@@ -10,7 +10,6 @@
 
 ## Deliverables - Week 1
 
-
 ### Presentation (30 points)
 
 Team members have drafted their project, including the following:
