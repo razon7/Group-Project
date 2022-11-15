@@ -67,9 +67,28 @@ Our data is spread across four CSV files and can be found in the Resources folde
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
 --------------------------------------------
-## Deliverables - Week 2
+## Assigned Roles - Week 2
+* Billy - Dashboard ()
+* David - Database ()
+* Jumoke / Rajkala - Machine Learning Model ()
+* All - GitHub ()
+* Kelly - Presentation ()
 
+## Deliverables - Week 2
 ### Presentation (15 points)
+#### Content
+
+The presentation outlines the project, including the following:
+- [ ] Selected topic
+- [ ] Reason topic was selected
+- [ ] Description of the source of data
+- [ ] Questions the team hopes to answer with the data
+- [ ] Description of the data exploration phase of the project
+- [ ] Description of the analysis phase of the project
+
+#### Slides
+
+Presentations are drafted in Google Slides.
 
 ### GitHub Repository (10 points)
 
@@ -79,12 +98,7 @@ Our data is spread across four CSV files and can be found in the Resources folde
 
 ### Dashboard (15 points)
 
-## Assigned Roles - Week 2
-* Billy - Dashboard ()
-* David - Database ()
-* Jumoke / Rajkala - Machine Learning Model ()
-* All - GitHub ()
-* Kelly - Presentation ()
+
 
 --------------------------------------------
 ## Assigned Roles - Week 1
