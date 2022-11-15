@@ -67,7 +67,19 @@ Our data is spread across four CSV files and can be found in the Resources folde
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
 --------------------------------------------
-## Project Title (TBD)
+## Deliverables - Week 2
+
+### Presentation (15 points)
+
+### GitHub Repository (10 points)
+
+### Machine Learning Model (30 points)
+
+### Database Integration (30 points)
+
+### Dashboard (15 points)
+--------------------------------------------
+## Project Title (College and Early Career Salary)
 
 ## Assigned Roles - Week 1
 * Billy - Project Manager (PM)
