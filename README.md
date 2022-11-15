@@ -15,7 +15,7 @@
 
 ### Machine Learning 
 * **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/ML%20mockup.pdf).
-* **SciKitLearn** is the ML library we intend to use. 
+* **SckiKitLearn** is the ML library we intend to use. 
 
 ### Dashboard
 * **Tableau** will be used to create and host our dashboard. 
@@ -28,7 +28,7 @@ We believe that by studying these datasets, we can better understand how to opti
 _Our initial focus will be to better understand our datasets, asking some basic questions, such as:_
 * How many colleges are in each state?
 * How many public, private, and for-profit colleges are in each state?
-* What are the average tuition costs by state of a two-year and four-year college?
+* What are the average tution costs by state of a two-year and four-year college?
 * What states have the highest early career salary?
 * What regions have the highest early careery salary?
 
@@ -68,11 +68,11 @@ Our data is spread across four CSV files and can be found in the Resources folde
 
 --------------------------------------------
 ## Assigned Roles - Week 2
-* Billy - Dashboard ()
-* David - Database ()
-* Jumoke / Rajkala - Machine Learning Model ()
-* All - GitHub ()
-* Kelly - Presentation ()
+* Billy - Dashboard (X)
+* David - Database (Triangle)
+* Jumoke / Rajkala - Machine Learning Model (Square)
+* All - GitHub
+* Kelly - Presentation (Circle)
 
 ## Deliverables - Week 2
 ### Presentation (15 points)
@@ -87,18 +87,48 @@ The presentation outlines the project, including the following:
 - [ ] Description of the analysis phase of the project
 
 #### Slides
-
 Presentations are drafted in Google Slides.
 
 ### GitHub Repository (10 points)
+#### Main Branch
+All code in the main branch is production-ready.
+
+The main branch should include:
+- [ ] All code necessary to perform exploratory analysis
+- [ ] Some code necessary to complete the machine learning portion of project
+
+#### README.md
+README.md should include:
+- [ ] Description of the communication protocols
+- [ ] Outline of the project (this may include images, but they should be easy to follow and digest)
+
+#### Individual Branches
+Requirements for the individual branches follow:
+- [ ] At least one branch for each team member
+- [ ] Each team member has at least four commits for the duration of the second segment (eight total commits per person)
 
 ### Machine Learning Model (30 points)
+The team members are expected to submit the code for the machine learning model, as well as the following:
+- [ ] Description of preliminary data preprocessing
+- [ ] Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+- [ ] Description of how data was split into training and testing sets
+- [ ] Explanation of model choice, including limitations and benefits
 
 ### Database Integration (30 points)
+The team members are expected to present a fully integrated database, including the following:
+- [ ] Database stores static data for use during the project
+- [ ] Database interfaces with the project in some format (e.g., scraping updates the database)
+- [ ] Includes at least two tables (or collections, if using MongoDB)
+- [ ] Includes at least one join using the database language (not including any joins in Pandas)
+- [ ] Includes at least one connection string (using SQLAlchemy or PyMongo)
+
+ERD relationships must be provided with the SQL database.
 
 ### Dashboard (15 points)
-
-
+A blueprint for the dashboard is created and includes all of the following:
+- [ ] Storyboard on a Google Slide(s)
+- [ ] Description of the tool(s) that will be used to create the final dashboard
+- [ ] Description of interactive element(s)
 
 --------------------------------------------
 ## Assigned Roles - Week 1
