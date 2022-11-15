@@ -78,9 +78,15 @@ Our data is spread across four CSV files and can be found in the Resources folde
 ### Database Integration (30 points)
 
 ### Dashboard (15 points)
---------------------------------------------
-## Project Title (College and Early Career Salary)
 
+## Assigned Roles - Week 2
+* Billy - Dashboard ()
+* David - Database ()
+* Jumoke / Rajkala - Machine Learning Model ()
+* All - GitHub ()
+* Kelly - Presentation ()
+
+--------------------------------------------
 ## Assigned Roles - Week 1
 * Billy - Project Manager (PM)
 * David - Database (Circle)
