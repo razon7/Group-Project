@@ -15,7 +15,7 @@
 
 ### Machine Learning 
 * **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/ML%20mockup.pdf).
-* **SckiKitLearn** is the ML library we intend to use. 
+* **SciKitLearn** is the ML library we intend to use. 
 
 ### Dashboard
 * **Tableau** will be used to create and host our dashboard. 
@@ -28,7 +28,7 @@ We believe that by studying these datasets, we can better understand how to opti
 _Our initial focus will be to better understand our datasets, asking some basic questions, such as:_
 * How many colleges are in each state?
 * How many public, private, and for-profit colleges are in each state?
-* What are the average tution costs by state of a two-year and four-year college?
+* What are the average tuition costs by state of a two-year and four-year college?
 * What states have the highest early career salary?
 * What regions have the highest early careery salary?
 
@@ -79,10 +79,10 @@ Our data is spread across four CSV files and can be found in the Resources folde
 #### Content
 
 The presentation outlines the project, including the following:
-- [ ] Selected topic
-- [ ] Reason topic was selected
-- [ ] Description of the source of data
-- [ ] Questions the team hopes to answer with the data
+- [X] Selected topic
+- [X] Reason topic was selected
+- [X] Description of the source of data
+- [X] Questions the team hopes to answer with the data
 - [ ] Description of the data exploration phase of the project
 - [ ] Description of the analysis phase of the project
 
@@ -99,12 +99,12 @@ The main branch should include:
 
 #### README.md
 README.md should include:
-- [ ] Description of the communication protocols
+- [X] Description of the communication protocols
 - [ ] Outline of the project (this may include images, but they should be easy to follow and digest)
 
 #### Individual Branches
 Requirements for the individual branches follow:
-- [ ] At least one branch for each team member
+- [X] At least one branch for each team member
 - [ ] Each team member has at least four commits for the duration of the second segment (eight total commits per person)
 
 ### Machine Learning Model (30 points)
