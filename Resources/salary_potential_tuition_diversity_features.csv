@@ -1,0 +1,935 @@
+rank,name,University Name Clean,state_name,early_career_pay,mid_career_pay,make_world_better_percent,stem_percent,type,degree_length,room_and_board,in_state_tuition,in_state_total,out_of_state_tuition,out_of_state_total,American Indian / Alaska Native diversity percent,Asian diversity percent,Black diversity percent,Hispanic diversity percent,Native Hawaiian / Pacific Islander diversity percent,Non-Resident Foreign diversity percent,Total Minority diversity percent,Two Or More Races diversity percent,Unknown diversity percent,White diversity percent,Women diversity percent
+1,Auburn University,Auburn University,Alabama,54400,104500,51,31,Public,4 Year,13332,11276,24608,30524,43856,0.70%,2.30%,7.30%,2.30%,0.00%,5.50%,12.60%,0.00%,1.40%,80.50%,49.40%
+2,University of Alabama in Huntsville,University Alabama Huntsville,Alabama,57500,103900,59,45,Public,4 Year,10094,10714,20808,22362,32456,1.30%,3.60%,11.20%,3.40%,0.00%,6.20%,21.10%,1.50%,3.50%,69.30%,43.20%
+3,The University of Alabama,University Alabama,Alabama,52300,97400,50,15,Public,4 Year,10102,10780,20882,29230,39332,0.40%,1.10%,11.30%,3.40%,0.10%,4.70%,18.70%,2.50%,0.40%,76.30%,55.00%
+4,Tuskegee University,Tuskegee University,Alabama,54500,93500,61,30,Private,4 Year,9650,22170,31820,22170,31820,0.10%,0.80%,75.60%,1.00%,0.00%,0.60%,77.50%,0.00%,20.20%,1.70%,59.80%
+5,Samford University,Samford University,Alabama,48400,90500,52,3,Private,4 Year,10550,31650,42200,31650,42200,0.30%,1.60%,7.50%,4.40%,0.00%,3.10%,15.00%,1.00%,0.70%,81.20%,62.50%
+6,Spring Hill College,Spring Hill College,Alabama,46600,89100,53,12,Private,4 Year,13462,39464,52926,39464,52926,0.70%,1.20%,15.30%,5.60%,0.10%,2.10%,26.10%,3.30%,3.00%,68.80%,59.60%
+7,Birmingham Southern College,Birmingham Southern College,Alabama,49100,88300,48,27,Private,4 Year,12350,17650,30000,17650,30000,1.00%,5.20%,11.00%,1.90%,0.00%,0.00%,19.70%,0.50%,0.50%,79.80%,46.40%
+8,University of Alabama at Birmingham,University Alabama Birmingham,Alabama,48600,87200,57,17,Public,4 Year,6400,10710,17110,24630,31030,0.20%,5.00%,21.10%,2.70%,0.10%,3.60%,32.10%,3.00%,1.10%,63.30%,60.40%
+9,University of South Alabama,University South Alabama,Alabama,47700,86400,56,17,Public,4 Year,7620,9870,17490,19740,27360,0.60%,3.40%,20.80%,2.50%,0.20%,4.20%,29.60%,2.10%,2.20%,63.90%,61.40%
+10,Alabama A&M University,Alabama A&M University,Alabama,48700,83500,58,20,Public,4 Year,8379,9698,18077,17918,26297,0.20%,0.30%,90.70%,0.60%,0.20%,1.10%,92.00%,0.00%,1.50%,5.40%,55.40%
+11,Troy University,Troy University,Alabama,44500,81500,60,8,Public,4 Year,8185,12460,20645,22875,31060,0.80%,0.70%,35.90%,3.50%,0.10%,3.40%,43.60%,2.60%,4.40%,48.70%,62.70%
+12,Jacksonville State University,Jacksonville State University,Alabama,43800,80000,61,7,Public,4 Year,8100,10425,18525,20145,28245,0.70%,0.60%,23.40%,1.30%,0.10%,2.40%,26.10%,0.00%,3.00%,68.50%,57.50%
+13,Auburn University at Montgomery,Auburn University Montgomery,Alabama,45000,79600,61,12,Public,4 Year,6980,10288,17268,22048,29028,0.50%,2.10%,32.30%,0.70%,0.20%,4.50%,38.40%,2.70%,6.20%,50.90%,63.90%
+14,Huntingdon College,Huntingdon College,Alabama,42400,78900,69,14,Private,4 Year,9750,27400,37150,27400,37150,1.20%,0.80%,19.70%,2.50%,0.20%,0.70%,27.00%,2.60%,8.70%,63.60%,49.30%
+15,Oakwood University,Oakwood University,Alabama,43500,78800,71,16,Private,4 Year,9312,16720,26032,16720,26032,0.60%,0.50%,84.00%,2.40%,0.00%,7.70%,87.50%,0.00%,3.40%,1.40%,56.90%
+15,Athens State University,Athens State University,Alabama,45000,78800,51,9,Public,4 Year,NA,6810,6810,12870,12870,1.50%,0.50%,12.70%,2.00%,0.10%,0.50%,18.60%,1.70%,3.40%,77.50%,65.40%
+17,University of West Alabama,University West Alabama,Alabama,42700,76100,61,4,Public,4 Year,8116,10040,18156,18490,26606,0.50%,0.20%,44.30%,1.50%,0.10%,3.50%,47.50%,1.00%,4.60%,44.40%,70.20%
+18,University of North Alabama,University North Alabama,Alabama,43000,75600,61,6,Public,4 Year,9200,10370,19570,18680,27880,0.90%,1.90%,12.70%,2.50%,0.10%,4.40%,20.20%,2.20%,4.20%,71.10%,58.00%
+19,University of Mobile,University Mobile,Alabama,40600,74100,77,7,Private,4 Year,9600,22820,32420,22820,32420,1.60%,0.60%,23.80%,1.40%,0.00%,3.30%,29.60%,2.10%,4.60%,62.60%,66.40%
+20,Alabama State University,Alabama State University,Alabama,39800,71500,61,16,Public,4 Year,5422,11068,16490,19396,24818,0.10%,0.40%,89.70%,1.20%,0.10%,2.40%,92.50%,1.00%,1.40%,3.80%,62.10%
+21,Faulkner University,Faulkner University,Alabama,39400,71300,61,2,Private,4 Year,7750,21690,29440,21690,29440,0.70%,0.60%,45.10%,2.10%,0.10%,1.50%,50.20%,1.60%,2.80%,45.50%,60.00%
+22,University of Montevallo,University Montevallo,Alabama,38900,70700,49,7,Public,4 Year,9330,12760,22090,25780,35110,0.60%,0.60%,14.10%,3.00%,0.00%,1.30%,20.60%,2.20%,5.60%,72.60%,67.40%
+23,Judson College,Judson College,Alabama,37900,67600,65,13,Private,4 Year,10590,18510,29100,18510,29100,0.50%,1.10%,16.40%,1.60%,0.00%,1.30%,20.10%,0.50%,3.20%,75.40%,96.80%
+24,Amridge University,Amridge University,Alabama,35700,65900,NA,0,Private,4 Year,NA,6900,6900,6900,6900,0.00%,0.60%,40.80%,0.80%,0.00%,0.00%,42.20%,0.00%,28.80%,29.00%,59.50%
+25,Miles College,Miles College,Alabama,34800,65100,64,19,Private,4 Year,7042,11604,18646,11604,18646,0.00%,0.00%,97.20%,0.30%,0.10%,0.00%,98.10%,0.60%,0.20%,1.70%,48.90%
+1,University of Alaska Fairbanks,University Alaska Fairbanks,Alaska,59100,101800,54,20,Public,4 Year,8930,8087,17017,24257,33187,12.40%,1.40%,1.90%,4.50%,0.30%,3.00%,24.20%,3.70%,28.20%,44.60%,57.60%
+2,University of Alaska Anchorage,University Alaska Anchorage,Alaska,56000,101000,57,10,Public,4 Year,12200,7688,19888,23858,36058,6.20%,6.90%,3.30%,7.20%,0.80%,1.80%,33.10%,8.70%,6.80%,58.30%,58.40%
+3,Alaska Pacific University,Alaska Pacific University,Alaska,50300,90000,67,6,Private,4 Year,7300,20830,28130,20830,28130,15.00%,1.70%,2.20%,2.60%,0.70%,0.00%,29.40%,7.10%,15.20%,55.40%,66.30%
+1,Embry-Riddle Aeronautical University-Prescott,Embry Riddle Aeronautical University Prescott,Arizona,65600,117900,59,43,Private,4 Year,11394,35654,47048,35654,47048,0.30%,5.50%,1.70%,5.70%,0.50%,10.00%,23.10%,9.30%,9.60%,57.30%,22.60%
+2,University of Arizona,University Arizona,Arizona,56100,101000,51,23,Public,4 Year,12550,12487,25037,36386,48936,1.20%,5.70%,3.30%,22.30%,0.20%,8.80%,36.50%,3.80%,2.50%,52.20%,51.80%
+3,Arizona State University-Tempe,Arizona State University Tempe,Arizona,54500,100900,52,30,Public,4 Year,12648,10822,23470,28336,40984,1.30%,6.30%,3.60%,16.40%,0.20%,15.80%,31.30%,3.50%,0.90%,52.00%,43.00%
+4,Northern Arizona University,Northern Arizona University,Arizona,49600,90000,56,12,Public,4 Year,10282,11564,21846,25828,36110,3.00%,1.70%,3.20%,19.40%,0.20%,4.50%,32.30%,4.80%,0.80%,62.40%,58.90%
+5,Arizona Christian University,Arizona Christian University,Arizona,42600,76600,NA,7,Private,4 Year,10674,26796,37470,26796,37470,0.90%,2.40%,7.50%,15.50%,0.70%,1.80%,31.60%,4.60%,5.80%,60.80%,44.90%
+6,Ottawa University-Phoenix,Ottawa University Phoenix,Arizona,42000,74600,54,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,2.40%,1.40%,9.10%,12.10%,0.20%,0.30%,28.10%,3.00%,14.70%,56.90%,73.10%
+7,Prescott College,Prescott College,Arizona,41200,73500,69,0,Private,4 Year,7700,31485,39185,31485,39185,2.60%,1.40%,2.80%,2.50%,0.20%,3.30%,14.20%,4.60%,7.30%,75.20%,67.00%
+1,University of Arkansas,University Arkansas,Arkansas,52500,98000,49,18,Public,4 Year,11020,9130,20150,25168,36188,1.20%,2.50%,5.10%,6.30%,0.10%,5.80%,18.20%,3.00%,0.50%,75.50%,51.10%
+2,Hendrix College,Hendrix College,Arkansas,48100,90300,58,33,Private,4 Year,12284,45790,58074,45790,58074,1.60%,5.70%,4.80%,4.80%,0.10%,5.60%,17.60%,0.70%,0.40%,76.40%,54.90%
+3,University of Arkansas for Medical Sciences,University Arkansas for Medical Sciences,Arkansas,51700,89100,84,3,Public,4 Year,NA,8197,8197,15973,15973,0.20%,4.60%,9.00%,3.30%,0.00%,2.30%,19.60%,2.40%,3.10%,75.00%,65.10%
+4,Harding University,Harding University,Arkansas,49200,88600,47,10,Private,4 Year,7044,20135,27179,20135,27179,0.80%,1.40%,5.00%,2.60%,0.00%,5.60%,11.20%,1.40%,0.50%,82.70%,57.30%
+5,John Brown University,John Brown University,Arkansas,47000,82700,53,9,Private,4 Year,9224,26928,36152,26928,36152,1.80%,1.20%,3.80%,5.30%,0.10%,3.80%,15.80%,3.60%,3.90%,76.50%,58.00%
+6,Arkansas State University-Main Campus,Arkansas State University,Arkansas,44600,81400,52,7,Public,4 Year,8160,8608,16768,15298,23458,0.50%,0.80%,14.00%,2.20%,0.10%,5.70%,19.20%,1.60%,1.00%,74.10%,59.30%
+7,University of Arkansas at Little Rock,University Arkansas Little Rock,Arkansas,45600,80800,55,13,Public,4 Year,8930,8966,17896,21206,30136,0.40%,2.20%,22.50%,6.10%,0.00%,4.10%,38.30%,7.10%,0.90%,56.70%,59.50%
+8,Ouachita Baptist University,Ouachita Baptist University,Arkansas,44100,80200,58,18,Private,4 Year,7880,26790,34670,26790,34670,0.70%,0.90%,8.60%,3.90%,0.10%,2.50%,14.10%,0.00%,0.10%,83.30%,51.20%
+9,Southern Arkansas University Main Campus,Southern Arkansas University,Arkansas,42800,80100,56,53,Public,4 Year,6240,8676,14916,12786,19026,0.50%,0.70%,26.60%,2.20%,0.80%,4.50%,32.00%,1.20%,0.60%,63.00%,57.80%
+10,Henderson State University,Henderson State University,Arkansas,42900,79800,57,5,Public,4 Year,7504,8436,15940,10086,17590,0.20%,0.60%,23.30%,4.10%,0.00%,1.00%,32.40%,4.20%,0.10%,66.50%,56.80%
+10,University of Central Arkansas,University Central Arkansas,Arkansas,44900,79800,52,8,Public,4 Year,6854,8751,15605,15274,22128,0.50%,1.60%,17.20%,3.90%,0.10%,4.90%,26.20%,3.00%,1.20%,67.70%,61.10%
+12,University of Arkansas at Monticello,University Arkansas Monticello,Arkansas,43500,78300,61,2,Public,4 Year,6824,7696,14520,13546,20370,0.40%,0.60%,27.30%,3.40%,0.10%,0.40%,33.70%,1.90%,1.40%,64.50%,59.70%
+13,Arkansas Tech University,Arkansas Tech University,Arkansas,45000,76900,54,7,Public,4 Year,7870,9068,16938,15848,23718,1.00%,1.30%,7.70%,6.10%,0.10%,3.70%,18.70%,2.60%,0.00%,77.60%,55.70%
+14,University of the Ozarks,University Ozarks,Arkansas,42300,74500,58,16,Private,4 Year,7400,24230,31630,24230,31630,0.70%,0.20%,5.60%,14.70%,0.00%,6.10%,24.90%,3.70%,1.50%,67.50%,52.10%
+15,Lyon College,Lyon College,Arkansas,41200,74300,53,33,Private,4 Year,9130,28790,37920,28790,37920,1.40%,1.50%,6.60%,6.20%,0.00%,3.40%,15.70%,0.00%,6.50%,74.40%,47.50%
+16,University of Arkansas-Fort Smith,University Arkansas Fort Smith,Arkansas,40700,71100,55,9,Public,4 Year,8416,7128,15544,15969,24385,2.70%,4.40%,4.40%,9.70%,0.10%,1.50%,26.50%,5.30%,0.10%,71.80%,56.30%
+17,University of Arkansas at Pine Bluff,University Arkansas Pine Bluff,Arkansas,40500,70500,67,22,Public,4 Year,7881,7842,15723,14094,21975,0.10%,0.60%,91.30%,1.60%,0.00%,1.40%,93.70%,0.10%,0.20%,4.70%,54.10%
+18,Central Baptist College,Central Baptist College,Arkansas,36900,68000,NA,3,Private,4 Year,7500,16200,23700,16200,23700,1.40%,0.20%,20.40%,3.80%,0.10%,2.90%,27.40%,1.40%,0.20%,69.50%,46.90%
+19,Philander Smith College,Philander Smith College,Arkansas,34600,61200,NA,26,Private,4 Year,8250,12414,20664,12414,20664,0.20%,0.50%,90.30%,0.40%,0.20%,6.00%,93.50%,1.90%,0.00%,0.50%,64.00%
+1,Harvey Mudd College,Harvey Mudd College,California,88800,158200,55,85,Private,4 Year,18127,56876,75003,56876,75003,0.50%,20.80%,1.60%,10.00%,0.00%,12.70%,39.10%,6.20%,4.50%,43.80%,46.40%
+2,Samuel Merritt University,Samuel Merritt University,California,91200,154100,90,0,Public,2 Year,NA,1420,1420,9610,9610,0.20%,27.60%,3.80%,13.10%,1.00%,0.60%,53.40%,7.70%,4.70%,41.30%,74.10%
+3,California Institute of Technology,California Institute Technology,California,84100,151600,53,97,Private,4 Year,15525,52362,67887,52362,67887,0.20%,26.30%,1.20%,7.80%,0.00%,27.30%,38.60%,3.10%,0.50%,33.60%,30.70%
+4,Stanford University,Stanford University,California,79000,145200,56,51,Private,4 Year,15763,51354,67117,51354,67117,0.60%,15.50%,3.70%,10.30%,0.20%,22.90%,37.00%,6.70%,3.40%,36.70%,41.50%
+5,Charles R Drew University of Medicine and Science,Charles R Drew University Medicine and Science,California,78300,135700,NA,3,Private,4 Year,NA,17440,17440,17440,17440,0.00%,20.00%,36.40%,12.70%,0.00%,0.80%,87.50%,18.50%,5.60%,6.00%,70.10%
+6,Santa Clara University,Santa Clara University,California,69900,134700,44,29,Private,4 Year,14910,51711,66621,51711,66621,0.10%,15.70%,2.60%,14.20%,0.20%,13.50%,38.00%,5.10%,7.60%,40.90%,50.00%
+7,University of California-Berkeley,University California Berkeley,California,70700,131800,49,36,Public,4 Year,16160,14184,30344,43176,59336,0.20%,29.70%,2.40%,12.10%,0.20%,16.20%,48.80%,4.20%,4.40%,30.70%,50.20%
+8,California State University Maritime Academy,California State University Maritime Academy,California,70500,129600,57,15,Public,4 Year,12576,7135,19711,13273,25849,0.30%,8.90%,1.80%,17.10%,0.40%,0.70%,39.00%,10.50%,6.00%,54.30%,13.90%
+9,Claremont McKenna College,Claremont McKenna College,California,68500,125400,43,16,Private,4 Year,16705,54405,71110,54405,71110,0.10%,10.70%,4.10%,11.60%,0.10%,17.00%,34.20%,7.60%,6.60%,42.20%,47.60%
+10,University of California-San Diego,University California San Diego,California,63400,123700,52,58,Public,4 Year,12362,14199,26561,43191,55553,0.10%,34.00%,1.30%,14.60%,0.30%,17.40%,54.80%,4.50%,2.60%,25.30%,45.90%
+11,University of Southern California,University Southern California,California,64500,120600,47,23,Private,4 Year,15395,56225,71620,56225,71620,0.20%,18.10%,5.30%,12.50%,0.20%,22.90%,39.50%,3.30%,4.80%,32.80%,52.10%
+12,California Polytechnic State University-San Luis Obispo,California Polytechnic State University San Luis Obispo,California,65600,119500,51,38,Public,4 Year,13796,9816,23612,21696,35492,0.20%,11.60%,0.70%,15.10%,0.20%,1.90%,34.60%,6.90%,4.90%,58.60%,46.10%
+13,Pomona College,Pomona College,California,63800,117200,47,37,Private,4 Year,16716,52780,69496,52780,69496,0.20%,12.90%,6.60%,14.10%,0.10%,9.30%,41.30%,7.40%,6.80%,42.50%,50.80%
+14,University of California-Santa Barbara,University California Santa Barbara,California,59700,116300,47,29,Public,4 Year,15273,14424,29697,43416,58689,0.20%,17.80%,2.00%,23.30%,0.10%,7.60%,51.00%,7.50%,3.00%,38.40%,51.50%
+15,University of California-Los Angeles,University California Los Angeles,California,62000,116100,48,31,Public,4 Year,15816,13774,29590,42766,58582,0.20%,26.90%,2.90%,16.90%,0.30%,15.30%,51.50%,4.40%,2.50%,30.60%,52.80%
+16,University of California-Irvine,University California Irvine,California,59600,116000,49,34,Public,4 Year,15263,15614,30877,44606,59869,0.10%,36.20%,1.80%,21.50%,0.40%,14.10%,63.90%,4.00%,2.20%,19.90%,51.80%
+17,San Jose State University,San Jose State University,California,63000,114700,53,28,Public,4 Year,16442,7796,24238,17300,33742,0.10%,31.70%,3.10%,22.60%,0.70%,10.90%,63.20%,4.80%,4.20%,21.70%,49.60%
+18,Loyola Marymount University,Loyola Marymount University,California,58500,113300,39,9,Private,4 Year,14490,48522,63012,48522,63012,0.20%,11.10%,6.10%,23.00%,0.10%,7.10%,47.00%,6.50%,1.20%,44.70%,58.40%
+19,University of California-Davis,University California Davis,California,61500,112600,52,35,Public,4 Year,16211,14463,30674,43458,59669,0.20%,30.10%,2.00%,16.50%,0.40%,10.30%,54.20%,5.00%,2.40%,33.00%,56.50%
+20,Menlo College,Menlo College,California,61900,112400,59,0,Private,4 Year,14225,42800,57025,42800,57025,0.80%,7.10%,6.90%,20.90%,2.60%,13.10%,45.20%,6.90%,8.10%,33.60%,40.90%
+21,California State Polytechnic University-Pomona,California State Polytechnic University Pomona,California,57700,110800,50,30,Public,4 Year,17358,7353,24711,19233,36591,0.20%,23.90%,3.30%,37.80%,0.30%,5.20%,69.20%,3.80%,4.90%,20.70%,44.40%
+21,Saint Mary's College of California,Saint Mary's College California,California,59900,110800,51,5,Private,4 Year,15370,47280,62650,47280,62650,0.30%,10.10%,5.20%,22.30%,0.60%,1.90%,43.80%,5.40%,10.10%,44.20%,60.80%
+23,University of San Francisco,University San Francisco,California,60600,109900,52,6,Private,4 Year,14830,48066,62896,48066,62896,0.20%,17.60%,4.30%,18.00%,0.60%,16.10%,46.70%,5.90%,4.60%,32.70%,62.90%
+24,Golden Gate University-San Francisco,Golden Gate University San Francisco,California,59200,109800,49,3,Private,4 Year,NA,15840,15840,15840,15840,0.40%,17.10%,6.60%,9.60%,1.60%,13.70%,37.00%,1.80%,19.30%,30.00%,54.80%
+25,University of San Diego,University San Diego,California,58900,109400,48,12,Private,4 Year,12980,49358,62338,49358,62338,0.50%,7.70%,3.50%,18.00%,0.40%,7.30%,34.90%,4.90%,5.00%,52.80%,57.00%
+1,Colorado School of Mines,Colorado School Mines,Colorado,75600,139600,60,93,Public,4 Year,13169,18964,32133,38584,51753,0.20%,3.90%,0.90%,7.00%,0.10%,11.50%,16.10%,4.10%,1.80%,70.70%,28.30%
+2,United States Air Force Academy,United States Air Force Academy,Colorado,76300,138100,69,43,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+3,University of Colorado Boulder,University Colorado Boulder,Colorado,57800,109900,48,39,Public,4 Year,14418,12532,26950,37286,51704,0.30%,5.00%,1.60%,9.40%,0.10%,7.20%,20.20%,3.80%,2.10%,70.50%,44.10%
+4,University of Denver,University Denver,Colorado,55700,105100,48,12,Private,4 Year,13005,50556,63561,50556,63561,0.40%,3.30%,3.40%,8.70%,0.10%,10.70%,18.70%,2.80%,3.20%,67.40%,56.30%
+5,Colorado College,Colorado College,Colorado,53100,97900,48,23,Private,4 Year,12512,55470,67982,55470,67982,0.40%,4.50%,2.30%,8.90%,0.00%,6.90%,24.60%,8.40%,3.00%,65.50%,53.70%
+6,Colorado State University-Fort Collins,Colorado State University Fort Collins,Colorado,53500,96100,51,28,Public,4 Year,11964,11831,23795,29732,41696,0.50%,2.60%,2.20%,9.10%,0.10%,6.10%,17.30%,2.70%,4.60%,72.10%,51.50%
+7,University of Colorado Denver/Anschutz Medical Campus,University Colorado Denver/Anschutz Medical,Colorado,53200,95600,52,17,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+8,Regis University,Regis University,Colorado,55500,94800,58,13,Private,4 Year,11560,36810,48370,36810,48370,0.60%,4.60%,5.70%,15.10%,0.20%,1.20%,28.80%,2.50%,8.60%,61.40%,63.40%
+9,University of Colorado Colorado Springs,University Colorado Colorado Springs,Colorado,52200,90900,53,21,Public,4 Year,10500,10463,20963,24893,35393,0.40%,3.10%,3.60%,14.10%,0.30%,2.80%,27.50%,5.90%,2.80%,67.00%,52.80%
+10,Colorado State University-Pueblo,Colorado State University Pueblo,Colorado,48100,87600,62,13,Public,4 Year,10470,10408,20878,26329,36799,0.50%,1.30%,5.50%,22.50%,0.10%,1.90%,32.80%,2.80%,16.30%,49.00%,61.50%
+11,Metropolitan State University of Denver,Metropolitan State University Denver,Colorado,49400,87200,51,11,Public,4 Year,NA,7665,7665,20847,20847,0.60%,3.50%,5.90%,21.10%,0.30%,0.50%,35.20%,3.80%,3.80%,60.50%,54.00%
+12,University of Northern Colorado,University Northern Colorado,Colorado,47700,87100,52,7,Public,4 Year,11204,9786,20990,21474,32678,0.30%,1.60%,3.60%,14.70%,0.20%,3.10%,23.50%,3.10%,13.80%,59.70%,65.60%
+13,Fort Lewis College,Fort Lewis College,Colorado,48300,82600,55,19,Public,4 Year,9878,9040,18918,19696,29574,23.40%,0.60%,0.80%,10.20%,0.20%,1.40%,41.30%,6.00%,2.80%,54.50%,48.70%
+14,Western State Colorado University,Western State Colorado University,Colorado,44800,81500,47,19,Public,4 Year,9635,10114,19749,21586,31221,0.60%,0.80%,2.30%,9.20%,0.50%,0.50%,16.30%,2.90%,15.10%,68.20%,43.20%
+14,Colorado Mesa University,Colorado Mesa University,Colorado,47800,81500,55,7,Public,4 Year,10925,9243,20168,22440,33365,0.70%,1.40%,2.40%,15.20%,0.60%,0.60%,23.80%,3.40%,3.40%,72.30%,54.00%
+16,Adams State University,Adams State University,Colorado,44400,81400,56,3,Public,4 Year,8782,9440,18222,20456,29238,1.20%,1.20%,6.10%,25.70%,0.30%,0.00%,38.50%,4.00%,5.20%,56.30%,54.80%
+17,Colorado Christian University,Colorado Christian University,Colorado,46800,80100,70,2,Private,4 Year,11846,31866,43712,31866,43712,0.60%,2.70%,6.80%,10.80%,0.30%,0.10%,25.10%,3.90%,4.60%,70.30%,63.70%
+18,Johnson & Wales University-Denver,Johnson & Wales University Denver,Colorado,41500,74800,39,0,Private,4 Year,12546,32091,44637,32091,44637,0.90%,1.60%,7.70%,16.10%,0.10%,0.80%,31.80%,5.50%,10.20%,57.20%,60.40%
+19,Nazarene Bible College,Nazarene Bible College,Colorado,33600,60100,NA,0,Private,4 Year,NA,14700,14700,14700,14700,1.20%,0.80%,6.30%,6.70%,0.40%,0.00%,18.10%,2.80%,0.00%,81.90%,37.40%
+1,Yale University,Yale University,Connecticut,70300,138300,53,22,Private,4 Year,16000,53430,69430,53430,69430,0.40%,12.80%,5.50%,7.60%,0.00%,19.40%,30.80%,4.40%,2.00%,47.90%,49.00%
+2,United States Coast Guard Academy,United States Coast Guard Academy,Connecticut,67300,118100,68,69,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+3,Wesleyan University,Wesleyan University,Connecticut,61600,117000,53,21,Private,4 Year,15060,54914,69974,54914,69974,0.10%,8.40%,6.60%,9.20%,0.10%,10.30%,29.70%,5.20%,7.00%,53.00%,52.40%
+4,Fairfield University,Fairfield University,Connecticut,62300,116900,41,17,Private,4 Year,14710,48350,63060,48350,63060,0.10%,2.20%,2.70%,6.90%,0.10%,6.60%,13.20%,1.30%,10.30%,69.80%,60.10%
+5,Trinity College,Trinity College,Connecticut,60100,110900,49,22,Private,4 Year,14750,56910,71660,56910,71660,0.10%,4.30%,5.90%,6.90%,0.00%,9.10%,20.10%,2.90%,6.40%,64.40%,47.90%
+6,University of Connecticut,University Connecticut,Connecticut,59100,105200,48,24,Public,4 Year,12874,15730,28604,38098,50972,0.20%,8.70%,5.10%,7.30%,0.10%,10.20%,23.60%,2.20%,7.50%,58.80%,50.30%
+7,University of Hartford,University Hartford,Connecticut,55200,101600,53,15,Private,4 Year,12476,40694,53170,40694,53170,0.20%,3.40%,12.70%,9.00%,0.10%,7.10%,27.50%,2.10%,7.40%,58.00%,51.30%
+8,Connecticut College,Connecticut College,Connecticut,57500,100800,36,30,Private,4 Year,15150,54820,69970,54820,69970,0.00%,3.50%,3.30%,8.60%,0.00%,5.40%,18.10%,2.70%,4.80%,71.70%,61.80%
+9,Sacred Heart University,Sacred Heart University,Connecticut,55000,100500,46,15,Private,4 Year,15310,41420,56730,41420,56730,0.20%,2.20%,4.60%,6.40%,0.10%,4.50%,14.70%,1.10%,13.10%,67.60%,66.70%
+10,Quinnipiac University,Quinnipiac University,Connecticut,55900,97700,46,10,Private,4 Year,14540,47960,62500,47960,62500,0.20%,3.20%,5.10%,7.70%,0.10%,2.20%,17.90%,1.50%,3.90%,76.00%,61.70%
+11,University of New Haven,University New Haven,Connecticut,52100,94800,52,25,Private,4 Year,15900,39270,55170,39270,55170,0.30%,2.50%,8.80%,8.50%,0.20%,16.00%,21.70%,1.40%,7.70%,54.60%,49.00%
+12,Central Connecticut State University,Central Connecticut State University,Connecticut,53100,93700,45,15,Public,4 Year,12176,10616,22792,21856,34032,0.20%,3.60%,10.20%,11.30%,0.10%,1.70%,27.70%,2.40%,2.80%,67.80%,50.10%
+13,University of Bridgeport,University Bridgeport,Connecticut,49900,93600,59,31,Private,4 Year,13860,32850,46710,32850,46710,0.50%,3.30%,25.30%,11.40%,0.20%,24.10%,42.50%,1.80%,0.00%,33.40%,61.00%
+14,University of Saint Joseph,University Saint Joseph,Connecticut,49900,88800,63,9,Private,4 Year,11428,39173,50601,39173,50601,0.10%,4.50%,9.80%,8.70%,0.10%,1.00%,24.50%,1.20%,19.30%,55.20%,89.00%
+15,Western Connecticut State University,Western Connecticut State University,Connecticut,51700,88100,50,6,Public,4 Year,13072,10819,23891,22059,35131,0.20%,3.40%,11.20%,15.10%,0.20%,0.20%,31.20%,1.10%,2.60%,66.00%,54.40%
+16,St Vincent's College,St Vincent's College,Connecticut,46800,87900,NA,0,Private,2 Year,NA,18750,18750,18750,18750,0.10%,2.90%,11.50%,12.10%,0.00%,0.00%,26.60%,0.00%,10.50%,62.80%,86.70%
+17,Eastern Connecticut State University,Eastern Connecticut State University,Connecticut,49200,87800,43,14,Public,4 Year,13560,11356,24916,22596,36156,0.30%,2.90%,6.50%,9.10%,0.10%,1.00%,21.50%,2.60%,8.10%,69.30%,52.90%
+18,Charter Oak State College,Charter Oak State College,Connecticut,49200,85900,68,2,Public,4 Year,NA,10161,10161,13101,13101,0.30%,1.30%,16.70%,12.30%,0.10%,0.60%,33.20%,2.50%,8.30%,57.80%,67.40%
+18,Albertus Magnus College,Albertus Magnus College,Connecticut,49700,85900,62,2,Private,4 Year,13200,32060,45260,32060,45260,0.40%,0.50%,33.20%,14.00%,0.10%,0.70%,49.50%,1.30%,8.10%,41.70%,66.50%
+20,Southern Connecticut State University,Southern Connecticut State University,Connecticut,48500,83600,51,6,Public,4 Year,12860,10875,23735,22115,34975,0.20%,2.50%,14.20%,10.30%,0.00%,0.50%,29.30%,2.10%,8.60%,61.50%,63.70%
+1,University of Delaware,University Delaware,Delaware,58600,105400,43,22,Public,4 Year,12862,13680,26542,34310,47172,0.10%,4.50%,5.40%,6.40%,0.10%,8.90%,19.10%,2.50%,1.50%,70.60%,56.20%
+2,Goldey-Beacom College,Goldey Beacom College,Delaware,49800,86900,42,25,Private,4 Year,6400,24300,30700,24300,30700,0.20%,2.70%,10.70%,1.40%,0.00%,63.60%,16.30%,1.30%,0.50%,19.60%,43.20%
+3,Delaware State University,Delaware State University,Delaware,46300,81900,62,10,Public,4 Year,12190,7868,20058,16904,29094,0.30%,1.10%,66.30%,5.10%,0.10%,4.90%,76.60%,3.60%,6.30%,12.30%,62.80%
+4,Wesley College,Wesley College,Delaware,45400,77300,50,2,Private,4 Year,11717,26406,38123,26406,38123,0.40%,2.00%,37.70%,5.40%,0.40%,0.40%,49.60%,3.50%,9.30%,40.70%,54.50%
+5,Wilmington University,Wilmington University,Delaware,45100,76600,50,4,Private,4 Year,NA,11210,11210,11210,11210,1.10%,1.70%,23.70%,2.50%,0.20%,8.20%,29.40%,0.30%,14.20%,48.30%,65.00%
+1,Embry-Riddle Aeronautical University-Daytona Beach,Embry Riddle Aeronautical University Daytona Beach,Florida,63300,111200,58,35,Private,4 Year,11438,35814,47252,35814,47252,0.40%,4.20%,5.30%,5.30%,0.20%,18.90%,21.60%,6.10%,9.00%,50.50%,19.30%
+2,Polytechnic University of Puerto Rico-Miami,Polytechnic University Puerto Rico Miami,Florida,60600,108300,61,10,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.00%,0.00%,2.60%,96.60%,0.00%,0.00%,99.10%,0.00%,0.00%,0.90%,56.40%
+3,Florida Institute of Technology,Florida Institute Technology,Florida,58300,105400,53,48,Private,4 Year,12880,41850,54730,41850,54730,0.40%,2.70%,8.30%,5.60%,0.30%,35.10%,18.90%,1.50%,8.40%,37.60%,33.00%
+4,University of Florida,University Florida,Florida,55800,102800,52,29,Public,4 Year,10120,6381,16501,28658,38778,0.30%,7.10%,6.40%,16.40%,0.50%,8.70%,32.90%,2.20%,3.20%,55.20%,54.20%
+5,Polytechnic University of Puerto Rico-Orlando,Polytechnic University Puerto Rico Orlando,Florida,57600,102200,66,29,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.00%,0.00%,0.00%,94.90%,0.00%,0.00%,94.90%,0.00%,3.00%,2.00%,36.40%
+6,University of Miami,University Miami,Florida,56200,99600,48,22,Private,4 Year,14108,50226,64334,50226,64334,0.10%,5.70%,7.00%,21.10%,0.10%,16.50%,36.60%,2.40%,6.30%,40.60%,51.10%
+7,Embry-Riddle Aeronautical University-Worldwide,Embry Riddle Aeronautical University Worldwide,Florida,55800,96800,67,3,Private,4 Year,NA,9360,9360,9360,9360,0.50%,2.60%,8.80%,5.40%,0.50%,2.60%,23.40%,5.50%,18.70%,55.20%,14.10%
+8,Florida State University,Florida State University,Florida,50800,92700,49,18,Public,4 Year,10816,6516,17332,21683,32499,0.30%,2.50%,8.20%,16.00%,0.10%,4.50%,29.70%,2.60%,1.60%,64.20%,54.90%
+9,The University of Tampa,University Tampa,Florida,49200,91500,48,8,Private,4 Year,10810,29208,40018,29208,40018,0.20%,1.70%,5.30%,11.90%,0.10%,12.00%,21.60%,2.50%,8.70%,57.70%,56.00%
+10,University of South Florida-Main Campus,University South Florida,Florida,49700,91300,49,25,Public,4 Year,11610,6410,18020,17324,28934,0.20%,6.30%,10.20%,17.70%,0.30%,7.70%,37.80%,3.10%,2.00%,52.50%,55.80%
+11,Florida Atlantic University,Florida Atlantic University,Florida,49400,91200,51,15,Public,4 Year,11896,6039,17935,21595,33491,0.20%,4.40%,18.70%,23.90%,0.10%,2.40%,50.40%,3.00%,0.90%,46.30%,57.00%
+12,Jacksonville University,Jacksonville University,Florida,50100,90400,66,5,Private,4 Year,14080,36670,50750,36670,50750,0.30%,1.70%,14.90%,6.80%,0.20%,3.20%,26.70%,2.80%,19.80%,50.40%,66.40%
+13,Florida International University,Florida International University,Florida,49600,90100,51,16,Public,4 Year,10882,6558,17440,18956,29838,0.10%,2.90%,12.00%,62.90%,0.10%,7.30%,80.20%,2.10%,1.10%,11.50%,56.00%
+14,Adventist University of Health Sciences,Adventist University Health Sciences,Florida,51600,89800,88,5,Private,4 Year,4200,15150,19350,15150,19350,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+14,Nova Southeastern University,Nova Southeastern University,Florida,50200,89800,60,9,Private,4 Year,13250,30900,44150,30900,44150,0.20%,6.20%,22.30%,25.50%,0.10%,4.00%,55.90%,1.80%,7.20%,32.90%,69.70%
+16,University of Central Florida,University Central Florida,Florida,49700,88600,50,16,Public,4 Year,9617,6368,15985,22467,32084,0.20%,5.50%,10.50%,21.60%,0.20%,2.50%,41.00%,3.00%,1.70%,54.80%,55.10%
+17,Eckerd College,Eckerd College,Florida,49200,88400,52,25,Private,4 Year,12588,44540,57128,44540,57128,0.30%,1.70%,4.80%,7.80%,0.20%,4.30%,17.80%,2.90%,1.30%,76.60%,62.10%
+18,Rollins College,Rollins College,Florida,49000,87000,53,7,Private,4 Year,14735,49760,64495,49760,64495,0.30%,3.00%,6.10%,15.20%,0.10%,6.90%,27.50%,2.80%,2.40%,63.20%,58.60%
+19,University of North Florida,University North Florida,Florida,48800,86600,51,11,Public,4 Year,9976,6394,16370,20112,30088,0.10%,4.20%,9.70%,9.30%,0.10%,2.30%,28.30%,4.90%,0.40%,69.00%,56.20%
+20,New College of Florida,New College Florida,Florida,47300,86500,40,4,Public,4 Year,9264,6919,16183,29944,39208,0.10%,2.40%,2.60%,15.20%,0.00%,1.80%,24.90%,4.60%,2.50%,70.70%,59.20%
+21,Stetson University,Stetson University,Florida,47000,86000,44,7,Private,4 Year,13052,46030,59082,46030,59082,0.40%,2.30%,7.00%,13.60%,0.00%,5.10%,26.30%,3.00%,2.10%,66.50%,56.20%
+22,Lynn University,Lynn University,Florida,46100,85000,45,2,Private,4 Year,12170,38210,50380,38210,50380,0.40%,1.20%,9.60%,11.70%,0.10%,22.50%,23.60%,0.60%,15.30%,38.50%,48.20%
+23,St Thomas University,St Thomas University,Florida,47400,84500,57,4,Private,4 Year,11700,33222,44922,33222,44922,0.30%,0.80%,21.20%,46.80%,0.00%,13.20%,71.40%,2.30%,3.10%,12.30%,55.20%
+24,Barry University,Barry University,Florida,47400,84400,66,12,Private,4 Year,11100,29850,40950,29850,40950,0.30%,2.10%,24.50%,23.90%,0.10%,6.70%,52.00%,1.00%,18.00%,23.30%,65.60%
+25,Florida Agricultural and Mechanical University,Florida Agricultural and Mechanical University,Florida,48000,83900,62,8,Public,4 Year,10594,5827,16421,17768,28362,0.20%,1.20%,87.50%,2.40%,0.00%,1.30%,91.50%,0.20%,0.00%,7.20%,62.00%
+1,Georgia Institute of Technology-Main Campus,Georgia Institute Technology,Georgia,72700,133400,48,80,Public,4 Year,11884,12424,24308,33020,44904,0.10%,15.50%,5.60%,5.60%,0.10%,21.40%,29.80%,3.00%,0.80%,48.00%,30.20%
+2,Emory University,Emory University,Georgia,62000,110800,44,20,Private,4 Year,14456,51306,65762,51306,65762,0.20%,15.40%,10.00%,5.90%,0.10%,16.00%,33.90%,2.30%,5.30%,44.90%,56.50%
+3,University of Georgia,University Georgia,Georgia,54400,100700,45,14,Public,4 Year,10038,11830,21868,30404,40442,0.10%,8.10%,8.00%,4.70%,0.10%,4.90%,23.90%,3.00%,1.30%,69.80%,57.60%
+4,Morehouse College,Morehouse College,Georgia,55700,98700,58,26,Private,4 Year,13438,27574,41012,27574,41012,0.00%,0.00%,94.30%,0.60%,0.00%,3.10%,95.20%,0.20%,1.70%,0.00%,0.00%
+5,Kennesaw State University,Kennesaw State University,Georgia,52500,94600,46,22,Public,4 Year,11467,7432,18899,21158,32625,0.20%,3.30%,18.80%,7.20%,0.20%,2.10%,33.80%,4.00%,3.00%,61.10%,58.10%
+6,Oglethorpe University,Oglethorpe University,Georgia,52400,91400,50,12,Private,4 Year,13200,38100,51300,38100,51300,0.30%,3.90%,18.50%,10.30%,0.00%,6.00%,35.60%,2.70%,24.70%,33.60%,58.30%
+7,Georgia State University,Georgia State University,Georgia,50600,90800,47,18,Public,4 Year,11378,10858,22236,29432,40810,0.20%,10.40%,36.50%,8.10%,0.10%,4.60%,59.40%,4.10%,2.80%,33.10%,59.00%
+8,Georgia Southern University,Georgia Southern University,Georgia,49000,88000,49,17,Public,4 Year,10070,7422,17492,20904,30974,0.40%,1.40%,25.60%,6.00%,0.10%,1.70%,35.40%,1.90%,1.90%,61.00%,52.20%
+9,University of North Georgia,University North Georgia,Georgia,47300,85600,51,8,Public,4 Year,7876,7336,15212,21148,29024,0.20%,2.70%,4.30%,8.90%,0.10%,1.40%,18.80%,2.60%,1.30%,78.40%,55.50%
+10,Spelman College,Spelman College,Georgia,50200,85400,52,24,Private,4 Year,13865,29314,43179,29314,43179,0.10%,0.10%,86.90%,0.30%,0.00%,1.50%,90.20%,2.70%,8.30%,0.00%,100.00%
+11,Mercer University,Mercer University,Georgia,48500,85100,62,14,Private,4 Year,11616,36894,48510,36894,48510,0.50%,6.60%,29.80%,3.90%,0.10%,4.00%,42.60%,1.70%,5.20%,48.20%,62.00%
+12,Berry College,Berry College,Georgia,44900,84900,44,21,Private,4 Year,12770,36556,49326,36556,49326,0.10%,1.20%,4.30%,6.20%,0.10%,0.90%,14.70%,2.80%,1.50%,83.00%,61.30%
+13,Augusta University,Augusta University,Georgia,47000,84400,69,10,Public,4 Year,9640,10758,20398,29796,39436,0.30%,6.30%,21.10%,5.00%,0.30%,1.90%,37.10%,4.10%,3.20%,57.80%,62.30%
+14,Agnes Scott College,Agnes Scott College,Georgia,46000,83600,57,26,Private,4 Year,12330,41160,53490,41160,53490,0.10%,4.70%,33.00%,8.90%,0.20%,11.90%,52.90%,6.00%,2.60%,32.50%,99.30%
+15,University of West Georgia,University West Georgia,Georgia,46700,82700,51,9,Public,4 Year,10918,7292,18210,20774,31692,0.10%,1.10%,35.10%,4.10%,0.10%,1.40%,43.40%,2.90%,1.10%,54.00%,64.50%
+16,Armstrong State University,Armstrong State University,Georgia,46600,81500,60,10,Public,4 Year,11385,6384,17769,19866,31251,0.20%,3.20%,24.50%,6.20%,0.20%,1.80%,38.10%,3.80%,0.50%,59.50%,67.80%
+17,Clayton  State University,Clayton State University,Georgia,46400,81200,54,9,Public,4 Year,9994,6410,16404,19486,29480,0.20%,5.30%,61.30%,2.50%,0.00%,1.80%,72.00%,2.70%,3.70%,22.40%,68.50%
+18,Clark Atlanta University,Clark Atlanta University,Georgia,46300,81100,54,15,Private,4 Year,9524,23436,32960,23436,32960,0.40%,0.40%,84.10%,0.40%,0.00%,3.60%,85.30%,0.00%,10.90%,0.20%,73.80%
+19,Valdosta State University,Valdosta State University,Georgia,43400,81000,57,7,Public,4 Year,8110,7476,15586,20958,29068,0.30%,1.10%,33.40%,4.20%,0.10%,2.50%,42.00%,2.90%,0.40%,55.10%,61.20%
+20,Georgia College & State University,Georgia College and State University,Georgia,45300,80300,51,12,Public,4 Year,11016,9346,20362,28060,39076,0.20%,1.50%,7.50%,4.90%,0.10%,1.60%,16.40%,2.30%,0.20%,81.80%,61.30%
+21,Savannah College of Art and Design,Savannah College Art and Design,Georgia,46800,80100,34,3,Private,4 Year,14550,36630,51180,36630,51180,0.50%,4.50%,11.20%,7.60%,0.20%,19.40%,24.20%,0.10%,4.90%,51.60%,64.40%
+22,Shorter University,Shorter University,Georgia,45600,79900,55,6,Private,4 Year,9400,22370,31770,22370,31770,0.50%,0.80%,22.70%,3.40%,0.10%,3.80%,29.40%,1.80%,4.30%,62.50%,58.60%
+23,Middle Georgia State University,Middle Georgia State University,Georgia,44000,79800,57,11,Public,4 Year,9080,4608,13688,13568,22648,0.30%,2.30%,33.00%,3.40%,0.10%,0.60%,41.90%,2.80%,0.40%,57.00%,58.20%
+24,Covenant College,Covenant College,Georgia,44400,79400,62,19,Private,4 Year,10260,34330,44590,34330,44590,0.30%,1.90%,2.70%,2.90%,0.20%,2.60%,10.00%,2.00%,2.20%,85.30%,58.70%
+25,Columbus State University,Columbus State University,Georgia,43300,77900,59,10,Public,4 Year,9880,7200,17080,20682,30562,0.40%,2.10%,35.70%,5.20%,0.20%,1.40%,45.90%,2.20%,0.00%,52.60%,59.80%
+1,Brigham Young University-Hawaii,Brigham Young University Hawaii,Hawaii,51700,93900,57,12,Private,4 Year,6586,5560,12146,5560,12146,0.40%,8.00%,0.40%,5.40%,8.90%,34.50%,30.60%,7.40%,0.40%,34.60%,57.70%
+2,Hawaii Pacific University,Hawaii Pacific University,Hawaii,52200,93500,56,15,Private,4 Year,14800,25980,40780,25980,40780,0.40%,15.80%,5.90%,13.10%,2.20%,14.20%,54.40%,16.90%,2.40%,29.10%,56.70%
+3,University of Hawaii at Manoa,University Hawaii Manoa,Hawaii,51600,91600,56,18,Public,4 Year,13689,11970,25659,34002,47691,0.20%,35.40%,1.20%,8.30%,4.10%,6.40%,72.10%,22.80%,0.40%,21.10%,56.30%
+4,Chaminade University of Honolulu,Chaminade University Honolulu,Hawaii,45400,84000,55,3,Private,4 Year,13630,25374,39004,25374,39004,0.90%,26.30%,5.50%,5.90%,15.60%,2.10%,63.80%,9.60%,17.60%,16.50%,65.40%
+5,University of Hawaii at Hilo,University Hawaii Hilo,Hawaii,44000,77200,59,14,Public,4 Year,11406,7720,19126,20680,32086,0.50%,20.50%,1.20%,11.60%,10.00%,4.20%,72.60%,28.80%,0.30%,22.80%,60.60%
+6,University of Hawaii-West Oahu,University Hawaii West Oahu,Hawaii,41300,74300,56,0,Public,4 Year,NA,7512,7512,20472,20472,0.20%,37.10%,1.80%,12.00%,7.20%,0.50%,88.40%,30.10%,0.90%,10.30%,65.80%
+1,University of Idaho,University Idaho,Idaho,52300,97700,54,22,Public,4 Year,8880,7864,16744,25500,34380,1.00%,1.40%,1.20%,7.90%,0.20%,6.10%,14.90%,3.20%,3.40%,75.70%,46.80%
+2,Brigham Young University-Idaho,Brigham Young University Idaho,Idaho,53700,93500,59,14,Private,4 Year,4592,4118,8710,4118,8710,0.20%,0.70%,0.40%,2.20%,0.30%,10.20%,7.80%,4.00%,27.10%,54.80%,57.70%
+3,Idaho State University,Idaho State University,Idaho,50800,91800,64,12,Public,4 Year,7207,7420,14627,22940,30147,1.00%,1.30%,1.20%,8.40%,0.20%,10.10%,14.40%,2.30%,3.70%,71.80%,51.90%
+4,Boise State University,Boise State University,Idaho,50100,86400,55,14,Public,4 Year,10692,7694,18386,23776,34468,0.60%,2.00%,1.60%,9.70%,0.30%,3.70%,17.30%,3.10%,2.90%,76.10%,54.50%
+5,The College of Idaho,College Idaho,Idaho,44700,82100,48,17,Private,4 Year,9697,30155,39852,30155,39852,0.50%,2.80%,1.90%,15.30%,0.40%,6.90%,23.10%,2.10%,6.60%,63.40%,52.40%
+6,Northwest Nazarene University,Northwest Nazarene University,Idaho,46200,80600,68,7,Private,4 Year,7400,29300,36700,29300,36700,0.60%,1.20%,1.60%,7.80%,0.40%,2.40%,13.60%,2.00%,6.00%,78.00%,58.40%
+7,Lewis-Clark State College,Lewis Clark State College,Idaho,44900,77600,60,5,Public,4 Year,7580,6618,14198,19236,26816,2.30%,0.90%,0.80%,5.00%,0.30%,2.60%,11.60%,2.40%,2.70%,83.10%,60.60%
+1,Illinois Institute of Technology,Illinois Institute Technology,Illinois,64600,118500,47,64,Private,4 Year,12762,47296,60058,47296,60058,0.20%,6.30%,3.70%,7.60%,0.20%,48.30%,18.80%,0.90%,7.60%,25.30%,35.60%
+2,Northwestern University,Northwestern University,Illinois,63400,115400,46,20,Private,4 Year,16626,54567,71193,54567,71193,0.10%,13.30%,4.90%,7.70%,0.10%,15.50%,29.30%,3.30%,7.00%,48.20%,46.90%
+3,University of Illinois at Urbana-Champaign,University Illinois Urbana Champaign,Illinois,62600,115300,44,36,Public,4 Year,11308,15094,26402,31664,42972,0.10%,13.60%,4.80%,7.50%,0.10%,22.10%,28.40%,2.30%,1.30%,48.20%,44.90%
+4,University of Chicago,University Chicago,Illinois,64000,114200,41,22,Private,4 Year,16350,58230,74580,58230,74580,0.20%,12.70%,4.20%,6.10%,0.00%,21.50%,25.60%,2.20%,10.20%,42.70%,42.00%
+5,Rush University,Rush University,Illinois,63500,107600,88,6,Private,4 Year,NA,24900,24900,24900,24900,0.20%,13.70%,6.50%,8.00%,0.10%,0.00%,29.70%,1.20%,3.30%,67.00%,73.10%
+6,Bradley University,Bradley University,Illinois,55600,104900,46,38,Private,4 Year,10620,33760,44380,33760,44380,0.20%,2.70%,4.60%,5.30%,0.10%,7.30%,14.20%,1.30%,12.30%,66.20%,50.40%
+7,University of Illinois at Chicago,University Illinois Chicago,Illinois,56300,103800,48,31,Public,4 Year,12074,13764,25838,26980,39054,0.10%,18.70%,7.80%,19.40%,0.20%,9.30%,48.50%,2.20%,2.10%,40.10%,53.70%
+8,DePaul University,DePaul University,Illinois,55700,102900,43,15,Private,4 Year,14235,39975,54210,39975,54210,0.10%,7.50%,8.90%,14.20%,0.20%,5.80%,34.20%,3.30%,5.90%,54.10%,53.20%
+9,Lake Forest College,Lake Forest College,Illinois,55400,102600,46,21,Private,4 Year,10390,47064,57454,47064,57454,0.20%,5.00%,6.60%,14.90%,0.00%,9.10%,30.30%,3.50%,2.70%,57.90%,57.40%
+10,St. John's College-Department of Nursing,St. John's College Department Nursing,Illinois,55100,100000,NA,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+11,Wheaton College (Illinois),Wheaton College (Illinois),Illinois,53700,99700,55,12,Private,4 Year,10180,36420,46600,36420,46600,0.10%,8.10%,2.60%,4.60%,0.00%,3.80%,19.60%,4.20%,3.90%,72.70%,52.80%
+12,Illinois Wesleyan University,Illinois Wesleyan University,Illinois,53100,96000,44,18,Private,4 Year,10984,47636,58620,47636,58620,0.30%,4.30%,4.60%,6.80%,0.10%,8.20%,18.30%,2.30%,2.90%,70.60%,56.30%
+12,Loyola University Chicago,Loyola University Chicago,Illinois,53400,96000,45,15,Private,4 Year,14480,44048,58528,44048,58528,0.10%,9.10%,5.80%,11.30%,0.20%,5.20%,31.00%,4.50%,2.80%,61.00%,64.20%
+14,Northern Illinois University,Northern Illinois University,Illinois,53000,95500,47,20,Public,4 Year,10880,12262,23142,12262,23142,0.10%,4.80%,13.70%,12.30%,0.10%,5.30%,33.80%,2.80%,1.20%,59.80%,50.70%
+15,Knox College,Knox College,Illinois,50600,95400,45,24,Private,4 Year,9870,46554,56424,46554,56424,0.20%,5.50%,7.90%,12.50%,0.00%,12.80%,30.10%,4.00%,4.00%,53.10%,58.10%
+16,Illinois State University,Illinois State University,Illinois,51200,95000,47,10,Public,4 Year,9850,14516,24366,26040,35890,0.10%,2.10%,7.10%,8.30%,0.10%,2.10%,20.00%,2.30%,0.50%,77.50%,56.00%
+17,Principia College,Principia College,Illinois,52600,94900,56,19,Private,4 Year,11610,29470,41080,29470,41080,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+18,Lakeview College of Nursing,Lakeview College Nursing,Illinois,55000,94100,83,0,Private,4 Year,NA,16320,16320,16320,16320,0.60%,1.90%,8.80%,1.60%,0.60%,0.00%,14.80%,1.30%,0.90%,84.20%,85.50%
+19,North Central College,North Central College,Illinois,50400,92900,45,9,Private,4 Year,11019,38880,49899,38880,49899,0.10%,2.20%,3.90%,9.10%,0.10%,1.80%,17.90%,2.60%,7.10%,73.20%,55.10%
+20,Saint Xavier University,Saint Xavier University,Illinois,49400,91200,60,10,Private,4 Year,11340,33880,45220,33880,45220,0.30%,2.70%,16.40%,22.60%,0.00%,0.30%,43.80%,1.70%,5.00%,50.90%,68.80%
+21,Southern Illinois University-Carbondale,Southern Illinois University Carbondale,Illinois,49700,90900,54,17,Public,4 Year,10622,14704,25326,14704,25326,0.30%,1.80%,17.30%,6.70%,0.10%,10.10%,28.80%,2.60%,0.10%,61.00%,46.20%
+22,Saint Francis Medical Center College of Nursing,Saint Francis Medical Center College Nursing,Illinois,52800,90800,NA,0,Private,4 Year,3700,20460,24160,20460,24160,0.00%,3.20%,2.90%,1.60%,0.10%,0.10%,8.10%,0.10%,0.60%,91.20%,90.30%
+23,Methodist College,Methodist College,Illinois,51400,90500,NA,0,Private,4 Year,7440,20800,28240,20800,28240,0.20%,2.50%,9.90%,2.90%,0.00%,0.00%,17.50%,2.00%,0.30%,82.20%,87.10%
+24,Southern Illinois University-Edwardsville,Southern Illinois University Edwardsville,Illinois,51400,90100,50,21,Public,4 Year,11121,12132,23253,25817,36938,0.20%,1.90%,13.40%,3.60%,0.10%,3.00%,22.00%,2.90%,1.90%,73.10%,54.20%
+25,Lewis University,Lewis University,Illinois,49700,89800,53,14,Private,4 Year,10578,32450,43028,32450,43028,0.10%,3.00%,9.10%,15.60%,0.20%,1.40%,30.30%,2.20%,4.00%,64.30%,59.90%
+1,Rose-Hulman Institute of Technology,Rose Hulman Institute Technology,Indiana,75000,135800,51,96,Private,4 Year,14766,49871,64637,49871,64637,0.10%,3.40%,2.40%,2.80%,0.10%,12.10%,12.60%,3.80%,3.20%,72.00%,22.50%
+2,University of Notre Dame,University Notre Dame,Indiana,67000,130500,45,28,Private,4 Year,15410,53391,68801,53391,68801,0.20%,4.70%,3.10%,9.40%,0.00%,9.80%,21.00%,3.70%,5.20%,64.00%,45.50%
+3,Wabash College,Wabash College,Indiana,62200,114400,40,34,Private,4 Year,10050,43450,53500,43450,53500,0.50%,1.30%,5.90%,6.40%,0.10%,7.10%,17.20%,2.90%,1.10%,74.60%,0.00%
+4,Purdue University-Main Campus,Purdue University,Indiana,60900,110000,48,38,Public,4 Year,10030,9992,20022,28794,38824,0.10%,5.20%,3.00%,4.00%,0.10%,22.80%,14.40%,1.90%,1.80%,61.00%,41.60%
+5,DePauw University,DePauw University,Indiana,56600,101000,47,24,Private,4 Year,13020,49704,62724,49704,62724,0.30%,3.40%,5.70%,3.40%,0.00%,9.40%,19.30%,6.50%,2.80%,68.50%,54.20%
+6,Trine University,Trine University,Indiana,55100,100300,56,26,Private,4 Year,10810,32175,42985,32175,42985,0.40%,1.70%,3.00%,5.20%,0.10%,5.30%,13.10%,2.60%,6.90%,74.60%,42.10%
+7,Butler University,Butler University,Indiana,51800,99300,53,9,Private,4 Year,13830,41120,54950,41120,54950,0.20%,2.50%,3.80%,3.00%,0.00%,2.90%,11.30%,1.90%,3.20%,82.60%,59.30%
+8,Valparaiso University,Valparaiso University,Indiana,53300,98000,52,31,Private,4 Year,11860,40260,52120,40260,52120,0.30%,1.90%,6.30%,7.30%,0.00%,13.70%,17.90%,2.00%,3.40%,65.00%,51.30%
+9,Indiana University-Bloomington,Indiana University Bloomington,Indiana,53600,97100,47,16,Public,4 Year,10465,10681,21146,35456,45921,0.10%,4.30%,3.90%,4.40%,0.00%,13.60%,15.80%,3.00%,1.20%,69.50%,50.20%
+10,Taylor University,Taylor University,Indiana,48700,90600,59,16,Private,4 Year,9614,34114,43728,34114,43728,0.30%,2.90%,2.60%,2.90%,0.30%,4.70%,9.70%,0.70%,0.00%,85.60%,56.40%
+11,University of Evansville,University Evansville,Indiana,50300,89900,54,17,Private,4 Year,12460,36416,48876,36416,48876,0.20%,1.50%,2.80%,2.80%,0.00%,12.70%,9.10%,1.90%,3.30%,75.00%,56.30%
+12,Saint Mary's College,Saint Mary's College,Indiana,49700,89300,54,15,Private,4 Year,12580,42220,54800,42220,54800,0.50%,0.50%,8.20%,4.00%,0.00%,0.90%,15.70%,2.40%,2.10%,81.30%,59.70%
+13,Earlham College,Earlham College,Indiana,49100,88400,57,31,Private,4 Year,10400,46450,56850,46450,56850,0.90%,5.30%,11.60%,5.80%,0.00%,17.90%,23.80%,0.20%,5.00%,53.30%,55.00%
+14,Indiana University-Purdue University-Indianapolis,Indiana University Purdue University Indianapolis,Indiana,50500,88200,55,15,Public,4 Year,8924,9465,18389,29821,38745,0.10%,4.20%,9.60%,5.10%,0.10%,6.30%,22.20%,3.10%,1.10%,70.50%,56.20%
+15,Holy Cross College,Holy Cross College,Indiana,48100,87800,NA,0,Private,4 Year,11500,30820,42320,30820,42320,0.40%,1.50%,9.40%,10.80%,0.20%,5.80%,25.80%,3.50%,1.00%,67.50%,34.60%
+16,Franklin College,Franklin College,Indiana,48900,86200,45,21,Private,4 Year,9946,32010,41956,32010,41956,0.00%,0.00%,65.80%,2.60%,0.00%,0.00%,71.00%,2.60%,1.30%,27.70%,77.90%
+17,Indiana State University,Indiana State University,Indiana,47900,85600,55,8,Public,4 Year,10590,9090,19680,19836,30426,0.30%,1.40%,16.70%,3.00%,0.10%,7.60%,24.20%,2.80%,1.90%,66.30%,55.10%
+18,Hanover College,Hanover College,Indiana,47500,85100,53,24,Private,4 Year,11580,37670,49250,37670,49250,0.60%,1.40%,4.80%,2.30%,0.00%,5.50%,10.90%,1.80%,2.50%,81.00%,57.90%
+19,Indiana Institute of Technology,Indiana Institute Technology,Indiana,50000,84900,46,11,Private,4 Year,10020,26900,36920,26900,36920,0.30%,0.50%,37.10%,3.50%,0.10%,3.20%,43.70%,2.10%,12.40%,40.70%,61.60%
+20,Manchester University,Manchester University,Indiana,46900,84700,56,10,Private,4 Year,9580,32758,42338,32758,42338,0.10%,4.10%,5.80%,4.50%,0.00%,1.90%,17.40%,2.90%,1.00%,79.70%,53.40%
+21,University of Indianapolis,University Indianapolis,Indiana,47300,84500,55,5,Private,4 Year,10288,29688,39976,29688,39976,0.10%,1.60%,8.40%,3.50%,0.10%,7.80%,16.10%,2.30%,7.50%,68.70%,67.30%
+22,Ball State University,Ball State University,Indiana,45600,83700,48,7,Public,4 Year,10234,9896,20130,26468,36702,0.10%,1.00%,6.70%,3.40%,0.10%,3.80%,13.30%,2.00%,4.10%,78.80%,60.70%
+22,University of Saint Francis-Fort Wayne,University Saint Francis Fort Wayne,Indiana,45700,83700,63,5,Private,4 Year,12122,36410,48532,36410,48532,0.40%,1.10%,6.80%,5.90%,0.20%,0.60%,16.80%,2.40%,2.40%,80.20%,70.20%
+24,Indiana University-Purdue University-Fort Wayne,Indiana University Purdue University Fort Wayne,Indiana,47300,83200,52,17,Public,4 Year,5996,8450,14446,20288,26284,0.30%,2.50%,4.80%,5.00%,0.00%,1.60%,15.20%,2.60%,0.60%,82.60%,55.50%
+25,Marian University (Indiana),Marian University (Indiana),Indiana,48400,82000,51,3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.10%,2.90%,12.10%,4.80%,0.20%,0.90%,22.40%,2.30%,5.00%,71.70%,63.00%
+1,Iowa State University,Iowa State University,Iowa,56100,101300,48,31,Public,4 Year,8720,8988,17708,23392,32112,0.20%,2.70%,2.60%,4.20%,0.10%,11.60%,11.80%,2.00%,4.50%,72.10%,44.00%
+2,Drake University,Drake University,Iowa,52800,99900,49,7,Private,4 Year,10528,41396,51924,41396,51924,0.20%,4.00%,3.20%,3.20%,0.00%,5.60%,12.10%,1.60%,1.10%,81.20%,58.80%
+3,University of Iowa,University Iowa,Iowa,54100,99400,48,16,Public,4 Year,11172,9267,20439,31233,42405,0.20%,3.50%,2.80%,5.80%,0.10%,12.40%,14.50%,2.10%,6.00%,67.10%,51.60%
+4,Grinnell College,Grinnell College,Iowa,53400,96500,49,41,Private,4 Year,12810,52392,65202,52392,65202,0.20%,7.40%,5.80%,7.70%,0.00%,13.10%,25.30%,4.30%,3.60%,57.90%,54.60%
+5,Allen College,Allen College,Iowa,51600,91300,NA,0,Private,4 Year,7282,19970,27252,19970,27252,0.00%,1.20%,2.30%,0.30%,0.30%,0.70%,5.00%,0.90%,4.20%,90.10%,91.10%
+6,Cornell College,Cornell College,Iowa,49600,90600,47,22,Private,4 Year,9384,42299,51683,42299,51683,0.40%,2.40%,5.10%,12.90%,0.30%,4.40%,25.20%,4.20%,4.10%,66.30%,53.10%
+7,Loras College,Loras College,Iowa,48000,90100,56,14,Private,4 Year,8275,34184,42459,34184,42459,0.10%,0.80%,2.50%,5.70%,0.10%,1.80%,10.60%,1.40%,4.50%,83.20%,47.90%
+8,Dordt College,Dordt College,Iowa,51000,89600,57,17,Private,4 Year,9590,30870,40460,30870,40460,0.20%,0.90%,1.50%,0.80%,7.10%,8.40%,10.50%,0.00%,8.80%,72.40%,46.10%
+9,Central College,Central College,Iowa,49000,88800,55,36,Private,4 Year,10280,37295,47575,37295,47575,0.40%,1.10%,1.80%,3.10%,0.10%,1.30%,7.50%,1.00%,3.00%,88.20%,52.20%
+10,Graceland University-Lamoni,Graceland University Lamoni,Iowa,48300,88700,66,5,Private,4 Year,8760,29240,38000,29240,38000,0.40%,1.20%,8.00%,6.40%,0.80%,3.80%,19.20%,2.40%,7.60%,69.40%,66.70%
+11,Simpson College,Simpson College,Iowa,49900,88600,47,17,Private,4 Year,8380,39144,47524,39144,47524,0.60%,1.40%,1.70%,2.20%,0.00%,0.60%,7.60%,1.60%,5.60%,86.10%,56.30%
+12,Wartburg College,Wartburg College,Iowa,49300,88000,49,34,Private,4 Year,9996,41280,51276,41280,51276,0.10%,1.20%,4.80%,2.50%,0.10%,9.80%,10.80%,2.20%,1.70%,77.70%,52.40%
+13,Coe College,Coe College,Iowa,47200,86900,41,24,Private,4 Year,9480,45000,54480,45000,54480,0.20%,2.30%,4.90%,7.60%,0.10%,4.50%,18.20%,3.10%,4.20%,73.10%,56.10%
+14,Luther College,Luther College,Iowa,48200,85900,49,21,Private,4 Year,9460,42290,51750,42290,51750,0.30%,1.60%,1.40%,3.40%,0.00%,6.10%,8.80%,2.10%,0.60%,84.40%,56.20%
+15,University of Northern Iowa,University Northern Iowa,Iowa,47100,85300,46,8,Public,4 Year,8948,8938,17886,19480,28428,0.20%,0.90%,2.80%,3.20%,0.10%,5.20%,8.90%,1.80%,2.30%,83.60%,58.20%
+16,Maharishi University of Management,Maharishi University Management,Iowa,46800,85200,NA,65,Private,4 Year,7400,16530,23930,16530,23930,0.20%,1.70%,6.50%,3.00%,0.00%,68.40%,12.90%,1.50%,0.70%,18.00%,32.90%
+17,Saint Ambrose University,Saint Ambrose University,Iowa,46900,84400,48,8,Private,4 Year,10470,30894,41364,30894,41364,0.20%,1.20%,3.10%,5.60%,0.10%,2.70%,12.00%,1.90%,4.30%,81.00%,58.50%
+18,Northwestern College,Northwestern College,Iowa,44800,82400,42,11,Private,4 Year,9200,31100,40300,31100,40300,0.20%,1.10%,1.40%,5.10%,0.10%,3.20%,9.80%,2.00%,4.10%,82.90%,58.80%
+19,Morningside College,Morningside College,Iowa,44900,82100,60,6,Private,4 Year,9610,31530,41140,31530,41140,0.40%,0.50%,1.00%,3.10%,0.20%,1.60%,6.20%,1.00%,10.00%,82.20%,68.40%
+20,Clarke University,Clarke University,Iowa,44900,80200,52,6,Private,4 Year,9600,33350,42950,33350,42950,0.10%,0.80%,2.80%,3.70%,0.00%,1.10%,8.60%,1.30%,2.10%,88.30%,69.70%
+21,University of Dubuque,University Dubuque,Iowa,44200,79700,48,7,Private,4 Year,9930,34110,44040,34110,44040,0.50%,1.90%,10.70%,6.70%,0.20%,2.80%,22.80%,2.80%,8.00%,66.40%,43.90%
+22,Mount Mercy University,Mount Mercy University,Iowa,47200,79000,51,4,Private,4 Year,9534,31798,41332,31798,41332,0.30%,1.40%,4.20%,1.40%,0.10%,2.80%,8.90%,1.40%,5.10%,83.20%,70.70%
+23,William Penn University,William Penn University,Iowa,43900,78300,59,7,Private,4 Year,6952,25600,32552,25600,32552,0.60%,1.30%,16.20%,7.50%,0.30%,3.40%,27.60%,1.60%,3.20%,65.80%,49.90%
+24,Upper Iowa University,Upper Iowa University,Iowa,44200,78000,56,3,Private,4 Year,8454,30450,38904,30450,38904,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+25,Iowa Wesleyan University,Iowa Wesleyan University,Iowa,42600,77200,60,8,Private,4 Year,10500,30500,41000,30500,41000,0.80%,1.10%,6.10%,3.80%,0.20%,4.90%,14.40%,2.30%,20.90%,59.80%,60.00%
+1,University of Kansas,University Kansas,Kansas,53000,98600,52,16,Public,4 Year,10350,11148,21498,27358,37708,0.50%,4.00%,4.20%,5.70%,0.10%,9.00%,18.50%,4.00%,2.10%,70.40%,51.30%
+2,Kansas State University,Kansas State University,Kansas,52500,97200,51,18,Public,4 Year,9680,10263,19943,25767,35447,0.40%,1.50%,3.90%,5.70%,0.10%,9.10%,14.50%,2.80%,1.60%,74.90%,49.30%
+3,Benedictine College,Benedictine College,Kansas,48700,91800,69,13,Private,4 Year,10300,29530,39830,29530,39830,0.40%,1.20%,3.30%,5.20%,0.30%,3.20%,14.90%,4.40%,2.90%,79.00%,52.60%
+4,Ottawa University-Ottawa,Ottawa University Ottawa,Kansas,49800,89900,57,7,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+5,University of Saint Mary,University Saint Mary,Kansas,49500,89700,61,6,Private,4 Year,8140,28810,36950,28810,36950,0.60%,1.70%,8.80%,8.40%,0.70%,0.80%,22.80%,2.60%,14.40%,62.00%,65.70%
+6,Newman University,Newman University,Kansas,48000,88500,66,11,Private,4 Year,8326,30724,39050,30724,39050,1.20%,4.90%,3.80%,9.80%,0.20%,2.30%,22.40%,2.50%,1.00%,74.30%,65.30%
+7,Wichita State University,Wichita State University,Kansas,48700,87300,57,24,Public,4 Year,11252,8271,19523,17452,28704,0.80%,6.30%,5.50%,8.60%,0.10%,11.80%,24.20%,2.90%,3.80%,60.20%,51.70%
+8,Ottawa University-Online,Ottawa University Online,Kansas,47300,84900,NA,7,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,6.10%,2.70%,12.50%,6.10%,0.30%,0.80%,30.90%,3.20%,8.30%,60.00%,61.30%
+8,Pittsburg State University,Pittsburg State University,Kansas,47100,84900,51,8,Public,4 Year,7778,7298,15076,18642,26420,1.40%,0.70%,3.70%,4.20%,0.10%,7.30%,14.50%,4.50%,0.40%,77.70%,50.60%
+10,Baker University,Baker University,Kansas,47800,84200,55,2,Private,4 Year,8410,29830,38240,29830,38240,1.80%,1.50%,9.50%,5.00%,0.40%,0.80%,19.40%,1.30%,5.50%,74.20%,58.50%
+11,Southwestern College (Kansas),Southwestern College (Kansas),Kansas,48500,83500,61,10,Private,4 Year,7760,30150,37910,30150,37910,1.70%,1.50%,9.20%,6.90%,0.10%,6.50%,23.00%,3.60%,9.60%,60.80%,45.30%
+12,Washburn University,Washburn University,Kansas,47000,83000,54,4,Public,4 Year,8237,8870,17107,19940,28177,0.60%,1.10%,4.90%,6.90%,0.10%,3.60%,16.90%,3.30%,16.90%,62.60%,58.90%
+13,Ottawa University-Kansas City,Ottawa University Kansas City,Kansas,45200,82600,NA,9,Private,4 Year,11900,27630,39530,27630,39530,1.70%,3.50%,8.10%,3.50%,0.00%,0.60%,18.80%,2.00%,3.50%,77.20%,68.20%
+14,McPherson College,McPherson College,Kansas,44500,80900,59,9,Private,4 Year,8788,28951,37739,28951,37739,0.30%,0.60%,12.40%,11.20%,0.60%,2.40%,27.90%,2.70%,0.50%,69.20%,40.10%
+15,Kansas Wesleyan University,Kansas Wesleyan University,Kansas,44700,79400,61,10,Private,4 Year,9500,29500,39000,29500,39000,0.60%,1.10%,6.10%,12.50%,0.30%,3.50%,22.50%,2.00%,1.40%,72.50%,54.10%
+16,Fort Hays State University,Fort Hays State University,Kansas,45100,79300,64,6,Public,4 Year,8300,5133,13433,15201,23501,0.40%,0.90%,3.70%,6.30%,0.10%,25.80%,13.50%,2.00%,1.40%,59.20%,60.50%
+17,Sterling College,Sterling College,Kansas,42700,79100,73,7,Private,4 Year,8280,26000,34280,26000,34280,2.50%,0.00%,11.40%,9.40%,1.50%,0.10%,24.90%,0.00%,6.50%,68.50%,47.20%
+18,MidAmerica Nazarene University,MidAmerica Nazarene University,Kansas,46200,78500,60,1,Private,4 Year,8708,30736,39444,30736,39444,0.70%,1.50%,10.90%,5.60%,0.60%,0.10%,20.40%,1.20%,14.50%,64.90%,64.00%
+19,Emporia State University,Emporia State University,Kansas,43500,78000,60,9,Public,4 Year,8912,6758,15670,20675,29587,0.50%,0.90%,4.40%,5.50%,0.10%,9.00%,16.10%,4.70%,2.70%,72.20%,62.80%
+20,Tabor College,Tabor College,Kansas,43300,77500,62,7,Private,4 Year,9850,28245,38095,28245,38095,0.40%,0.70%,8.40%,10.80%,0.30%,1.60%,23.80%,3.30%,6.30%,68.40%,49.50%
+21,Friends University,Friends University,Kansas,44700,76500,59,14,Private,4 Year,7972,28415,36387,28415,36387,1.30%,2.70%,10.80%,3.60%,0.40%,0.00%,25.10%,6.30%,5.60%,69.20%,57.60%
+22,Bethel College-North Newton,Bethel College North Newton,Kansas,42700,73800,54,12,Private,4 Year,8850,28780,37630,28780,37630,0.40%,0.40%,14.70%,9.70%,0.00%,2.10%,27.30%,2.10%,0.00%,70.60%,50.90%
+23,Bethany College (Kansas),Bethany College (Kansas),Kansas,39100,73200,61,17,Private,4 Year,10605,28475,39080,28475,39080,0.40%,1.10%,14.80%,14.90%,0.70%,0.30%,34.40%,2.50%,0.00%,65.30%,39.30%
+24,Manhattan Christian College,Manhattan Christian College,Kansas,39400,72200,NA,0,Private,4 Year,9092,15850,24942,15850,24942,1.60%,0.30%,2.60%,2.90%,0.00%,4.80%,8.40%,1.00%,10.90%,75.90%,47.30%
+25,Central Christian College of Kansas,Central Christian College Kansas,Kansas,37100,66100,NA,2,Private,4 Year,8286,26674,34960,26674,34960,1.60%,0.90%,18.00%,9.20%,0.40%,0.70%,31.70%,1.50%,21.60%,46.00%,49.40%
+1,University of Kentucky,University Kentucky,Kentucky,51700,96400,48,19,Public,4 Year,12982,12245,25227,29099,42081,0.20%,2.80%,6.80%,3.50%,0.10%,6.00%,16.00%,2.60%,3.40%,74.60%,52.80%
+2,Thomas More College,Thomas More College,Kentucky,50000,90900,56,8,Private,4 Year,7950,31120,39070,31120,39070,0.10%,0.70%,6.60%,1.40%,0.10%,0.80%,10.80%,1.90%,12.50%,75.90%,50.70%
+3,Bellarmine University,Bellarmine University,Kentucky,49000,90700,54,11,Private,4 Year,12250,42200,54450,42200,54450,0.20%,1.80%,5.40%,2.80%,0.10%,1.30%,13.10%,2.70%,3.40%,82.10%,67.30%
+4,Centre College,Centre College,Kentucky,49500,88500,52,22,Private,4 Year,10480,41700,52180,41700,52180,0.00%,3.30%,4.60%,2.30%,0.10%,6.20%,13.40%,3.00%,0.40%,80.00%,51.80%
+5,University of Louisville,University Louisville,Kentucky,49500,87600,50,18,Public,4 Year,9226,11656,20882,27278,36504,0.20%,3.50%,10.40%,3.80%,0.10%,2.90%,21.50%,3.60%,0.30%,75.30%,51.60%
+6,Northern Kentucky University,Northern Kentucky University,Kentucky,49000,87400,46,12,Public,4 Year,10022,10032,20054,19680,29702,0.40%,1.10%,6.60%,2.50%,0.10%,3.10%,12.40%,1.70%,1.40%,83.20%,56.00%
+7,Transylvania University,Transylvania University,Kentucky,47900,85600,51,25,Private,4 Year,10460,38750,49210,38750,49210,0.10%,2.00%,3.10%,4.50%,0.10%,3.60%,12.70%,3.00%,3.50%,80.30%,58.40%
+8,Western Kentucky University,Western Kentucky University,Kentucky,45500,83100,49,10,Public,4 Year,8343,10602,18945,26496,34839,0.20%,1.00%,9.60%,2.60%,0.10%,7.10%,15.70%,2.20%,1.20%,75.90%,58.10%
+9,Georgetown College,Georgetown College,Kentucky,45000,81900,54,10,Private,4 Year,9780,38650,48430,38650,48430,0.20%,0.90%,8.30%,3.00%,0.00%,1.40%,15.10%,2.70%,2.10%,81.30%,59.60%
+10,Brescia University,Brescia University,Kentucky,44300,81200,53,7,Private,4 Year,9200,22400,31600,22400,31600,0.90%,0.30%,12.60%,6.00%,0.20%,0.90%,19.90%,0.00%,12.50%,66.70%,73.00%
+11,Eastern Kentucky University,Eastern Kentucky University,Kentucky,45600,80700,56,5,Public,4 Year,9018,9296,18314,19074,28092,0.30%,0.90%,5.90%,2.00%,0.10%,1.80%,11.50%,2.20%,3.70%,83.10%,57.50%
+12,Murray State University,Murray State University,Kentucky,44800,79900,56,9,Public,4 Year,9190,9084,18274,24540,33730,0.20%,0.90%,6.90%,1.70%,0.10%,7.40%,11.30%,1.50%,1.60%,79.70%,58.60%
+13,Spalding University,Spalding University,Kentucky,44800,79200,71,0,Private,4 Year,7600,24500,32100,24500,32100,0.10%,1.40%,18.40%,2.90%,0.20%,0.30%,25.40%,2.50%,11.60%,62.70%,73.50%
+14,Kentucky Wesleyan College,Kentucky Wesleyan College,Kentucky,42100,76800,65,14,Private,4 Year,9764,26440,36204,26440,36204,0.10%,0.40%,14.40%,1.70%,0.00%,0.70%,16.60%,0.00%,14.50%,68.10%,46.00%
+15,Union College (Kentucky),Union College (Kentucky),Kentucky,40400,76000,37,4,Private,4 Year,7600,27140,34740,27140,34740,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+16,Morehead State University,Morehead State University,Kentucky,41300,74900,56,9,Public,4 Year,9960,9170,19130,13646,23606,0.20%,0.40%,3.70%,1.50%,0.10%,1.30%,7.10%,1.30%,1.40%,90.20%,60.60%
+17,University of the Cumberlands,University Cumberlands,Kentucky,39800,73800,63,8,Private,4 Year,9000,23000,32000,23000,32000,0.30%,0.50%,5.40%,1.70%,0.00%,2.00%,8.30%,0.30%,11.50%,78.20%,63.90%
+18,Kentucky State University,Kentucky State University,Kentucky,40700,73100,57,13,Public,4 Year,6690,8090,14780,19390,26080,0.20%,0.50%,53.10%,1.70%,0.20%,1.30%,57.90%,2.10%,11.80%,29.10%,60.60%
+19,Berea College,Berea College,Kentucky,39500,71600,53,27,Private,4 Year,6764,39990,46754,39990,46754,0.10%,1.60%,14.90%,5.90%,0.20%,7.70%,28.10%,5.40%,1.90%,62.30%,56.10%
+20,Asbury University,Asbury University,Kentucky,39400,70800,59,4,Private,4 Year,7160,30198,37358,30198,37358,0.20%,0.70%,4.90%,2.10%,0.30%,1.60%,13.50%,5.30%,4.60%,80.30%,60.80%
+21,University of Pikeville,University Pikeville,Kentucky,39000,70700,74,11,Private,4 Year,7800,20950,28750,20950,28750,0.40%,1.00%,6.80%,1.80%,0.10%,1.70%,10.20%,0.00%,0.00%,88.10%,51.40%
+22,Kentucky Christian University,Kentucky Christian University,Kentucky,39600,70300,68,3,Private,4 Year,8270,19820,28090,19820,28090,0.30%,0.60%,8.50%,1.20%,0.00%,2.00%,11.70%,1.10%,19.50%,66.90%,45.90%
+22,Midway University,Midway University,Kentucky,39200,70300,53,3,Private,4 Year,8480,24650,33130,24650,33130,0.10%,0.50%,8.60%,3.60%,0.20%,3.00%,14.60%,1.70%,6.60%,75.80%,83.20%
+24,Campbellsville University,Campbellsville University,Kentucky,37600,66800,50,7,Private,4 Year,8000,25400,33400,25400,33400,0.20%,0.50%,10.90%,1.60%,0.10%,6.60%,14.60%,1.20%,1.60%,77.30%,58.00%
+25,Lindsey Wilson College,Lindsey Wilson College,Kentucky,35300,64100,52,2,Private,4 Year,9385,24850,34235,24850,34235,0.50%,0.60%,9.60%,1.00%,0.00%,0.20%,12.90%,1.20%,20.10%,66.80%,61.30%
+1,Tulane University of Louisiana,Tulane University Louisiana,Louisiana,56800,105300,44,22,Private,4 Year,15190,54820,70010,54820,70010,0.40%,4.50%,8.20%,5.60%,0.10%,10.40%,21.40%,2.60%,3.50%,64.80%,56.10%
+2,Louisiana State University and Agricultural & Mechanical College,Louisiana State University and Agricultural & Mechanical College,Louisiana,54800,102900,53,24,Public,4 Year,11830,11950,23780,28627,40457,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+3,Louisiana Tech University,Louisiana Tech University,Louisiana,53100,100700,57,24,Public,4 Year,6495,9645,16140,18558,25053,0.40%,1.20%,12.80%,1.10%,0.10%,5.10%,17.30%,1.70%,8.40%,69.20%,48.80%
+4,Louisiana State University Health Sciences Center-New Orleans,Louisiana State University Health Sciences Center New Orleans,Louisiana,52300,94200,86,2,Public,4 Year,5650,6923,12573,13705,19355,0.30%,8.90%,8.70%,4.20%,0.10%,1.70%,22.40%,0.20%,1.80%,74.00%,66.00%
+5,University of Louisiana at Monroe,University Louisiana Monroe,Louisiana,48500,92500,65,7,Public,4 Year,7850,8734,16584,20834,28684,0.30%,2.30%,22.70%,2.10%,0.00%,3.10%,29.60%,2.10%,2.50%,64.90%,63.90%
+5,University of Louisiana at Lafayette,University Louisiana Lafayette,Louisiana,48200,92500,52,19,Public,4 Year,8516,10616,19132,24344,32860,0.50%,2.20%,19.60%,3.20%,0.10%,3.90%,27.20%,1.60%,1.10%,67.80%,55.80%
+7,University of New Orleans,University New Orleans,Louisiana,49900,91600,55,23,Public,4 Year,10575,9054,19629,13890,24465,0.40%,7.10%,14.90%,9.10%,0.00%,6.60%,34.60%,3.10%,2.80%,56.00%,51.40%
+8,Franciscan Missionaries of Our Lady University,Franciscan Missionaries Our Lady University,Louisiana,51200,90900,87,1,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+9,Loyola University New Orleans,Loyola University New Orleans,Louisiana,47900,88600,47,4,Private,4 Year,13380,39692,53072,39692,53072,0.70%,3.30%,15.10%,12.50%,0.10%,3.20%,34.80%,3.10%,7.20%,54.80%,62.20%
+10,Centenary College of Louisiana,Centenary College Louisiana,Louisiana,47000,88400,37,26,Private,4 Year,13400,36580,49980,36580,49980,1.00%,3.40%,14.20%,5.70%,0.20%,1.80%,27.90%,3.60%,0.00%,70.30%,56.50%
+11,McNeese State University,McNeese State University,Louisiana,50200,88200,57,13,Public,4 Year,8704,7859,16563,18934,27638,0.60%,1.50%,17.30%,2.60%,0.10%,4.40%,24.10%,2.10%,0.10%,71.50%,62.20%
+11,Xavier University of Louisiana,Xavier University Louisiana,Louisiana,46700,88200,63,35,Private,4 Year,9047,24488,33535,24488,33535,0.10%,12.90%,70.20%,2.60%,0.00%,3.20%,88.40%,2.60%,1.30%,7.10%,72.50%
+13,University of Holy Cross,University Holy Cross,Louisiana,48400,86300,69,3,Private,4 Year,NA,17300,17300,17300,17300,0.60%,3.70%,23.30%,7.00%,0.00%,0.00%,36.30%,1.60%,14.40%,49.20%,82.40%
+14,Nicholls State University,Nicholls State University,Louisiana,44500,84300,53,5,Public,4 Year,9938,7982,17920,9075,19013,1.90%,1.10%,19.70%,3.10%,0.10%,2.30%,28.70%,2.80%,1.90%,67.10%,63.10%
+15,Southeastern Louisiana University,Southeastern Louisiana University,Louisiana,46700,83900,51,8,Public,4 Year,8420,8165,16585,20643,29063,0.20%,0.90%,14.80%,6.20%,0.10%,1.70%,27.40%,5.20%,5.70%,65.10%,62.20%
+16,Southern University and A&M College,Southern University and A&M College,Louisiana,48000,83100,65,17,Public,4 Year,9105,9123,18228,16472,25577,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+17,Louisiana College,Louisiana College,Louisiana,44800,79800,58,4,Private,4 Year,5618,17000,22618,17000,22618,0.80%,1.00%,22.30%,3.20%,0.10%,5.60%,28.30%,1.00%,4.10%,62.10%,53.30%
+17,Louisiana State University-Shreveport,Louisiana State University Shreveport,Louisiana,44500,79800,54,10,Public,4 Year,NA,7235,7235,20389,20389,0.50%,1.80%,22.80%,3.70%,0.10%,2.10%,32.20%,3.30%,8.50%,57.20%,61.50%
+17,Dillard University,Dillard University,Louisiana,44700,79800,74,20,Private,4 Year,10100,18099,28199,18099,28199,0.00%,0.00%,92.30%,0.50%,0.00%,2.20%,93.60%,0.80%,3.90%,0.30%,72.60%
+20,Northwestern State University of Louisiana,Northwestern State University Louisiana,Louisiana,44300,79300,62,6,Public,4 Year,8884,8580,17464,19368,28252,1.60%,0.80%,26.50%,4.60%,0.10%,1.00%,36.90%,3.30%,2.80%,59.30%,69.10%
+21,Grambling State University,Grambling State University,Louisiana,43100,73100,66,10,Public,4 Year,7192,7435,14627,16458,23650,0.30%,0.20%,90.80%,0.90%,0.00%,3.60%,93.50%,1.20%,0.70%,2.20%,62.20%
+22,Southern University at New Orleans,Southern University New Orleans,Louisiana,40100,71000,76,13,Public,4 Year,9040,9371,18411,11160,20200,0.10%,0.50%,84.20%,0.60%,0.00%,0.00%,85.40%,0.00%,12.20%,2.40%,76.20%
+23,New Orleans Baptist Theological Seminary,New Orleans Baptist Theological Seminary,Louisiana,33900,61500,NA,0,Private,4 Year,2625,7775,10400,7775,10400,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+1,Maine Maritime Academy,Maine Maritime Academy,Maine,67000,121800,65,48,Public,4 Year,10310,13478,23788,27098,37408,0.30%,0.70%,0.60%,0.80%,0.20%,0.00%,2.50%,0.00%,2.50%,95.00%,13.90%
+2,Bowdoin College,Bowdoin College,Maine,61300,112000,54,37,Private,4 Year,14698,53922,68620,53922,68620,0.10%,6.30%,4.90%,12.70%,0.00%,5.40%,30.50%,6.50%,0.60%,63.50%,50.00%
+3,Bates College,Bates College,Maine,59500,111900,50,23,Private,4 Year,15224,53794,69018,53794,69018,0.20%,4.60%,4.80%,6.80%,0.00%,6.90%,20.50%,4.10%,0.80%,71.90%,50.40%
+4,Colby College,Colby College,Maine,59200,103300,50,25,Private,4 Year,14190,55210,69400,55210,69400,0.20%,5.60%,3.00%,6.10%,0.00%,10.60%,20.20%,5.30%,9.10%,60.10%,53.00%
+5,University of Maine,University Maine,Maine,52000,95000,50,24,Public,4 Year,10418,11170,21588,30970,41388,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6,University of New England,University New England,Maine,50100,91500,69,7,Private,4 Year,13990,37620,51610,37620,51610,0.40%,4.70%,6.00%,1.30%,0.20%,0.70%,14.10%,1.50%,19.70%,65.50%,71.40%
+7,Saint Joseph's College of Maine,Saint Joseph's College Maine,Maine,46900,84300,60,2,Private,4 Year,13680,35650,49330,35650,49330,0.40%,1.30%,3.30%,2.10%,0.00%,0.00%,7.20%,0.00%,29.90%,62.80%,71.00%
+8,Thomas College,Thomas College,Maine,46100,81500,49,3,Private,4 Year,11250,26900,38150,26900,38150,0.40%,0.70%,2.30%,1.40%,0.00%,2.10%,10.80%,6.10%,12.70%,74.40%,54.70%
+9,University of Southern Maine,University Southern Maine,Maine,46900,81300,55,8,Public,4 Year,9450,9520,18970,22780,32230,0.90%,1.90%,2.70%,1.70%,0.10%,0.80%,9.30%,2.00%,14.00%,75.80%,59.30%
+10,Husson University,Husson University,Maine,43300,77600,52,1,Private,4 Year,9830,18180,28010,18180,28010,0.50%,2.10%,4.30%,1.30%,0.20%,2.60%,9.60%,1.10%,0.00%,87.80%,55.50%
+11,University of Maine at Fort Kent,University Maine Fort Kent,Maine,43500,76300,73,5,Public,4 Year,8220,8115,16335,12315,20535,0.80%,0.50%,2.60%,1.40%,0.20%,8.40%,7.20%,1.90%,21.00%,63.30%,68.70%
+12,University of Maine at Augusta,University Maine Augusta,Maine,41600,73100,61,7,Public,4 Year,NA,7988,7988,17918,17918,1.80%,0.50%,1.00%,1.50%,0.10%,0.50%,7.00%,2.10%,12.10%,80.40%,72.10%
+13,University of Maine at Farmington,University Maine Farmington,Maine,41100,71700,64,5,Public,4 Year,9726,9666,19392,19778,29504,0.70%,0.70%,1.80%,1.30%,0.10%,0.70%,6.60%,2.00%,8.70%,83.90%,66.90%
+14,University of Maine at Presque Isle,University Maine Presque Isle,Maine,39000,70700,58,6,Public,4 Year,8406,8035,16441,12235,20641,2.50%,0.40%,1.10%,1.10%,0.00%,6.20%,7.50%,2.50%,11.70%,74.70%,64.20%
+15,Unity College,Unity College,Maine,38200,69500,NA,23,Private,4 Year,10710,29160,39870,29160,39870,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+16,University of Maine at Machias,University Maine Machias,Maine,37100,66200,47,13,Public,4 Year,8486,7840,16326,15100,23586,2.70%,0.60%,3.20%,3.00%,0.00%,1.20%,10.70%,1.20%,17.50%,70.50%,67.50%
+17,Maine College of Art,Maine College Art,Maine,36300,64600,37,0,Private,4 Year,11890,35000,46890,35000,46890,0.00%,2.20%,1.50%,5.90%,0.00%,1.70%,14.40%,4.80%,2.40%,81.50%,73.40%
+1,United States Naval Academy,United States Naval Academy,Maryland,80100,152800,64,58,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2,Capitol Technology University,Capitol Technology University,Maryland,67400,118400,63,88,Private,4 Year,5708,25428,31136,25428,31136,0.50%,4.40%,28.80%,8.10%,0.40%,3.70%,45.60%,3.50%,1.60%,49.10%,18.70%
+3,Johns Hopkins University,Johns Hopkins University,Maryland,67200,117100,57,31,Private,4 Year,15836,54240,70076,54240,70076,0.20%,13.70%,6.60%,7.00%,0.10%,17.60%,30.80%,3.20%,3.90%,47.60%,52.00%
+4,University of Maryland-College Park,University Maryland College Park,Maryland,61300,113400,50,33,Public,4 Year,12429,10595,23024,35216,47645,0.10%,13.30%,11.20%,7.70%,0.10%,11.50%,35.70%,3.30%,3.20%,49.60%,46.70%
+5,Loyola University Maryland,Loyola University Maryland,Maryland,59900,111200,40,8,Private,4 Year,14430,49085,63515,49085,63515,0.20%,3.20%,7.80%,7.90%,0.10%,0.90%,21.40%,2.30%,1.00%,76.70%,61.40%
+6,University of Maryland-Baltimore County,University Maryland Baltimore County,Maryland,58100,103600,54,45,Public,4 Year,11696,11778,23474,26872,38568,0.20%,17.70%,15.60%,5.50%,0.20%,7.50%,42.40%,3.20%,4.70%,45.30%,45.80%
+7,St. John's College,St. John's College,Maryland,55900,101200,NA,0,Private,4 Year,12602,53218,65820,53218,65820,0.40%,2.50%,1.70%,7.20%,0.00%,10.00%,11.90%,0.00%,4.00%,74.20%,42.40%
+8,"University of Maryland, Baltimore","University Maryland, Baltimore",Maryland,57300,99600,76,4,Public,4 Year,NA,11033,11033,39267,39267,0.10%,15.00%,15.30%,5.20%,0.00%,4.30%,38.70%,3.10%,2.10%,54.90%,71.20%
+8,University of Maryland-University College,University Maryland University College,Maryland,55300,99600,59,27,Public,4 Year,NA,7416,7416,12336,12336,0.50%,4.70%,30.00%,9.70%,0.60%,1.40%,48.90%,3.40%,9.30%,40.40%,48.50%
+10,Washington Adventist University,Washington Adventist University,Maryland,55600,97600,63,9,Private,4 Year,9370,23900,33270,23900,33270,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+11,St Mary's College of Maryland,St Mary's College Maryland,Maryland,53300,95400,45,27,Public,4 Year,13202,14806,28008,30568,43770,0.30%,2.80%,7.90%,7.10%,0.00%,1.50%,22.50%,4.40%,3.00%,73.00%,57.10%
+12,McDaniel College,McDaniel College,Maryland,51100,94600,54,6,Private,4 Year,11430,43260,54690,43260,54690,0.50%,2.80%,10.50%,4.10%,0.10%,1.10%,18.00%,0.00%,5.20%,75.80%,63.80%
+13,Mount St. Mary's University,Mount St. Mary's University,Maryland,50200,94100,50,11,Private,4 Year,13075,41350,54425,41350,54425,0.60%,2.60%,9.60%,8.20%,0.20%,1.60%,24.50%,3.20%,1.70%,72.20%,51.60%
+14,Washington College,Washington College,Maryland,52800,93500,55,21,Private,4 Year,12414,46978,59392,46978,59392,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+15,Stevenson University,Stevenson University,Maryland,50400,91600,51,15,Private,4 Year,13130,36182,49312,36182,49312,0.10%,3.10%,29.30%,4.50%,0.20%,0.60%,39.80%,2.60%,3.90%,55.60%,66.40%
+16,Towson University,Towson University,Maryland,51200,91200,47,15,Public,4 Year,13034,9940,22974,23208,36242,0.10%,4.70%,15.50%,5.40%,0.10%,2.40%,29.50%,3.60%,5.40%,62.70%,62.00%
+17,Goucher College,Goucher College,Maryland,49400,90600,42,11,Private,4 Year,14506,44300,58806,44300,58806,0.20%,2.60%,10.30%,6.50%,0.00%,1.20%,22.50%,2.90%,18.70%,57.50%,70.80%
+18,Bowie State University,Bowie State University,Maryland,50300,89900,65,11,Public,4 Year,10904,8233,19137,18873,29777,0.10%,1.40%,83.40%,2.60%,0.20%,4.10%,90.60%,2.90%,1.70%,3.50%,62.90%
+19,Salisbury University,Salisbury University,Maryland,50400,89800,51,12,Public,4 Year,11950,9824,21774,19526,31476,0.40%,2.50%,12.40%,3.90%,0.10%,1.80%,22.80%,3.50%,3.40%,72.00%,58.60%
+20,University of Baltimore,University Baltimore,Maryland,51000,89600,56,2,Public,4 Year,NA,8958,8958,21076,21076,0.30%,4.50%,39.70%,4.70%,0.20%,2.90%,52.60%,3.10%,3.90%,40.60%,58.40%
+21,Frostburg State University,Frostburg State University,Maryland,49600,87000,48,19,Public,4 Year,10202,9172,19374,22892,33094,0.10%,1.80%,26.00%,4.30%,0.10%,2.20%,36.20%,4.00%,2.10%,59.60%,52.40%
+22,University of Maryland Eastern Shore,University Maryland Eastern Shore,Maryland,48300,86700,63,14,Public,4 Year,9864,8302,18166,18508,28372,0.20%,1.50%,66.80%,2.00%,0.00%,3.00%,81.30%,10.80%,1.20%,14.50%,56.10%
+23,Notre Dame of Maryland University,Notre Dame Maryland University,Maryland,48300,86400,58,3,Private,4 Year,11850,36900,48750,36900,48750,0.80%,6.80%,22.80%,4.10%,0.20%,1.10%,34.70%,0.00%,2.10%,62.00%,86.40%
+24,Maryland Institute College of Art,Maryland Institute College Art,Maryland,49000,84500,40,0,Private,4 Year,13280,48630,61910,48630,61910,0.10%,11.50%,6.10%,6.20%,0.10%,13.30%,29.10%,5.10%,6.00%,51.60%,71.80%
+25,Hood College,Hood College,Maryland,47900,82600,49,32,Private,4 Year,12700,39492,52192,39492,52192,0.00%,3.30%,10.80%,5.80%,0.00%,6.60%,23.00%,3.10%,4.10%,66.30%,63.50%
+1,Massachusetts Institute of Technology,Massachusetts Institute Technology,Massachusetts,86300,155200,52,69,Private,4 Year,15510,51832,67342,51832,67342,0.20%,16.20%,3.00%,9.60%,0.00%,29.20%,32.70%,3.70%,5.10%,33.10%,37.30%
+2,Harvard University,Harvard University,Massachusetts,74800,146800,54,19,Private,4 Year,17160,50420,67580,50420,67580,0.20%,14.70%,5.20%,7.90%,0.10%,16.60%,31.60%,3.60%,6.10%,45.60%,48.50%
+3,Worcester Polytechnic Institute,Worcester Polytechnic Institute,Massachusetts,73600,135500,47,86,Private,4 Year,14774,50530,65304,50530,65304,0.10%,4.60%,2.00%,6.20%,0.00%,21.20%,15.50%,2.60%,7.80%,55.60%,31.20%
+4,Babson College,Babson College,Massachusetts,72000,133800,37,0,Private,4 Year,16312,51104,67416,51104,67416,0.10%,9.00%,3.90%,8.00%,0.10%,30.00%,23.00%,1.90%,7.90%,39.20%,42.80%
+5,Williams College,Williams College,Massachusetts,67500,127500,47,32,Private,4 Year,14500,55450,69950,55450,69950,0.10%,10.50%,6.90%,11.40%,0.00%,9.00%,35.80%,6.90%,0.00%,55.20%,50.80%
+6,MCPHS University,MCPHS University,Massachusetts,65900,121800,71,2,Private,4 Year,16400,32705,49105,32705,49105,0.10%,21.20%,4.80%,2.70%,0.10%,11.80%,29.20%,0.30%,23.10%,36.00%,67.10%
+7,Tufts University,Tufts University,Massachusetts,65200,118100,49,25,Private,4 Year,14560,56382,70942,56382,70942,0.10%,12.40%,3.40%,5.40%,0.00%,10.80%,25.10%,3.70%,9.90%,54.20%,54.50%
+8,Massachusetts Maritime Academy,Massachusetts Maritime Academy,Massachusetts,67900,117500,53,47,Public,4 Year,12675,9724,22399,26102,38777,1.20%,2.50%,2.20%,2.80%,0.10%,0.50%,9.50%,0.70%,1.80%,88.20%,12.70%
+9,Bentley University,Bentley University,Massachusetts,66600,116600,36,7,Private,4 Year,16320,49880,66200,49880,66200,0.10%,7.80%,2.70%,5.80%,0.00%,21.20%,18.20%,1.80%,4.20%,56.40%,42.90%
+10,Amherst College,Amherst College,Massachusetts,63800,116500,45,32,Private,4 Year,14740,56426,71166,56426,71166,0.30%,13.10%,12.40%,13.10%,0.10%,9.60%,43.50%,4.50%,5.00%,41.90%,48.30%
+11,Boston College,Boston College,Massachusetts,63600,115400,43,13,Private,4 Year,14478,55464,69942,55464,69942,0.10%,8.00%,4.00%,8.60%,0.00%,9.80%,23.40%,2.60%,8.90%,58.00%,54.50%
+12,College of the Holy Cross,College Holy Cross,Massachusetts,61800,114600,46,24,Private,4 Year,14520,52770,67290,52770,67290,0.20%,5.10%,3.90%,10.60%,0.00%,1.40%,23.40%,3.50%,6.60%,68.60%,49.00%
+13,Boston University,Boston University,Massachusetts,61400,113600,43,25,Private,4 Year,15720,53948,69668,53948,69668,0.10%,10.70%,3.70%,7.50%,0.10%,20.00%,24.90%,2.70%,9.60%,45.60%,58.40%
+14,Brandeis University,Brandeis University,Massachusetts,60600,113200,48,29,Private,4 Year,15440,55395,70835,55395,70835,0.10%,9.80%,4.60%,5.40%,0.10%,23.30%,22.00%,2.00%,10.30%,44.50%,54.30%
+15,Wentworth Institute of Technology,Wentworth Institute Technology,Massachusetts,62700,112700,53,39,Private,4 Year,14190,33950,48140,33950,48140,0.20%,6.30%,4.70%,3.40%,0.00%,6.00%,19.90%,5.40%,12.80%,61.30%,19.40%
+16,Northeastern University,Northeastern University,Massachusetts,62500,109700,46,40,Private,4 Year,16880,51387,68267,51387,68267,0.10%,8.90%,3.20%,5.60%,0.00%,27.60%,20.70%,3.00%,7.10%,44.60%,49.30%
+17,University of Massachusetts-Lowell,University Massachusetts Lowell,Massachusetts,58800,109300,53,35,Public,4 Year,12748,15180,27928,32827,45575,0.10%,8.10%,5.50%,7.80%,0.00%,7.20%,23.70%,2.00%,6.30%,62.90%,39.80%
+18,Wellesley College,Wellesley College,Massachusetts,58900,106200,48,34,Private,4 Year,16468,53732,70200,53732,70200,0.00%,23.20%,5.50%,8.80%,0.00%,11.80%,43.50%,5.90%,4.60%,40.10%,97.40%
+19,Stonehill College,Stonehill College,Massachusetts,55900,103200,42,18,Private,4 Year,16000,42746,58746,42746,58746,0.00%,2.20%,4.30%,4.50%,0.00%,0.80%,13.00%,1.80%,2.70%,83.60%,59.20%
+20,Western New England University,Western New England University,Massachusetts,56400,103000,44,21,Private,4 Year,13590,36804,50394,36804,50394,0.30%,3.70%,6.00%,7.00%,0.10%,2.80%,18.10%,1.10%,8.90%,70.20%,44.90%
+20,University of Massachusetts-Amherst,University Massachusetts Amherst,Massachusetts,57400,103000,46,24,Public,4 Year,13202,16072,29274,34755,47957,0.20%,7.60%,3.80%,4.80%,0.10%,7.50%,18.60%,2.20%,9.60%,64.30%,49.40%
+22,Merrimack College,Merrimack College,Massachusetts,56000,102500,50,13,Private,4 Year,15845,41760,57605,41760,57605,0.10%,1.30%,3.00%,5.30%,0.00%,5.80%,11.10%,1.40%,19.10%,64.00%,52.30%
+23,Clark University,Clark University,Massachusetts,52600,101400,47,14,Private,4 Year,9170,45730,54900,45730,54900,0.10%,5.20%,3.50%,4.90%,0.10%,24.70%,15.60%,1.70%,8.50%,51.20%,56.90%
+24,Smith College,Smith College,Massachusetts,52700,98200,51,26,Private,4 Year,17520,52404,69924,52404,69924,0.20%,11.60%,5.00%,9.20%,0.10%,13.00%,30.40%,4.30%,8.20%,48.40%,97.90%
+25,Wheaton College (Massachusetts),Wheaton College (Massachusetts),Massachusetts,52600,97500,46,28,Private,4 Year,13424,52626,66050,52626,66050,0.10%,4.30%,5.70%,7.20%,0.10%,9.90%,20.40%,3.10%,1.60%,68.10%,64.30%
+1,Kettering University,Kettering University,Michigan,69900,125000,44,74,Private,4 Year,8240,43490,51730,43490,51730,0.20%,2.90%,4.40%,3.40%,0.10%,6.50%,13.30%,2.30%,8.40%,71.80%,19.00%
+2,Michigan Technological University,Michigan Technological University,Michigan,65000,116300,47,81,Public,4 Year,10756,15646,26402,33726,44482,0.50%,1.20%,1.30%,1.60%,0.10%,15.40%,6.90%,2.20%,3.00%,74.70%,26.30%
+3,University of Michigan-Ann Arbor,University Michigan Ann Arbor,Michigan,63500,112200,45,38,Public,4 Year,11534,15262,26796,49350,60884,0.20%,11.40%,4.00%,4.40%,0.00%,13.80%,23.00%,2.90%,6.40%,56.90%,47.90%
+4,Lawrence Technological University,Lawrence Technological University,Michigan,57900,108400,49,60,Private,4 Year,9950,33570,43520,33570,43520,0.30%,23.00%,5.80%,2.50%,0.00%,5.80%,31.70%,0.00%,15.90%,46.60%,25.50%
+5,Michigan State University,Michigan State University,Michigan,55300,100800,46,20,Public,4 Year,10322,14460,24782,39765,50087,0.30%,4.40%,6.40%,3.70%,0.10%,15.30%,17.30%,2.40%,1.30%,66.10%,51.50%
+6,University of Michigan-Dearborn,University Michigan Dearborn,Michigan,55700,99500,39,37,Public,4 Year,NA,12930,12930,25158,25158,0.40%,6.30%,9.20%,5.00%,0.10%,8.50%,23.50%,2.50%,3.20%,64.80%,47.20%
+7,Albion College,Albion College,Michigan,52100,99300,44,23,Private,4 Year,12380,45775,58155,45775,58155,0.20%,1.80%,3.70%,3.60%,0.10%,2.90%,12.10%,2.60%,6.20%,78.80%,49.80%
+8,Kalamazoo College,Kalamazoo College,Michigan,51600,94500,52,31,Private,4 Year,9756,48516,58272,48516,58272,0.10%,5.90%,5.20%,9.20%,0.20%,8.10%,25.50%,4.80%,5.80%,60.60%,56.60%
+9,Oakland University,Oakland University,Michigan,51300,93300,49,19,Public,4 Year,10100,12606,22706,24230,34330,0.40%,4.70%,7.80%,2.80%,0.10%,3.20%,18.10%,2.40%,5.00%,73.80%,58.10%
+10,University of Detroit Mercy,University Detroit Mercy,Michigan,51800,92800,57,13,Private,4 Year,9496,28000,37496,28000,37496,0.30%,4.90%,10.20%,2.70%,0.20%,11.60%,20.70%,2.40%,18.80%,48.80%,59.70%
+11,Western Michigan University,Western Michigan University,Michigan,50900,92200,47,16,Public,4 Year,10143,12483,22626,15373,25516,0.40%,1.60%,11.00%,4.70%,0.10%,7.80%,20.80%,2.90%,1.00%,70.40%,51.10%
+12,Wayne State University,Wayne State University,Michigan,50800,91700,53,21,Public,4 Year,10427,13347,23774,28241,38668,0.30%,7.50%,17.70%,3.60%,0.10%,8.20%,31.60%,2.50%,5.70%,54.40%,55.90%
+13,Calvin College,Calvin College,Michigan,50200,91100,54,23,Private,4 Year,10200,34600,44800,34600,44800,0.40%,4.30%,2.40%,3.20%,0.00%,10.60%,13.10%,2.80%,1.70%,74.60%,55.40%
+14,Hope College,Hope College,Michigan,49200,90900,51,18,Private,4 Year,10310,34010,44320,34010,44320,0.10%,1.60%,2.50%,7.50%,0.00%,2.50%,13.50%,1.90%,1.20%,82.80%,60.30%
+15,Alma College,Alma College,Michigan,48400,89900,52,15,Private,4 Year,10998,40258,51256,40258,51256,0.60%,1.50%,3.30%,3.70%,0.10%,1.00%,11.70%,2.60%,4.00%,83.20%,54.70%
+16,College for Creative Studies,College for Creative Studies,Michigan,51200,89800,40,0,Private,4 Year,8800,44110,52910,44110,52910,0.20%,4.20%,8.90%,3.70%,0.30%,9.00%,21.00%,3.70%,13.60%,56.40%,49.30%
+17,Ferris State University,Ferris State University,Michigan,50000,89300,50,8,Public,4 Year,9894,12630,22524,12630,22524,0.50%,1.40%,6.90%,3.80%,0.00%,3.00%,15.80%,3.00%,3.20%,78.00%,53.00%
+18,Eastern Michigan University,Eastern Michigan University,Michigan,47300,86700,50,6,Public,4 Year,9854,13959,23813,13959,23813,0.20%,2.50%,18.10%,3.70%,0.10%,3.40%,27.80%,3.10%,2.50%,66.30%,59.60%
+19,Northwood University,Northwood University,Michigan,47800,86300,47,1,Private,4 Year,10480,27060,37540,27060,37540,0.30%,0.90%,8.80%,4.50%,0.40%,3.40%,16.20%,1.30%,16.70%,63.70%,43.50%
+20,Walsh College of Accountancy and Business Administration,Walsh College Accountancy and Business Administration,Michigan,49400,85200,42,5,Private,4 Year,NA,17625,17625,17625,17625,0.30%,4.50%,10.30%,2.50%,0.00%,3.60%,18.70%,1.10%,1.40%,76.30%,49.10%
+21,Andrews University,Andrews University,Michigan,47600,85000,51,7,Private,4 Year,9078,29288,38366,29288,38366,0.30%,9.20%,20.50%,13.40%,0.40%,21.30%,45.90%,2.10%,2.30%,30.50%,46.30%
+22,Cleary University,Cleary University,Michigan,47400,84700,50,0,Private,4 Year,9600,20250,29850,20250,29850,0.00%,2.60%,7.60%,2.20%,0.00%,5.60%,12.50%,0.00%,7.60%,74.30%,54.00%
+23,Central Michigan University,Central Michigan University,Michigan,47700,83600,46,13,Public,4 Year,10076,12960,23036,12960,23036,0.70%,1.20%,11.20%,3.40%,0.10%,4.10%,18.80%,2.20%,4.00%,73.10%,56.90%
+24,Lake Superior State University,Lake Superior State University,Michigan,45900,83500,48,14,Public,4 Year,9882,12090,21972,12090,21972,8.60%,0.50%,3.30%,2.40%,0.00%,6.60%,14.90%,0.00%,1.50%,77.00%,52.30%
+25,Saginaw Valley State University,Saginaw Valley State University,Michigan,46400,82200,54,12,Public,4 Year,10186,10308,20494,24215,34401,0.30%,0.70%,9.70%,3.40%,0.00%,6.40%,15.80%,1.60%,6.20%,71.60%,59.00%
+1,Carleton College,Carleton College,Minnesota,58800,109900,47,45,Private,4 Year,14085,54759,68844,54759,68844,0.10%,8.90%,3.80%,6.30%,0.10%,9.60%,23.90%,4.50%,1.80%,64.80%,52.80%
+2,Saint Johns University,Saint Johns University,Minnesota,59400,108400,45,25,Private,4 Year,10319,44990,55309,44990,55309,0.70%,3.00%,3.30%,5.20%,0.20%,6.00%,12.90%,0.60%,0.00%,81.20%,2.80%
+3,University of St Thomas (Minnesota),University St Thomas (Minnesota),Minnesota,57500,106400,50,20,Private,4 Year,10412,42736,53148,42736,53148,0.10%,4.00%,3.70%,3.80%,0.00%,5.00%,14.40%,2.80%,2.40%,78.20%,48.70%
+4,University of Minnesota-Twin Cities,University Minnesota Twin Cities,Minnesota,57200,104000,51,30,Public,4 Year,10312,14693,25005,30371,40683,0.30%,7.80%,3.50%,3.00%,0.10%,12.50%,17.30%,2.60%,4.30%,65.80%,51.70%
+5,St Olaf College,St Olaf College,Minnesota,54100,101900,46,30,Private,4 Year,10850,47840,58690,47840,58690,0.10%,5.50%,1.60%,4.60%,0.00%,7.30%,15.60%,3.70%,0.80%,76.40%,57.70%
+6,Macalester College,Macalester College,Minnesota,53600,100400,51,31,Private,4 Year,12156,54344,66500,54344,66500,0.00%,7.00%,2.40%,5.90%,0.00%,13.60%,20.80%,5.40%,0.00%,65.70%,60.50%
+7,Gustavus Adolphus College,Gustavus Adolphus College,Minnesota,51200,96800,47,22,Private,4 Year,9910,45400,55310,45400,55310,0.10%,3.90%,1.90%,3.30%,0.00%,2.60%,12.70%,3.50%,0.20%,84.40%,54.20%
+8,Dunwoody College of Technology,Dunwoody College Technology,Minnesota,53400,96600,55,24,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.60%,4.50%,7.00%,2.10%,0.20%,0.00%,19.00%,4.60%,3.40%,77.70%,13.60%
+9,University of Minnesota-Duluth,University Minnesota Duluth,Minnesota,53200,95700,48,30,Public,4 Year,7760,13367,21127,18485,26245,1.00%,3.00%,1.90%,2.10%,0.10%,2.70%,10.60%,2.50%,5.30%,81.50%,47.00%
+10,Saint Mary's University of Minnesota,Saint Mary's University Minnesota,Minnesota,53000,93700,53,5,Private,4 Year,9080,35140,44220,35140,44220,0.30%,1.80%,4.70%,3.10%,0.10%,2.70%,10.60%,0.70%,32.10%,54.50%,65.10%
+11,Saint Cloud State University,Saint Cloud State University,Minnesota,51600,91600,50,15,Public,4 Year,8900,8912,17812,17146,26046,0.40%,4.60%,5.10%,2.50%,0.10%,6.40%,15.40%,2.70%,5.30%,72.90%,52.90%
+12,Augsburg University,Augsburg University,Minnesota,50500,91000,52,11,Private,4 Year,10280,38800,49080,38800,49080,1.20%,6.20%,9.60%,5.40%,0.00%,1.90%,24.70%,2.20%,13.80%,59.70%,58.10%
+13,Minnesota State University-Mankato,Minnesota State University Mankato,Minnesota,51600,90900,54,13,Public,4 Year,8719,8184,16903,16235,24954,0.30%,3.40%,4.50%,3.30%,0.00%,6.80%,13.60%,2.10%,3.50%,76.20%,53.20%
+14,Hamline University,Hamline University,Minnesota,48100,90400,52,5,Private,4 Year,10358,41298,51656,41298,51656,0.60%,4.00%,4.30%,4.00%,0.10%,1.80%,15.90%,2.90%,31.90%,50.50%,62.00%
+15,College of Saint Benedict,College Saint Benedict,Minnesota,49100,88600,50,18,Private,4 Year,10904,45264,56168,45264,56168,0.70%,5.70%,2.40%,4.80%,0.10%,4.60%,14.40%,0.60%,0.00%,81.10%,100.00%
+16,Concordia University-Saint Paul,Concordia University Saint Paul,Minnesota,49200,86800,58,5,Private,4 Year,9000,22275,31275,22275,31275,0.70%,5.50%,9.60%,3.00%,0.10%,3.50%,21.60%,2.70%,5.90%,69.00%,63.10%
+16,Winona State University,Winona State University,Minnesota,49700,86800,51,10,Public,4 Year,9010,9425,18435,15348,24358,0.10%,1.90%,2.30%,2.40%,0.10%,3.30%,8.70%,2.00%,1.60%,86.40%,62.50%
+16,The College of Saint Scholastica,College Saint Scholastica,Minnesota,51200,86800,64,12,Private,4 Year,9710,37212,46922,37212,46922,1.40%,2.70%,4.30%,2.00%,0.00%,3.20%,12.70%,2.30%,2.20%,81.90%,71.60%
+19,University of Minnesota-Crookston,University Minnesota Crookston,Minnesota,49200,86400,54,4,Public,4 Year,7658,11921,19579,11921,19579,0.50%,1.80%,4.60%,2.20%,0.10%,2.90%,10.20%,1.10%,25.50%,61.40%,52.60%
+20,Metropolitan State University,Metropolitan State University,Minnesota,50200,85900,53,11,Public,4 Year,NA,7879,7879,14980,14980,0.70%,12.10%,17.90%,4.80%,0.10%,2.20%,39.70%,4.10%,2.60%,55.50%,56.40%
+21,Bethel University (Minnesota),Bethel University (Minnesota),Minnesota,51000,85700,65,9,Private,4 Year,10520,37300,47820,37300,47820,0.10%,3.30%,5.70%,2.60%,0.10%,0.90%,14.00%,2.20%,2.50%,82.60%,62.70%
+22,University of Minnesota-Morris,University Minnesota Morris,Minnesota,46100,85300,53,27,Public,4 Year,8342,13314,21656,15342,23684,6.70%,3.00%,1.40%,3.50%,0.00%,9.30%,25.50%,11.00%,0.60%,64.60%,53.90%
+23,Concordia College at Moorhead,Concordia College Moorhead,Minnesota,46800,85200,63,21,Private,4 Year,8230,39878,48108,39878,48108,0.50%,2.00%,1.50%,1.70%,0.00%,3.90%,7.20%,1.50%,6.40%,82.50%,60.20%
+24,Minneapolis College of Art and Design,Minneapolis College Art and Design,Minnesota,47400,84700,39,0,Private,4 Year,5610,39210,44820,39210,44820,0.90%,7.30%,4.00%,6.10%,0.00%,0.00%,18.30%,0.00%,24.80%,57.00%,65.60%
+25,St Catherine University,St Catherine University,Minnesota,48800,82600,65,2,Private,4 Year,9260,39669,48929,39669,48929,0.50%,8.40%,7.50%,4.60%,0.10%,0.90%,23.00%,1.90%,5.70%,70.40%,94.20%
+1,Mississippi State University,Mississippi State University,Mississippi,51100,94100,57,27,Public,4 Year,10090,8760,18850,23360,33450,0.50%,1.30%,19.20%,2.30%,0.10%,3.90%,24.80%,1.40%,0.80%,70.60%,48.60%
+2,University of Mississippi,University Mississippi,Mississippi,48500,89100,55,12,Public,4 Year,10696,8660,19356,24614,35310,0.30%,1.90%,14.10%,2.70%,0.10%,3.50%,21.20%,2.10%,0.20%,75.00%,56.10%
+3,Millsaps College,Millsaps College,Mississippi,49300,88700,56,24,Private,4 Year,13730,39910,53640,39910,53640,0.70%,4.20%,10.60%,2.10%,0.00%,3.70%,18.30%,0.70%,3.30%,74.70%,49.00%
+4,University of Southern Mississippi,University Southern Mississippi,Mississippi,45100,83900,56,11,Public,4 Year,9857,8734,18591,10734,20591,0.30%,1.20%,27.30%,3.10%,0.10%,2.50%,34.10%,2.10%,0.50%,62.90%,63.20%
+5,Mississippi College,Mississippi College,Mississippi,45200,79500,57,20,Private,4 Year,10300,18026,28326,18026,28326,0.50%,2.40%,23.40%,2.50%,0.10%,7.80%,29.90%,1.00%,5.30%,57.00%,59.40%
+6,Jackson State University,Jackson State University,Mississippi,41700,74600,67,16,Public,4 Year,9552,8226,17778,19454,29006,0.40%,0.50%,89.30%,0.40%,0.00%,2.90%,91.60%,1.00%,0.00%,5.50%,64.60%
+7,Belhaven University,Belhaven University,Mississippi,41200,74300,60,2,Private,4 Year,8500,25300,33800,25300,33800,0.60%,0.50%,54.80%,3.50%,0.20%,2.10%,61.00%,1.50%,8.90%,28.10%,68.40%
+8,Delta State University,Delta State University,Mississippi,40800,74200,63,5,Public,4 Year,7722,7246,14968,7246,14968,0.10%,0.70%,36.70%,1.20%,0.10%,3.10%,39.50%,0.60%,1.10%,56.30%,62.10%
+9,William Carey University,William Carey University,Mississippi,41100,71800,61,6,Private,4 Year,6810,12600,19410,12600,19410,0.40%,3.00%,27.80%,1.50%,0.00%,2.40%,32.80%,0.00%,1.30%,63.50%,67.00%
+10,Alcorn State University,Alcorn State University,Mississippi,40900,69500,67,19,Public,4 Year,9608,7144,16752,7144,16752,0.10%,0.30%,93.00%,0.30%,0.30%,1.60%,95.60%,1.60%,0.00%,2.80%,65.80%
+10,Mississippi University for Women,Mississippi University for Women,Mississippi,39500,69500,63,2,Public,4 Year,7424,7040,14464,7040,14464,0.20%,1.50%,36.60%,0.70%,0.10%,2.00%,39.60%,0.40%,0.00%,58.30%,81.30%
+12,Tougaloo College,Tougaloo College,Mississippi,36900,66400,69,18,Private,4 Year,6643,10790,17433,10790,17433,0.10%,0.00%,98.60%,0.40%,0.00%,0.40%,99.10%,0.00%,0.00%,0.40%,65.30%
+13,Rust College,Rust College,Mississippi,34800,62400,76,32,Private,4 Year,4300,9900,14200,9900,14200,0.00%,0.20%,96.00%,0.00%,0.00%,3.40%,96.20%,0.00%,0.00%,0.40%,58.50%
+14,Mississippi Valley State University,Mississippi Valley State University,Mississippi,32500,61900,70,11,Public,4 Year,8043,6570,14613,6570,14613,0.00%,0.60%,91.50%,1.10%,0.00%,0.00%,93.20%,0.00%,3.60%,3.20%,59.20%
+1,Missouri University of Science and Technology,Missouri University Science and Technology,Missouri,67300,122600,50,80,Public,4 Year,10274,10169,20443,28499,38773,0.30%,2.60%,3.40%,3.00%,0.20%,17.50%,11.40%,1.90%,3.60%,67.50%,22.60%
+2,Washington University in St Louis,Washington University St Louis,Missouri,64800,114900,42,30,Private,4 Year,16440,53399,69839,53399,69839,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+3,University of Missouri-Columbia,University Missouri Columbia,Missouri,52300,98600,49,17,Public,4 Year,10786,12055,22841,29025,39811,0.20%,2.30%,7.20%,3.30%,0.00%,6.80%,15.50%,2.50%,1.30%,76.40%,52.80%
+4,Saint Louis University,Saint Louis University,Missouri,54200,95300,56,13,Private,4 Year,12290,43884,56174,43884,56174,0.10%,6.50%,6.40%,3.30%,0.00%,5.70%,20.40%,4.10%,3.10%,70.80%,58.70%
+5,Barnes-Jewish College Goldfarb School of Nursing,Barnes Jewish College Goldfarb School Nursing,Missouri,55000,95200,83,0,Private,4 Year,NA,21150,21150,21150,21150,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6,William Jewell College,William Jewell College,Missouri,51400,94500,60,12,Private,4 Year,9930,34400,44330,34400,44330,0.40%,0.90%,5.60%,3.40%,0.20%,4.30%,16.10%,5.70%,2.40%,77.20%,60.00%
+7,Rockhurst University,Rockhurst University,Missouri,54000,92500,59,11,Private,4 Year,10200,37590,47790,37590,47790,0.20%,3.00%,4.90%,4.80%,0.10%,1.10%,15.60%,2.60%,7.90%,75.40%,57.90%
+8,Westminster College (Missouri),Westminster College (Missouri),Missouri,49400,91600,52,25,Private,4 Year,10140,27600,37740,27600,37740,2.20%,1.00%,7.90%,3.90%,0.20%,16.20%,16.20%,1.00%,2.50%,65.00%,43.00%
+9,University of Missouri-Kansas City,University Missouri Kansas City,Missouri,50800,89600,55,24,Public,4 Year,10334,9884,20218,25010,35344,0.40%,6.30%,10.70%,5.80%,0.10%,9.70%,26.20%,3.00%,5.00%,59.10%,55.40%
+10,University of Missouri-St Louis,University Missouri St Louis,Missouri,48700,87500,51,13,Public,4 Year,9450,10491,19941,27900,37350,0.40%,4.20%,14.40%,2.40%,0.10%,3.00%,22.70%,1.20%,5.10%,69.10%,59.80%
+11,Missouri State University-Springfield,Missouri State University Springfield,Missouri,45900,86800,50,9,Public,4 Year,8755,7452,16207,15342,24097,0.60%,1.40%,3.80%,3.20%,0.10%,6.20%,11.90%,2.80%,1.90%,80.00%,58.40%
+12,Truman State University,Truman State University,Missouri,47900,85800,48,16,Public,4 Year,8780,7729,16509,14581,23361,0.10%,1.80%,3.50%,2.80%,0.10%,6.40%,10.80%,2.50%,2.10%,80.70%,60.10%
+13,Northwest Missouri State University,Northwest Missouri State University,Missouri,46900,85100,50,26,Public,4 Year,10016,9805,19821,16457,26473,0.30%,0.60%,5.60%,2.70%,0.10%,10.50%,11.80%,2.50%,3.60%,74.10%,53.50%
+14,Park University,Park University,Missouri,48500,85000,56,7,Private,4 Year,8200,12650,20850,12650,20850,0.70%,2.50%,18.70%,12.40%,0.40%,1.40%,37.60%,2.80%,0.00%,61.10%,47.80%
+15,Webster University,Webster University,Missouri,46500,83500,50,2,Private,4 Year,11050,27900,38950,27900,38950,0.40%,2.50%,37.10%,6.90%,0.20%,2.10%,49.00%,1.90%,6.10%,42.70%,56.40%
+16,University of Central Missouri,University Central Missouri,Missouri,46900,83300,54,45,Public,4 Year,8766,7673,16439,14442,23208,0.20%,0.90%,6.60%,2.40%,0.10%,14.20%,12.20%,2.00%,13.50%,60.10%,53.40%
+17,Avila University,Avila University,Missouri,45900,81200,68,3,Private,4 Year,7200,19900,27100,19900,27100,0.70%,1.60%,18.80%,6.60%,0.30%,10.30%,30.30%,2.30%,0.00%,59.50%,65.30%
+18,Maryville University of Saint Louis,Maryville University Saint Louis,Missouri,46800,80100,53,2,Private,4 Year,10088,28470,38558,28470,38558,0.70%,2.80%,9.70%,3.70%,0.20%,1.90%,19.50%,2.40%,4.10%,74.50%,79.00%
+19,Drury University,Drury University,Missouri,42600,79400,60,12,Private,4 Year,8096,28365,36461,28365,36461,1.00%,1.10%,3.80%,4.90%,0.20%,4.70%,12.90%,2.00%,0.00%,82.40%,60.50%
+20,Southeast Missouri State University,Southeast Missouri State University,Missouri,43700,79100,52,9,Public,4 Year,8935,7418,16353,13155,22090,0.50%,1.00%,8.50%,1.60%,0.00%,8.80%,11.60%,0.10%,5.70%,73.90%,57.30%
+21,Lindenwood University,Lindenwood University,Missouri,45100,78500,48,9,Private,4 Year,9000,17600,26600,17600,26600,0.40%,0.50%,16.60%,3.10%,0.20%,9.80%,23.20%,2.50%,10.70%,56.20%,58.70%
+22,Kansas City Art Institute,Kansas City Art Institute,Missouri,42500,77700,37,0,Private,4 Year,10400,38400,48800,38400,48800,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+22,Missouri Western State University,Missouri Western State University,Missouri,43400,77700,53,14,Public,4 Year,NA,6466,6466,14137,14137,0.50%,1.30%,10.30%,1.00%,0.20%,2.00%,16.10%,2.80%,3.30%,78.60%,58.10%
+24,Stephens College,Stephens College,Missouri,42800,77200,47,6,Private,4 Year,10632,30950,41582,30950,41582,0.30%,1.40%,13.60%,3.60%,0.50%,0.20%,24.90%,5.60%,2.40%,72.40%,96.40%
+25,Columbia College (Missouri),Columbia College (Missouri),Missouri,44100,76600,52,2,Private,4 Year,7808,22704,30512,22704,30512,1.00%,1.40%,23.80%,7.40%,0.50%,1.40%,36.70%,2.60%,6.00%,55.90%,59.00%
+1,Montana Tech of the University of Montana,Montana Tech University Montana,Montana,61200,112600,64,61,Public,4 Year,9656,7411,17067,22574,32230,1.70%,1.00%,1.10%,1.60%,0.00%,10.60%,5.40%,0.00%,6.40%,77.60%,32.50%
+2,Montana State University,Montana State University,Montana,53700,96200,54,31,Public,4 Year,10100,7421,17521,24849,34949,1.30%,0.90%,0.60%,3.10%,0.10%,4.40%,9.10%,3.00%,3.40%,83.20%,46.40%
+3,Carroll College,Carroll College,Montana,48200,91400,55,25,Private,4 Year,9880,35486,45366,35486,45366,1.30%,1.50%,0.80%,4.90%,0.30%,1.60%,10.30%,1.60%,9.40%,78.70%,58.30%
+4,The University of Montana,University Montana,Montana,46500,87800,51,8,Public,4 Year,9544,7244,16788,24959,34503,2.90%,2.50%,0.70%,3.60%,0.20%,4.50%,13.60%,3.60%,7.10%,74.90%,54.40%
+5,Rocky Mountain College,Rocky Mountain College,Montana,46000,82900,59,12,Private,4 Year,8330,28512,36842,28512,36842,2.10%,1.00%,3.20%,1.80%,0.50%,4.70%,15.20%,6.70%,2.30%,77.90%,48.40%
+6,University of Providence,University Providence,Montana,44700,81900,69,16,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+7,Montana State University-Billings,Montana State University Billings,Montana,43300,77700,59,5,Public,4 Year,7680,5930,13610,19250,26930,4.00%,1.00%,1.10%,4.60%,0.30%,2.80%,13.50%,2.40%,1.30%,82.40%,63.20%
+8,Montana State University-Northern,Montana State University Northern,Montana,43400,75400,63,1,Public,4 Year,6520,5956,12476,18556,25076,12.50%,1.20%,1.40%,1.20%,0.30%,1.50%,17.10%,0.40%,4.90%,76.60%,49.70%
+9,The University of Montana-Western,University Montana Western,Montana,35400,63700,63,4,Public,4 Year,7950,5717,13667,17179,25129,1.80%,0.90%,0.90%,3.50%,0.40%,0.00%,8.70%,1.10%,5.10%,86.30%,56.60%
+1,University of Nebraska-Lincoln,University Nebraska Lincoln,Nebraska,51500,96700,53,20,Public,4 Year,11430,9154,20584,24949,36379,0.20%,2.30%,2.50%,4.60%,0.10%,9.90%,12.00%,2.30%,2.40%,75.60%,47.80%
+2,Creighton University,Creighton University,Nebraska,53500,95800,56,9,Private,4 Year,11036,39916,50952,39916,50952,0.40%,9.00%,4.00%,5.70%,0.30%,2.40%,22.60%,3.10%,2.60%,72.40%,57.20%
+3,University of Nebraska Medical Center,University Nebraska Medical Center,Nebraska,53400,93000,79,6,Public,4 Year,NA,11558,11558,28898,28898,0.30%,4.70%,1.70%,3.30%,0.00%,8.20%,11.10%,1.20%,1.80%,78.80%,64.20%
+4,Clarkson College,Clarkson College,Nebraska,50900,91500,74,0,Private,4 Year,5398,16920,22318,16920,22318,0.60%,2.40%,4.30%,2.90%,0.20%,0.00%,12.00%,1.60%,10.20%,77.90%,87.80%
+5,Nebraska Methodist College of Nursing & Allied Health,Nebraska Methodist College Nursing & Allied Health,Nebraska,51300,89800,84,0,Private,4 Year,9586,18048,27634,18048,27634,0.50%,1.50%,3.90%,3.40%,0.10%,0.30%,11.40%,2.00%,1.60%,86.70%,89.80%
+6,University of Nebraska at Omaha,University Nebraska Omaha,Nebraska,49400,89500,52,18,Public,4 Year,9950,8417,18367,22689,32639,0.40%,2.90%,6.00%,8.60%,0.10%,5.60%,21.40%,3.50%,2.80%,70.20%,52.60%
+7,Union College (Nebraska),Union College (Nebraska),Nebraska,49100,87800,55,9,Private,4 Year,7070,23780,30850,23780,30850,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+8,Hastings College,Hastings College,Nebraska,48600,87100,55,14,Private,4 Year,9700,30050,39750,30050,39750,0.50%,1.30%,3.40%,5.50%,0.30%,1.80%,13.80%,2.70%,1.10%,83.30%,48.80%
+9,Doane University-Arts & Sciences,Doane University Arts & Sciences,Nebraska,47300,85300,51,21,Private,4 Year,9400,33800,43200,33800,43200,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+10,Bellevue University,Bellevue University,Nebraska,49400,84800,57,23,Private,4 Year,8730,9390,18120,9390,18120,0.50%,2.20%,11.80%,6.80%,0.30%,2.90%,23.80%,2.10%,16.20%,57.10%,53.20%
+11,University of Nebraska at Kearney,University Nebraska Kearney,Nebraska,44300,80800,52,8,Public,4 Year,9878,7513,17391,14503,24381,0.20%,0.90%,1.80%,8.50%,0.00%,6.20%,12.70%,1.30%,1.00%,80.20%,59.40%
+12,Nebraska Wesleyan University,Nebraska Wesleyan University,Nebraska,45700,80500,60,8,Private,4 Year,9622,34202,43824,34202,43824,0.30%,1.80%,2.90%,4.40%,0.10%,2.10%,10.90%,1.40%,5.30%,81.70%,63.80%
+13,Midland University,Midland University,Nebraska,43800,78100,60,7,Private,4 Year,8776,32558,41334,32558,41334,0.40%,0.70%,5.00%,2.80%,0.40%,4.80%,16.10%,6.80%,14.70%,64.50%,50.10%
+14,College of Saint Mary,College Saint Mary,Nebraska,43900,77700,45,9,Private,4 Year,7700,20350,28050,20350,28050,0.50%,1.70%,6.20%,10.00%,0.10%,0.70%,20.90%,2.50%,0.40%,78.00%,97.70%
+15,Doane University-Graduate and Professional Studies,Doane University Graduate and Professional Studies,Nebraska,43200,77000,54,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+16,Chadron State College,Chadron State College,Nebraska,42300,76700,66,3,Public,4 Year,7380,7196,14576,7196,14576,1.20%,0.80%,3.80%,5.90%,0.40%,1.80%,14.90%,2.70%,7.60%,75.70%,58.20%
+17,Peru State College,Peru State College,Nebraska,42600,74800,50,6,Public,4 Year,8010,7452,15462,7482,15492,0.60%,1.20%,7.30%,5.20%,0.30%,0.00%,17.30%,2.70%,4.70%,78.00%,59.90%
+18,Wayne State College,Wayne State College,Nebraska,40600,73400,54,11,Public,4 Year,7668,6989,14657,12299,19967,0.70%,0.50%,2.70%,6.60%,0.10%,0.50%,12.20%,1.60%,8.40%,78.80%,57.30%
+19,Concordia University-Nebraska,Concordia University Nebraska,Nebraska,39700,68900,48,5,Private,4 Year,8470,32220,40690,32220,40690,0.40%,1.70%,5.10%,3.60%,0.20%,0.80%,11.50%,0.60%,7.80%,79.80%,60.40%
+1,Sierra Nevada College,Sierra Nevada College,Nevada,54000,95500,39,2,Private,4 Year,13357,34241,47598,34241,47598,3.00%,1.80%,3.90%,3.20%,1.00%,2.30%,13.20%,0.30%,15.20%,69.30%,57.70%
+2,University of Nevada-Reno,University Nevada Reno,Nevada,52700,95000,47,24,Public,4 Year,10868,7925,18793,22397,33265,0.70%,6.70%,3.40%,16.50%,0.40%,3.20%,33.50%,5.70%,1.00%,62.30%,52.60%
+3,University of Nevada-Las Vegas,University Nevada Las Vegas,Nevada,50400,90400,46,12,Public,4 Year,10504,7985,18489,22457,32961,0.30%,14.20%,7.50%,22.70%,1.30%,4.10%,54.20%,8.10%,2.20%,39.60%,55.40%
+1,Dartmouth College,Dartmouth College,New-Hampshire,71500,130900,44,35,Private,4 Year,15756,55453,71209,55453,71209,1.60%,12.30%,5.40%,7.10%,0.10%,15.30%,30.40%,3.90%,7.10%,47.10%,47.10%
+2,Saint Anselm College,Saint Anselm College,New-Hampshire,56400,100300,59,11,Private,4 Year,14500,41200,55700,41200,55700,0.20%,0.60%,1.80%,2.90%,0.10%,0.60%,7.30%,1.70%,12.30%,79.80%,60.30%
+2,University of New Hampshire-Main Campus,University New Hampshire,New-Hampshire,54300,100300,50,23,Public,4 Year,11580,18499,30079,33879,45459,0.20%,2.10%,1.10%,3.00%,0.00%,3.60%,7.80%,1.40%,9.80%,78.80%,54.80%
+4,University of New Hampshire at Manchester,University New Hampshire Manchester,New-Hampshire,51900,90900,50,32,Public,4 Year,NA,15265,15265,30635,30635,0.10%,2.40%,1.50%,3.60%,0.00%,0.20%,9.60%,2.00%,20.00%,70.10%,52.40%
+5,Thomas More College of Liberal Arts,Thomas More College Liberal Arts,New-Hampshire,48900,88300,NA,0,Private,4 Year,9700,21600,31300,21600,31300,0.00%,2.20%,1.10%,2.20%,0.00%,4.30%,5.40%,0.00%,14.00%,76.30%,57.00%
+6,New England College,New England College,New-Hampshire,45700,86400,43,24,Private,4 Year,14222,37914,52136,37914,52136,0.50%,2.00%,17.10%,6.20%,0.00%,3.60%,26.60%,0.80%,6.60%,63.20%,59.30%
+7,Franklin Pierce University,Franklin Pierce University,New-Hampshire,47800,85600,52,3,Private,4 Year,13345,36900,50245,36900,50245,0.40%,1.60%,3.60%,1.80%,0.10%,2.40%,10.20%,2.80%,11.30%,76.10%,56.30%
+8,Rivier University,Rivier University,New-Hampshire,49500,85100,58,41,Private,4 Year,12526,31790,44316,31790,44316,0.40%,12.50%,2.50%,3.70%,0.10%,0.00%,20.70%,1.50%,8.00%,71.30%,74.60%
+9,Colby-Sawyer College,Colby Sawyer College,New-Hampshire,46400,83700,43,7,Private,4 Year,14264,42398,56662,42398,56662,0.20%,1.50%,6.40%,3.00%,0.10%,10.20%,11.80%,0.50%,15.30%,62.80%,69.30%
+10,Keene State College,Keene State College,New-Hampshire,48900,83600,49,8,Public,4 Year,11026,14212,25238,23176,34202,0.30%,1.10%,1.00%,3.10%,0.00%,0.00%,7.50%,2.00%,8.70%,83.80%,57.10%
+11,Southern New Hampshire University,Southern New Hampshire University,New-Hampshire,47400,83400,49,8,Private,4 Year,13120,31136,44256,31136,44256,0.40%,0.80%,5.50%,2.30%,0.10%,2.90%,9.20%,0.10%,62.90%,25.10%,60.80%
+12,Plymouth State University,Plymouth State University,New-Hampshire,47000,82200,50,6,Public,4 Year,11100,14099,25199,22769,33869,0.30%,2.10%,2.10%,2.50%,0.00%,2.60%,8.20%,1.30%,11.30%,78.00%,52.00%
+13,Granite State College,Granite State College,New-Hampshire,43500,76900,67,3,Public,4 Year,NA,9645,9645,10875,10875,0.50%,0.90%,1.40%,2.10%,0.00%,0.00%,6.60%,1.70%,8.90%,84.50%,74.20%
+1,Stevens Institute of Technology,Stevens Institute Technology,New-Jersey,75100,139900,47,79,Private,4 Year,15244,52202,67446,52202,67446,0.10%,7.10%,1.60%,5.20%,0.00%,31.00%,14.00%,0.00%,19.70%,35.30%,28.40%
+2,Princeton University,Princeton University,New-Jersey,75200,139400,48,48,Private,4 Year,16290,49330,65620,49330,65620,0.10%,15.90%,5.90%,7.10%,0.10%,20.90%,32.50%,3.50%,3.40%,43.20%,45.40%
+3,New Jersey Institute of Technology,New Jersey Institute Technology,New-Jersey,64600,121300,51,75,Public,4 Year,13600,17338,30938,32750,46350,0.10%,17.90%,8.40%,16.40%,0.00%,16.90%,45.30%,2.50%,10.20%,27.60%,25.00%
+4,Rutgers University-New Brunswick,Rutgers University New Brunswick,New-Jersey,59800,111000,42,29,Public,4 Year,12706,14974,27680,31282,43988,0.10%,22.40%,8.00%,11.20%,0.30%,9.70%,44.80%,2.80%,2.30%,43.20%,53.50%
+5,Seton Hall University,Seton Hall University,New-Jersey,57100,103800,45,8,Private,4 Year,15800,42470,58270,42470,58270,0.10%,7.10%,11.40%,14.20%,0.30%,4.20%,35.10%,2.00%,10.80%,49.90%,58.60%
+6,Rutgers University-Newark,Rutgers University Newark,New-Jersey,57900,101800,52,11,Public,4 Year,13536,14409,27945,30717,44253,0.10%,18.40%,15.80%,18.70%,0.80%,7.30%,56.20%,2.40%,5.70%,30.80%,49.00%
+6,The College of New Jersey,College New Jersey,New-Jersey,58200,101800,44,16,Public,4 Year,13617,16551,30168,28266,41883,0.20%,9.60%,5.20%,12.00%,0.30%,0.20%,28.00%,0.60%,7.30%,64.50%,59.80%
+8,Rider University,Rider University,New-Jersey,51600,99000,47,5,Private,4 Year,14700,41310,56010,41310,56010,0.20%,4.40%,10.00%,10.00%,0.20%,4.10%,26.90%,2.20%,5.30%,63.60%,60.10%
+9,Fairleigh Dickinson University-Florham Campus,Fairleigh Dickinson University Florham,New-Jersey,53700,98500,42,6,Private,4 Year,13392,42618,56010,42618,56010,0.50%,5.90%,11.00%,13.20%,0.20%,2.50%,32.50%,1.70%,7.10%,57.90%,56.70%
+11,Felician University,Felician University,New-Jersey,53200,98200,51,10,Private,4 Year,12880,34315,47195,34315,47195,0.50%,6.90%,19.60%,24.90%,0.60%,2.70%,53.00%,0.60%,7.60%,36.70%,74.20%
+12,Saint Peter's University,Saint Peter's University,New-Jersey,52900,95900,35,14,Private,4 Year,15414,37486,52900,37486,52900,0.70%,7.10%,24.80%,28.80%,0.40%,2.20%,63.60%,1.70%,11.10%,23.10%,61.40%
+13,Thomas Edison State University,Thomas Edison State University,New-Jersey,52500,95600,54,0,Public,4 Year,NA,7519,7519,9967,9967,0.60%,3.90%,14.70%,8.40%,0.60%,1.00%,29.90%,1.60%,13.40%,55.70%,48.50%
+14,Montclair State University,Montclair State University,New-Jersey,50800,95400,42,9,Public,4 Year,15564,12790,28354,20578,36142,0.10%,5.10%,9.70%,22.20%,0.20%,2.80%,40.40%,3.20%,8.70%,48.10%,63.20%
+15,Ramapo College of New Jersey,Ramapo College New Jersey,New-Jersey,51600,95200,41,12,Public,4 Year,12450,14374,26824,23715,36165,0.30%,6.30%,5.30%,13.00%,0.20%,1.60%,26.20%,1.20%,7.70%,64.50%,56.00%
+16,Drew University,Drew University,New-Jersey,52800,95000,37,16,Private,4 Year,14108,39500,53608,39500,53608,0.20%,5.00%,11.80%,9.70%,0.10%,8.50%,29.20%,2.50%,14.20%,48.10%,59.00%
+17,Rutgers University-Camden,Rutgers University Camden,New-Jersey,51100,93900,50,9,Public,4 Year,12336,14835,27171,30613,42949,0.10%,8.30%,15.40%,11.40%,0.20%,1.90%,38.80%,3.30%,3.40%,56.00%,54.60%
+18,Monmouth University,Monmouth University,New-Jersey,52200,93200,44,13,Private,4 Year,13981,38138,52119,38138,52119,0.10%,3.40%,5.50%,9.10%,0.10%,2.10%,20.20%,2.00%,4.20%,73.50%,63.70%
+19,Fairleigh Dickinson University-Metropolitan Campus,Fairleigh Dickinson University Metropolitan,New-Jersey,50800,93000,43,23,Private,4 Year,13348,40236,53584,40236,53584,0.20%,5.20%,10.00%,21.20%,0.30%,12.70%,37.50%,0.60%,9.40%,40.30%,58.80%
+20,Rowan University,Rowan University,New-Jersey,51100,91200,43,21,Public,4 Year,12552,13697,26249,22339,34891,0.20%,5.50%,9.10%,8.80%,0.10%,1.10%,25.90%,2.10%,4.00%,69.10%,50.30%
+21,William Paterson University of New Jersey,William Paterson University New Jersey,New-Jersey,50500,90200,44,7,Public,4 Year,11445,13060,24505,21260,32705,0.10%,6.40%,13.40%,24.80%,0.20%,1.00%,47.20%,2.30%,4.60%,47.20%,57.50%
+22,Kean University,Kean University,New-Jersey,48200,90000,51,10,Public,4 Year,14470,12348,26818,19383,33853,0.10%,5.60%,19.50%,24.00%,0.30%,1.40%,51.20%,1.70%,6.80%,40.60%,62.90%
+23,Bloomfield College,Bloomfield College,New-Jersey,48400,89100,55,17,Private,4 Year,11950,29550,41500,29550,41500,0.60%,2.80%,52.10%,24.20%,0.40%,3.50%,80.60%,0.50%,5.10%,10.80%,63.80%
+24,New Jersey City University,New Jersey City University,New-Jersey,48700,87600,55,9,Public,4 Year,12738,12051,24789,21573,34311,0.20%,8.10%,20.00%,32.20%,0.00%,1.80%,61.80%,1.20%,8.00%,28.50%,63.40%
+25,Stockton University,Stockton University,New-Jersey,47400,85800,49,16,Public,4 Year,12282,13739,26021,20866,33148,0.10%,5.10%,6.20%,9.90%,0.10%,0.40%,24.30%,2.80%,1.70%,73.70%,60.90%
+1,New Mexico Institute of Mining and Technology,New Mexico Institute Mining and Technology,New-Mexico,64700,120400,61,91,Public,4 Year,8510,7770,16280,22268,30778,2.50%,3.10%,2.20%,24.50%,0.10%,7.10%,35.80%,3.30%,1.10%,56.00%,32.20%
+2,New Mexico State University-Main Campus,New Mexico State University,New-Mexico,50400,96700,60,22,Public,4 Year,9252,7368,16620,23508,32760,2.30%,1.40%,2.90%,48.90%,0.20%,7.60%,57.20%,1.60%,3.30%,31.80%,53.70%
+3,University of New Mexico-Main Campus,University New Mexico,New-Mexico,48400,94000,59,19,Public,4 Year,9864,5445,15309,26845,36709,5.10%,3.30%,2.40%,40.60%,0.20%,4.60%,54.70%,3.10%,2.10%,38.70%,55.20%
+4,Eastern New Mexico University-Main Campus,Eastern New Mexico University,New-Mexico,44500,80500,61,5,Public,4 Year,7162,6206,13368,8128,15290,2.70%,1.10%,4.40%,32.90%,0.40%,2.10%,44.00%,2.50%,7.40%,46.50%,59.20%
+5,Western New Mexico University,Western New Mexico University,New-Mexico,41700,76700,75,4,Public,4 Year,9136,6824,15960,15231,24367,2.80%,1.30%,4.10%,40.50%,0.10%,1.40%,49.30%,0.50%,21.40%,27.90%,62.40%
+6,New Mexico Highlands University,New Mexico Highlands University,New-Mexico,40400,73800,63,4,Public,4 Year,7872,6150,14022,10302,18174,6.60%,0.80%,4.60%,53.30%,0.50%,5.60%,67.00%,1.20%,3.60%,23.80%,64.00%
+1,Albany College of Pharmacy and Health Sciences,Albany College Pharmacy and Health Sciences,New-York,81000,144800,82,2,Private,4 Year,10920,35105,46025,35105,46025,0.30%,14.60%,3.80%,4.00%,0.10%,7.50%,23.80%,1.00%,5.50%,63.10%,59.60%
+2,United States Military Academy,United States Military Academy,New-York,80200,144000,61,39,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+3,Webb Institute,Webb Institute,New-York,80800,141800,NA,100,Private,4 Year,15050,50175,65225,50175,65225,0.00%,8.90%,0.00%,0.00%,0.00%,1.10%,13.30%,4.40%,1.10%,84.40%,13.30%
+4,United States Merchant Marine Academy,United States Merchant Marine Academy,New-York,80600,140700,62,56,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+4,SUNY Maritime College,SUNY Maritime College,New-York,74900,140700,53,32,Public,4 Year,12522,8283,20805,18063,30585,0.10%,4.10%,4.10%,7.10%,0.10%,4.20%,16.50%,1.20%,10.10%,69.20%,11.70%
+6,Rensselaer Polytechnic Institute,Rensselaer Polytechnic Institute,New-York,71300,134100,49,78,Private,4 Year,15260,53880,69140,53880,69140,0.10%,9.20%,2.70%,6.40%,0.00%,16.80%,24.10%,5.60%,1.90%,57.20%,30.40%
+7,Colgate University,Colgate University,New-York,68400,130600,41,26,Private,4 Year,13995,55870,69865,55870,69865,0.10%,3.60%,4.20%,8.40%,0.10%,8.70%,19.80%,3.50%,4.20%,67.20%,54.40%
+8,Clarkson University,Clarkson University,New-York,66400,130100,58,58,Private,4 Year,14908,49444,64352,49444,64352,0.30%,3.20%,2.00%,4.40%,0.00%,8.20%,11.70%,1.90%,2.80%,77.30%,30.60%
+9,Cornell University,Cornell University,New-York,70100,128200,45,43,Private,4 Year,14816,55188,70004,55188,70004,0.30%,14.40%,4.90%,9.20%,0.10%,20.20%,32.40%,3.50%,7.70%,39.70%,48.50%
+10,Columbia University in the City of New York,Columbia University City New York,New-York,71400,126800,45,30,Private,4 Year,14016,59985,74001,59985,74001,0.30%,12.60%,5.10%,7.90%,0.10%,30.20%,28.60%,2.70%,6.50%,34.70%,50.70%
+11,Cooper Union for the Advancement of Science and Art,Cooper Union for Advancement Science and Art,New-York,68500,126200,46,56,Private,4 Year,16638,46700,63338,46700,63338,1.00%,19.80%,5.20%,9.60%,0.00%,15.30%,37.50%,1.90%,14.60%,32.60%,34.00%
+12,Manhattan College,Manhattan College,New-York,64000,125700,46,40,Private,4 Year,16200,43480,59680,43480,59680,0.20%,3.80%,3.50%,17.70%,0.00%,3.40%,26.90%,1.80%,16.20%,53.40%,45.10%
+13,New York University,New York University,New-York,63100,117700,42,18,Private,4 Year,18156,51828,69984,51828,69984,0.20%,14.80%,4.80%,8.70%,0.10%,23.30%,31.10%,2.50%,10.40%,35.20%,55.10%
+14,Union College (New York),Union College (New York),New-York,63300,117500,50,47,Private,4 Year,13563,55290,68853,55290,68853,0.00%,6.10%,3.70%,6.50%,0.00%,7.90%,18.50%,2.10%,0.20%,73.40%,45.80%
+15,Yeshiva University,Yeshiva University,New-York,63500,112800,40,11,Private,4 Year,12250,43500,55750,43500,55750,0.10%,4.60%,2.30%,3.10%,0.20%,10.10%,10.70%,0.50%,14.70%,64.50%,51.70%
+16,University of Rochester,University Rochester,New-York,61100,112700,50,32,Private,4 Year,15938,53926,69864,53926,69864,0.30%,8.30%,4.40%,4.80%,0.00%,23.60%,20.00%,2.20%,8.30%,48.10%,50.90%
+17,Fordham University,Fordham University,New-York,58700,112500,38,10,Private,4 Year,17969,52687,70656,52687,70656,0.10%,7.60%,6.30%,12.30%,0.10%,12.50%,29.20%,2.80%,3.30%,54.90%,58.50%
+18,Hofstra University,Hofstra University,New-York,57300,110400,38,7,Private,4 Year,15948,46760,62708,46760,62708,0.30%,8.20%,8.30%,11.40%,0.70%,9.80%,30.70%,1.80%,5.50%,54.00%,56.00%
+19,Barnard College,Barnard College,New-York,59200,109800,57,19,Private,4 Year,17225,55032,72257,55032,72257,0.00%,14.30%,6.50%,11.10%,0.00%,7.50%,37.20%,5.20%,0.60%,54.80%,99.80%
+20,Binghamton University,Binghamton University,New-York,61300,109600,44,34,Public,4 Year,15058,9808,24866,24488,39546,0.10%,12.40%,4.70%,8.80%,0.10%,16.40%,28.10%,2.10%,3.10%,52.40%,47.60%
+21,SUNY Downstate Medical Center,SUNY Downstate Medical Center,New-York,64000,109300,83,0,Public,4 Year,NA,7481,7481,16931,16931,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+22,Hobart William Smith Colleges,Hobart William Smith Colleges,New-York,56500,108500,46,18,Private,4 Year,14785,55255,70040,55255,70040,0.60%,3.10%,4.50%,6.00%,0.10%,5.80%,14.30%,0.00%,12.30%,67.70%,52.20%
+23,Hamilton College,Hamilton College,New-York,62600,108100,45,25,Private,4 Year,13870,54620,68490,54620,68490,0.10%,7.40%,3.90%,7.80%,0.00%,4.90%,22.00%,2.80%,9.20%,63.90%,51.60%
+24,Pace University-New York,Pace University New York,New-York,59800,107800,40,14,Private,4 Year,19200,45280,64480,45280,64480,0.30%,8.50%,10.80%,12.30%,0.10%,13.80%,35.00%,2.90%,4.50%,46.80%,60.50%
+24,Stony Brook University,Stony Brook University,New-York,59200,107800,49,35,Public,4 Year,13698,9625,23323,27295,40993,0.10%,18.80%,5.90%,9.20%,0.10%,16.90%,36.00%,1.90%,7.70%,39.40%,48.90%
+1,Duke University,Duke University,North-Carolina,71100,132100,50,26,Private,4 Year,15178,55695,70873,55695,70873,0.40%,14.30%,7.30%,5.00%,0.10%,18.30%,29.50%,2.30%,3.10%,49.10%,49.80%
+2,Wake Forest University,Wake Forest University,North-Carolina,60700,114800,44,13,Private,4 Year,16032,53322,69354,53322,69354,0.30%,4.30%,8.30%,5.60%,0.50%,6.30%,21.00%,2.10%,1.30%,71.30%,51.30%
+3,Davidson College,Davidson College,North-Carolina,57300,106900,50,28,Private,4 Year,14372,51447,65819,51447,65819,0.60%,5.80%,6.40%,6.60%,0.00%,5.90%,23.40%,4.00%,1.80%,68.90%,50.60%
+4,North Carolina State University at Raleigh,North Carolina State University Raleigh,North-Carolina,57300,106500,52,47,Public,4 Year,11078,9101,20179,28444,39522,0.40%,4.90%,6.50%,4.10%,0.10%,11.00%,18.80%,2.80%,2.80%,67.40%,44.30%
+5,University of North Carolina at Chapel Hill,University North Carolina Chapel Hill,North-Carolina,55000,100800,49,19,Public,4 Year,11190,8987,20177,35170,46360,0.50%,8.30%,7.90%,6.50%,0.20%,5.50%,27.90%,4.60%,2.90%,63.70%,56.60%
+6,Elon University,Elon University,North-Carolina,53600,93700,43,7,Private,4 Year,12230,35319,47549,35319,47549,0.40%,2.30%,6.00%,4.90%,0.00%,1.70%,15.30%,1.70%,1.40%,81.60%,59.50%
+7,North Carolina A & T State University,North Carolina A & T State University,North-Carolina,52600,93400,61,25,Public,4 Year,7624,6612,14236,19822,27446,0.30%,1.00%,79.80%,2.30%,0.00%,4.30%,86.00%,2.60%,3.70%,6.00%,54.80%
+8,University of North Carolina at Charlotte,University North Carolina Charlotte,North-Carolina,52500,92600,49,25,Public,4 Year,11100,7044,18144,20478,31578,0.30%,4.90%,16.20%,7.30%,0.10%,6.20%,32.00%,3.10%,2.70%,59.10%,49.50%
+9,Queens University of Charlotte,Queens University Charlotte,North-Carolina,49400,86600,48,9,Private,4 Year,10860,34684,45544,34684,45544,0.40%,2.40%,17.10%,5.30%,0.00%,5.90%,26.50%,1.20%,10.90%,56.70%,70.30%
+10,Lenoir-Rhyne University,Lenoir Rhyne University,North-Carolina,46400,86300,54,7,Private,4 Year,12510,36400,48910,36400,48910,0.60%,1.50%,13.00%,2.90%,0.00%,1.80%,20.50%,2.50%,3.90%,73.80%,62.50%
+11,East Carolina University,East Carolina University,North-Carolina,48400,85400,55,11,Public,4 Year,9606,7188,16794,23465,33071,0.70%,2.80%,15.80%,5.40%,0.10%,0.90%,27.70%,2.90%,2.10%,69.30%,59.80%
+12,High Point University,High Point University,North-Carolina,48600,84300,50,8,Private,4 Year,14130,35118,49248,35118,49248,0.50%,1.40%,5.60%,3.90%,0.00%,1.50%,15.20%,3.80%,3.40%,79.90%,60.20%
+13,Johnson C Smith University,Johnson C Smith University,North-Carolina,45700,83300,57,16,Private,4 Year,7100,18236,25336,18236,25336,0.10%,0.10%,73.50%,6.10%,0.30%,2.90%,82.30%,2.20%,14.40%,0.40%,61.10%
+14,Belmont Abbey College,Belmont Abbey College,North-Carolina,46700,82900,49,7,Private,4 Year,10355,18500,28855,18500,28855,0.30%,1.00%,25.10%,1.50%,0.00%,1.30%,28.10%,0.30%,30.10%,40.40%,57.10%
+15,Appalachian State University,Appalachian State University,North-Carolina,46600,82700,47,9,Public,4 Year,8304,7214,15518,22021,30325,0.20%,1.50%,3.20%,3.90%,0.10%,1.20%,11.40%,2.40%,1.70%,85.70%,55.30%
+16,Campbell University,Campbell University,North-Carolina,46300,82400,56,8,Private,4 Year,11430,32500,43930,32500,43930,0.70%,3.20%,15.50%,5.60%,0.10%,2.00%,26.90%,1.80%,9.60%,61.50%,52.90%
+16,University of North Carolina School of the Arts,University North Carolina School Arts,North-Carolina,46400,82400,44,0,Public,4 Year,9021,9358,18379,25501,34522,0.50%,1.30%,7.50%,7.10%,0.20%,2.60%,21.20%,4.60%,3.20%,73.00%,48.20%
+18,John Wesley University,John Wesley University,North-Carolina,45100,82100,NA,0,Private,4 Year,3600,13330,16930,13330,16930,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+19,University of North Carolina Wilmington,University North Carolina Wilmington,North-Carolina,46400,80500,47,14,Public,4 Year,10686,7000,17686,21065,31751,0.50%,2.00%,5.50%,6.30%,0.10%,0.70%,17.30%,2.90%,2.70%,79.30%,62.10%
+19,Methodist University,Methodist University,North-Carolina,45800,80500,58,9,Private,4 Year,12890,33846,46736,33846,46736,0.80%,1.50%,18.40%,7.60%,0.20%,6.30%,31.90%,3.40%,11.40%,50.50%,46.30%
+21,North Carolina Wesleyan College,North Carolina Wesleyan College,North-Carolina,45300,78800,62,8,Private,4 Year,10800,31000,41800,31000,41800,1.00%,0.60%,47.80%,2.00%,0.00%,4.10%,53.10%,1.70%,12.80%,30.10%,58.20%
+22,Catawba College,Catawba College,North-Carolina,42500,78100,58,11,Private,4 Year,10488,30520,41008,30520,41008,0.90%,1.20%,20.40%,3.70%,0.00%,2.60%,28.30%,2.20%,0.20%,68.80%,53.20%
+23,Pfeiffer University,Pfeiffer University,North-Carolina,44200,78000,51,4,Private,4 Year,11226,30234,41460,30234,41460,0.30%,1.30%,25.80%,3.20%,0.10%,5.20%,31.80%,1.10%,9.20%,53.80%,64.30%
+24,Barton College,Barton College,North-Carolina,42400,77900,62,6,Private,4 Year,10120,30880,41000,30880,41000,0.90%,1.20%,23.70%,5.30%,0.00%,2.90%,33.70%,2.70%,5.00%,58.40%,69.20%
+25,Western Carolina University,Western Carolina University,North-Carolina,44700,77700,58,8,Public,4 Year,9682,4220,13902,8220,17902,0.80%,1.30%,6.40%,4.80%,0.10%,2.70%,16.50%,3.10%,0.90%,79.80%,56.30%
+1,North Dakota State University-Main Campus,North Dakota State University,North-Dakota,54200,98600,56,27,Public,4 Year,8565,9294,17859,13273,21838,0.70%,1.50%,2.40%,1.70%,0.10%,7.20%,8.20%,1.80%,4.10%,80.50%,46.00%
+2,University of North Dakota,University North Dakota,North-Dakota,53800,96000,54,16,Public,4 Year,8974,8695,17669,20759,29733,1.70%,1.40%,2.30%,2.80%,0.10%,6.70%,11.00%,2.70%,3.30%,78.90%,47.40%
+3,University of Jamestown,University Jamestown,North-Dakota,47600,85400,64,11,Private,4 Year,7570,21976,29546,21976,29546,1.50%,1.10%,4.10%,4.90%,0.30%,6.10%,12.10%,0.00%,0.10%,81.80%,54.40%
+4,Mayville State University,Mayville State University,North-Dakota,43700,81300,44,10,Public,4 Year,7840,6666,14506,9399,17239,1.80%,0.20%,6.50%,4.70%,0.50%,2.70%,16.60%,3.00%,0.60%,80.20%,56.40%
+5,Dickinson State University,Dickinson State University,North-Dakota,46400,81200,55,8,Public,4 Year,6898,6765,13663,9544,16442,0.90%,0.60%,4.10%,4.50%,0.30%,5.40%,12.90%,2.60%,2.80%,78.90%,60.00%
+6,University of Mary,University Mary,North-Dakota,46400,79100,64,3,Private,4 Year,6890,18720,25610,18720,25610,1.70%,1.10%,2.70%,3.00%,0.20%,1.70%,10.30%,1.50%,7.50%,80.50%,65.40%
+7,Minot State University,Minot State University,North-Dakota,44500,74100,55,7,Public,4 Year,6610,7064,13674,7064,13674,1.50%,1.30%,4.90%,4.90%,0.40%,12.10%,16.00%,2.90%,2.80%,69.20%,60.60%
+8,Valley City State University,Valley City State University,North-Dakota,39900,68600,56,3,Public,4 Year,6446,7626,14072,17166,23612,0.90%,0.50%,3.10%,4.20%,0.10%,3.30%,11.50%,2.70%,1.30%,83.90%,59.30%
+9,Trinity Bible College and Graduate School,Trinity Bible College and Graduate School,North-Dakota,34100,61300,NA,0,Private,4 Year,6132,16320,22452,16320,22452,4.30%,0.00%,7.80%,1.70%,2.60%,0.90%,20.40%,3.90%,0.00%,78.70%,36.10%
+1,Case Western Reserve University,Case Western Reserve University,Ohio,66600,117800,44,37,Private,4 Year,15190,49042,64232,49042,64232,0.10%,14.30%,5.20%,4.10%,0.00%,18.80%,26.30%,2.50%,4.90%,49.90%,49.90%
+2,Miami University-Oxford,Miami University Oxford,Ohio,57200,107300,46,22,Public,4 Year,13860,15378,29238,34895,48755,0.20%,1.90%,3.30%,3.30%,0.00%,9.00%,11.80%,3.10%,1.20%,78.10%,53.70%
+3,Wittenberg University,Wittenberg University,Ohio,52400,105400,61,22,Private,4 Year,10356,39500,49856,39500,49856,0.20%,1.20%,6.50%,3.20%,0.10%,2.40%,15.90%,4.80%,1.50%,80.20%,56.90%
+4,University of Dayton,University Dayton,Ohio,57400,105000,44,33,Private,4 Year,13580,42900,56480,42900,56480,0.10%,1.40%,3.70%,2.70%,0.00%,15.70%,9.00%,1.10%,3.00%,72.40%,47.70%
+5,Denison University,Denison University,Ohio,54400,104800,45,22,Private,4 Year,12710,51960,64670,51960,64670,0.00%,3.70%,6.90%,10.10%,0.10%,7.20%,24.30%,3.50%,1.90%,66.50%,57.60%
+6,Ohio Northern University,Ohio Northern University,Ohio,54400,103900,49,22,Private,4 Year,11650,32260,43910,32260,43910,0.10%,1.50%,3.10%,1.10%,0.10%,6.30%,8.70%,2.80%,7.20%,77.80%,51.10%
+7,Kenyon College,Kenyon College,Ohio,55000,103800,50,17,Private,4 Year,12510,55930,68440,55930,68440,0.50%,5.20%,3.50%,6.00%,0.00%,4.60%,18.80%,3.50%,3.00%,73.60%,54.60%
+8,Mount Carmel College of Nursing,Mount Carmel College Nursing,Ohio,56600,99700,78,0,Private,4 Year,5000,13907,18907,13907,18907,0.40%,1.40%,5.90%,1.80%,0.20%,0.00%,11.90%,2.20%,1.40%,86.70%,90.40%
+9,Ohio Wesleyan University,Ohio Wesleyan University,Ohio,51300,99200,46,21,Private,4 Year,12430,45760,58190,45760,58190,0.10%,2.30%,6.70%,4.20%,0.00%,7.20%,17.80%,4.60%,2.70%,72.40%,53.50%
+10,Ohio State University-Main Campus,Ohio State University,Ohio,55300,98600,49,27,Public,4 Year,12434,10726,23160,30742,43176,0.10%,5.70%,5.30%,3.50%,0.10%,10.60%,17.30%,2.60%,3.00%,69.10%,49.10%
+11,John Carroll University,John Carroll University,Ohio,51600,97300,39,16,Private,4 Year,11874,41340,53214,41340,53214,0.10%,1.70%,5.00%,3.00%,0.00%,2.30%,11.80%,2.10%,2.00%,83.80%,50.70%
+11,University of Cincinnati-Main Campus,University Cincinnati,Ohio,53600,97300,50,19,Public,4 Year,11118,11000,22118,26334,37452,0.20%,3.20%,7.10%,2.80%,0.10%,8.80%,15.50%,2.10%,5.20%,70.50%,53.50%
+13,Oberlin College,Oberlin College,Ohio,53100,96800,47,21,Private,4 Year,16338,55054,71392,55054,71392,0.10%,4.20%,5.20%,7.20%,0.10%,7.30%,22.40%,5.60%,0.80%,69.50%,55.30%
+14,Kettering College,Kettering College,Ohio,54300,95800,NA,0,Private,4 Year,4100,16200,20300,16200,20300,0.30%,4.60%,4.60%,3.30%,0.10%,0.10%,14.90%,2.00%,1.20%,83.80%,79.60%
+15,Marietta College,Marietta College,Ohio,51200,94300,57,45,Private,4 Year,11320,36040,47360,36040,47360,0.10%,1.30%,4.60%,2.50%,0.00%,10.50%,10.70%,2.10%,5.60%,73.10%,42.90%
+16,Xavier University,Xavier University,Ohio,51800,94000,46,7,Private,4 Year,12780,38530,51310,38530,51310,0.20%,2.60%,9.00%,4.60%,0.20%,3.50%,19.30%,2.70%,3.50%,73.70%,56.60%
+17,Ohio University-Main Campus,Ohio University,Ohio,51400,93300,47,9,Public,4 Year,11830,12192,24022,21656,33486,0.10%,1.20%,5.10%,2.60%,0.10%,6.30%,11.90%,2.80%,1.90%,79.90%,58.10%
+18,University of Toledo,University Toledo,Ohio,51800,92500,52,21,Public,4 Year,11434,9795,21229,19133,30567,0.20%,2.90%,11.90%,4.10%,0.10%,8.20%,21.40%,2.30%,3.50%,66.90%,49.90%
+19,The College of Wooster,College Wooster,Ohio,49200,91300,56,32,Private,4 Year,11850,50250,62100,50250,62100,1.20%,4.40%,7.80%,4.60%,0.00%,8.20%,18.10%,0.00%,3.60%,70.20%,55.30%
+20,University of Akron Main Campus,University Akron,Ohio,50700,89200,48,22,Public,4 Year,12200,11463,23663,17750,29950,0.20%,2.40%,11.70%,2.30%,0.10%,5.80%,19.60%,2.90%,2.70%,71.90%,48.80%
+21,Cleveland State University,Cleveland State University,Ohio,48300,88600,51,20,Public,4 Year,13560,10625,24185,14992,28552,0.20%,3.00%,17.30%,4.30%,0.10%,8.50%,27.40%,2.60%,2.50%,61.60%,55.00%
+22,University of Mount Union,University Mount Union,Ohio,48300,88500,41,19,Private,4 Year,10200,31260,41460,31260,41460,0.20%,0.70%,5.40%,1.80%,0.00%,2.70%,11.80%,3.80%,3.60%,81.80%,50.10%
+23,The University of Findlay,University Findlay,Ohio,49100,87900,53,3,Private,4 Year,10000,34360,44360,34360,44360,0.10%,1.00%,3.10%,1.60%,0.00%,10.00%,7.20%,1.30%,1.50%,81.30%,61.10%
+24,Wright State University-Main Campus,Wright State University,Ohio,50300,87800,49,31,Public,4 Year,11832,9254,21086,18398,30230,0.20%,2.70%,11.50%,2.70%,0.10%,11.10%,20.70%,3.50%,0.70%,67.60%,51.60%
+25,Bowling Green State University-Main Campus,Bowling Green State University,Ohio,47200,87500,45,11,Public,4 Year,9168,11105,20273,19093,28261,0.20%,1.00%,9.10%,3.90%,0.10%,4.30%,16.90%,2.70%,2.80%,75.90%,56.70%
+1,University of Tulsa,University Tulsa,Oklahoma,58700,107200,51,36,Private,4 Year,11116,41509,52625,41509,52625,5.10%,2.70%,3.90%,4.00%,0.10%,26.20%,17.30%,1.50%,3.00%,53.50%,42.50%
+2,University of Oklahoma-Health Sciences Center,University Oklahoma Health Sciences Center,Oklahoma,57100,102100,68,3,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,3.60%,10.00%,3.50%,4.60%,0.10%,3.00%,28.30%,6.60%,2.00%,66.80%,67.00%
+3,University of Oklahoma-Norman Campus,University Oklahoma Norman,Oklahoma,54400,100600,52,23,Public,4 Year,10994,11763,22757,27144,38138,4.00%,5.00%,5.30%,8.10%,0.10%,7.30%,28.70%,6.30%,4.00%,60.00%,48.90%
+4,Oklahoma State University-Main Campus,Oklahoma State University,Oklahoma,52800,98600,54,25,Public,4 Year,8549,9019,17568,24539,33088,4.00%,2.70%,14.70%,9.60%,0.00%,0.00%,39.90%,9.00%,4.20%,55.80%,60.70%
+5,Oklahoma State University Institute of Technology,Oklahoma State University Institute Technology,Oklahoma,52600,92300,53,14,Public,2 Year,6988,5550,12538,11160,18148,16.20%,1.00%,4.30%,5.70%,0.20%,1.10%,35.20%,7.80%,5.10%,58.60%,36.10%
+6,Southwestern Oklahoma State University,Southwestern Oklahoma State University,Oklahoma,47900,90800,58,5,Public,4 Year,5830,7035,12865,13935,19765,4.20%,2.90%,5.20%,7.00%,0.10%,3.50%,26.70%,7.30%,2.00%,67.70%,58.70%
+7,Oklahoma City University,Oklahoma City University,Oklahoma,47700,87900,58,9,Private,4 Year,8896,31026,39922,31026,39922,2.90%,2.40%,5.30%,6.70%,0.00%,16.40%,24.00%,6.60%,0.70%,59.00%,58.60%
+7,Oklahoma Christian University,Oklahoma Christian University,Oklahoma,49700,87900,57,41,Private,4 Year,8190,22760,30950,22760,30950,1.90%,8.20%,12.40%,5.70%,0.00%,0.00%,34.50%,6.20%,0.00%,65.40%,46.20%
+9,Oral Roberts University,Oral Roberts University,Oklahoma,45900,85100,59,8,Private,4 Year,9450,27728,37178,27728,37178,3.20%,2.30%,16.20%,7.80%,0.00%,7.70%,34.00%,4.40%,9.80%,48.50%,56.20%
+10,University of Central Oklahoma,University Central Oklahoma,Oklahoma,45300,82900,56,8,Public,4 Year,7970,7488,15458,18376,26346,3.80%,3.00%,9.20%,7.50%,0.20%,8.80%,31.10%,7.50%,2.10%,58.00%,59.10%
+11,Langston University,Langston University,Oklahoma,46500,81500,66,8,Public,4 Year,9476,5950,15426,13300,22776,1.50%,0.00%,79.30%,1.20%,0.00%,0.20%,82.10%,0.00%,4.10%,13.70%,63.20%
+11,Cameron University,Cameron University,Oklahoma,43900,81500,54,14,Public,4 Year,5452,6450,11902,15870,21322,5.30%,1.70%,15.50%,11.60%,0.70%,4.70%,42.60%,7.70%,2.10%,50.60%,60.50%
+13,Southern Nazarene University,Southern Nazarene University,Oklahoma,46100,81000,62,5,Private,4 Year,8496,25188,33684,25188,33684,4.10%,2.40%,14.10%,5.90%,0.40%,3.20%,30.10%,3.10%,3.10%,63.60%,52.20%
+14,Southeastern Oklahoma State University,Southeastern Oklahoma State University,Oklahoma,45000,80500,53,15,Public,4 Year,6970,6750,13720,15390,22360,18.00%,1.00%,5.40%,4.00%,0.20%,2.50%,41.90%,13.50%,0.00%,55.60%,54.20%
+15,Oklahoma Wesleyan University,Oklahoma Wesleyan University,Oklahoma,43300,78700,58,1,Private,4 Year,8644,26956,35600,26956,35600,7.20%,0.40%,6.50%,7.10%,0.20%,5.70%,25.60%,4.10%,3.00%,65.80%,63.00%
+16,Northeastern State University,Northeastern State University,Oklahoma,44500,77600,58,7,Public,4 Year,7638,6650,14288,14720,22358,21.10%,2.00%,4.30%,4.10%,0.10%,1.50%,45.30%,13.70%,2.30%,51.00%,62.30%
+17,East Central University,East Central University,Oklahoma,44700,77500,66,9,Public,4 Year,5514,6810,12324,17700,23214,14.40%,0.50%,3.80%,4.40%,0.20%,5.80%,32.50%,9.20%,2.00%,59.70%,61.80%
+18,Northwestern Oklahoma State University,Northwestern Oklahoma State University,Oklahoma,42200,76800,55,11,Public,4 Year,4780,7036,11816,14153,18933,6.30%,0.70%,6.30%,6.90%,0.50%,6.10%,21.20%,0.50%,7.70%,65.00%,58.40%
+19,Oklahoma Baptist University,Oklahoma Baptist University,Oklahoma,43900,76600,62,8,Private,4 Year,7350,28258,35608,28258,35608,5.40%,0.90%,6.00%,2.30%,0.30%,3.70%,22.80%,8.00%,3.20%,70.20%,58.80%
+20,Oklahoma Panhandle State University,Oklahoma Panhandle State University,Oklahoma,42300,74400,54,10,Public,4 Year,4695,8194,12889,9133,13828,3.30%,1.30%,10.40%,16.30%,0.00%,1.70%,33.90%,2.60%,3.10%,61.30%,55.00%
+21,Mid-America Christian University,Mid America Christian University,Oklahoma,40700,74100,71,0,Private,4 Year,8036,18334,26370,18334,26370,3.90%,0.50%,27.60%,6.70%,0.40%,0.40%,42.90%,3.70%,3.50%,53.20%,64.50%
+22,Rogers State University,Rogers State University,Oklahoma,41400,73800,48,11,Public,4 Year,8616,6870,15486,15210,23826,12.70%,1.20%,2.30%,4.50%,0.10%,1.40%,38.40%,17.60%,0.40%,59.90%,62.50%
+23,University of Science and Arts of Oklahoma,University Science and Arts Oklahoma,Oklahoma,37300,67400,49,11,Public,4 Year,6350,7215,13565,17565,23915,11.30%,1.00%,4.10%,6.20%,0.00%,7.90%,28.70%,6.10%,0.20%,63.30%,64.50%
+1,Oregon Health & Science University,Oregon Health & Science University,Oregon,65400,108300,79,10,Public,4 Year,NA,19176,19176,33666,33666,0.50%,10.00%,1.20%,5.30%,0.20%,2.40%,21.10%,3.90%,3.30%,73.20%,65.00%
+2,Oregon Institute of Technology,Oregon Institute Technology,Oregon,61200,106800,60,27,Public,4 Year,9058,9987,19045,28056,37114,1.20%,5.40%,1.40%,8.40%,0.60%,1.00%,22.00%,5.00%,3.60%,73.40%,46.30%
+3,University of Portland,University Portland,Oregon,58500,104900,52,28,Private,4 Year,13450,45904,59354,45904,59354,0.20%,9.80%,1.00%,9.80%,1.50%,4.40%,30.40%,8.10%,2.60%,62.60%,59.10%
+3,Reed College,Reed College,Oregon,56100,104900,44,26,Private,4 Year,14210,56340,70550,56340,70550,0.30%,5.70%,1.90%,10.50%,0.20%,8.20%,26.70%,8.10%,6.70%,58.30%,53.40%
+5,Oregon State University,Oregon State University,Oregon,56200,104800,53,34,Public,4 Year,12855,11166,24021,30141,42996,0.60%,6.60%,1.40%,7.30%,0.30%,11.10%,21.90%,5.70%,3.00%,64.10%,46.50%
+6,Willamette University,Willamette University,Oregon,52200,97700,49,14,Private,4 Year,12440,50074,62514,50074,62514,1.20%,6.80%,1.90%,9.70%,0.30%,10.00%,27.10%,7.10%,4.50%,58.50%,53.80%
+7,University of Oregon,University Oregon,Oregon,51800,95800,46,13,Public,4 Year,12963,11898,24861,35478,48441,0.70%,5.30%,2.00%,8.50%,0.40%,13.00%,22.40%,5.50%,2.20%,62.40%,52.30%
+8,Pacific University,Pacific University,Oregon,50200,94000,66,8,Private,4 Year,12528,44298,56826,44298,56826,0.70%,13.90%,1.60%,7.90%,1.50%,3.80%,33.00%,7.30%,6.00%,57.30%,63.40%
+8,Linfield College-Online and Continuing Education,Linfield College Online and Continuing Education,Oregon,50900,94000,NA,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+10,Lewis & Clark College,Lewis & Clark College,Oregon,50000,93200,51,12,Private,4 Year,12490,50934,63424,50934,63424,1.60%,6.40%,2.10%,8.20%,0.30%,6.80%,19.40%,0.80%,8.00%,65.90%,60.00%
+11,Linfield College-McMinnville Campus,Linfield College McMinnville,Oregon,52100,92000,48,17,Private,4 Year,12420,43232,55652,43232,55652,0.80%,5.70%,1.70%,10.00%,0.60%,5.50%,29.60%,10.80%,2.70%,62.20%,61.70%
+12,Portland State University,Portland State University,Oregon,50800,90500,48,16,Public,4 Year,10428,9105,19533,27060,37488,1.40%,7.30%,3.20%,9.60%,0.60%,8.40%,26.80%,4.70%,5.20%,59.60%,53.50%
+13,George Fox University,George Fox University,Oregon,51200,89600,52,8,Private,4 Year,11250,36020,47270,36020,47270,0.60%,3.50%,1.80%,6.90%,0.50%,4.30%,17.90%,4.50%,7.20%,70.60%,56.40%
+14,Concordia University-Portland,Concordia University Portland,Oregon,48000,86100,69,1,Private,4 Year,9520,30908,40428,30908,40428,0.60%,2.40%,16.90%,6.70%,0.90%,0.80%,29.90%,2.30%,20.70%,48.60%,77.40%
+15,Pacific Northwest College of Art,Pacific Northwest College Art,Oregon,46300,85000,NA,0,Private,4 Year,12860,38250,51110,38250,51110,1.30%,2.30%,1.00%,5.20%,0.20%,2.50%,22.00%,11.90%,3.70%,71.90%,68.80%
+16,Southern Oregon University,Southern Oregon University,Oregon,46000,81200,54,6,Public,4 Year,13199,9654,22853,25584,38783,1.20%,2.10%,1.90%,8.00%,0.40%,2.50%,18.30%,4.60%,25.40%,53.80%,58.30%
+17,Northwest Christian University,Northwest Christian University,Oregon,45200,81100,62,5,Private,4 Year,9300,30050,39350,30050,39350,2.60%,2.10%,2.30%,8.10%,0.40%,0.00%,18.90%,3.40%,1.60%,79.60%,64.30%
+18,Warner Pacific College,Warner Pacific College,Oregon,45500,80500,58,10,Private,4 Year,9630,18740,28370,18740,28370,0.70%,4.30%,9.90%,17.30%,1.60%,1.40%,38.40%,4.50%,6.10%,54.00%,56.50%
+19,Marylhurst University,Marylhurst University,Oregon,46200,79800,63,0,Private,4 Year,NA,20835,20835,20835,20835,0.60%,2.40%,5.80%,5.70%,0.60%,8.20%,17.90%,2.70%,4.80%,69.00%,67.00%
+20,Western Oregon University,Western Oregon University,Oregon,44500,79300,50,5,Public,4 Year,10415,9540,19955,26415,36830,2.00%,3.30%,3.10%,7.80%,2.40%,6.10%,18.90%,0.30%,5.50%,69.50%,60.70%
+21,Corban University,Corban University,Oregon,42500,77300,63,1,Private,4 Year,10228,33040,43268,33040,43268,0.90%,2.10%,1.60%,3.00%,0.60%,1.40%,14.70%,6.40%,6.00%,77.90%,59.90%
+22,Multnomah University,Multnomah University,Oregon,40500,76400,82,0,Private,4 Year,8870,25900,34770,25900,34770,0.80%,1.20%,3.70%,6.10%,0.50%,0.70%,16.30%,4.00%,3.50%,79.50%,44.10%
+23,Eastern Oregon University,Eastern Oregon University,Oregon,44000,73900,56,5,Public,4 Year,10040,8679,18719,20739,30779,2.30%,2.10%,2.70%,6.30%,1.00%,1.40%,15.60%,1.30%,7.00%,76.00%,64.10%
+24,New Hope Christian College-Eugene,New Hope Christian College Eugene,Oregon,34200,61600,NA,0,Private,4 Year,6300,14880,21180,14880,21180,1.20%,3.70%,3.70%,8.60%,4.30%,2.50%,30.90%,9.30%,5.60%,61.10%,48.80%
+1,Carnegie Mellon University,Carnegie Mellon University,Pennsylvania,75900,136100,45,66,Private,4 Year,14418,55465,69883,55465,69883,0.10%,16.50%,3.20%,4.60%,0.00%,38.30%,26.90%,2.70%,5.00%,29.80%,38.00%
+2,Lehigh University,Lehigh University,Pennsylvania,69500,134100,45,52,Private,4 Year,13600,52930,66530,52930,66530,0.10%,6.70%,3.40%,6.70%,0.00%,15.50%,18.80%,2.00%,5.10%,60.50%,44.70%
+3,University of Pennsylvania,University Pennsylvania,Pennsylvania,72800,133900,41,21,Private,4 Year,15616,55584,71200,55584,71200,0.10%,15.00%,6.00%,7.30%,0.00%,18.40%,31.50%,3.10%,4.80%,45.30%,52.70%
+4,Swarthmore College,Swarthmore College,Pennsylvania,67500,123200,44,45,Private,4 Year,15474,52588,68062,52588,68062,0.10%,16.30%,5.80%,13.40%,0.10%,9.90%,43.50%,7.80%,4.70%,41.90%,50.90%
+5,Bucknell University,Bucknell University,Pennsylvania,66700,122900,40,40,Private,4 Year,13662,56092,69754,56092,69754,0.00%,3.50%,3.10%,5.20%,0.00%,6.10%,15.20%,3.40%,0.40%,78.30%,52.00%
+6,Lafayette College,Lafayette College,Pennsylvania,66500,122500,37,47,Private,4 Year,15640,52880,68520,52880,68520,0.10%,3.20%,4.70%,6.60%,0.00%,7.80%,16.90%,2.10%,7.10%,68.20%,46.90%
+7,Villanova University,Villanova University,Pennsylvania,65100,119500,41,23,Private,4 Year,14020,53308,67328,53308,67328,0.10%,6.20%,5.40%,6.50%,0.10%,3.30%,20.30%,1.90%,3.10%,73.30%,51.60%
+8,University of the Sciences,University Sciences,Pennsylvania,60700,115200,72,12,Private,4 Year,15938,25000,40938,25000,40938,0.10%,32.30%,5.80%,3.30%,0.20%,4.40%,43.70%,2.00%,10.00%,41.80%,60.90%
+9,Drexel University,Drexel University,Pennsylvania,61700,114800,47,28,Private,4 Year,14079,53279,67358,53279,67358,0.20%,11.70%,7.80%,5.40%,0.40%,12.50%,28.10%,2.60%,4.20%,55.20%,52.50%
+10,Haverford College,Haverford College,Pennsylvania,59300,112300,47,36,Private,4 Year,16402,54592,70994,54592,70994,0.30%,8.40%,5.80%,8.50%,0.00%,6.00%,28.90%,5.90%,0.90%,64.20%,52.90%
+11,Franklin and Marshall College,Franklin and Marshall College,Pennsylvania,57200,109700,42,23,Private,4 Year,14050,56750,70800,56750,70800,0.10%,4.60%,5.50%,8.00%,0.00%,13.60%,20.20%,2.00%,7.10%,59.20%,51.20%
+12,Gettysburg College,Gettysburg College,Pennsylvania,58400,109300,39,24,Private,4 Year,13010,54480,67490,54480,67490,0.00%,1.80%,3.60%,4.60%,0.00%,3.80%,12.90%,2.90%,3.30%,80.10%,52.50%
+13,Pennsylvania State University-Main Campus,Pennsylvania State University,Pennsylvania,58500,105500,47,37,Public,4 Year,11570,18454,30024,34858,46428,0.10%,5.60%,3.90%,5.20%,0.10%,14.20%,17.20%,2.30%,1.80%,66.90%,46.10%
+14,Saint Joseph's University,Saint Joseph's University,Pennsylvania,57300,105100,41,6,Private,4 Year,14840,44973,59813,44973,59813,0.10%,3.00%,9.50%,4.70%,0.10%,4.20%,19.10%,1.60%,4.70%,72.00%,56.60%
+15,La Salle University,La Salle University,Pennsylvania,55800,104800,40,5,Private,4 Year,15080,30560,45640,30560,45640,0.30%,4.60%,17.30%,7.40%,0.10%,2.70%,35.20%,5.60%,5.70%,56.40%,66.00%
+16,Thomas Jefferson University,Thomas Jefferson University,Pennsylvania,63400,102500,83,7,Private,4 Year,13465,40501,53966,40501,53966,0.40%,15.20%,6.30%,3.60%,0.00%,3.70%,25.50%,0.00%,6.70%,64.10%,67.50%
+17,Muhlenberg College,Muhlenberg College,Pennsylvania,53400,101900,43,20,Private,4 Year,11765,52595,64360,52595,64360,0.20%,2.60%,3.00%,6.40%,0.00%,1.10%,13.60%,1.50%,9.80%,75.40%,59.70%
+18,Ursinus College,Ursinus College,Pennsylvania,54400,101800,42,40,Private,4 Year,12750,52050,64800,52050,64800,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+19,Pennsylvania State University-Penn State Harrisburg,Pennsylvania State University Penn State Harrisburg,Pennsylvania,55000,100400,47,31,Public,4 Year,13280,15198,28478,24450,37730,0.30%,7.40%,9.30%,5.90%,0.10%,10.10%,25.50%,2.50%,2.20%,62.30%,43.90%
+19,University of Pittsburgh-Pittsburgh Campus,University Pittsburgh Pittsburgh,Pennsylvania,55900,100400,50,27,Public,4 Year,11050,19080,30130,32052,43102,0.10%,7.60%,4.90%,2.90%,0.00%,10.20%,18.10%,2.60%,3.10%,68.60%,52.10%
+21,Dickinson College,Dickinson College,Pennsylvania,55800,100100,46,25,Private,4 Year,13698,54661,68359,54661,68359,0.00%,2.30%,4.10%,6.00%,0.00%,8.60%,15.90%,3.40%,1.90%,73.60%,58.10%
+21,Widener University,Widener University,Pennsylvania,55700,100100,57,13,Private,4 Year,14446,45948,60394,45948,60394,0.30%,3.50%,14.90%,4.70%,0.10%,4.20%,25.90%,2.40%,3.00%,66.90%,61.50%
+23,University of Scranton,University Scranton,Pennsylvania,56400,99700,42,12,Private,4 Year,15182,44532,59714,44532,59714,0.10%,2.70%,2.80%,6.90%,0.00%,2.30%,14.60%,2.10%,3.80%,79.30%,57.10%
+24,Grove City College,Grove City College,Pennsylvania,54400,98400,53,29,Private,4 Year,9770,17930,27700,17930,27700,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+25,Pennsylvania State University-Penn State Erie-Behrend College,Pennsylvania State University Penn State Erie Behrend College,Pennsylvania,58800,97900,44,32,Public,4 Year,11570,15198,26768,24450,36020,0.00%,3.40%,3.70%,2.70%,0.00%,7.00%,11.20%,1.40%,1.80%,80.00%,35.00%
+1,Brown University,Brown University,Rhode-Island,68200,127600,45,43,Private,4 Year,14670,55656,70326,55656,70326,0.30%,12.00%,6.00%,9.70%,0.10%,16.80%,32.20%,4.10%,8.70%,42.30%,51.00%
+2,Bryant University,Bryant University,Rhode-Island,60500,108600,37,8,Private,4 Year,15702,43973,59675,43973,59675,0.30%,4.10%,4.20%,6.20%,0.10%,8.10%,16.30%,1.30%,3.00%,72.70%,41.50%
+3,Providence College,Providence College,Rhode-Island,58900,106900,44,11,Private,4 Year,14700,50390,65090,50390,65090,0.20%,1.10%,4.20%,7.00%,0.20%,2.10%,14.40%,1.70%,6.10%,77.40%,55.90%
+4,Rhode Island School of Design,Rhode Island School Design,Rhode-Island,55500,100600,39,0,Private,4 Year,13400,50960,64360,50960,64360,0.10%,15.80%,2.00%,7.70%,0.10%,29.40%,29.20%,3.50%,9.60%,31.80%,66.40%
+5,University of Rhode Island,University Rhode Island,Rhode-Island,54500,99700,50,18,Public,4 Year,12950,14138,27088,30862,43812,0.30%,3.20%,4.80%,7.80%,0.00%,3.40%,18.50%,2.40%,9.30%,68.80%,54.80%
+6,Salve Regina University,Salve Regina University,Rhode-Island,53000,93900,50,6,Private,4 Year,14500,40550,55050,40550,55050,0.40%,1.20%,2.40%,6.00%,0.10%,1.90%,11.90%,1.70%,10.40%,75.90%,68.30%
+7,New England Institute of Technology,New England Institute Technology,Rhode-Island,51700,93200,44,14,Private,4 Year,13065,29940,43005,29940,43005,0.70%,1.70%,4.60%,9.70%,0.10%,3.70%,17.70%,1.00%,10.90%,67.70%,32.20%
+8,Roger Williams University,Roger Williams University,Rhode-Island,52900,92700,48,12,Private,4 Year,15890,34522,50412,34522,50412,0.90%,2.20%,2.40%,4.90%,0.10%,5.00%,10.50%,0.10%,13.00%,71.60%,50.60%
+9,Rhode Island College,Rhode Island College,Rhode-Island,47200,83500,52,5,Public,4 Year,11829,8929,20758,21692,33521,0.40%,2.90%,7.40%,13.30%,0.10%,0.20%,25.80%,1.70%,9.00%,65.00%,69.00%
+10,Johnson & Wales University-Online,Johnson & Wales University Online,Rhode-Island,46200,81600,43,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.00%,2.50%,19.70%,9.60%,0.00%,1.30%,32.20%,0.40%,10.90%,55.60%,64.40%
+11,Johnson & Wales University-Providence,Johnson & Wales University Providence,Rhode-Island,46500,78900,41,5,Private,4 Year,14337,32091,46428,32091,46428,0.20%,1.10%,9.70%,10.00%,0.10%,13.60%,26.70%,5.60%,6.60%,53.10%,59.40%
+1,Citadel Military College of South Carolina,Citadel Military College South Carolina,South-Carolina,60400,108100,62,19,Public,4 Year,6904,14289,21193,36761,43665,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2,Clemson University,Clemson University,South-Carolina,57500,106700,50,39,Public,4 Year,10832,14970,25802,36724,47556,0.20%,1.80%,6.20%,2.70%,0.10%,7.20%,13.00%,2.10%,2.60%,77.20%,46.50%
+3,Furman,Furman,South-Carolina,52100,98800,48,16,Private,4 Year,12712,49532,62244,49532,62244,0.10%,1.80%,5.30%,3.80%,0.00%,4.70%,13.50%,2.50%,2.20%,79.70%,58.00%
+4,Wofford College,Wofford College,South-Carolina,51300,96600,51,28,Private,4 Year,12685,43845,56530,43845,56530,0.20%,2.80%,7.50%,3.30%,0.20%,2.40%,17.20%,3.20%,0.50%,80.00%,51.40%
+5,Medical University of South Carolina,Medical University South Carolina,South-Carolina,54800,92700,88,6,Public,4 Year,NA,26826,26826,26826,26826,0.30%,5.90%,8.30%,3.60%,0.00%,1.60%,19.60%,1.60%,4.80%,74.00%,63.20%
+6,University of South Carolina-Columbia,University South Carolina Columbia,South-Carolina,50300,89900,52,20,Public,4 Year,NA,12616,12616,33298,33298,0.20%,2.70%,10.40%,4.00%,0.10%,4.40%,20.60%,3.20%,1.10%,73.90%,55.20%
+6,Presbyterian College,Presbyterian College,South-Carolina,48800,89900,57,14,Private,4 Year,10480,38660,49140,38660,49140,0.30%,3.10%,13.60%,1.90%,0.10%,4.80%,20.50%,1.60%,0.70%,74.00%,57.90%
+8,College of Charleston,College Charleston,South-Carolina,47300,85100,44,20,Public,4 Year,12166,12738,24904,31920,44086,0.20%,1.60%,7.20%,4.20%,0.10%,1.50%,16.70%,3.50%,1.30%,80.50%,64.00%
+9,University of South Carolina-Upstate,University South Carolina Upstate,South-Carolina,46000,81400,50,13,Public,4 Year,9480,11763,21243,23265,32745,0.20%,2.40%,27.10%,4.90%,0.10%,1.50%,37.80%,3.10%,4.20%,56.50%,65.00%
+10,South Carolina State University,South Carolina State University,South-Carolina,44500,80800,71,16,Public,4 Year,9890,11060,20950,21750,31640,0.10%,0.70%,93.90%,0.50%,0.00%,0.20%,95.30%,0.00%,0.80%,3.80%,55.70%
+11,Winthrop University,Winthrop University,South-Carolina,44300,79700,49,9,Public,4 Year,9312,15590,24902,29846,39158,0.40%,1.20%,27.40%,3.60%,0.10%,3.30%,35.10%,2.40%,0.30%,61.20%,68.70%
+12,Erskine College,Erskine College,South-Carolina,43500,78000,57,28,Private,4 Year,10900,34560,45460,34560,45460,0.40%,0.80%,16.60%,2.90%,0.00%,0.00%,20.70%,0.00%,18.50%,60.80%,43.60%
+13,Coastal Carolina University,Coastal Carolina University,South-Carolina,44700,77600,48,14,Public,4 Year,9190,11536,20726,26648,35838,0.40%,0.80%,19.10%,3.50%,0.10%,1.40%,27.90%,4.10%,0.50%,70.10%,55.10%
+13,Francis Marion University,Francis Marion University,South-Carolina,42900,77600,58,18,Public,4 Year,7948,11160,19108,21544,29492,0.30%,1.20%,45.10%,1.40%,0.10%,1.60%,49.00%,1.00%,1.10%,48.30%,70.20%
+15,Lander University,Lander University,South-Carolina,42600,77100,54,9,Public,4 Year,9100,11700,20800,21300,30400,0.10%,1.50%,30.80%,1.30%,0.10%,1.30%,35.80%,2.00%,4.60%,58.30%,68.90%
+16,Limestone College,Limestone College,South-Carolina,42100,76500,57,10,Private,4 Year,9765,26000,35765,26000,35765,0.30%,0.30%,47.30%,2.90%,0.00%,3.40%,51.20%,0.40%,1.70%,43.70%,56.00%
+17,Charleston Southern University,Charleston Southern University,South-Carolina,42800,76300,65,9,Private,4 Year,10200,25500,35700,25500,35700,0.50%,1.20%,27.50%,3.20%,0.10%,0.70%,34.60%,2.00%,4.70%,60.10%,62.30%
+18,University of South Carolina-Aiken,University South Carolina Aiken,South-Carolina,41600,75100,58,10,Public,4 Year,7766,10760,18526,21218,28984,0.30%,1.20%,24.90%,4.10%,0.00%,3.10%,33.80%,3.30%,2.30%,60.70%,63.30%
+19,Newberry College,Newberry College,South-Carolina,41200,74700,54,14,Private,4 Year,10666,26424,37090,26424,37090,0.40%,0.60%,25.90%,4.40%,0.10%,3.80%,34.30%,2.90%,2.40%,59.60%,47.40%
+20,Southern Wesleyan University,Southern Wesleyan University,South-Carolina,42900,74600,52,5,Private,4 Year,9030,25476,34506,25476,34506,0.30%,0.60%,27.20%,3.10%,0.10%,1.60%,32.70%,1.50%,14.30%,51.40%,63.80%
+21,Converse College,Converse College,South-Carolina,39000,71000,60,8,Private,4 Year,10930,18690,29620,18690,29620,0.00%,0.30%,7.20%,4.00%,0.00%,1.20%,14.30%,2.70%,36.10%,48.40%,91.60%
+22,Anderson University (South Carolina),Anderson University (South Carolina),South-Carolina,39900,70100,51,5,Private,4 Year,9830,28000,37830,28000,37830,0.70%,1.20%,8.60%,3.20%,0.20%,0.60%,13.90%,0.00%,7.50%,77.90%,66.30%
+23,Columbia College (South Carolina),Columbia College (South Carolina),South-Carolina,39200,68300,56,6,Private,4 Year,7900,19500,27400,19500,27400,0.40%,1.10%,36.80%,4.60%,0.10%,1.60%,46.50%,3.50%,0.70%,51.30%,86.30%
+24,Benedict College,Benedict College,South-Carolina,38100,67500,61,19,Private,4 Year,6200,16600,22800,16600,22800,0.00%,0.40%,98.90%,0.30%,0.00%,0.00%,99.50%,0.00%,0.20%,0.30%,50.10%
+25,Columbia International University,Columbia International University,South-Carolina,36600,66200,62,0,Private,4 Year,8150,23690,31840,23690,31840,0.30%,3.10%,18.00%,2.50%,0.00%,5.40%,25.70%,1.80%,3.40%,65.50%,48.30%
+1,South Dakota School of Mines and Technology,South Dakota School Mines and Technology,South-Dakota,66500,118500,58,92,Public,4 Year,8440,9779,18219,14021,22461,1.80%,1.60%,1.80%,3.90%,0.20%,5.50%,12.70%,3.40%,0.80%,81.00%,22.10%
+2,South Dakota State University,South Dakota State University,South-Dakota,50500,91900,58,18,Public,4 Year,7896,8764,16660,12128,20024,1.00%,1.10%,2.00%,1.90%,0.10%,5.60%,8.00%,1.80%,0.50%,85.90%,53.40%
+3,Augustana University,Augustana University,South-Dakota,47900,88400,54,18,Private,4 Year,8248,33018,41266,33018,41266,0.20%,0.90%,1.90%,1.90%,0.10%,7.50%,6.20%,1.30%,0.00%,86.40%,61.00%
+4,University of South Dakota,University South Dakota,South-Dakota,47500,87900,56,8,Public,4 Year,8216,9061,17277,12425,20641,1.70%,1.50%,2.30%,2.30%,0.50%,2.30%,10.50%,2.30%,1.20%,85.90%,61.10%
+5,Dakota State University,Dakota State University,South-Dakota,48400,84300,49,53,Public,4 Year,6873,9276,16149,12249,19122,0.80%,2.00%,4.70%,3.80%,0.20%,3.80%,14.00%,2.50%,2.00%,80.20%,44.80%
+6,University of Sioux Falls,University Sioux Falls,South-Dakota,44400,78200,64,6,Private,4 Year,7350,18280,25630,18280,25630,0.30%,0.60%,3.20%,1.20%,0.10%,0.60%,8.80%,3.40%,0.90%,89.60%,61.20%
+7,Northern State University,Northern State University,South-Dakota,42300,77700,56,7,Public,4 Year,8029,8498,16527,11471,19500,1.60%,0.90%,1.40%,2.20%,0.20%,5.20%,7.70%,1.50%,1.30%,85.80%,60.80%
+8,Mount Marty College,Mount Marty College,South-Dakota,41400,76500,67,5,Private,4 Year,7986,27276,35262,27276,35262,2.30%,1.10%,2.80%,5.20%,0.40%,0.00%,11.70%,0.00%,0.20%,88.10%,58.80%
+9,Dakota Wesleyan University,Dakota Wesleyan University,South-Dakota,41800,75700,52,10,Private,4 Year,7350,27300,34650,27300,34650,1.00%,0.20%,1.70%,2.60%,0.00%,1.60%,7.70%,2.10%,0.30%,90.30%,56.80%
+10,Black Hills State University,Black Hills State University,South-Dakota,40400,72600,51,11,Public,4 Year,6978,8733,15711,11778,18756,3.40%,0.50%,0.90%,3.70%,0.20%,1.60%,11.90%,3.20%,4.10%,82.40%,65.00%
+1,Vanderbilt University,Vanderbilt University,Tennessee,65400,119100,48,23,Private,4 Year,16234,49816,66050,49816,66050,0.30%,7.60%,7.30%,6.40%,0.10%,9.50%,25.30%,3.60%,4.90%,60.30%,53.50%
+2,Sewanee-The University of the South,Sewanee University South,Tennessee,53700,97800,57,17,Private,4 Year,12880,45120,58000,45120,58000,0.10%,1.80%,4.60%,4.50%,0.10%,3.30%,14.60%,3.60%,0.00%,82.10%,51.20%
+2,Rhodes College,Rhodes College,Tennessee,51900,97800,46,25,Private,4 Year,11403,47890,59293,47890,59293,0.30%,6.50%,6.20%,3.60%,0.00%,2.90%,19.60%,3.00%,2.20%,75.30%,57.90%
+4,Christian Brothers University,Christian Brothers University,Tennessee,51500,96500,60,14,Private,4 Year,7400,32820,40220,32820,40220,0.30%,5.00%,31.30%,5.90%,0.10%,2.90%,45.00%,2.30%,4.40%,47.70%,56.10%
+5,Baptist Memorial College of Health Sciences,Baptist Memorial College Health Sciences,Tennessee,55700,95700,90,4,Private,4 Year,2900,14700,17600,14700,17600,0.00%,1.90%,42.50%,2.00%,0.00%,0.00%,46.60%,0.30%,1.80%,51.60%,91.20%
+6,Tennessee Technological University,Tennessee Technological University,Tennessee,53100,95100,48,28,Public,4 Year,9736,9103,18839,25759,35495,0.10%,1.30%,3.70%,2.20%,0.00%,11.00%,9.60%,2.20%,0.40%,79.00%,44.60%
+6,The University of Tennessee-Knoxville,University Tennessee Knoxville,Tennessee,51200,95100,52,21,Public,4 Year,11240,13006,24246,31196,42436,0.20%,3.40%,7.10%,2.90%,0.00%,4.40%,16.10%,2.40%,3.30%,76.20%,50.70%
+8,University of Memphis,University Memphis,Tennessee,47200,85800,55,12,Public,4 Year,9975,9701,19676,21413,31388,0.30%,3.00%,33.90%,3.60%,0.10%,3.00%,43.80%,3.00%,1.90%,51.30%,59.70%
+9,Lipscomb University,Lipscomb University,Tennessee,49000,84800,59,12,Private,4 Year,12652,32144,44796,32144,44796,0.10%,2.70%,8.30%,5.00%,0.10%,1.60%,17.60%,1.50%,6.50%,74.30%,62.20%
+10,Southern Adventist University,Southern Adventist University,Tennessee,47500,84000,67,9,Private,4 Year,6940,21950,28890,21950,28890,0.40%,7.20%,12.00%,19.00%,0.60%,5.00%,42.50%,3.30%,0.00%,52.50%,57.60%
+11,Fisk University,Fisk University,Tennessee,45300,83600,53,39,Private,4 Year,10790,21480,32270,21480,32270,0.00%,0.80%,84.60%,2.30%,0.10%,0.00%,89.40%,1.60%,9.60%,1.00%,63.00%
+12,Union University,Union University,Tennessee,46400,83000,59,6,Private,4 Year,10200,32890,43090,32890,43090,0.30%,1.70%,19.60%,2.20%,0.10%,1.10%,24.90%,1.00%,8.60%,65.40%,63.00%
+13,The University of Tennessee-Chattanooga,University Tennessee Chattanooga,Tennessee,46000,82300,56,17,Public,4 Year,9050,8664,17714,24782,33832,0.20%,1.90%,10.60%,3.30%,0.10%,1.50%,23.40%,7.30%,1.10%,74.00%,55.20%
+14,Trevecca Nazarene University,Trevecca Nazarene University,Tennessee,45300,81700,65,5,Private,4 Year,8400,25598,33998,25598,33998,0.30%,1.00%,14.30%,2.70%,0.10%,0.80%,21.30%,2.80%,13.10%,64.80%,60.20%
+15,Middle Tennessee State University,Middle Tennessee State University,Tennessee,46500,81100,52,9,Public,4 Year,9436,9206,18642,28364,37800,0.30%,2.60%,19.40%,4.00%,0.10%,4.10%,29.30%,2.80%,0.80%,65.90%,54.20%
+16,Cumberland University,Cumberland University,Tennessee,45500,81000,61,3,Private,4 Year,9290,22890,32180,22890,32180,0.30%,0.90%,12.20%,2.50%,0.00%,3.40%,16.00%,0.00%,16.60%,63.90%,57.40%
+17,Belmont University,Belmont University,Tennessee,47300,80900,47,3,Private,4 Year,12120,34310,46430,34310,46430,0.20%,2.20%,4.40%,4.10%,0.10%,1.30%,14.20%,3.20%,5.40%,79.20%,61.80%
+18,The University of Tennessee-Martin,University Tennessee Martin,Tennessee,44400,78600,58,10,Public,4 Year,6164,9512,15676,15552,21716,0.10%,0.60%,15.10%,2.10%,0.00%,2.60%,20.00%,2.10%,0.00%,77.40%,59.00%
+19,Tennessee State University,Tennessee State University,Tennessee,47200,78400,68,14,Public,4 Year,7806,8008,15814,21364,29170,0.20%,1.00%,63.70%,1.20%,0.00%,9.70%,69.20%,3.10%,0.80%,20.30%,61.00%
+20,Freed-Hardeman University,Freed Hardeman University,Tennessee,43700,78200,54,9,Private,4 Year,8260,21950,30210,21950,30210,0.20%,0.50%,12.30%,2.00%,0.00%,1.80%,16.60%,1.50%,11.30%,70.30%,58.40%
+20,Austin Peay State University,Austin Peay State University,Tennessee,44200,78200,63,10,Public,4 Year,10700,8411,19111,24467,35167,0.40%,1.60%,18.80%,5.70%,0.20%,0.40%,31.70%,5.10%,2.20%,65.60%,60.40%
+22,East Tennessee State University,East Tennessee State University,Tennessee,43700,77300,57,8,Public,4 Year,8472,9277,17749,28459,36931,0.30%,1.60%,6.00%,2.00%,0.10%,3.40%,12.30%,2.40%,1.40%,82.90%,58.00%
+23,Carson-Newman University,Carson Newman University,Tennessee,42700,76500,61,5,Private,4 Year,8810,27900,36710,27900,36710,0.10%,0.60%,6.50%,1.40%,0.00%,4.70%,8.60%,0.00%,14.10%,72.60%,59.50%
+24,Maryville College,Maryville College,Tennessee,42800,75300,68,16,Private,4 Year,11424,34880,46304,34880,46304,0.70%,1.20%,11.10%,2.80%,0.20%,2.50%,18.60%,2.60%,0.50%,78.40%,54.10%
+25,Milligan College,Milligan College,Tennessee,41200,74900,63,5,Private,4 Year,7100,33700,40800,33700,40800,0.30%,1.30%,4.00%,4.50%,0.20%,2.70%,11.80%,1.60%,0.70%,84.80%,65.30%
+1,Rice University,Rice University,Texas,71000,129500,50,45,Private,4 Year,14000,47350,61350,47350,61350,0.10%,16.60%,5.10%,11.30%,0.10%,23.50%,36.60%,3.40%,2.50%,37.40%,43.00%
+2,The King's University,King's University,Texas,63800,116500,33,0,Private,4 Year,NA,15000,15000,15000,15000,0.70%,5.30%,15.90%,11.40%,0.30%,0.00%,41.30%,7.70%,1.60%,57.10%,47.70%
+3,Texas A&M University-College Station,Texas A&M University College Station,Texas,60600,115700,53,30,Public,4 Year,10436,10968,21404,36442,46878,0.30%,5.80%,3.00%,18.30%,0.10%,8.50%,30.10%,2.70%,0.60%,60.80%,47.50%
+4,The University of Texas at Austin,University Texas Austin,Texas,60700,112800,49,28,Public,4 Year,10804,10606,21410,37480,48284,0.20%,16.20%,3.80%,19.20%,0.10%,9.50%,42.60%,3.10%,1.00%,46.90%,50.80%
+5,Southern Methodist University,Southern Methodist University,Texas,59700,110400,46,22,Private,4 Year,16845,54493,71338,54493,71338,0.30%,6.00%,5.90%,10.40%,0.10%,13.20%,25.30%,2.60%,1.10%,60.40%,48.00%
+6,The University of Texas Health Science Center at Houston,University Texas Health Science Center Houston,Texas,65400,109400,80,14,Public,4 Year,NA,6380,6380,27710,27710,0.20%,15.20%,8.00%,15.30%,0.20%,12.50%,41.10%,2.30%,4.20%,42.20%,64.40%
+7,Texas Tech University,Texas Tech University,Texas,56800,106500,54,22,Public,4 Year,9530,11045,20575,23495,33025,0.30%,2.40%,5.70%,20.10%,0.10%,8.00%,31.70%,3.00%,0.70%,59.60%,45.90%
+8,Texas Tech University Health Sciences Center,Texas Tech University Health Sciences Center,Texas,61300,104900,86,3,Public,4 Year,NA,7911,7911,20361,20361,0.80%,14.80%,6.70%,16.60%,0.00%,0.90%,38.90%,0.00%,6.10%,54.20%,68.50%
+9,University of Houston,University Houston,Texas,56000,103900,50,24,Public,4 Year,10270,12506,22776,27956,38226,0.10%,19.80%,10.20%,26.90%,0.20%,9.80%,60.20%,3.00%,0.90%,29.00%,49.30%
+10,The University of Texas Medical Branch,University Texas Medical Branch,Texas,61100,103100,87,3,Public,4 Year,NA,7721,7721,20258,20258,0.30%,16.60%,11.90%,14.80%,0.10%,4.40%,46.00%,2.30%,3.20%,46.40%,68.00%
+11,Trinity University,Trinity University,Texas,54900,102900,46,27,Private,4 Year,13464,42976,56440,42976,56440,0.30%,5.80%,4.10%,18.70%,0.00%,6.90%,33.30%,4.40%,3.70%,56.00%,53.10%
+12,Baylor University,Baylor University,Texas,55500,101400,49,16,Private,4 Year,12595,45727,58322,45727,58322,0.40%,5.80%,6.90%,13.20%,0.10%,4.20%,30.60%,4.30%,0.90%,64.20%,56.30%
+13,Lamar University,Lamar University,Texas,53300,101200,57,16,Public,4 Year,8920,10192,19112,22642,31562,0.40%,3.20%,23.70%,13.90%,0.10%,7.10%,43.00%,1.70%,1.60%,48.30%,60.60%
+14,The University of Texas at Dallas,University Texas Dallas,Texas,57100,100900,42,44,Public,4 Year,11532,13034,24566,36876,48408,0.20%,19.90%,5.20%,12.80%,0.10%,23.60%,41.30%,3.10%,1.80%,33.20%,43.30%
+15,The University of Texas Health Science Center at San Antonio,University Texas Health Science Center San Antonio,Texas,59400,100200,85,4,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.20%,13.10%,4.70%,27.50%,0.10%,4.40%,47.60%,2.10%,4.90%,43.20%,62.30%
+16,The University of Texas at Arlington,University Texas Arlington,Texas,55400,99500,55,22,Public,4 Year,10302,10250,20552,25134,35436,0.30%,9.30%,14.10%,20.60%,0.30%,11.10%,47.40%,2.90%,0.80%,40.60%,59.70%
+17,Prairie View A&M University,Prairie View A&M University,Texas,57800,99400,65,22,Public,4 Year,8925,10533,19458,24843,33768,0.30%,2.90%,84.10%,2.70%,0.10%,2.50%,90.80%,0.70%,2.00%,4.80%,61.20%
+18,LeTourneau University,LeTourneau University,Texas,56600,98900,53,21,Private,4 Year,9970,30210,40180,30210,40180,0.40%,1.00%,10.40%,8.50%,0.10%,4.30%,24.10%,3.70%,13.20%,58.30%,51.50%
+19,Texas Christian University,Texas Christian University,Texas,56000,98700,51,9,Private,4 Year,12804,46950,59754,46950,59754,0.80%,2.80%,4.80%,10.60%,0.30%,5.20%,19.70%,0.50%,2.50%,72.50%,59.20%
+20,Texas A&M University-Kingsville,Texas A&M University Kingsville,Texas,53100,97500,63,53,Public,4 Year,8760,8462,17222,20912,29672,0.20%,1.00%,5.80%,59.60%,0.10%,13.50%,67.20%,0.60%,0.90%,18.40%,51.30%
+21,University of Dallas,University Dallas,Texas,53000,96400,49,16,Private,4 Year,12400,40652,53052,40652,53052,0.30%,6.90%,8.10%,15.10%,0.20%,11.50%,33.30%,2.70%,1.70%,53.50%,46.90%
+22,St. Mary's University,St. Mary's University,Texas,52900,95300,61,17,Private,4 Year,10270,30650,40920,30650,40920,0.60%,2.60%,3.80%,55.50%,0.30%,9.20%,63.00%,0.20%,4.30%,23.50%,52.90%
+23,University of Houston-Clear Lake,University Houston Clear Lake,Texas,50700,94800,48,29,Public,4 Year,NA,8500,8500,24731,24731,0.90%,5.70%,8.70%,26.40%,1.60%,16.00%,45.70%,2.30%,1.20%,37.00%,62.10%
+24,Amberton University,Amberton University,Texas,52800,93600,57,0,Private,4 Year,NA,12840,12840,12840,12840,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+25,Southwestern University,Southwestern University,Texas,51800,93500,51,19,Private,4 Year,12000,42000,54000,42000,54000,0.40%,3.30%,4.60%,19.30%,0.20%,4.60%,30.20%,2.50%,0.70%,64.60%,58.10%
+1,Brigham Young University-Provo,Brigham Young University Provo,Utah,59200,108000,60,25,Private,4 Year,7628,5620,13248,5620,13248,0.40%,1.90%,0.50%,5.50%,0.60%,3.80%,12.30%,3.40%,1.20%,82.70%,44.90%
+2,University of Utah,University Utah,Utah,54800,102600,57,22,Public,4 Year,10262,9222,19484,29215,39477,0.40%,5.00%,1.30%,8.60%,0.50%,8.90%,19.00%,3.10%,3.90%,68.20%,44.50%
+3,Weber State University,Weber State University,Utah,53900,94000,60,8,Public,4 Year,6279,5831,12110,16585,22864,0.40%,1.20%,1.20%,9.40%,0.40%,1.60%,14.20%,1.60%,34.50%,49.70%,53.40%
+4,Utah State University,Utah State University,Utah,52400,93900,61,14,Public,4 Year,6400,7424,13824,21505,27905,1.80%,1.10%,0.80%,5.50%,0.30%,2.90%,11.20%,1.70%,6.60%,79.30%,54.10%
+5,Westminster College (Utah),Westminster College (Utah),Utah,51700,92200,55,10,Private,4 Year,9524,34300,43824,34300,43824,0.40%,3.60%,1.20%,9.10%,0.20%,5.00%,17.50%,3.00%,7.40%,70.10%,54.50%
+6,Western Governors University,Western Governors University,Utah,54500,91500,57,9,Private,4 Year,NA,6670,6670,6670,6670,0.60%,3.80%,9.40%,7.40%,0.50%,0.10%,24.60%,2.90%,2.80%,72.50%,60.60%
+7,Utah Valley University,Utah Valley University,Utah,51100,90600,57,12,Public,4 Year,NA,5726,5726,16296,16296,0.70%,1.10%,0.90%,10.00%,0.90%,2.30%,15.60%,2.00%,2.20%,79.90%,44.60%
+8,Southern Utah University,Southern Utah University,Utah,46400,84400,65,7,Public,4 Year,7090,6769,13859,20585,27675,1.20%,0.80%,1.30%,4.70%,1.00%,4.90%,9.70%,0.70%,5.80%,79.60%,55.20%
+9,"Stevens-Henager College (Murray, Utah)","Stevens Henager College (Murray, Utah)",Utah,42400,76100,54,51,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+10,Independence University,Independence University,Utah,40500,74100,78,2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1.50%,0.70%,24.50%,7.20%,0.40%,0.00%,35.80%,1.50%,20.40%,43.80%,72.50%
+1,Middlebury College,Middlebury College,Vermont,60400,109800,54,19,Private,4 Year,15530,54450,69980,54450,69980,0.30%,6.70%,2.90%,8.70%,0.00%,10.70%,23.20%,4.70%,1.50%,64.50%,51.80%
+2,University of Vermont,University Vermont,Vermont,53200,99400,50,22,Public,4 Year,12462,18276,30738,42516,54978,0.20%,3.00%,1.30%,4.10%,0.00%,4.30%,11.30%,2.60%,4.00%,80.30%,55.60%
+3,Norwich University,Norwich University,Vermont,57000,99100,51,20,Private,4 Year,13840,40016,53856,40016,53856,0.40%,2.30%,5.40%,6.80%,0.30%,1.10%,19.20%,3.90%,3.90%,75.80%,20.30%
+4,Saint Michael's College,Saint Michael's College,Vermont,52900,98500,40,18,Private,4 Year,12220,45375,57595,45375,57595,0.20%,1.60%,1.90%,3.70%,0.00%,4.70%,9.20%,1.60%,0.50%,85.60%,59.00%
+5,Vermont Technical College,Vermont Technical College,Vermont,52400,93900,41,4,Public,4 Year,10598,15108,25706,27780,38378,0.70%,1.20%,1.50%,1.50%,0.00%,2.30%,7.20%,2.30%,1.30%,89.20%,46.40%
+6,Bennington College,Bennington College,Vermont,48800,90000,50,5,Private,4 Year,15610,54360,69970,54360,69970,1.70%,3.30%,1.30%,5.00%,0.10%,11.00%,14.60%,3.00%,6.00%,68.50%,67.30%
+7,Champlain College,Champlain College,Vermont,51100,88400,39,14,Private,4 Year,15354,41010,56364,41010,56364,0.40%,1.50%,2.70%,3.80%,0.10%,1.00%,14.20%,5.70%,18.00%,66.90%,41.70%
+8,College of St Joseph,College St Joseph,Vermont,47000,85000,72,0,Private,4 Year,12000,18520,30520,18520,30520,0.00%,0.30%,16.30%,7.50%,0.00%,0.60%,24.10%,0.00%,0.00%,75.30%,52.10%
+9,Southern Vermont College,Southern Vermont College,Vermont,42900,78700,63,17,Private,4 Year,11000,25511,36511,25511,36511,0.90%,0.70%,12.90%,9.40%,0.20%,0.20%,25.60%,1.50%,16.20%,58.00%,61.50%
+10,Goddard College,Goddard College,Vermont,42700,76900,NA,0,Private,4 Year,1698,16586,18284,16586,18284,0.40%,1.90%,3.50%,4.50%,0.40%,0.00%,12.30%,1.70%,11.30%,76.40%,69.90%
+11,Castleton University,Castleton University,Vermont,41700,76200,52,6,Public,4 Year,10598,12314,22912,28322,38920,0.50%,0.70%,1.60%,2.20%,0.00%,1.60%,6.50%,1.40%,10.10%,81.80%,54.00%
+12,Green Mountain College,Green Mountain College,Vermont,42000,75200,57,2,Private,4 Year,11722,37002,48724,37002,48724,1.00%,0.80%,4.10%,3.40%,0.00%,2.20%,10.30%,1.10%,26.20%,61.30%,57.30%
+13,Lyndon State College,Lyndon State College,Vermont,41500,75100,49,8,Public,4 Year,10598,12074,22672,25394,35992,0.90%,0.80%,3.40%,3.40%,0.10%,0.80%,10.50%,2.00%,4.80%,84.00%,42.90%
+14,Johnson State College,Johnson State College,Vermont,39500,72100,46,2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.90%,1.00%,2.20%,2.40%,0.20%,0.60%,8.90%,2.20%,6.50%,84.10%,66.00%
+1,Washington and Lee University,Washington and Lee University,Virginia,65900,123200,40,18,Private,4 Year,13925,52455,66380,52455,66380,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+2,Virginia Military Institute,Virginia Military Institute,Virginia,65900,120600,68,47,Public,4 Year,9428,18862,28290,45706,55134,0.40%,4.40%,5.10%,4.80%,0.80%,1.50%,17.10%,1.60%,0.10%,81.40%,11.10%
+3,University of Virginia-Main Campus,University Virginia,Virginia,64500,117500,46,23,Public,4 Year,11590,17564,29154,48465,60055,0.20%,10.10%,5.50%,5.20%,0.00%,8.50%,24.70%,3.70%,5.20%,61.60%,54.00%
+4,Virginia Polytechnic Institute and State University,Virginia Polytechnic Institute and State University,Virginia,62700,114000,48,42,Public,4 Year,8934,13620,22554,31304,40238,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+5,College of William and Mary,College William and Mary,Virginia,59000,108900,42,21,Public,4 Year,12236,23400,35636,44701,56937,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+6,Hampden-Sydney College,Hampden Sydney College,Virginia,58300,108600,52,20,Private,4 Year,13558,45746,59304,45746,59304,0.50%,1.80%,7.70%,2.10%,0.00%,0.10%,17.50%,5.40%,0.80%,81.60%,0.20%
+7,University of Richmond,University Richmond,Virginia,59800,107500,48,13,Private,4 Year,12250,52610,64860,52610,64860,0.30%,5.10%,8.20%,6.20%,0.00%,8.80%,23.20%,3.30%,6.80%,61.20%,54.30%
+8,George Mason University,George Mason University,Virginia,58900,105700,48,23,Public,4 Year,11460,12462,23922,35922,47382,0.20%,14.80%,9.30%,10.10%,0.40%,6.30%,38.50%,3.60%,6.70%,48.50%,53.70%
+9,James Madison University,James Madison University,Virginia,57400,102600,42,12,Public,4 Year,10092,12016,22108,28416,38508,0.10%,4.30%,4.10%,5.00%,0.20%,2.40%,17.10%,3.40%,3.20%,77.20%,59.60%
+10,University of Mary Washington,University Mary Washington,Virginia,54200,98200,49,17,Public,4 Year,11118,12188,23306,27434,38552,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+11,Jefferson College of Health Sciences,Jefferson College Health Sciences,Virginia,55500,97600,86,1,Private,4 Year,5870,26886,32756,26886,32756,0.10%,2.50%,7.30%,3.50%,0.00%,0.20%,14.60%,1.20%,2.40%,82.80%,79.80%
+12,Marymount University,Marymount University,Virginia,52300,93100,44,15,Private,4 Year,13190,31466,44656,31466,44656,0.50%,8.00%,14.50%,13.10%,0.50%,9.20%,39.80%,3.20%,3.90%,47.10%,68.30%
+13,Hampton University,Hampton University,Virginia,52700,92600,61,12,Private,4 Year,11778,26702,38480,26702,38480,0.10%,1.60%,89.30%,1.10%,0.00%,1.40%,92.20%,0.00%,0.00%,6.40%,65.10%
+14,Old Dominion University,Old Dominion University,Virginia,50200,89900,52,19,Public,4 Year,11620,10872,22492,29772,41392,0.40%,4.00%,24.00%,6.30%,0.40%,3.30%,40.30%,5.30%,4.10%,52.30%,55.00%
+15,Lynchburg College,Lynchburg College,Virginia,47700,89100,54,11,Private,4 Year,10800,39530,50330,39530,50330,0.50%,1.10%,10.60%,4.00%,0.20%,2.40%,19.50%,3.10%,7.70%,70.40%,61.90%
+16,Virginia Commonwealth University,Virginia Commonwealth University,Virginia,49900,88200,52,18,Public,4 Year,10428,14490,24918,35138,45566,0.30%,11.70%,15.60%,6.50%,0.20%,5.40%,38.40%,4.20%,4.10%,52.20%,57.90%
+17,Christopher Newport University,Christopher Newport University,Virginia,50800,87200,55,25,Public,4 Year,11460,14754,26214,27220,38680,0.30%,2.40%,7.90%,4.90%,0.10%,0.30%,20.50%,4.80%,3.80%,75.50%,57.40%
+18,Shenandoah University,Shenandoah University,Virginia,48700,86600,57,7,Private,4 Year,10370,32530,42900,32530,42900,1.40%,7.30%,11.10%,4.90%,0.30%,4.80%,25.10%,0.00%,4.80%,65.20%,64.00%
+19,Randolph College,Randolph College,Virginia,47000,86100,50,23,Private,4 Year,13580,39585,53165,39585,53165,0.60%,2.90%,10.70%,4.50%,0.00%,10.00%,22.10%,3.50%,0.00%,68.00%,63.80%
+20,Roanoke College,Roanoke College,Virginia,48500,85100,53,18,Private,4 Year,13690,44030,57720,44030,57720,0.30%,1.50%,5.40%,3.70%,0.10%,2.90%,15.10%,4.10%,0.00%,82.00%,59.70%
+21,Longwood University,Longwood University,Virginia,47300,83300,54,9,Public,4 Year,11746,13340,25086,29300,41046,0.30%,1.40%,8.10%,4.50%,0.10%,0.90%,17.70%,3.20%,3.50%,77.90%,68.20%
+22,Radford University,Radford University,Virginia,48900,82900,53,10,Public,4 Year,9406,11210,20616,22845,32251,0.30%,1.50%,11.20%,5.10%,0.20%,0.90%,22.70%,4.40%,1.30%,75.20%,57.60%
+23,The University of Virginia's College at Wise,University Virginia's College Wise,Virginia,46500,82600,53,5,Public,4 Year,10438,10119,20557,27176,37614,0.30%,0.90%,10.20%,1.80%,0.00%,0.00%,13.70%,0.40%,7.30%,79.10%,60.20%
+24,Virginia State University,Virginia State University,Virginia,44900,81800,61,14,Public,4 Year,11208,9056,20264,19576,30784,0.30%,0.50%,85.20%,2.00%,0.00%,0.30%,88.00%,0.00%,8.80%,2.90%,59.60%
+25,Ferrum College,Ferrum College,Virginia,43000,80600,54,6,Private,4 Year,11500,34175,45675,34175,45675,0.40%,0.60%,30.00%,5.30%,0.20%,1.00%,41.30%,4.80%,3.00%,54.80%,47.20%
+1,Seattle University,Seattle University,Washington,60600,113700,59,12,Private,4 Year,12288,44610,56898,44610,56898,0.60%,13.90%,3.00%,8.40%,0.60%,9.10%,32.70%,6.30%,10.20%,48.00%,59.80%
+2,University of Washington-Seattle Campus,University Washington Seattle,Washington,61900,112300,51,34,Public,4 Year,12798,11517,24315,36898,49696,0.50%,19.40%,2.40%,6.50%,0.40%,14.90%,34.60%,5.40%,3.50%,46.90%,52.20%
+3,University of Washington-Bothell Campus,University Washington Bothell,Washington,60200,108000,53,26,Public,4 Year,11877,11138,23015,36519,48396,0.40%,24.50%,5.20%,8.40%,0.90%,7.80%,45.00%,5.60%,1.50%,45.70%,50.90%
+4,Gonzaga University,Gonzaga University,Washington,57800,107600,51,19,Private,4 Year,11944,43210,55154,43210,55154,0.80%,3.90%,1.60%,7.60%,0.40%,6.00%,18.50%,4.20%,5.70%,69.80%,56.40%
+5,Washington State University,Washington State University,Washington,55900,103700,50,20,Public,4 Year,11398,11581,22979,26365,37763,0.60%,5.20%,3.10%,10.70%,0.30%,6.80%,26.50%,6.50%,4.00%,62.70%,51.30%
+6,Seattle Pacific University,Seattle Pacific University,Washington,53600,103400,52,9,Private,4 Year,11796,42939,54735,42939,54735,0.50%,10.20%,3.60%,7.90%,0.30%,3.70%,29.40%,6.90%,3.40%,63.60%,67.70%
+7,Whitman College,Whitman College,Washington,54600,102600,53,33,Private,4 Year,13174,51764,64938,51764,64938,0.30%,5.30%,0.90%,7.80%,0.00%,3.90%,20.10%,5.70%,3.30%,72.80%,56.30%
+8,University of Puget Sound,University Puget Sound,Washington,54200,101300,45,21,Private,4 Year,12540,49776,62316,49776,62316,0.10%,6.70%,1.00%,6.80%,0.00%,0.40%,23.40%,8.80%,1.50%,74.70%,59.00%
+9,Western Washington University,Western Washington University,Washington,55000,99300,45,16,Public,4 Year,11466,8132,19598,23544,35010,0.40%,6.40%,1.50%,7.30%,0.20%,1.00%,23.60%,7.70%,1.00%,74.40%,55.60%
+10,Pacific Lutheran University,Pacific Lutheran University,Washington,54500,98100,53,20,Private,4 Year,10790,42066,52856,42066,52856,0.90%,6.70%,2.90%,7.70%,0.70%,5.00%,26.10%,7.20%,1.60%,67.30%,63.20%
+11,Walla Walla University,Walla Walla University,Washington,53700,97800,54,22,Private,4 Year,4275,28035,32310,28035,32310,1.20%,6.50%,2.90%,12.40%,0.40%,0.70%,23.60%,0.30%,4.50%,71.20%,54.10%
+12,University of Washington-Tacoma Campus,University Washington Tacoma,Washington,56000,96800,50,23,Public,4 Year,11028,11361,22389,36742,47770,1.00%,16.00%,7.40%,9.80%,1.40%,5.20%,43.00%,7.20%,5.00%,46.80%,54.10%
+13,City University of Seattle,City University Seattle,Washington,51500,94600,54,4,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,0.60%,3.50%,4.60%,5.50%,0.40%,16.20%,15.20%,0.80%,38.00%,30.50%,58.40%
+14,Central Washington University,Central Washington University,Washington,52700,93200,47,13,Public,4 Year,11115,8072,19187,23053,34168,0.60%,4.50%,3.10%,12.10%,1.20%,0.90%,27.50%,6.00%,9.60%,62.10%,52.10%
+15,Saint Martin's University,Saint Martin's University,Washington,53200,91800,60,29,Private,4 Year,11445,37356,48801,37356,48801,0.50%,4.40%,6.10%,10.00%,2.10%,8.20%,30.00%,6.80%,5.40%,56.40%,51.40%
+16,Northwest University,Northwest University,Washington,50900,89000,51,3,Private,4 Year,8630,31540,40170,31540,40170,1.30%,6.00%,4.50%,7.50%,1.50%,3.00%,25.10%,4.40%,7.10%,64.70%,59.00%
+17,Whitworth University,Whitworth University,Washington,49900,88800,52,18,Private,4 Year,11496,43640,55136,43640,55136,0.70%,3.40%,1.90%,7.70%,0.50%,2.90%,19.20%,5.00%,1.50%,76.40%,60.30%
+18,Bellevue College,Bellevue College,Washington,50100,88500,56,14,Public,2 Year,NA,4258,4258,9689,9689,0.50%,16.80%,4.90%,10.80%,0.60%,5.70%,37.80%,4.10%,9.00%,47.50%,54.60%
+19,Whitworth University-Adult Degree Programs,Whitworth University Adult Degree Programs,Washington,50100,88100,NA,0,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+20,Eastern Washington University,Eastern Washington University,Washington,49500,87500,52,17,Public,4 Year,12793,7323,20116,24444,37237,1.20%,2.90%,3.20%,13.20%,0.30%,3.00%,25.30%,4.50%,7.20%,64.40%,55.60%
+21,Cornish College of the Arts,Cornish College Arts,Washington,49000,86400,39,0,Private,4 Year,12400,41642,54042,41642,54042,0.80%,5.60%,3.80%,9.90%,0.30%,2.90%,28.60%,8.20%,5.50%,63.10%,64.00%
+22,Bastyr University,Bastyr University,Washington,48400,86300,NA,0,Private,4 Year,7590,26166,33756,26166,33756,0.50%,10.10%,3.60%,3.50%,0.00%,6.20%,23.70%,6.10%,5.60%,64.50%,82.30%
+23,The Evergreen State College,Evergreen State College,Washington,47500,83500,47,0,Public,4 Year,11346,7949,19295,26459,37805,2.60%,2.20%,5.40%,7.70%,0.30%,0.50%,25.60%,7.40%,8.40%,65.60%,55.00%
+24,Clark College,Clark College,Washington,43500,78400,NA,9,Public,2 Year,NA,4287,4287,9718,9718,0.80%,3.50%,2.00%,8.70%,0.60%,1.10%,23.20%,7.60%,6.40%,69.30%,56.90%
+25,Heritage University,Heritage University,Washington,41100,73600,NA,17,Private,4 Year,NA,18124,18124,18124,18124,4.50%,1.60%,1.10%,47.40%,0.10%,0.60%,58.50%,3.80%,6.30%,34.60%,74.10%
+1,West Virginia University Institute of Technology,West Virginia University Institute Technology,West-Virginia,57100,103700,56,40,Public,4 Year,11390,7464,18854,18648,30038,0.40%,1.40%,6.60%,4.30%,0.00%,6.70%,15.20%,2.50%,2.10%,76.00%,39.10%
+2,West Virginia University,West Virginia University,West-Virginia,54400,99900,52,22,Public,4 Year,10918,8856,19774,24950,35868,0.10%,1.90%,4.20%,3.20%,0.10%,7.00%,12.50%,3.00%,0.40%,80.00%,48.20%
+3,Alderson Broaddus University,Alderson Broaddus University,West-Virginia,50600,90500,72,15,Private,4 Year,8860,27910,36770,27910,36770,0.40%,1.40%,15.20%,4.00%,0.10%,3.40%,21.90%,0.90%,0.20%,74.50%,49.80%
+4,Shepherd University,Shepherd University,West-Virginia,47100,87100,48,12,Public,4 Year,10500,7548,18048,18048,28548,0.60%,1.80%,7.90%,2.70%,0.10%,0.50%,14.10%,0.90%,1.70%,83.70%,59.40%
+5,West Virginia Wesleyan College,West Virginia Wesleyan College,West-Virginia,47000,85200,53,21,Private,4 Year,8856,31640,40496,31640,40496,0.30%,0.20%,8.10%,1.80%,0.20%,4.80%,13.40%,2.80%,2.10%,79.70%,56.10%
+6,Bethany College (West Virginia),Bethany College (West Virginia),West-Virginia,46000,84900,63,5,Private,4 Year,10580,29773,40353,29773,40353,0.50%,0.10%,18.80%,4.10%,0.40%,2.80%,26.30%,2.40%,15.90%,55.10%,42.00%
+7,Wheeling Jesuit University,Wheeling Jesuit University,West-Virginia,44800,83400,57,5,Private,4 Year,9900,29290,39190,29290,39190,0.30%,1.20%,4.40%,2.00%,0.10%,2.90%,9.60%,1.60%,8.90%,78.60%,56.40%
+8,University of Charleston,University Charleston,West-Virginia,44600,81900,51,4,Private,4 Year,9180,30900,40080,30900,40080,0.90%,2.70%,9.90%,2.60%,0.10%,6.30%,17.10%,1.00%,15.30%,61.30%,54.90%
+9,Marshall University,Marshall University,West-Virginia,45000,79700,50,12,Public,4 Year,10450,8128,18578,18614,29064,0.40%,1.20%,5.50%,1.70%,0.10%,3.20%,10.80%,2.00%,4.20%,81.80%,58.50%
+10,West Liberty University,West Liberty University,West-Virginia,42500,77000,51,6,Public,4 Year,9406,7730,17136,15670,25076,0.30%,0.70%,4.50%,0.80%,0.00%,1.60%,7.40%,1.20%,3.00%,88.00%,60.20%
+11,Davis & Elkins College,Davis & Elkins College,West-Virginia,41100,76500,43,10,Private,4 Year,9450,29390,38840,29390,38840,0.50%,0.20%,4.50%,0.10%,0.00%,14.50%,5.30%,0.00%,16.70%,63.50%,53.20%
+12,West Virginia State University,West Virginia State University,West-Virginia,41800,76000,46,8,Public,4 Year,11892,8167,20059,16072,27964,0.50%,0.30%,9.60%,0.50%,0.00%,0.90%,10.90%,0.00%,39.90%,48.30%,55.30%
+13,Concord University,Concord University,West-Virginia,41700,75800,53,9,Public,4 Year,8988,7896,16884,17320,26308,0.40%,0.60%,7.40%,1.20%,0.10%,4.90%,9.70%,0.00%,0.00%,85.40%,57.90%
+14,Fairmont State University,Fairmont State University,West-Virginia,42900,74100,53,7,Public,4 Year,9004,7514,16518,16324,25328,0.40%,0.40%,5.30%,1.90%,0.10%,2.60%,10.50%,2.40%,0.90%,86.00%,55.90%
+15,Bluefield State College,Bluefield State College,West-Virginia,43200,72800,60,3,Public,4 Year,NA,8820,8820,16920,16920,0.30%,0.20%,10.00%,1.10%,0.00%,2.20%,12.60%,1.10%,0.80%,84.40%,61.90%
+16,Ohio Valley University,Ohio Valley University,West-Virginia,38800,71100,81,1,Private,4 Year,7980,21900,29880,21900,29880,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+17,Glenville State College,Glenville State College,West-Virginia,37400,67700,60,3,Public,4 Year,NA,7327,7327,16565,16565,0.00%,0.20%,12.90%,1.20%,0.00%,0.30%,15.30%,1.10%,8.00%,76.30%,42.10%
+18,West Virginia University at Parkersburg,West Virginia University Parkersburg,West-Virginia,36700,65200,67,3,Public,2 Year,NA,6330,6330,10920,10920,0.00%,0.50%,1.50%,0.30%,0.10%,0.00%,5.10%,2.60%,4.00%,91.00%,62.10%
+1,Milwaukee School of Engineering,Milwaukee School Engineering,Wisconsin,65700,117600,50,69,Private,4 Year,10389,40749,51138,40749,51138,0.20%,3.10%,2.60%,4.40%,0.50%,12.20%,12.20%,1.50%,7.10%,68.50%,24.10%
+2,Marquette University,Marquette University,Wisconsin,57800,105900,52,25,Private,4 Year,12720,41870,54590,41870,54590,0.20%,4.50%,3.90%,8.10%,0.10%,5.10%,19.70%,2.80%,4.10%,71.10%,52.50%
+3,University of Wisconsin-Madison,University Wisconsin Madison,Wisconsin,57300,104400,48,33,Public,4 Year,11114,10555,21669,36805,47919,0.30%,5.10%,2.30%,4.60%,0.10%,12.50%,14.70%,2.40%,1.30%,71.40%,50.70%
+4,University of Wisconsin-Platteville,University Wisconsin Platteville,Wisconsin,56800,100300,50,38,Public,4 Year,7580,7571,15151,15421,23001,0.30%,1.20%,1.90%,2.90%,0.10%,2.80%,8.00%,1.60%,0.30%,88.90%,36.00%
+5,Lawrence University,Lawrence University,Wisconsin,51500,98800,58,25,Private,4 Year,10341,47475,57816,47475,57816,0.50%,4.00%,3.40%,6.60%,0.00%,10.50%,18.40%,3.90%,0.50%,70.70%,54.50%
+6,Bellin College,Bellin College,Wisconsin,55800,97600,94,0,Private,4 Year,NA,22178,22178,22178,22178,0.90%,0.90%,0.30%,1.40%,0.30%,0.00%,4.00%,0.30%,0.90%,95.20%,92.60%
+7,University of Wisconsin-Eau Claire,University Wisconsin Eau Claire,Wisconsin,52100,93600,46,14,Public,4 Year,7813,8820,16633,17096,24909,0.30%,3.60%,0.70%,2.10%,0.00%,2.30%,8.50%,1.70%,0.10%,89.10%,59.80%
+8,Marian University (Wisconsin),Marian University (Wisconsin),Wisconsin,46500,90800,52,2,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A,1.20%,0.90%,6.30%,5.40%,0.10%,2.30%,14.30%,0.30%,4.10%,79.40%,70.50%
+9,University of Wisconsin-Milwaukee,University Wisconsin Milwaukee,Wisconsin,50600,90300,50,17,Public,4 Year,10728,11084,21812,22364,33092,0.40%,5.70%,7.90%,7.80%,0.10%,5.70%,25.00%,3.10%,0.20%,69.20%,52.80%
+10,Ripon College,Ripon College,Wisconsin,46300,89600,60,26,Private,4 Year,8400,43808,52208,43808,52208,0.20%,1.40%,2.30%,4.80%,0.00%,3.60%,10.50%,1.80%,2.30%,83.70%,53.30%
+11,University of Wisconsin-Stout,University Wisconsin Stout,Wisconsin,50400,89500,47,14,Public,4 Year,6924,9457,16381,17423,24347,0.30%,3.30%,1.70%,2.30%,0.10%,3.70%,9.40%,1.60%,0.80%,86.10%,49.20%
+12,University of Wisconsin-Whitewater,University Wisconsin Whitewater,Wisconsin,48900,89300,44,8,Public,4 Year,6786,7692,14478,16265,23051,0.30%,1.90%,4.60%,4.70%,0.10%,1.50%,14.80%,3.20%,0.20%,83.60%,50.50%
+13,Saint Norbert College,Saint Norbert College,Wisconsin,49300,88700,40,15,Private,4 Year,9954,38129,48083,38129,48083,0.80%,1.50%,0.80%,3.10%,0.00%,3.00%,8.00%,1.80%,0.20%,88.80%,57.00%
+14,University of Wisconsin-La Crosse,University Wisconsin La Crosse,Wisconsin,49600,88300,53,19,Public,4 Year,6331,9106,15437,17924,24255,0.20%,2.40%,0.80%,2.90%,0.10%,3.00%,8.40%,2.10%,0.10%,88.50%,57.20%
+15,Edgewood College,Edgewood College,Wisconsin,49500,87500,54,5,Private,4 Year,11020,29500,40520,29500,40520,0.40%,2.40%,2.80%,5.10%,0.10%,4.20%,13.00%,2.20%,7.70%,75.10%,72.00%
+16,Carroll University,Carroll University,Wisconsin,45600,86500,49,14,Private,4 Year,9484,31918,41402,31918,41402,0.10%,3.40%,1.10%,5.50%,0.10%,1.60%,12.10%,2.00%,1.20%,85.10%,65.50%
+17,Beloit College,Beloit College,Wisconsin,47400,85700,59,24,Private,4 Year,8830,50040,58870,50040,58870,0.40%,2.50%,4.60%,8.40%,0.20%,10.00%,17.70%,1.70%,2.50%,69.80%,58.10%
+18,Carthage College,Carthage College,Wisconsin,48900,85400,48,17,Private,4 Year,11990,43550,55540,43550,55540,0.40%,1.10%,5.20%,4.30%,0.20%,0.50%,13.60%,2.40%,11.90%,73.90%,54.00%
+19,University of Wisconsin-Oshkosh,University Wisconsin Oshkosh,Wisconsin,47700,84300,52,10,Public,4 Year,7448,8820,16268,16393,23841,0.60%,3.70%,1.80%,3.20%,0.00%,1.10%,11.30%,1.80%,0.70%,87.00%,61.30%
+20,Cardinal Stritch University,Cardinal Stritch University,Wisconsin,47000,82500,51,2,Private,4 Year,8440,29998,38438,29998,38438,0.50%,2.00%,22.10%,7.70%,0.20%,3.20%,34.30%,1.90%,3.40%,59.10%,64.40%
+20,Wisconsin Lutheran College,Wisconsin Lutheran College,Wisconsin,46200,82500,45,10,Private,4 Year,10190,29725,39915,29725,39915,0.60%,1.10%,5.30%,4.70%,0.10%,1.90%,14.10%,2.20%,1.40%,82.60%,55.50%
+22,Viterbo University,Viterbo University,Wisconsin,46800,81900,62,3,Private,4 Year,9060,27970,37030,27970,37030,0.30%,1.40%,1.60%,2.20%,0.00%,1.40%,7.20%,1.60%,0.50%,90.90%,72.90%
+23,Concordia University-Wisconsin,Concordia University Wisconsin,Wisconsin,46700,81600,61,9,Private,4 Year,10860,29450,40310,29450,40310,1.00%,2.10%,12.30%,2.50%,0.10%,3.70%,20.80%,2.90%,6.20%,69.30%,68.50%
+24,University of Wisconsin-Parkside,University Wisconsin Parkside,Wisconsin,46000,81400,47,17,Public,4 Year,8026,7529,15555,15518,23544,0.20%,3.00%,8.50%,12.30%,0.20%,2.20%,27.80%,3.60%,0.40%,69.60%,52.20%
+25,University of Wisconsin-River Falls,University Wisconsin River Falls,Wisconsin,47100,81300,52,14,Public,4 Year,6513,7862,14375,15435,21948,0.30%,2.30%,1.70%,2.50%,0.10%,4.60%,8.90%,2.10%,0.40%,86.20%,61.30%
+1,University of Wyoming,University Wyoming,Wyoming,52400,98800,58,25,Public,4 Year,10320,5400,15720,17490,27810,0.60%,1.30%,0.90%,5.80%,0.30%,6.70%,11.30%,2.40%,7.80%,74.10%,52.00%

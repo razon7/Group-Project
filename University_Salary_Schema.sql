@@ -1,9 +1,9 @@
--- Link to schema: https://app.quickdatabasediagrams.com/#/d/NcyKDo
 -- Create University_Salary_Database schema
 
 CREATE TABLE "Diversity_School" (
     "UniversityName" text   NOT NULL,
-    "TotalEnrollment" text   NOT NULL,
+    "TotalEnrollment" int   NOT NULL,
+    "StateName" text NOT NULL,
     "Category" text   NOT NULL,
     "Enrollment" int   NOT NULL
 );
@@ -23,7 +23,7 @@ CREATE TABLE "Salary_Potential" (
 
 CREATE TABLE "Tuition_Cost" (
     "UniversityName" text   NOT NULL,
-    "State" text   NOT NULL,
+    "StateName" text   NOT NULL,
     "StateCode" text   NOT NULL,
     "Type" text   NOT NULL,
     "DegreeLength" text   NOT NULL,
@@ -35,11 +35,11 @@ CREATE TABLE "Tuition_Cost" (
 );
 
 CREATE TABLE "Region_Reference" (
-    "State" text   NOT NULL,
+    "StateName" text   NOT NULL,
     "Region" text   NOT NULL,
     "Division" text   NOT NULL,
     CONSTRAINT "pk_Region_Reference" PRIMARY KEY (
-        "State"
+        "StateName"
      )
 );
 
@@ -47,10 +47,10 @@ ALTER TABLE "Diversity_School" ADD CONSTRAINT "fk_Diversity_School_UniversityNam
 REFERENCES "Salary_Potential" ("UniversityName");
 
 ALTER TABLE "Salary_Potential" ADD CONSTRAINT "fk_Salary_Potential_StateName" FOREIGN KEY("StateName")
-REFERENCES "Region_Reference" ("State");
+REFERENCES "Region_Reference" ("StateName");
 
 ALTER TABLE "Tuition_Cost" ADD CONSTRAINT "fk_Tuition_Cost_UniversityName" FOREIGN KEY("UniversityName")
 REFERENCES "Salary_Potential" ("UniversityName");
 
-ALTER TABLE "Tuition_Cost" ADD CONSTRAINT "fk_Tuition_Cost_State" FOREIGN KEY("State")
-REFERENCES "Region_Reference" ("State");
+ALTER TABLE "Tuition_Cost" ADD CONSTRAINT "fk_Tuition_Cost_State" FOREIGN KEY("StateName")
+REFERENCES "Region_Reference" ("StateName");
