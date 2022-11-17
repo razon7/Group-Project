@@ -1,4 +1,4 @@
-Rank,Name,State_Name,Early_Career_Pay,Mid_Career_Pay,Make_World_Better_Percent,Stem_Percent,University_Name_Clean
+Rank,Name,State,Early_Career_Pay,Mid_Career_Pay,Make_World_Better_Percent,Stem_Percent,University_Name_Clean
 1,Auburn University,Alabama,54400,104500,51,31,Auburn University
 2,University of Alabama in Huntsville,Alabama,57500,103900,59,45,University Alabama Huntsville
 3,The University of Alabama,Alabama,52300,97400,50,15,University Alabama
@@ -520,108 +520,108 @@ Rank,Name,State_Name,Early_Career_Pay,Mid_Career_Pay,Make_World_Better_Percent,S
 1,Sierra Nevada College,Nevada,54000,95500,39,2,Sierra Nevada College
 2,University of Nevada-Reno,Nevada,52700,95000,47,24,University Nevada Reno
 3,University of Nevada-Las Vegas,Nevada,50400,90400,46,12,University Nevada Las Vegas
-1,Dartmouth College,New-Hampshire,71500,130900,44,35,Dartmouth College
-2,Saint Anselm College,New-Hampshire,56400,100300,59,11,Saint Anselm College
-2,University of New Hampshire-Main Campus,New-Hampshire,54300,100300,50,23,University New Hampshire
-4,University of New Hampshire at Manchester,New-Hampshire,51900,90900,50,32,University New Hampshire Manchester
-5,Thomas More College of Liberal Arts,New-Hampshire,48900,88300,,0,Thomas More College Liberal Arts
-6,New England College,New-Hampshire,45700,86400,43,24,New England College
-7,Franklin Pierce University,New-Hampshire,47800,85600,52,3,Franklin Pierce University
-8,Rivier University,New-Hampshire,49500,85100,58,41,Rivier University
-9,Colby-Sawyer College,New-Hampshire,46400,83700,43,7,Colby Sawyer College
-10,Keene State College,New-Hampshire,48900,83600,49,8,Keene State College
-11,Southern New Hampshire University,New-Hampshire,47400,83400,49,8,Southern New Hampshire University
-12,Plymouth State University,New-Hampshire,47000,82200,50,6,Plymouth State University
-13,Granite State College,New-Hampshire,43500,76900,67,3,Granite State College
-1,Stevens Institute of Technology,New-Jersey,75100,139900,47,79,Stevens Institute Technology
-2,Princeton University,New-Jersey,75200,139400,48,48,Princeton University
-3,New Jersey Institute of Technology,New-Jersey,64600,121300,51,75,New Jersey Institute Technology
-4,Rutgers University-New Brunswick,New-Jersey,59800,111000,42,29,Rutgers University New Brunswick
-5,Seton Hall University,New-Jersey,57100,103800,45,8,Seton Hall University
-6,Rutgers University-Newark,New-Jersey,57900,101800,52,11,Rutgers University Newark
-6,The College of New Jersey,New-Jersey,58200,101800,44,16,College New Jersey
-8,Rider University,New-Jersey,51600,99000,47,5,Rider University
-9,Fairleigh Dickinson University-Florham Campus,New-Jersey,53700,98500,42,6,Fairleigh Dickinson University Florham
-11,Felician University,New-Jersey,53200,98200,51,10,Felician University
-12,Saint Peter's University,New-Jersey,52900,95900,35,14,Saint Peter's University
-13,Thomas Edison State University,New-Jersey,52500,95600,54,0,Thomas Edison State University
-14,Montclair State University,New-Jersey,50800,95400,42,9,Montclair State University
-15,Ramapo College of New Jersey,New-Jersey,51600,95200,41,12,Ramapo College New Jersey
-16,Drew University,New-Jersey,52800,95000,37,16,Drew University
-17,Rutgers University-Camden,New-Jersey,51100,93900,50,9,Rutgers University Camden
-18,Monmouth University,New-Jersey,52200,93200,44,13,Monmouth University
-19,Fairleigh Dickinson University-Metropolitan Campus,New-Jersey,50800,93000,43,23,Fairleigh Dickinson University Metropolitan
-20,Rowan University,New-Jersey,51100,91200,43,21,Rowan University
-21,William Paterson University of New Jersey,New-Jersey,50500,90200,44,7,William Paterson University New Jersey
-22,Kean University,New-Jersey,48200,90000,51,10,Kean University
-23,Bloomfield College,New-Jersey,48400,89100,55,17,Bloomfield College
-24,New Jersey City University,New-Jersey,48700,87600,55,9,New Jersey City University
-25,Stockton University,New-Jersey,47400,85800,49,16,Stockton University
-1,New Mexico Institute of Mining and Technology,New-Mexico,64700,120400,61,91,New Mexico Institute Mining and Technology
-2,New Mexico State University-Main Campus,New-Mexico,50400,96700,60,22,New Mexico State University
-3,University of New Mexico-Main Campus,New-Mexico,48400,94000,59,19,University New Mexico
-4,Eastern New Mexico University-Main Campus,New-Mexico,44500,80500,61,5,Eastern New Mexico University
-5,Western New Mexico University,New-Mexico,41700,76700,75,4,Western New Mexico University
-6,New Mexico Highlands University,New-Mexico,40400,73800,63,4,New Mexico Highlands University
-1,Albany College of Pharmacy and Health Sciences,New-York,81000,144800,82,2,Albany College Pharmacy and Health Sciences
-2,United States Military Academy,New-York,80200,144000,61,39,United States Military Academy
-3,Webb Institute,New-York,80800,141800,,100,Webb Institute
-4,United States Merchant Marine Academy,New-York,80600,140700,62,56,United States Merchant Marine Academy
-4,SUNY Maritime College,New-York,74900,140700,53,32,SUNY Maritime College
-6,Rensselaer Polytechnic Institute,New-York,71300,134100,49,78,Rensselaer Polytechnic Institute
-7,Colgate University,New-York,68400,130600,41,26,Colgate University
-8,Clarkson University,New-York,66400,130100,58,58,Clarkson University
-9,Cornell University,New-York,70100,128200,45,43,Cornell University
-10,Columbia University in the City of New York,New-York,71400,126800,45,30,Columbia University City New York
-11,Cooper Union for the Advancement of Science and Art,New-York,68500,126200,46,56,Cooper Union for Advancement Science and Art
-12,Manhattan College,New-York,64000,125700,46,40,Manhattan College
-13,New York University,New-York,63100,117700,42,18,New York University
-14,Union College (New York),New-York,63300,117500,50,47,Union College (New York)
-15,Yeshiva University,New-York,63500,112800,40,11,Yeshiva University
-16,University of Rochester,New-York,61100,112700,50,32,University Rochester
-17,Fordham University,New-York,58700,112500,38,10,Fordham University
-18,Hofstra University,New-York,57300,110400,38,7,Hofstra University
-19,Barnard College,New-York,59200,109800,57,19,Barnard College
-20,Binghamton University,New-York,61300,109600,44,34,Binghamton University
-21,SUNY Downstate Medical Center,New-York,64000,109300,83,0,SUNY Downstate Medical Center
-22,Hobart William Smith Colleges,New-York,56500,108500,46,18,Hobart William Smith Colleges
-23,Hamilton College,New-York,62600,108100,45,25,Hamilton College
-24,Pace University-New York,New-York,59800,107800,40,14,Pace University New York
-24,Stony Brook University,New-York,59200,107800,49,35,Stony Brook University
-1,Duke University,North-Carolina,71100,132100,50,26,Duke University
-2,Wake Forest University,North-Carolina,60700,114800,44,13,Wake Forest University
-3,Davidson College,North-Carolina,57300,106900,50,28,Davidson College
-4,North Carolina State University at Raleigh,North-Carolina,57300,106500,52,47,North Carolina State University Raleigh
-5,University of North Carolina at Chapel Hill,North-Carolina,55000,100800,49,19,University North Carolina Chapel Hill
-6,Elon University,North-Carolina,53600,93700,43,7,Elon University
-7,North Carolina A & T State University,North-Carolina,52600,93400,61,25,North Carolina A & T State University
-8,University of North Carolina at Charlotte,North-Carolina,52500,92600,49,25,University North Carolina Charlotte
-9,Queens University of Charlotte,North-Carolina,49400,86600,48,9,Queens University Charlotte
-10,Lenoir-Rhyne University,North-Carolina,46400,86300,54,7,Lenoir Rhyne University
-11,East Carolina University,North-Carolina,48400,85400,55,11,East Carolina University
-12,High Point University,North-Carolina,48600,84300,50,8,High Point University
-13,Johnson C Smith University,North-Carolina,45700,83300,57,16,Johnson C Smith University
-14,Belmont Abbey College,North-Carolina,46700,82900,49,7,Belmont Abbey College
-15,Appalachian State University,North-Carolina,46600,82700,47,9,Appalachian State University
-16,Campbell University,North-Carolina,46300,82400,56,8,Campbell University
-16,University of North Carolina School of the Arts,North-Carolina,46400,82400,44,0,University North Carolina School Arts
-18,John Wesley University,North-Carolina,45100,82100,,0,John Wesley University
-19,University of North Carolina Wilmington,North-Carolina,46400,80500,47,14,University North Carolina Wilmington
-19,Methodist University,North-Carolina,45800,80500,58,9,Methodist University
-21,North Carolina Wesleyan College,North-Carolina,45300,78800,62,8,North Carolina Wesleyan College
-22,Catawba College,North-Carolina,42500,78100,58,11,Catawba College
-23,Pfeiffer University,North-Carolina,44200,78000,51,4,Pfeiffer University
-24,Barton College,North-Carolina,42400,77900,62,6,Barton College
-25,Western Carolina University,North-Carolina,44700,77700,58,8,Western Carolina University
-1,North Dakota State University-Main Campus,North-Dakota,54200,98600,56,27,North Dakota State University
-2,University of North Dakota,North-Dakota,53800,96000,54,16,University North Dakota
-3,University of Jamestown,North-Dakota,47600,85400,64,11,University Jamestown
-4,Mayville State University,North-Dakota,43700,81300,44,10,Mayville State University
-5,Dickinson State University,North-Dakota,46400,81200,55,8,Dickinson State University
-6,University of Mary,North-Dakota,46400,79100,64,3,University Mary
-7,Minot State University,North-Dakota,44500,74100,55,7,Minot State University
-8,Valley City State University,North-Dakota,39900,68600,56,3,Valley City State University
-9,Trinity Bible College and Graduate School,North-Dakota,34100,61300,,0,Trinity Bible College and Graduate School
+1,Dartmouth College,New Hampshire,71500,130900,44,35,Dartmouth College
+2,Saint Anselm College,New Hampshire,56400,100300,59,11,Saint Anselm College
+2,University of New Hampshire-Main Campus,New Hampshire,54300,100300,50,23,University New Hampshire
+4,University of New Hampshire at Manchester,New Hampshire,51900,90900,50,32,University New Hampshire Manchester
+5,Thomas More College of Liberal Arts,New Hampshire,48900,88300,,0,Thomas More College Liberal Arts
+6,New England College,New Hampshire,45700,86400,43,24,New England College
+7,Franklin Pierce University,New Hampshire,47800,85600,52,3,Franklin Pierce University
+8,Rivier University,New Hampshire,49500,85100,58,41,Rivier University
+9,Colby-Sawyer College,New Hampshire,46400,83700,43,7,Colby Sawyer College
+10,Keene State College,New Hampshire,48900,83600,49,8,Keene State College
+11,Southern New Hampshire University,New Hampshire,47400,83400,49,8,Southern New Hampshire University
+12,Plymouth State University,New Hampshire,47000,82200,50,6,Plymouth State University
+13,Granite State College,New Hampshire,43500,76900,67,3,Granite State College
+1,Stevens Institute of Technology,New Jersey,75100,139900,47,79,Stevens Institute Technology
+2,Princeton University,New Jersey,75200,139400,48,48,Princeton University
+3,New Jersey Institute of Technology,New Jersey,64600,121300,51,75,New Jersey Institute Technology
+4,Rutgers University-New Brunswick,New Jersey,59800,111000,42,29,Rutgers University New Brunswick
+5,Seton Hall University,New Jersey,57100,103800,45,8,Seton Hall University
+6,Rutgers University-Newark,New Jersey,57900,101800,52,11,Rutgers University Newark
+6,The College of New Jersey,New Jersey,58200,101800,44,16,College New Jersey
+8,Rider University,New Jersey,51600,99000,47,5,Rider University
+9,Fairleigh Dickinson University-Florham Campus,New Jersey,53700,98500,42,6,Fairleigh Dickinson University Florham
+11,Felician University,New Jersey,53200,98200,51,10,Felician University
+12,Saint Peter's University,New Jersey,52900,95900,35,14,Saint Peter's University
+13,Thomas Edison State University,New Jersey,52500,95600,54,0,Thomas Edison State University
+14,Montclair State University,New Jersey,50800,95400,42,9,Montclair State University
+15,Ramapo College of New Jersey,New Jersey,51600,95200,41,12,Ramapo College New Jersey
+16,Drew University,New Jersey,52800,95000,37,16,Drew University
+17,Rutgers University-Camden,New Jersey,51100,93900,50,9,Rutgers University Camden
+18,Monmouth University,New Jersey,52200,93200,44,13,Monmouth University
+19,Fairleigh Dickinson University-Metropolitan Campus,New Jersey,50800,93000,43,23,Fairleigh Dickinson University Metropolitan
+20,Rowan University,New Jersey,51100,91200,43,21,Rowan University
+21,William Paterson University of New Jersey,New Jersey,50500,90200,44,7,William Paterson University New Jersey
+22,Kean University,New Jersey,48200,90000,51,10,Kean University
+23,Bloomfield College,New Jersey,48400,89100,55,17,Bloomfield College
+24,New Jersey City University,New Jersey,48700,87600,55,9,New Jersey City University
+25,Stockton University,New Jersey,47400,85800,49,16,Stockton University
+1,New Mexico Institute of Mining and Technology,New Mexico,64700,120400,61,91,New Mexico Institute Mining and Technology
+2,New Mexico State University-Main Campus,New Mexico,50400,96700,60,22,New Mexico State University
+3,University of New Mexico-Main Campus,New Mexico,48400,94000,59,19,University New Mexico
+4,Eastern New Mexico University-Main Campus,New Mexico,44500,80500,61,5,Eastern New Mexico University
+5,Western New Mexico University,New Mexico,41700,76700,75,4,Western New Mexico University
+6,New Mexico Highlands University,New Mexico,40400,73800,63,4,New Mexico Highlands University
+1,Albany College of Pharmacy and Health Sciences,New York,81000,144800,82,2,Albany College Pharmacy and Health Sciences
+2,United States Military Academy,New York,80200,144000,61,39,United States Military Academy
+3,Webb Institute,New York,80800,141800,,100,Webb Institute
+4,United States Merchant Marine Academy,New York,80600,140700,62,56,United States Merchant Marine Academy
+4,SUNY Maritime College,New York,74900,140700,53,32,SUNY Maritime College
+6,Rensselaer Polytechnic Institute,New York,71300,134100,49,78,Rensselaer Polytechnic Institute
+7,Colgate University,New York,68400,130600,41,26,Colgate University
+8,Clarkson University,New York,66400,130100,58,58,Clarkson University
+9,Cornell University,New York,70100,128200,45,43,Cornell University
+10,Columbia University in the City of New York,New York,71400,126800,45,30,Columbia University City New York
+11,Cooper Union for the Advancement of Science and Art,New York,68500,126200,46,56,Cooper Union for Advancement Science and Art
+12,Manhattan College,New York,64000,125700,46,40,Manhattan College
+13,New York University,New York,63100,117700,42,18,New York University
+14,Union College (New York),New York,63300,117500,50,47,Union College (New York)
+15,Yeshiva University,New York,63500,112800,40,11,Yeshiva University
+16,University of Rochester,New York,61100,112700,50,32,University Rochester
+17,Fordham University,New York,58700,112500,38,10,Fordham University
+18,Hofstra University,New York,57300,110400,38,7,Hofstra University
+19,Barnard College,New York,59200,109800,57,19,Barnard College
+20,Binghamton University,New York,61300,109600,44,34,Binghamton University
+21,SUNY Downstate Medical Center,New York,64000,109300,83,0,SUNY Downstate Medical Center
+22,Hobart William Smith Colleges,New York,56500,108500,46,18,Hobart William Smith Colleges
+23,Hamilton College,New York,62600,108100,45,25,Hamilton College
+24,Pace University-New York,New York,59800,107800,40,14,Pace University New York
+24,Stony Brook University,New York,59200,107800,49,35,Stony Brook University
+1,Duke University,North Carolina,71100,132100,50,26,Duke University
+2,Wake Forest University,North Carolina,60700,114800,44,13,Wake Forest University
+3,Davidson College,North Carolina,57300,106900,50,28,Davidson College
+4,North Carolina State University at Raleigh,North Carolina,57300,106500,52,47,North Carolina State University Raleigh
+5,University of North Carolina at Chapel Hill,North Carolina,55000,100800,49,19,University North Carolina Chapel Hill
+6,Elon University,North Carolina,53600,93700,43,7,Elon University
+7,North Carolina A & T State University,North Carolina,52600,93400,61,25,North Carolina A & T State University
+8,University of North Carolina at Charlotte,North Carolina,52500,92600,49,25,University North Carolina Charlotte
+9,Queens University of Charlotte,North Carolina,49400,86600,48,9,Queens University Charlotte
+10,Lenoir-Rhyne University,North Carolina,46400,86300,54,7,Lenoir Rhyne University
+11,East Carolina University,North Carolina,48400,85400,55,11,East Carolina University
+12,High Point University,North Carolina,48600,84300,50,8,High Point University
+13,Johnson C Smith University,North Carolina,45700,83300,57,16,Johnson C Smith University
+14,Belmont Abbey College,North Carolina,46700,82900,49,7,Belmont Abbey College
+15,Appalachian State University,North Carolina,46600,82700,47,9,Appalachian State University
+16,Campbell University,North Carolina,46300,82400,56,8,Campbell University
+16,University of North Carolina School of the Arts,North Carolina,46400,82400,44,0,University North Carolina School Arts
+18,John Wesley University,North Carolina,45100,82100,,0,John Wesley University
+19,University of North Carolina Wilmington,North Carolina,46400,80500,47,14,University North Carolina Wilmington
+19,Methodist University,North Carolina,45800,80500,58,9,Methodist University
+21,North Carolina Wesleyan College,North Carolina,45300,78800,62,8,North Carolina Wesleyan College
+22,Catawba College,North Carolina,42500,78100,58,11,Catawba College
+23,Pfeiffer University,North Carolina,44200,78000,51,4,Pfeiffer University
+24,Barton College,North Carolina,42400,77900,62,6,Barton College
+25,Western Carolina University,North Carolina,44700,77700,58,8,Western Carolina University
+1,North Dakota State University-Main Campus,North Dakota,54200,98600,56,27,North Dakota State University
+2,University of North Dakota,North Dakota,53800,96000,54,16,University North Dakota
+3,University of Jamestown,North Dakota,47600,85400,64,11,University Jamestown
+4,Mayville State University,North Dakota,43700,81300,44,10,Mayville State University
+5,Dickinson State University,North Dakota,46400,81200,55,8,Dickinson State University
+6,University of Mary,North Dakota,46400,79100,64,3,University Mary
+7,Minot State University,North Dakota,44500,74100,55,7,Minot State University
+8,Valley City State University,North Dakota,39900,68600,56,3,Valley City State University
+9,Trinity Bible College and Graduate School,North Dakota,34100,61300,,0,Trinity Bible College and Graduate School
 1,Case Western Reserve University,Ohio,66600,117800,44,37,Case Western Reserve University
 2,Miami University-Oxford,Ohio,57200,107300,46,22,Miami University Oxford
 3,Wittenberg University,Ohio,52400,105400,61,22,Wittenberg University
@@ -719,52 +719,52 @@ Rank,Name,State_Name,Early_Career_Pay,Mid_Career_Pay,Make_World_Better_Percent,S
 23,University of Scranton,Pennsylvania,56400,99700,42,12,University Scranton
 24,Grove City College,Pennsylvania,54400,98400,53,29,Grove City College
 25,Pennsylvania State University-Penn State Erie-Behrend College,Pennsylvania,58800,97900,44,32,Pennsylvania State University Penn State Erie Behrend College
-1,Brown University,Rhode-Island,68200,127600,45,43,Brown University
-2,Bryant University,Rhode-Island,60500,108600,37,8,Bryant University
-3,Providence College,Rhode-Island,58900,106900,44,11,Providence College
-4,Rhode Island School of Design,Rhode-Island,55500,100600,39,0,Rhode Island School Design
-5,University of Rhode Island,Rhode-Island,54500,99700,50,18,University Rhode Island
-6,Salve Regina University,Rhode-Island,53000,93900,50,6,Salve Regina University
-7,New England Institute of Technology,Rhode-Island,51700,93200,44,14,New England Institute Technology
-8,Roger Williams University,Rhode-Island,52900,92700,48,12,Roger Williams University
-9,Rhode Island College,Rhode-Island,47200,83500,52,5,Rhode Island College
-10,Johnson & Wales University-Online,Rhode-Island,46200,81600,43,0,Johnson & Wales University Online
-11,Johnson & Wales University-Providence,Rhode-Island,46500,78900,41,5,Johnson & Wales University Providence
-1,Citadel Military College of South Carolina,South-Carolina,60400,108100,62,19,Citadel Military College South Carolina
-2,Clemson University,South-Carolina,57500,106700,50,39,Clemson University
-3,Furman,South-Carolina,52100,98800,48,16,Furman
-4,Wofford College,South-Carolina,51300,96600,51,28,Wofford College
-5,Medical University of South Carolina,South-Carolina,54800,92700,88,6,Medical University South Carolina
-6,University of South Carolina-Columbia,South-Carolina,50300,89900,52,20,University South Carolina Columbia
-6,Presbyterian College,South-Carolina,48800,89900,57,14,Presbyterian College
-8,College of Charleston,South-Carolina,47300,85100,44,20,College Charleston
-9,University of South Carolina-Upstate,South-Carolina,46000,81400,50,13,University South Carolina Upstate
-10,South Carolina State University,South-Carolina,44500,80800,71,16,South Carolina State University
-11,Winthrop University,South-Carolina,44300,79700,49,9,Winthrop University
-12,Erskine College,South-Carolina,43500,78000,57,28,Erskine College
-13,Coastal Carolina University,South-Carolina,44700,77600,48,14,Coastal Carolina University
-13,Francis Marion University,South-Carolina,42900,77600,58,18,Francis Marion University
-15,Lander University,South-Carolina,42600,77100,54,9,Lander University
-16,Limestone College,South-Carolina,42100,76500,57,10,Limestone College
-17,Charleston Southern University,South-Carolina,42800,76300,65,9,Charleston Southern University
-18,University of South Carolina-Aiken,South-Carolina,41600,75100,58,10,University South Carolina Aiken
-19,Newberry College,South-Carolina,41200,74700,54,14,Newberry College
-20,Southern Wesleyan University,South-Carolina,42900,74600,52,5,Southern Wesleyan University
-21,Converse College,South-Carolina,39000,71000,60,8,Converse College
-22,Anderson University (South Carolina),South-Carolina,39900,70100,51,5,Anderson University (South Carolina)
-23,Columbia College (South Carolina),South-Carolina,39200,68300,56,6,Columbia College (South Carolina)
-24,Benedict College,South-Carolina,38100,67500,61,19,Benedict College
-25,Columbia International University,South-Carolina,36600,66200,62,0,Columbia International University
-1,South Dakota School of Mines and Technology,South-Dakota,66500,118500,58,92,South Dakota School Mines and Technology
-2,South Dakota State University,South-Dakota,50500,91900,58,18,South Dakota State University
-3,Augustana University,South-Dakota,47900,88400,54,18,Augustana University
-4,University of South Dakota,South-Dakota,47500,87900,56,8,University South Dakota
-5,Dakota State University,South-Dakota,48400,84300,49,53,Dakota State University
-6,University of Sioux Falls,South-Dakota,44400,78200,64,6,University Sioux Falls
-7,Northern State University,South-Dakota,42300,77700,56,7,Northern State University
-8,Mount Marty College,South-Dakota,41400,76500,67,5,Mount Marty College
-9,Dakota Wesleyan University,South-Dakota,41800,75700,52,10,Dakota Wesleyan University
-10,Black Hills State University,South-Dakota,40400,72600,51,11,Black Hills State University
+1,Brown University,Rhode Island,68200,127600,45,43,Brown University
+2,Bryant University,Rhode Island,60500,108600,37,8,Bryant University
+3,Providence College,Rhode Island,58900,106900,44,11,Providence College
+4,Rhode Island School of Design,Rhode Island,55500,100600,39,0,Rhode Island School Design
+5,University of Rhode Island,Rhode Island,54500,99700,50,18,University Rhode Island
+6,Salve Regina University,Rhode Island,53000,93900,50,6,Salve Regina University
+7,New England Institute of Technology,Rhode Island,51700,93200,44,14,New England Institute Technology
+8,Roger Williams University,Rhode Island,52900,92700,48,12,Roger Williams University
+9,Rhode Island College,Rhode Island,47200,83500,52,5,Rhode Island College
+10,Johnson & Wales University-Online,Rhode Island,46200,81600,43,0,Johnson & Wales University Online
+11,Johnson & Wales University-Providence,Rhode Island,46500,78900,41,5,Johnson & Wales University Providence
+1,Citadel Military College of South Carolina,South Carolina,60400,108100,62,19,Citadel Military College South Carolina
+2,Clemson University,South Carolina,57500,106700,50,39,Clemson University
+3,Furman,South Carolina,52100,98800,48,16,Furman
+4,Wofford College,South Carolina,51300,96600,51,28,Wofford College
+5,Medical University of South Carolina,South Carolina,54800,92700,88,6,Medical University South Carolina
+6,University of South Carolina-Columbia,South Carolina,50300,89900,52,20,University South Carolina Columbia
+6,Presbyterian College,South Carolina,48800,89900,57,14,Presbyterian College
+8,College of Charleston,South Carolina,47300,85100,44,20,College Charleston
+9,University of South Carolina-Upstate,South Carolina,46000,81400,50,13,University South Carolina Upstate
+10,South Carolina State University,South Carolina,44500,80800,71,16,South Carolina State University
+11,Winthrop University,South Carolina,44300,79700,49,9,Winthrop University
+12,Erskine College,South Carolina,43500,78000,57,28,Erskine College
+13,Coastal Carolina University,South Carolina,44700,77600,48,14,Coastal Carolina University
+13,Francis Marion University,South Carolina,42900,77600,58,18,Francis Marion University
+15,Lander University,South Carolina,42600,77100,54,9,Lander University
+16,Limestone College,South Carolina,42100,76500,57,10,Limestone College
+17,Charleston Southern University,South Carolina,42800,76300,65,9,Charleston Southern University
+18,University of South Carolina-Aiken,South Carolina,41600,75100,58,10,University South Carolina Aiken
+19,Newberry College,South Carolina,41200,74700,54,14,Newberry College
+20,Southern Wesleyan University,South Carolina,42900,74600,52,5,Southern Wesleyan University
+21,Converse College,South Carolina,39000,71000,60,8,Converse College
+22,Anderson University (South Carolina),South Carolina,39900,70100,51,5,Anderson University (South Carolina)
+23,Columbia College (South Carolina),South Carolina,39200,68300,56,6,Columbia College (South Carolina)
+24,Benedict College,South Carolina,38100,67500,61,19,Benedict College
+25,Columbia International University,South Carolina,36600,66200,62,0,Columbia International University
+1,South Dakota School of Mines and Technology,South Dakota,66500,118500,58,92,South Dakota School Mines and Technology
+2,South Dakota State University,South Dakota,50500,91900,58,18,South Dakota State University
+3,Augustana University,South Dakota,47900,88400,54,18,Augustana University
+4,University of South Dakota,South Dakota,47500,87900,56,8,University South Dakota
+5,Dakota State University,South Dakota,48400,84300,49,53,Dakota State University
+6,University of Sioux Falls,South Dakota,44400,78200,64,6,University Sioux Falls
+7,Northern State University,South Dakota,42300,77700,56,7,Northern State University
+8,Mount Marty College,South Dakota,41400,76500,67,5,Mount Marty College
+9,Dakota Wesleyan University,South Dakota,41800,75700,52,10,Dakota Wesleyan University
+10,Black Hills State University,South Dakota,40400,72600,51,11,Black Hills State University
 1,Vanderbilt University,Tennessee,65400,119100,48,23,Vanderbilt University
 2,Sewanee-The University of the South,Tennessee,53700,97800,57,17,Sewanee University South
 2,Rhodes College,Tennessee,51900,97800,46,25,Rhodes College
@@ -889,24 +889,24 @@ Rank,Name,State_Name,Early_Career_Pay,Mid_Career_Pay,Make_World_Better_Percent,S
 23,The Evergreen State College,Washington,47500,83500,47,0,Evergreen State College
 24,Clark College,Washington,43500,78400,,9,Clark College
 25,Heritage University,Washington,41100,73600,,17,Heritage University
-1,West Virginia University Institute of Technology,West-Virginia,57100,103700,56,40,West Virginia University Institute Technology
-2,West Virginia University,West-Virginia,54400,99900,52,22,West Virginia University
-3,Alderson Broaddus University,West-Virginia,50600,90500,72,15,Alderson Broaddus University
-4,Shepherd University,West-Virginia,47100,87100,48,12,Shepherd University
-5,West Virginia Wesleyan College,West-Virginia,47000,85200,53,21,West Virginia Wesleyan College
-6,Bethany College (West Virginia),West-Virginia,46000,84900,63,5,Bethany College (West Virginia)
-7,Wheeling Jesuit University,West-Virginia,44800,83400,57,5,Wheeling Jesuit University
-8,University of Charleston,West-Virginia,44600,81900,51,4,University Charleston
-9,Marshall University,West-Virginia,45000,79700,50,12,Marshall University
-10,West Liberty University,West-Virginia,42500,77000,51,6,West Liberty University
-11,Davis & Elkins College,West-Virginia,41100,76500,43,10,Davis & Elkins College
-12,West Virginia State University,West-Virginia,41800,76000,46,8,West Virginia State University
-13,Concord University,West-Virginia,41700,75800,53,9,Concord University
-14,Fairmont State University,West-Virginia,42900,74100,53,7,Fairmont State University
-15,Bluefield State College,West-Virginia,43200,72800,60,3,Bluefield State College
-16,Ohio Valley University,West-Virginia,38800,71100,81,1,Ohio Valley University
-17,Glenville State College,West-Virginia,37400,67700,60,3,Glenville State College
-18,West Virginia University at Parkersburg,West-Virginia,36700,65200,67,3,West Virginia University Parkersburg
+1,West Virginia University Institute of Technology,West Virginia,57100,103700,56,40,West Virginia University Institute Technology
+2,West Virginia University,West Virginia,54400,99900,52,22,West Virginia University
+3,Alderson Broaddus University,West Virginia,50600,90500,72,15,Alderson Broaddus University
+4,Shepherd University,West Virginia,47100,87100,48,12,Shepherd University
+5,West Virginia Wesleyan College,West Virginia,47000,85200,53,21,West Virginia Wesleyan College
+6,Bethany College (West Virginia),West Virginia,46000,84900,63,5,Bethany College (West Virginia)
+7,Wheeling Jesuit University,West Virginia,44800,83400,57,5,Wheeling Jesuit University
+8,University of Charleston,West Virginia,44600,81900,51,4,University Charleston
+9,Marshall University,West Virginia,45000,79700,50,12,Marshall University
+10,West Liberty University,West Virginia,42500,77000,51,6,West Liberty University
+11,Davis & Elkins College,West Virginia,41100,76500,43,10,Davis & Elkins College
+12,West Virginia State University,West Virginia,41800,76000,46,8,West Virginia State University
+13,Concord University,West Virginia,41700,75800,53,9,Concord University
+14,Fairmont State University,West Virginia,42900,74100,53,7,Fairmont State University
+15,Bluefield State College,West Virginia,43200,72800,60,3,Bluefield State College
+16,Ohio Valley University,West Virginia,38800,71100,81,1,Ohio Valley University
+17,Glenville State College,West Virginia,37400,67700,60,3,Glenville State College
+18,West Virginia University at Parkersburg,West Virginia,36700,65200,67,3,West Virginia University Parkersburg
 1,Milwaukee School of Engineering,Wisconsin,65700,117600,50,69,Milwaukee School Engineering
 2,Marquette University,Wisconsin,57800,105900,52,25,Marquette University
 3,University of Wisconsin-Madison,Wisconsin,57300,104400,48,33,University Wisconsin Madison
