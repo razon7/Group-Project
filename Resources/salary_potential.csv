@@ -1,4 +1,4 @@
-rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,stem_percent,University Name Clean
+Rank,Name,State_Name,Early_Career_Pay,Mid_Career_Pay,Make_World_Better_Percent,Stem_Percent,University_Name_Clean
 1,Auburn University,Alabama,54400,104500,51,31,Auburn University
 2,University of Alabama in Huntsville,Alabama,57500,103900,59,45,University Alabama Huntsville
 3,The University of Alabama,Alabama,52300,97400,50,15,University Alabama
@@ -22,7 +22,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 21,Faulkner University,Alabama,39400,71300,61,2,Faulkner University
 22,University of Montevallo,Alabama,38900,70700,49,7,University Montevallo
 23,Judson College,Alabama,37900,67600,65,13,Judson College
-24,Amridge University,Alabama,35700,65900,NA,0,Amridge University
+24,Amridge University,Alabama,35700,65900,,0,Amridge University
 25,Miles College,Alabama,34800,65100,64,19,Miles College
 1,University of Alaska Fairbanks,Alaska,59100,101800,54,20,University Alaska Fairbanks
 2,University of Alaska Anchorage,Alaska,56000,101000,57,10,University Alaska Anchorage
@@ -31,7 +31,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 2,University of Arizona,Arizona,56100,101000,51,23,University Arizona
 3,Arizona State University-Tempe,Arizona,54500,100900,52,30,Arizona State University Tempe
 4,Northern Arizona University,Arizona,49600,90000,56,12,Northern Arizona University
-5,Arizona Christian University,Arizona,42600,76600,NA,7,Arizona Christian University
+5,Arizona Christian University,Arizona,42600,76600,,7,Arizona Christian University
 6,Ottawa University-Phoenix,Arizona,42000,74600,54,0,Ottawa University Phoenix
 7,Prescott College,Arizona,41200,73500,69,0,Prescott College
 1,University of Arkansas,Arkansas,52500,98000,49,18,University Arkansas
@@ -51,13 +51,13 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 15,Lyon College,Arkansas,41200,74300,53,33,Lyon College
 16,University of Arkansas-Fort Smith,Arkansas,40700,71100,55,9,University Arkansas Fort Smith
 17,University of Arkansas at Pine Bluff,Arkansas,40500,70500,67,22,University Arkansas Pine Bluff
-18,Central Baptist College,Arkansas,36900,68000,NA,3,Central Baptist College
-19,Philander Smith College,Arkansas,34600,61200,NA,26,Philander Smith College
+18,Central Baptist College,Arkansas,36900,68000,,3,Central Baptist College
+19,Philander Smith College,Arkansas,34600,61200,,26,Philander Smith College
 1,Harvey Mudd College,California,88800,158200,55,85,Harvey Mudd College
 2,Samuel Merritt University,California,91200,154100,90,0,Samuel Merritt University
 3,California Institute of Technology,California,84100,151600,53,97,California Institute Technology
 4,Stanford University,California,79000,145200,56,51,Stanford University
-5,Charles R Drew University of Medicine and Science,California,78300,135700,NA,3,Charles R Drew University Medicine and Science
+5,Charles R Drew University of Medicine and Science,California,78300,135700,,3,Charles R Drew University Medicine and Science
 6,Santa Clara University,California,69900,134700,44,29,Santa Clara University
 7,University of California-Berkeley,California,70700,131800,49,36,University California Berkeley
 8,California State University Maritime Academy,California,70500,129600,57,15,California State University Maritime Academy
@@ -96,7 +96,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 16,Adams State University,Colorado,44400,81400,56,3,Adams State University
 17,Colorado Christian University,Colorado,46800,80100,70,2,Colorado Christian University
 18,Johnson & Wales University-Denver,Colorado,41500,74800,39,0,Johnson & Wales University Denver
-19,Nazarene Bible College,Colorado,33600,60100,NA,0,Nazarene Bible College
+19,Nazarene Bible College,Colorado,33600,60100,,0,Nazarene Bible College
 1,Yale University,Connecticut,70300,138300,53,22,Yale University
 2,United States Coast Guard Academy,Connecticut,67300,118100,68,69,United States Coast Guard Academy
 3,Wesleyan University,Connecticut,61600,117000,53,21,Wesleyan University
@@ -112,7 +112,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 13,University of Bridgeport,Connecticut,49900,93600,59,31,University Bridgeport
 14,University of Saint Joseph,Connecticut,49900,88800,63,9,University Saint Joseph
 15,Western Connecticut State University,Connecticut,51700,88100,50,6,Western Connecticut State University
-16,St Vincent's College,Connecticut,46800,87900,NA,0,St Vincent's College
+16,St Vincent's College,Connecticut,46800,87900,,0,St Vincent's College
 17,Eastern Connecticut State University,Connecticut,49200,87800,43,14,Eastern Connecticut State University
 18,Charter Oak State College,Connecticut,49200,85900,68,2,Charter Oak State College
 18,Albertus Magnus College,Connecticut,49700,85900,62,2,Albertus Magnus College
@@ -194,7 +194,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 7,University of Illinois at Chicago,Illinois,56300,103800,48,31,University Illinois Chicago
 8,DePaul University,Illinois,55700,102900,43,15,DePaul University
 9,Lake Forest College,Illinois,55400,102600,46,21,Lake Forest College
-10,St. John's College-Department of Nursing,Illinois,55100,100000,NA,0,St. John's College Department Nursing
+10,St. John's College-Department of Nursing,Illinois,55100,100000,,0,St. John's College Department Nursing
 11,Wheaton College (Illinois),Illinois,53700,99700,55,12,Wheaton College (Illinois)
 12,Illinois Wesleyan University,Illinois,53100,96000,44,18,Illinois Wesleyan University
 12,Loyola University Chicago,Illinois,53400,96000,45,15,Loyola University Chicago
@@ -206,8 +206,8 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 19,North Central College,Illinois,50400,92900,45,9,North Central College
 20,Saint Xavier University,Illinois,49400,91200,60,10,Saint Xavier University
 21,Southern Illinois University-Carbondale,Illinois,49700,90900,54,17,Southern Illinois University Carbondale
-22,Saint Francis Medical Center College of Nursing,Illinois,52800,90800,NA,0,Saint Francis Medical Center College Nursing
-23,Methodist College,Illinois,51400,90500,NA,0,Methodist College
+22,Saint Francis Medical Center College of Nursing,Illinois,52800,90800,,0,Saint Francis Medical Center College Nursing
+23,Methodist College,Illinois,51400,90500,,0,Methodist College
 24,Southern Illinois University-Edwardsville,Illinois,51400,90100,50,21,Southern Illinois University Edwardsville
 25,Lewis University,Illinois,49700,89800,53,14,Lewis University
 1,Rose-Hulman Institute of Technology,Indiana,75000,135800,51,96,Rose Hulman Institute Technology
@@ -224,7 +224,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 12,Saint Mary's College,Indiana,49700,89300,54,15,Saint Mary's College
 13,Earlham College,Indiana,49100,88400,57,31,Earlham College
 14,Indiana University-Purdue University-Indianapolis,Indiana,50500,88200,55,15,Indiana University Purdue University Indianapolis
-15,Holy Cross College,Indiana,48100,87800,NA,0,Holy Cross College
+15,Holy Cross College,Indiana,48100,87800,,0,Holy Cross College
 16,Franklin College,Indiana,48900,86200,45,21,Franklin College
 17,Indiana State University,Indiana,47900,85600,55,8,Indiana State University
 18,Hanover College,Indiana,47500,85100,53,24,Hanover College
@@ -239,7 +239,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 2,Drake University,Iowa,52800,99900,49,7,Drake University
 3,University of Iowa,Iowa,54100,99400,48,16,University Iowa
 4,Grinnell College,Iowa,53400,96500,49,41,Grinnell College
-5,Allen College,Iowa,51600,91300,NA,0,Allen College
+5,Allen College,Iowa,51600,91300,,0,Allen College
 6,Cornell College,Iowa,49600,90600,47,22,Cornell College
 7,Loras College,Iowa,48000,90100,56,14,Loras College
 8,Dordt College,Iowa,51000,89600,57,17,Dordt College
@@ -250,7 +250,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 13,Coe College,Iowa,47200,86900,41,24,Coe College
 14,Luther College,Iowa,48200,85900,49,21,Luther College
 15,University of Northern Iowa,Iowa,47100,85300,46,8,University Northern Iowa
-16,Maharishi University of Management,Iowa,46800,85200,NA,65,Maharishi University Management
+16,Maharishi University of Management,Iowa,46800,85200,,65,Maharishi University Management
 17,Saint Ambrose University,Iowa,46900,84400,48,8,Saint Ambrose University
 18,Northwestern College,Iowa,44800,82400,42,11,Northwestern College
 19,Morningside College,Iowa,44900,82100,60,6,Morningside College
@@ -267,12 +267,12 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 5,University of Saint Mary,Kansas,49500,89700,61,6,University Saint Mary
 6,Newman University,Kansas,48000,88500,66,11,Newman University
 7,Wichita State University,Kansas,48700,87300,57,24,Wichita State University
-8,Ottawa University-Online,Kansas,47300,84900,NA,7,Ottawa University Online
+8,Ottawa University-Online,Kansas,47300,84900,,7,Ottawa University Online
 8,Pittsburg State University,Kansas,47100,84900,51,8,Pittsburg State University
 10,Baker University,Kansas,47800,84200,55,2,Baker University
 11,Southwestern College (Kansas),Kansas,48500,83500,61,10,Southwestern College (Kansas)
 12,Washburn University,Kansas,47000,83000,54,4,Washburn University
-13,Ottawa University-Kansas City,Kansas,45200,82600,NA,9,Ottawa University Kansas City
+13,Ottawa University-Kansas City,Kansas,45200,82600,,9,Ottawa University Kansas City
 14,McPherson College,Kansas,44500,80900,59,9,McPherson College
 15,Kansas Wesleyan University,Kansas,44700,79400,61,10,Kansas Wesleyan University
 16,Fort Hays State University,Kansas,45100,79300,64,6,Fort Hays State University
@@ -283,8 +283,8 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 21,Friends University,Kansas,44700,76500,59,14,Friends University
 22,Bethel College-North Newton,Kansas,42700,73800,54,12,Bethel College North Newton
 23,Bethany College (Kansas),Kansas,39100,73200,61,17,Bethany College (Kansas)
-24,Manhattan Christian College,Kansas,39400,72200,NA,0,Manhattan Christian College
-25,Central Christian College of Kansas,Kansas,37100,66100,NA,2,Central Christian College Kansas
+24,Manhattan Christian College,Kansas,39400,72200,,0,Manhattan Christian College
+25,Central Christian College of Kansas,Kansas,37100,66100,,2,Central Christian College Kansas
 1,University of Kentucky,Kentucky,51700,96400,48,19,University Kentucky
 2,Thomas More College,Kentucky,50000,90900,56,8,Thomas More College
 3,Bellarmine University,Kentucky,49000,90700,54,11,Bellarmine University
@@ -332,7 +332,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 20,Northwestern State University of Louisiana,Louisiana,44300,79300,62,6,Northwestern State University Louisiana
 21,Grambling State University,Louisiana,43100,73100,66,10,Grambling State University
 22,Southern University at New Orleans,Louisiana,40100,71000,76,13,Southern University New Orleans
-23,New Orleans Baptist Theological Seminary,Louisiana,33900,61500,NA,0,New Orleans Baptist Theological Seminary
+23,New Orleans Baptist Theological Seminary,Louisiana,33900,61500,,0,New Orleans Baptist Theological Seminary
 1,Maine Maritime Academy,Maine,67000,121800,65,48,Maine Maritime Academy
 2,Bowdoin College,Maine,61300,112000,54,37,Bowdoin College
 3,Bates College,Maine,59500,111900,50,23,Bates College
@@ -347,7 +347,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 12,University of Maine at Augusta,Maine,41600,73100,61,7,University Maine Augusta
 13,University of Maine at Farmington,Maine,41100,71700,64,5,University Maine Farmington
 14,University of Maine at Presque Isle,Maine,39000,70700,58,6,University Maine Presque Isle
-15,Unity College,Maine,38200,69500,NA,23,Unity College
+15,Unity College,Maine,38200,69500,,23,Unity College
 16,University of Maine at Machias,Maine,37100,66200,47,13,University Maine Machias
 17,Maine College of Art,Maine,36300,64600,37,0,Maine College Art
 1,United States Naval Academy,Maryland,80100,152800,64,58,United States Naval Academy
@@ -356,7 +356,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 4,University of Maryland-College Park,Maryland,61300,113400,50,33,University Maryland College Park
 5,Loyola University Maryland,Maryland,59900,111200,40,8,Loyola University Maryland
 6,University of Maryland-Baltimore County,Maryland,58100,103600,54,45,University Maryland Baltimore County
-7,St. John's College,Maryland,55900,101200,NA,0,St. John's College
+7,St. John's College,Maryland,55900,101200,,0,St. John's College
 8,"University of Maryland, Baltimore",Maryland,57300,99600,76,4,"University Maryland, Baltimore"
 8,University of Maryland-University College,Maryland,55300,99600,59,27,University Maryland University College
 10,Washington Adventist University,Maryland,55600,97600,63,9,Washington Adventist University
@@ -524,7 +524,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 2,Saint Anselm College,New-Hampshire,56400,100300,59,11,Saint Anselm College
 2,University of New Hampshire-Main Campus,New-Hampshire,54300,100300,50,23,University New Hampshire
 4,University of New Hampshire at Manchester,New-Hampshire,51900,90900,50,32,University New Hampshire Manchester
-5,Thomas More College of Liberal Arts,New-Hampshire,48900,88300,NA,0,Thomas More College Liberal Arts
+5,Thomas More College of Liberal Arts,New-Hampshire,48900,88300,,0,Thomas More College Liberal Arts
 6,New England College,New-Hampshire,45700,86400,43,24,New England College
 7,Franklin Pierce University,New-Hampshire,47800,85600,52,3,Franklin Pierce University
 8,Rivier University,New-Hampshire,49500,85100,58,41,Rivier University
@@ -565,7 +565,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 6,New Mexico Highlands University,New-Mexico,40400,73800,63,4,New Mexico Highlands University
 1,Albany College of Pharmacy and Health Sciences,New-York,81000,144800,82,2,Albany College Pharmacy and Health Sciences
 2,United States Military Academy,New-York,80200,144000,61,39,United States Military Academy
-3,Webb Institute,New-York,80800,141800,NA,100,Webb Institute
+3,Webb Institute,New-York,80800,141800,,100,Webb Institute
 4,United States Merchant Marine Academy,New-York,80600,140700,62,56,United States Merchant Marine Academy
 4,SUNY Maritime College,New-York,74900,140700,53,32,SUNY Maritime College
 6,Rensselaer Polytechnic Institute,New-York,71300,134100,49,78,Rensselaer Polytechnic Institute
@@ -605,7 +605,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 15,Appalachian State University,North-Carolina,46600,82700,47,9,Appalachian State University
 16,Campbell University,North-Carolina,46300,82400,56,8,Campbell University
 16,University of North Carolina School of the Arts,North-Carolina,46400,82400,44,0,University North Carolina School Arts
-18,John Wesley University,North-Carolina,45100,82100,NA,0,John Wesley University
+18,John Wesley University,North-Carolina,45100,82100,,0,John Wesley University
 19,University of North Carolina Wilmington,North-Carolina,46400,80500,47,14,University North Carolina Wilmington
 19,Methodist University,North-Carolina,45800,80500,58,9,Methodist University
 21,North Carolina Wesleyan College,North-Carolina,45300,78800,62,8,North Carolina Wesleyan College
@@ -621,7 +621,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 6,University of Mary,North-Dakota,46400,79100,64,3,University Mary
 7,Minot State University,North-Dakota,44500,74100,55,7,Minot State University
 8,Valley City State University,North-Dakota,39900,68600,56,3,Valley City State University
-9,Trinity Bible College and Graduate School,North-Dakota,34100,61300,NA,0,Trinity Bible College and Graduate School
+9,Trinity Bible College and Graduate School,North-Dakota,34100,61300,,0,Trinity Bible College and Graduate School
 1,Case Western Reserve University,Ohio,66600,117800,44,37,Case Western Reserve University
 2,Miami University-Oxford,Ohio,57200,107300,46,22,Miami University Oxford
 3,Wittenberg University,Ohio,52400,105400,61,22,Wittenberg University
@@ -635,7 +635,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 11,John Carroll University,Ohio,51600,97300,39,16,John Carroll University
 11,University of Cincinnati-Main Campus,Ohio,53600,97300,50,19,University Cincinnati
 13,Oberlin College,Ohio,53100,96800,47,21,Oberlin College
-14,Kettering College,Ohio,54300,95800,NA,0,Kettering College
+14,Kettering College,Ohio,54300,95800,,0,Kettering College
 15,Marietta College,Ohio,51200,94300,57,45,Marietta College
 16,Xavier University,Ohio,51800,94000,46,7,Xavier University
 17,Ohio University-Main Campus,Ohio,51400,93300,47,9,Ohio University
@@ -678,13 +678,13 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 6,Willamette University,Oregon,52200,97700,49,14,Willamette University
 7,University of Oregon,Oregon,51800,95800,46,13,University Oregon
 8,Pacific University,Oregon,50200,94000,66,8,Pacific University
-8,Linfield College-Online and Continuing Education,Oregon,50900,94000,NA,0,Linfield College Online and Continuing Education
+8,Linfield College-Online and Continuing Education,Oregon,50900,94000,,0,Linfield College Online and Continuing Education
 10,Lewis & Clark College,Oregon,50000,93200,51,12,Lewis & Clark College
 11,Linfield College-McMinnville Campus,Oregon,52100,92000,48,17,Linfield College McMinnville
 12,Portland State University,Oregon,50800,90500,48,16,Portland State University
 13,George Fox University,Oregon,51200,89600,52,8,George Fox University
 14,Concordia University-Portland,Oregon,48000,86100,69,1,Concordia University Portland
-15,Pacific Northwest College of Art,Oregon,46300,85000,NA,0,Pacific Northwest College Art
+15,Pacific Northwest College of Art,Oregon,46300,85000,,0,Pacific Northwest College Art
 16,Southern Oregon University,Oregon,46000,81200,54,6,Southern Oregon University
 17,Northwest Christian University,Oregon,45200,81100,62,5,Northwest Christian University
 18,Warner Pacific College,Oregon,45500,80500,58,10,Warner Pacific College
@@ -693,7 +693,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 21,Corban University,Oregon,42500,77300,63,1,Corban University
 22,Multnomah University,Oregon,40500,76400,82,0,Multnomah University
 23,Eastern Oregon University,Oregon,44000,73900,56,5,Eastern Oregon University
-24,New Hope Christian College-Eugene,Oregon,34200,61600,NA,0,New Hope Christian College Eugene
+24,New Hope Christian College-Eugene,Oregon,34200,61600,,0,New Hope Christian College Eugene
 1,Carnegie Mellon University,Pennsylvania,75900,136100,45,66,Carnegie Mellon University
 2,Lehigh University,Pennsylvania,69500,134100,45,52,Lehigh University
 3,University of Pennsylvania,Pennsylvania,72800,133900,41,21,University Pennsylvania
@@ -834,7 +834,7 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 7,Champlain College,Vermont,51100,88400,39,14,Champlain College
 8,College of St Joseph,Vermont,47000,85000,72,0,College St Joseph
 9,Southern Vermont College,Vermont,42900,78700,63,17,Southern Vermont College
-10,Goddard College,Vermont,42700,76900,NA,0,Goddard College
+10,Goddard College,Vermont,42700,76900,,0,Goddard College
 11,Castleton University,Vermont,41700,76200,52,6,Castleton University
 12,Green Mountain College,Vermont,42000,75200,57,2,Green Mountain College
 13,Lyndon State College,Vermont,41500,75100,49,8,Lyndon State College
@@ -882,13 +882,13 @@ rank,name,state_name,early_career_pay,mid_career_pay,make_world_better_percent,s
 16,Northwest University,Washington,50900,89000,51,3,Northwest University
 17,Whitworth University,Washington,49900,88800,52,18,Whitworth University
 18,Bellevue College,Washington,50100,88500,56,14,Bellevue College
-19,Whitworth University-Adult Degree Programs,Washington,50100,88100,NA,0,Whitworth University Adult Degree Programs
+19,Whitworth University-Adult Degree Programs,Washington,50100,88100,,0,Whitworth University Adult Degree Programs
 20,Eastern Washington University,Washington,49500,87500,52,17,Eastern Washington University
 21,Cornish College of the Arts,Washington,49000,86400,39,0,Cornish College Arts
-22,Bastyr University,Washington,48400,86300,NA,0,Bastyr University
+22,Bastyr University,Washington,48400,86300,,0,Bastyr University
 23,The Evergreen State College,Washington,47500,83500,47,0,Evergreen State College
-24,Clark College,Washington,43500,78400,NA,9,Clark College
-25,Heritage University,Washington,41100,73600,NA,17,Heritage University
+24,Clark College,Washington,43500,78400,,9,Clark College
+25,Heritage University,Washington,41100,73600,,17,Heritage University
 1,West Virginia University Institute of Technology,West-Virginia,57100,103700,56,40,West Virginia University Institute Technology
 2,West Virginia University,West-Virginia,54400,99900,52,22,West Virginia University
 3,Alderson Broaddus University,West-Virginia,50600,90500,72,15,Alderson Broaddus University
