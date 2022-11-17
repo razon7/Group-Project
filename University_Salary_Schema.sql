@@ -1,56 +1,63 @@
 -- Create University_Salary_Database schema
 
 CREATE TABLE "Diversity_School" (
-    "UniversityName" text   NOT NULL,
-    "TotalEnrollment" int   NOT NULL,
-    "StateName" text NOT NULL,
-    "Category" text   NOT NULL,
-    "Enrollment" int   NOT NULL
+    "University_Name" VARCHAR(100) NOT NULL,
+    "University_Name_Clean" VARCHAR(100)  NOT NULL,
+    "Total_Enrollment" INT NULL,
+	"State" VARCHAR(20) NOT NULL,
+	"American_Indian_Alaska_Native_Diversity_Percent" DOUBLE PRECISION NULL,
+    "Asian_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Black_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Hispanic_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Native_Hawaiian_Pacific_Islander_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Two_Or_More_Races_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Total_Minority_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Non-Resident_Foreign_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Unknown_Diversity_Percent" DOUBLE PRECISION NULL,
+	"White_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Women_Diversity_Percent" DOUBLE PRECISION NULL,
+	"Men_Diversity_Percent" DOUBLE PRECISION NULL
 );
 
 CREATE TABLE "Salary_Potential" (
-    "Rank" int   NOT NULL,
-    "UniversityName" text   NOT NULL,
-    "StateName" text   NOT NULL,
-    "EarlyCareerPay" float   NOT NULL,
-    "MidCareerPay" float   NOT NULL,
-    "MakeWorldBetterPercent" float   NOT NULL,
-    "StemPercent" float   NOT NULL,
+    "Rank" int NULL,
+    "University_Name" VARCHAR(100) NOT NULL,
+    "State" VARCHAR(20) NOT NULL,
+    "Early_Career_Pay" INT NULL,
+    "Mid_Career_Pay" INT NULL,
+    "Make_World_Better_Percent" INT NULL,
+    "Stem_Percent" INT NULL,
+	"University_Name_Clean" VARCHAR(100) NOT NULL,
     CONSTRAINT "pk_Salary_Potential" PRIMARY KEY (
-        "UniversityName"
+        "University_Name_Clean"
      )
 );
 
 CREATE TABLE "Tuition_Cost" (
-    "UniversityName" text   NOT NULL,
-    "StateName" text   NOT NULL,
-    "StateCode" text   NOT NULL,
-    "Type" text   NOT NULL,
-    "DegreeLength" text   NOT NULL,
-    "RoomBoard" float   NOT NULL,
-    "InStateTuition" float   NOT NULL,
-    "InStateTotal" float   NOT NULL,
-    "OutStateTuition" float   NOT NULL,
-    "OutStateTotal" float   NOT NULL
+    "Name" VARCHAR(100) NOT NULL,
+	"University_Name_Clean" VARCHAR(100) NOT NULL,
+    "State" VARCHAR(20) NOT NULL,
+    "State_Code" VARCHAR(5) NULL,
+    "Type" VARCHAR(15) NULL,
+    "Degree_Length" VARCHAR(10) NULL,
+    "Room_And_Board" INT NULL,
+    "In_State_Tuition" INT NULL,
+    "In_State_Total" INT NULL,
+    "Out_Of_State_Tuition" INT NULL,
+    "Out_Of_State_Total" INT NULL
 );
 
 CREATE TABLE "Region_Reference" (
-    "StateName" text   NOT NULL,
-    "Region" text   NOT NULL,
-    "Division" text   NOT NULL,
+    "State" VARCHAR(20) NOT NULL,
+    "Region" VARCHAR(20) NOT NULL,
+    "Division" VARCHAR(20) NOT NULL,
     CONSTRAINT "pk_Region_Reference" PRIMARY KEY (
-        "StateName"
+        "State"
      )
 );
 
-ALTER TABLE "Diversity_School" ADD CONSTRAINT "fk_Diversity_School_UniversityName" FOREIGN KEY("UniversityName")
-REFERENCES "Salary_Potential" ("UniversityName");
+ALTER TABLE "Salary_Potential" ADD CONSTRAINT "fk_Salary_Potential_State" FOREIGN KEY("State")
+REFERENCES "Region_Reference" ("State");
 
-ALTER TABLE "Salary_Potential" ADD CONSTRAINT "fk_Salary_Potential_StateName" FOREIGN KEY("StateName")
-REFERENCES "Region_Reference" ("StateName");
-
-ALTER TABLE "Tuition_Cost" ADD CONSTRAINT "fk_Tuition_Cost_UniversityName" FOREIGN KEY("UniversityName")
-REFERENCES "Salary_Potential" ("UniversityName");
-
-ALTER TABLE "Tuition_Cost" ADD CONSTRAINT "fk_Tuition_Cost_State" FOREIGN KEY("StateName")
-REFERENCES "Region_Reference" ("StateName");
+ALTER TABLE "Tuition_Cost" ADD CONSTRAINT "fk_Tuition_Cost_State" FOREIGN KEY("State")
+REFERENCES "Region_Reference" ("State");

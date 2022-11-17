@@ -60,9 +60,6 @@ American National University: Martinsville,American National University Martinsv
 American National University: Salem,American National University Salem,Virginia,VA,For Profit,4 Year,,18735,18735,18735,18735
 American  University SystemFor-profit,American University SystemFor profit,West Virginia,WV,Public,4 Year,,8150,8150,8150,8150
 American River College,American River College,California,CA,Public,2 Year,,1416,1416,9546,9546
-American Samoa Community College,American Samoa Community College,NA,AS,Public,2 Year,,3700,3700,3700,3700
-American University,American University,NA,DC,Private,4 Year,14880,48459,63339,48459,63339
-American University of Puerto Rico,American University Puerto Rico,NA,PR,Private,4 Year,,6946,6946,6946,6946
 Amherst College,Amherst College,Massachusetts,MA,Private,4 Year,14740,56426,71166,56426,71166
 Amridge University,Amridge University,Alabama,AL,Private,4 Year,,6900,6900,6900,6900
 Ancilla College,Ancilla College,Indiana,IN,Private,2 Year,9600,17330,26930,17330,26930
@@ -123,7 +120,6 @@ Athens Technical College,Athens Technical College,Georgia,GA,Public,2 Year,,3292
 Atlanta Metropolitan State College,Atlanta Metropolitan State College,Georgia,GA,Public,2 Year,,4008,4008,12088,12088
 Atlanta Technical College,Atlanta Technical College,Georgia,GA,Public,2 Year,,3350,3350,6020,6020
 Atlantic Cape Community College,Atlantic Cape Community College,New Jersey,NJ,Public,2 Year,,5096,5096,8096,8096
-Atlantic University College,Atlantic University College,NA,PR,Private,4 Year,,4525,4525,4525,4525
 Auburn University,Auburn University,Alabama,AL,Public,4 Year,13332,11276,24608,30524,43856
 Auburn University at Montgomery,Auburn University Montgomery,Alabama,AL,Public,4 Year,6980,10288,17268,22048,29028
 Augsburg University,Augsburg University,Minnesota,MN,Private,4 Year,10280,38800,49080,38800,49080
@@ -168,7 +164,6 @@ Bay College,Bay College,Michigan,MI,Public,2 Year,3200,4830,8030,8910,12110
 Bay Mills Community College,Bay Mills Community College,Michigan,MI,Public,2 Year,,3250,3250,3250,3250
 Bay Path University,Bay Path University,Massachusetts,MA,Private,4 Year,12799,34225,47024,34225,47024
 Bay State College,Bay State College,Massachusetts,MA,For Profit,2 Year,13300,27750,41050,27750,41050
-Bayamon Central University,Bayamon Central University,NA,PR,Private,4 Year,,5775,5775,5775,5775
 Baylor University,Baylor University,Texas,TX,Private,4 Year,12595,45727,58322,45727,58322
 Beacon College,Beacon College,Florida,FL,Private,4 Year,11390,39016,50406,39016,50406
 Beaufort County Community College,Beaufort County Community College,North Carolina,NC,Public,2 Year,,2344,2344,8104,8104
@@ -205,7 +200,6 @@ Beth Medrash Govoha,Beth Medrash Govoha,New Jersey,NJ,Private,4 Year,4172,21388,
 Bethany College (Kansas),Bethany College (Kansas),Kansas,KS,Private,4 Year,10605,28475,39080,28475,39080
 Bethany College,Bethany College (West Virginia),West Virginia,WV,Private,4 Year,10580,29773,40353,29773,40353
 Bethany Lutheran College,Bethany Lutheran College,Minnesota,MN,Private,4 Year,8100,27650,35750,27650,35750
-Bethel College,#N/A,Indiana,IN,Private,4 Year,9000,28590,37590,28590,37590
 Bethel College (Kansas),Bethel College North Newton,Kansas,KS,Private,4 Year,8850,28780,37630,28780,37630
 Bethel University,Bethel University,Tennessee,TN,Private,4 Year,9198,16552,25750,16552,25750
 Bethel University (Minnesota),Bethel University (Minnesota),Minnesota,MN,Private,4 Year,10520,37300,47820,37300,47820
@@ -348,12 +342,10 @@ Capitol Technology University,Capitol Technology University,Maryland,MD,Private,
 Cardinal Stritch University,Cardinal Stritch University,Wisconsin,WI,Private,4 Year,8440,29998,38438,29998,38438
 Career College of Northern Nevada,Career College Northern Nevada,Nevada,NV,For Profit,2 Year,,11250,11250,11250,11250
 Careers Unlimited,Careers Unlimited,Utah,UT,For Profit,2 Year,,22841,22841,22841,22841
-Caribbean University,Caribbean University,NA,PR,Private,4 Year,,6570,6570,6570,6570
 Carl Albert State College,Carl Albert State College,Oklahoma,OK,Public,2 Year,4000,3818,7818,7943,11943
 Carl Sandburg College,Carl Sandburg College,Illinois,IL,Public,2 Year,,5000,5000,8330,8330
 Carleton College,Carleton College,Minnesota,MN,Private,4 Year,14085,54759,68844,54759,68844
 Carlos Albizu University,Carlos Albizu University,Florida,FL,Private,4 Year,,10234,10234,10234,10234
-Carlos Albizu University: San Juan,Carlos Albizu University San Juan,NA,PR,Private,4 Year,,5912,5912,5912,5912
 Carlow University,Carlow University,Pennsylvania,PA,Private,4 Year,11442,29454,40896,29454,40896
 Carnegie Mellon University,Carnegie Mellon University,Pennsylvania,PA,Private,4 Year,14418,55465,69883,55465,69883
 Carolina Christian College,Carolina Christian College,North Carolina,NC,Private,4 Year,,8300,8300,8300,8300
@@ -371,7 +363,6 @@ Castleton University,Castleton University,Vermont,VT,Public,4 Year,10598,12314,2
 Catawba College,Catawba College,North Carolina,NC,Private,4 Year,10488,30520,41008,30520,41008
 Catawba Valley Community College,Catawba Valley Community College,North Carolina,NC,Public,2 Year,,2400,2400,8160,8160
 Catholic Distance University,Catholic Distance University,West Virginia,WV,Private,4 Year,,10050,10050,10050,10050
-Catholic University of America,Catholic University America,NA,DC,Private,4 Year,14650,45804,60454,45804,60454
 Cayuga Community College,Cayuga Community College,New York,NY,Public,2 Year,,5290,5290,9948,9948
 Cazenovia College,Cazenovia College,New York,NY,Private,4 Year,14596,34630,49226,34630,49226
 Cecil College,Cecil College,Maryland,MD,Public,2 Year,,4305,4305,9015,9015
@@ -575,7 +566,6 @@ Colorado State University,Colorado State University Fort Collins,Colorado,CO,Pub
 Colorado State University - Global Campus,Colorado State University  Global,Colorado,CO,Public,4 Year,,10500,10500,10500,10500
 Colorado State University: Pueblo,Colorado State University Pueblo,Colorado,CO,Public,4 Year,10470,10408,20878,26329,36799
 Columbia Basin College,Columbia Basin College,Washington,WA,Public,2 Year,,5563,5563,8532,8532
-Columbia Central University: Yauco,Columbia Central University Yauco,NA,PR,For Profit,2 Year,,6420,6420,6420,6420
 Columbia College,Columbia College (South Carolina),South Carolina,SC,Private,4 Year,7900,19500,27400,19500,27400
 Columbia College (Missouri),Columbia College (Missouri),Missouri,MO,Private,4 Year,7808,22704,30512,22704,30512
 Columbia College (California),Columbia College (California),California,CA,Public,2 Year,,1418,1418,9158,9158
@@ -617,7 +607,6 @@ Concordia University Texas,Concordia University Texas,Texas,TX,Private,4 Year,11
 Concordia University Wisconsin,Concordia University Wisconsin,Wisconsin,WI,Private,4 Year,10860,29450,40310,29450,40310
 Connecticut College,Connecticut College,Connecticut,CT,Private,4 Year,15150,54820,69970,54820,69970
 Connors State College,Connors State College,Oklahoma,OK,Public,2 Year,6032,4328,10360,9031,15063
-Conservatory of Music of Puerto Rico,Conservatory Music Puerto Rico,NA,PR,Public,4 Year,,4000,4000,4000,4000
 Contra Costa College,Contra Costa College,California,CA,Public,2 Year,,1392,1392,9162,9162
 Converse College,Converse College,South Carolina,SC,Private,4 Year,10930,18690,29620,18690,29620
 Cooper Union for the Advancement of Science and Art,Cooper Union for Advancement Science and Art,New York,NY,Private,4 Year,16638,46700,63338,46700,63338
@@ -763,11 +752,9 @@ Eckerd College,Eckerd College,Florida,FL,Private,4 Year,12588,44540,57128,44540,
 ECPI University,ECPI University,Virginia,VA,For Profit,4 Year,,16764,16764,16764,16764
 Edgecombe Community College,Edgecombe Community College,North Carolina,NC,Public,2 Year,,2757,2757,8901,8901
 Edgewood College,Edgewood College,Wisconsin,WI,Private,4 Year,11020,29500,40520,29500,40520
-EDIC College,EDIC College,NA,PR,For Profit,2 Year,,7065,7065,7065,7065
 Edinboro University of Pennsylvania,Edinboro University Pennsylvania,Pennsylvania,PA,Public,4 Year,9408,10543,19951,15062,24470
 Edison State Community College,Edison State Community College,Ohio,OH,Public,2 Year,,4699,4699,8608,8608
 Edmonds Community College,Edmonds Community College,Washington,WA,Public,2 Year,7400,4471,11871,4471,11871
-EDP University of Puerto Rico: San Sebastian,EDP University Puerto Rico San Sebastian,NA,PR,For Profit,4 Year,,5940,5940,5940,5940
 Edward Waters College,Edward Waters College,Florida,FL,Private,4 Year,7282,13725,21007,13725,21007
 El Camino College,El Camino College,California,CA,Public,2 Year,,1419,1419,9519,9519
 El Centro College,El Centro College,Texas,TX,Public,2 Year,,1770,1770,5220,5220
@@ -798,7 +785,6 @@ Endicott College,Endicott College,Massachusetts,MA,Private,4 Year,15726,33050,48
 Enterprise State Community College,Enterprise State Community College,Alabama,AL,Public,2 Year,,4500,4500,8130,8130
 Erie Community College,Erie Community College,New York,NY,Public,2 Year,,5686,5686,10586,10586
 Erskine College,Erskine College,South Carolina,SC,Private,4 Year,10900,34560,45460,34560,45460
-Escuela de Artes Plasticas de Puerto Rico,Escuela de Artes Plasticas de Puerto Rico,NA,PR,Public,4 Year,,4002,4002,6702,6702
 Essex County College,Essex County College,New Jersey,NJ,Public,2 Year,,4995,4995,8790,8790
 Estrella Mountain Community College,Estrella Mountain Community College,Arizona,AZ,Public,2 Year,,2580,2580,9810,9810
 ETI Technical College of Niles,ETI Technical College Niles,Ohio,OH,For Profit,2 Year,,10653,10653,10653,10653
@@ -881,7 +867,6 @@ Fullerton College,Fullerton College,California,CA,Public,2 Year,,1445,1445,9185,
 Fulton-Montgomery Community College,Fulton Montgomery Community College,New York,NY,Public,2 Year,11870,5460,17330,10060,21930
 Furman University,Furman,South Carolina,SC,Private,4 Year,12712,49532,62244,49532,62244
 Gadsden State Community College,Gadsden State Community College,Alabama,AL,Public,2 Year,3600,4800,8400,8430,12030
-Gallaudet University,Gallaudet University,NA,DC,Private,4 Year,14100,17038,31138,17038,31138
 Galveston College,Galveston College,Texas,TX,Public,2 Year,,2050,2050,4600,4600
 Gannon University,Gannon University,Pennsylvania,PA,Private,4 Year,12650,32136,44786,32136,44786
 Garden City Community College,Garden City Community College,Kansas,KS,Public,2 Year,5450,3120,8570,3690,9140
@@ -899,9 +884,7 @@ George C. Wallace Community College at Dothan,George C. Wallace Community Colleg
 George C. Wallace State Community College at Selma,George C. Wallace State Community College Selma,Alabama,AL,Public,2 Year,,4440,4440,4440,4440
 George Fox University,George Fox University,Oregon,OR,Private,4 Year,11250,36020,47270,36020,47270
 George Mason University,George Mason University,Virginia,VA,Public,4 Year,11460,12462,23922,35922,47382
-George Washington University,George Washington University,NA,DC,Private,4 Year,13850,55230,69080,55230,69080
 Georgetown College,Georgetown College,Kentucky,KY,Private,4 Year,9780,38650,48430,38650,48430
-Georgetown University,Georgetown University,NA,DC,Private,4 Year,16509,54104,70613,54104,70613
 Georgia College and State University,Georgia College and State University,Georgia,GA,Public,4 Year,11016,9346,20362,28060,39076
 Georgia Gwinnett College,Georgia Gwinnett College,Georgia,GA,Public,4 Year,12870,6124,18994,18552,31422
 Georgia Highlands College,Georgia Highlands College,Georgia,GA,Public,2 Year,,3844,3844,11590,11590
@@ -963,7 +946,6 @@ Greenville University,Greenville University,Illinois,IL,Private,4 Year,9048,2715
 Grinnell College,Grinnell College,Iowa,IA,Private,4 Year,12810,52392,65202,52392,65202
 Grossmont College,Grossmont College,California,CA,Public,2 Year,,1418,1418,9158,9158
 Grove City College,Grove City College,Pennsylvania,PA,Private,4 Year,9770,17930,27700,17930,27700
-Guam Community College,Guam Community College,NA,GU,Public,2 Year,,4194,4194,4944,4944
 Guilford College,Guilford College,North Carolina,NC,Private,4 Year,11200,38250,49450,38250,49450
 Guilford Technical Community College,Guilford Technical Community College,North Carolina,NC,Public,2 Year,,2333,2333,8093,8093
 Gulf Coast State College,Gulf Coast State College,Florida,FL,Public,2 Year,,2963,2963,10791,10791
@@ -1055,12 +1037,9 @@ Houston Community College System,Houston Community College System,Texas,TX,Publi
 Howard College,Howard College,Texas,TX,Public,2 Year,4834,2560,7394,5420,10254
 Howard Community College,Howard Community College,Maryland,MD,Public,2 Year,,4920,4920,9060,9060
 Howard Payne University,Howard Payne University,Texas,TX,Private,4 Year,8386,28090,36476,28090,36476
-Howard University,Howard University,NA,DC,Private,4 Year,13895,27056,40951,27056,40951
 Hudson County Community College,Hudson County Community College,New Jersey,NJ,Public,2 Year,,5718,5718,14028,14028
 Hudson Valley Community College,Hudson Valley Community College,New York,NY,Public,2 Year,,5640,5640,12915,12915
-Huertas College,Huertas College,NA,PR,For Profit,2 Year,,6635,6635,6635,6635
 Hult International Business School,Hult International Business School,California,CA,Private,4 Year,15000,40650,55650,40650,55650
-Humacao Community College,Humacao Community College,NA,PR,Private,2 Year,3000,5382,8382,5382,8382
 Humboldt State University,Humboldt State University,California,CA,Public,4 Year,12870,7676,20546,19556,32426
 Humphreys College,Humphreys College,California,CA,Private,4 Year,,14292,14292,14292,14292
 Huntingdon College,Huntingdon College,Alabama,AL,Private,4 Year,9750,27400,37150,27400,37150
@@ -1072,7 +1051,6 @@ Husson University,Husson University,Maine,ME,Private,4 Year,9830,18180,28010,181
 Huston-Tillotson University,Huston Tillotson University,Texas,TX,Private,4 Year,7568,14346,21914,14346,21914
 Hutchinson Community College,Hutchinson Community College,Kansas,KS,Public,2 Year,5800,3000,8800,4230,10030
 IBMC College: Fort Collins,IBMC College Fort Collins,Colorado,CO,For Profit,2 Year,,13010,13010,13010,13010
-ICPR Junior College,ICPR Junior College,NA,PR,For Profit,2 Year,4000,7010,11010,7010,11010
 Idaho State University,Idaho State University,Idaho,ID,Public,4 Year,7207,7420,14627,22940,30147
 Ilisagvik College,Ilisagvik College,Alaska,AK,Public,2 Year,13000,4300,17300,4300,17300
 Illinois Central College,Illinois Central College,Illinois,IL,Public,2 Year,,4500,4500,11340,11340
@@ -1102,15 +1080,6 @@ Indiana University-Purdue University Fort Wayne,Indiana University Purdue Univer
 Indiana University-Purdue University Indianapolis,Indiana University Purdue University Indianapolis,Indiana,IN,Public,4 Year,8924,9465,18389,29821,38745
 Indiana Wesleyan University,Indiana Wesleyan University,Indiana,IN,Private,4 Year,8312,25980,34292,25980,34292
 Institute of American Indian Arts,Institute American Indian Arts,New Mexico,NM,Public,4 Year,9604,4980,14584,4980,14584
-Inter American University of Puerto Rico: Aguadilla Campus,Inter American University Puerto Rico Aguadilla,NA,PR,Private,4 Year,,6262,6262,6262,6262
-Inter American University of Puerto Rico: Arecibo Campus,Inter American University Puerto Rico Arecibo,NA,PR,Private,4 Year,,6452,6452,6452,6452
-Inter American University of Puerto Rico: Barranquitas Campus,Inter American University Puerto Rico Barranquitas,NA,PR,Private,4 Year,,6262,6262,6262,6262
-Inter American University of Puerto Rico: Bayamon Campus,Inter American University Puerto Rico Bayamon,NA,PR,Private,4 Year,7993,5898,13891,5898,13891
-Inter American University of Puerto Rico: Fajardo Campus,Inter American University Puerto Rico Fajardo,NA,PR,Private,4 Year,,5898,5898,5898,5898
-Inter American University of Puerto Rico: Guayama Campus,Inter American University Puerto Rico Guayama,NA,PR,Private,4 Year,,6452,6452,6452,6452
-Inter American University of Puerto Rico: Metropolitan Campus,Inter American University Puerto Rico Metropolitan,NA,PR,Private,4 Year,,7476,7476,7476,7476
-Inter American University of Puerto Rico: Ponce Campus,Inter American University Puerto Rico Ponce,NA,PR,Private,4 Year,,5220,5220,5220,5220
-Inter American University of Puerto Rico: San German Campus,Inter American University Puerto Rico San German,NA,PR,Private,4 Year,3900,5976,9876,5976,9876
 International Baptist College,International Baptist College,Arizona,AZ,Private,4 Year,6200,11250,17450,11250,17450
 International College of Broadcasting,International College Broadcasting,Ohio,OH,For Profit,2 Year,,31950,31950,31950,31950
 Inver Hills Community College,Inver Hills Community College,Minnesota,MN,Public,2 Year,,5332,5332,5332,5332
@@ -1159,7 +1128,6 @@ Jefferson Community and Technical College,Jefferson Community and Technical Coll
 Jefferson Community College,Jefferson Community College,New York,NY,Public,2 Year,11666,5424,17090,10176,21842
 Jefferson State Community College,Jefferson State Community College,Alabama,AL,Public,2 Year,,4800,4800,8370,8370
 Jewish Theological Seminary of America,Jewish Theological Seminary America,New York,NY,Private,4 Year,12570,51326,63896,51326,63896
-JNA Institute of Culinary Arts,JNA Institute Culinary Arts,d,PA,For Profit,2 Year,,12725,12725,12725,12725
 John A. Gupton College,John A. Gupton College,Tennessee,TN,Private,2 Year,,10450,10450,10450,10450
 John A. Logan College,John A. Logan College,Illinois,IL,Public,2 Year,,3600,3600,5940,5940
 John Brown University,John Brown University,Arkansas,AR,Private,4 Year,9224,26928,36152,26928,36152
@@ -1387,8 +1355,6 @@ Mansfield University of Pennsylvania,Mansfield University Pennsylvania,Pennsylva
 Manthano Christian College,Manthano Christian College,Michigan,MI,Private,4 Year,,7050,7050,7050,7050
 Maranatha Baptist University,Maranatha Baptist University,Wisconsin,WI,Private,4 Year,7100,15410,22510,15410,22510
 Maria College,Maria College,New York,NY,Private,2 Year,,15140,15140,15140,15140
-Marian University (Wisconsin),#N/A,Wisconsin,WI,Private,4 Year,7222,27400,34622,27400,34622
-Marian University (Indiana),#N/A,Indiana,IN,Private,4 Year,10640,34000,44640,34000,44640
 Marietta College,Marietta College,Ohio,OH,Private,4 Year,11320,36040,47360,36040,47360
 Marion Military Institute,Marion Military Institute,Alabama,AL,Public,2 Year,4950,9418,14368,15418,20368
 Marion Technical College,Marion Technical College,Ohio,OH,Public,2 Year,,5282,5282,7202,7202
@@ -1913,7 +1879,6 @@ Point Park University,Point Park University,Pennsylvania,PA,Private,4 Year,12200
 Point University,Point University,Georgia,GA,Private,4 Year,7900,20600,28500,20600,28500
 Polk State College,Polk State College,Florida,FL,Public,2 Year,,3367,3367,12272,12272
 Pomona College,Pomona College,California,CA,Private,4 Year,16716,52780,69496,52780,69496
-Pontifical Catholic University of Puerto Rico,Pontifical Catholic University Puerto Rico,NA,PR,Private,4 Year,1374,5490,6864,5490,6864
 Pontifical College Josephinum,Pontifical College Josephinum,Ohio,OH,Private,4 Year,10600,23285,33885,23285,33885
 Porterville College,Porterville College,California,CA,Public,2 Year,,1404,1404,7824,7824
 Portland Community College,Portland Community College,Oregon,OR,Public,2 Year,,5408,5408,11483,11483
@@ -2439,7 +2404,6 @@ Trinity College of Nursing & Health Sciences,Trinity College Nursing & Health Sc
 Trinity International University,Trinity International University,Illinois,IL,Private,4 Year,9900,32390,42290,32390,42290
 Trinity University,Trinity University,Texas,TX,Private,4 Year,13464,42976,56440,42976,56440
 Trinity Valley Community College,Trinity Valley Community College,Texas,TX,Public,2 Year,6590,2640,9230,5970,12560
-Trinity Washington University,Trinity Washington University,NA,DC,Private,4 Year,11160,24150,35310,24150,35310
 Triton College,Triton College,Illinois,IL,Public,2 Year,,4650,4650,12539,12539
 Trocaire College,Trocaire College,New York,NY,Private,2 Year,,17650,17650,17650,17650
 Troy University,Troy University,Alabama,AL,Public,4 Year,8185,12460,20645,22875,31060
@@ -2450,7 +2414,6 @@ Tufts University,Tufts University,Massachusetts,MA,Private,4 Year,14560,56382,70
 Tulane University,Tulane University Louisiana,Louisiana,LA,Private,4 Year,15190,54820,70010,54820,70010
 Tulsa Community College,Tulsa Community College,Oklahoma,OK,Public,2 Year,,4187,4187,10727,10727
 Tunxis Community College,Tunxis Community College,Connecticut,CT,Public,2 Year,,4404,4404,13172,13172
-Turabo University,Turabo University,NA,PR,Private,4 Year,,7050,7050,7050,7050
 Tusculum College,Tusculum College,Tennessee,TN,Private,4 Year,9190,24860,34050,24860,34050
 Tuskegee University,Tuskegee University,Alabama,AL,Private,4 Year,9650,22170,31820,22170,31820
 Tyler Junior College,Tyler Junior College,Texas,TX,Public,2 Year,7940,2962,10902,5482,13422
@@ -2467,13 +2430,6 @@ United States Sports Academy,United States Sports Academy,Alabama,AL,Private,4 Y
 United Talmudical Seminary,United Talmudical Seminary,New York,NY,Private,4 Year,1500,13800,15300,13800,15300
 United Tribes Technical College,United Tribes Technical College,North Dakota,ND,Private,2 Year,5084,4482,9566,4482,9566
 Unity College,Unity College,Maine,ME,Private,4 Year,10710,29160,39870,29160,39870
-Universal Technology College of Puerto Rico,Universal Technology College Puerto Rico,NA,PR,Private,2 Year,,18000,18000,18000,18000
-Universidad Adventista de las Antillas,Universidad Adventista de las Antillas,NA,PR,Private,4 Year,6400,6570,12970,6570,12970
-Universidad del Este,Universidad del Este,NA,PR,Private,4 Year,,6330,6330,6330,6330
-Universidad Metropolitana,Universidad Metropolitana,NA,PR,Private,4 Year,,7050,7050,7050,7050
-Universidad Pentecostal Mizpa,Universidad Pentecostal Mizpa,NA,PR,Private,4 Year,3760,4120,7880,4120,7880
-Universidad Politecnica de Puerto Rico,Universidad Politecnica de Puerto Rico,NA,PR,Private,4 Year,4950,8610,13560,8610,13560
-University College of San Juan,University College San Juan,NA,PR,Public,4 Year,,2370,2370,2370,2370
 University of Akron,University Akron,Ohio,OH,Public,4 Year,12200,11463,23663,17750,29950
 University of Akron: Wayne College,University Akron Wayne College,Ohio,OH,Public,2 Year,,5100,5100,8100,8100
 University of Alabama,University Alabama,Alabama,AL,Public,4 Year,10102,10780,20882,29230,39332
@@ -2641,23 +2597,12 @@ University of Pittsburgh at Greensburg,University Pittsburgh Greensburg,Pennsylv
 University of Pittsburgh at Johnstown,University Pittsburgh Johnstown,Pennsylvania,PA,Public,4 Year,9980,13878,23858,25122,35102
 University of Pittsburgh at Titusville,University Pittsburgh Titusville,Pennsylvania,PA,Public,2 Year,10996,11788,22784,21532,32528
 University of Portland,University Portland,Oregon,OR,Private,4 Year,13450,45904,59354,45904,59354
-University of Puerto Rico: Aguadilla,University Puerto Rico Aguadilla,NA,PR,Public,4 Year,,3594,3594,3594,3594
-University of Puerto Rico: Arecibo,University Puerto Rico Arecibo,NA,PR,Public,4 Year,,1769,1769,1987,1987
-University of Puerto Rico: Bayamon University College,University Puerto Rico Bayamon University College,NA,PR,Public,4 Year,,2022,2022,2022,2022
-University of Puerto Rico: Carolina Regional College,University Puerto Rico Carolina Regional College,NA,PR,Public,4 Year,,6116,6116,6116,6116
-University of Puerto Rico: Humacao,University Puerto Rico Humacao,NA,PR,Public,4 Year,,1794,1794,1794,1794
-University of Puerto Rico: Mayaguez,University Puerto Rico Mayaguez,NA,PR,Public,4 Year,,2083,2083,4105,4105
-University of Puerto Rico: Medical Sciences,University Puerto Rico Medical Sciences,NA,PR,Public,4 Year,,2196,2196,2196,2196
-University of Puerto Rico: Ponce,University Puerto Rico Ponce,NA,PR,Public,4 Year,,2261,2261,2261,2261
-University of Puerto Rico: Rio Piedras,University Puerto Rico Rio Piedras,NA,PR,Public,4 Year,8751,3624,12375,5349,14100
-University of Puerto Rico: Utuado,University Puerto Rico Utuado,NA,PR,Public,4 Year,,2266,2266,4287,4287
 University of Puget Sound,University Puget Sound,Washington,WA,Private,4 Year,12540,49776,62316,49776,62316
 University of Redlands,University Redlands,California,CA,Private,4 Year,14278,49504,63782,49504,63782
 University of Rhode Island,University Rhode Island,Rhode Island,RI,Public,4 Year,12950,14138,27088,30862,43812
 University of Richmond,University Richmond,Virginia,VA,Private,4 Year,12250,52610,64860,52610,64860
 University of Rio Grande,University Rio Grande,Ohio,OH,Private,4 Year,11166,27470,38636,27470,38636
 University of Rochester,University Rochester,New York,NY,Private,4 Year,15938,53926,69864,53926,69864
-University Saint Francis Fort Wayne,#N/A,Indiana,IN,Private,4 Year,9840,30615,40455,30615,40455
 University of Saint Joseph,University Saint Joseph,Connecticut,CT,Private,4 Year,11428,39173,50601,39173,50601
 University of San Diego,University San Diego,California,CA,Private,4 Year,12980,49358,62338,49358,62338
 University of San Francisco,University San Francisco,California,CA,Private,4 Year,14830,48066,62896,48066,62896
@@ -2701,13 +2646,11 @@ University of Texas of the Permian Basin,University Texas Permian Basin,Texas,TX
 University Of Texas Rio Grande Valley,University Texas Rio Grande Valley,Texas,TX,Public,4 Year,8124,7813,15937,20263,28387
 University of the Arts,University Arts,Pennsylvania,PA,Private,4 Year,16322,44780,61102,44780,61102
 University of the Cumberlands,University Cumberlands,Kentucky,KY,Private,4 Year,9000,23000,32000,23000,32000
-University of the District of Columbia,University District Columbia,NA,DC,Public,4 Year,16425,8252,24677,16388,32813
 University of the Incarnate Word,University Incarnate Word,Texas,TX,Private,4 Year,12716,31484,44200,31484,44200
 University of the Ozarks,University Ozarks,Arkansas,AR,Private,4 Year,7400,24230,31630,24230,31630
 University of the Pacific,University Pacific,California,CA,Private,4 Year,13650,48040,61690,48040,61690
 University of the Sciences,University Sciences,Pennsylvania,PA,Private,4 Year,15938,25000,40938,25000,40938
 University of the Southwest,University Southwest,New Mexico,NM,Private,4 Year,8220,16000,24220,16000,24220
-University of the Virgin Islands,University Virgin Islands,NA,VI,Public,4 Year,9900,5235,15135,14496,24396
 University of the West,University West,California,CA,Private,4 Year,7764,15440,23204,15440,23204
 University of Toledo,University Toledo,Ohio,OH,Public,4 Year,11434,9795,21229,19133,30567
 University of Tulsa,University Tulsa,Oklahoma,OK,Private,4 Year,11116,41509,52625,41509,52625
