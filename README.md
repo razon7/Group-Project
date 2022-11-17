@@ -66,6 +66,18 @@ Our data is spread across four CSV files and can be found in the Resources folde
 * Potential salary data and percentage of STEM degrees comes from [payscale.com](https://www.payscale.com/).
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
+## Presentation
+Our presentation is hosted on Google Slides and can be viewed [here](TBD LINK)
+
+## Project Deliverables - Week 2
+| **File** | **Link** |
+|----- | ---- |
+| Presentation | [Google Slides](TBD LINK)|
+| Exploratory Analysis Code | [FILE TITLE TBD](TBD LINK) |
+| Machine Learning Code | [FILE TITLE TBD](TBD LINK) |
+| Database Integration | [FILE TITLE TBD](TBD LINK) |
+| Dashbard Blueprint | [Google Slides](TBD LINK) |
+
 --------------------------------------------
 ## Assigned Roles - Week 2
 * Billy - Dashboard (X)
