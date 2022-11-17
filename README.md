@@ -67,8 +67,70 @@ Our data is spread across four CSV files and can be found in the Resources folde
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
 --------------------------------------------
-## Project Title (TBD)
+## Assigned Roles - Week 2
+* Billy - Dashboard (X)
+* David - Database (Triangle)
+* Jumoke / Rajkala - Machine Learning Model (Square)
+* All - GitHub
+* Kelly - Presentation (Circle)
 
+## Deliverables - Week 2
+### Presentation (15 points)
+#### Content
+
+The presentation outlines the project, including the following:
+- [X] Selected topic
+- [X] Reason topic was selected
+- [X] Description of the source of data
+- [X] Questions the team hopes to answer with the data
+- [ ] Description of the data exploration phase of the project
+- [ ] Description of the analysis phase of the project
+
+#### Slides
+Presentations are drafted in Google Slides.
+
+### GitHub Repository (10 points)
+#### Main Branch
+All code in the main branch is production-ready.
+
+The main branch should include:
+- [ ] All code necessary to perform exploratory analysis
+- [ ] Some code necessary to complete the machine learning portion of project
+
+#### README.md
+README.md should include:
+- [X] Description of the communication protocols
+- [ ] Outline of the project (this may include images, but they should be easy to follow and digest)
+
+#### Individual Branches
+Requirements for the individual branches follow:
+- [X] At least one branch for each team member
+- [ ] Each team member has at least four commits for the duration of the second segment (eight total commits per person)
+
+### Machine Learning Model (30 points)
+The team members are expected to submit the code for the machine learning model, as well as the following:
+- [ ] Description of preliminary data preprocessing
+- [ ] Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+- [ ] Description of how data was split into training and testing sets
+- [ ] Explanation of model choice, including limitations and benefits
+
+### Database Integration (30 points)
+The team members are expected to present a fully integrated database, including the following:
+- [ ] Database stores static data for use during the project
+- [ ] Database interfaces with the project in some format (e.g., scraping updates the database)
+- [ ] Includes at least two tables (or collections, if using MongoDB)
+- [ ] Includes at least one join using the database language (not including any joins in Pandas)
+- [ ] Includes at least one connection string (using SQLAlchemy or PyMongo)
+
+ERD relationships must be provided with the SQL database.
+
+### Dashboard (15 points)
+A blueprint for the dashboard is created and includes all of the following:
+- [ ] Storyboard on a Google Slide(s)
+- [ ] Description of the tool(s) that will be used to create the final dashboard
+- [ ] Description of interactive element(s)
+
+--------------------------------------------
 ## Assigned Roles - Week 1
 * Billy - Project Manager (PM)
 * David - Database (Circle)
@@ -77,7 +139,6 @@ Our data is spread across four CSV files and can be found in the Resources folde
 * Kelly - Presentation (X)
 
 ## Deliverables - Week 1
-
 
 ### Presentation (30 points)
 
