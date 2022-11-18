@@ -1,7 +1,9 @@
 -- Create final data table for Machine Learning model
+DROP TABLE college_statistics;
+
 SELECT sp."Rank",
 	sp."University_Name_Clean" as "University_Name",
-	sp."State_Name" as "State",
+	sp."State",
 	rr."Region",
 	rr."Division",
 	sp."Early_Career_Pay",
@@ -30,13 +32,12 @@ SELECT sp."Rank",
 INTO College_Statistics
 FROM "Salary_Potential" as sp
 INNER JOIN "Region_Reference" as rr
-ON (sp."State_Name" = rr."State_Name")
+ON (sp."State" = rr."State")
 LEFT JOIN "Tuition_Cost" as tc
 ON (sp."University_Name_Clean" = tc."University_Name_Clean")
 LEFT JOIN "Diversity_School" as ds
 ON (sp."University_Name_Clean" = ds."University_Name_Clean")
 WHERE (tc."Type" is not null)
-ORDER BY sp."Rank", sp."State_Name";
+ORDER BY sp."Rank", sp."State";
 
-
-	
+SELECT * FROM college_statistics
