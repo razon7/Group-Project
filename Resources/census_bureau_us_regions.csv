@@ -1,4 +1,4 @@
-﻿state,region,division
+State,Region,Division
 Connecticut,Northeast,New England
 Maine,Northeast,New England
 Massachusetts,Northeast,New England
@@ -13,7 +13,7 @@ Illinois,Midwest,East North Central
 Michigan,Midwest,East North Central
 Ohio,Midwest,East North Central
 Wisconsin,Midwest,East North Central
-Iowa ,Midwest,West North Central
+Iowa,Midwest,West North Central
 Kansas,Midwest,West North Central
 Minnesota,Midwest,West North Central
 Missouri,Midwest,West North Central
@@ -24,7 +24,7 @@ Delaware,South,South Atlantic
 District of Columbia,South,South Atlantic
 Florida,South,South Atlantic
 Georgia,South,South Atlantic
-Maryland ,South,South Atlantic
+Maryland,South,South Atlantic
 North Carolina,South,South Atlantic
 South Carolina,South,South Atlantic
 Virginia,South,South Atlantic
@@ -34,7 +34,7 @@ Kentucky,South,East South Central
 Mississippi,South,East South Central
 Tennessee,South,East South Central
 Arkansas,South,West South Central
-Louisana,South,West South Central
+Louisiana,South,West South Central
 Oklahoma,South,West South Central
 Texas,South,West South Central
 Arizona,West,Mountain

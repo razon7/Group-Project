@@ -1,0 +1,908 @@
+Rank,University_Name,State,Region,Division,Early_Career_Pay,Mid_Career_Pay,Make_World_Better_Percent,Stem_Percent,Type,Degree_Length,Room_And_Board,In_State_Tuition,In_State_Total,Out_Of_State_Tuition,Out_Of_State_Total,Total_Enrollment,American_Indian_Alaska_Native_Diversity_Percent,Asian_Diversity_Percent,Black_Diversity_Percent,Hispanic_Diversity_Percent,Native_Hawaiian_Pacific_Islander_Diversity_Percent,Two_Or_More_Races_Diversity_Percent,Total_Minority_Diversity_Percent,Non-Resident_Foreign_Diversity_Percent,Unknown_Diversity_Percent,White_Diversity_Percent,Women_Diversity_Percent,Men_Diversity_Percent
+1,Auburn University,Alabama,South,East South Central,54400,104500,51,31,Public,4 Year,13332,11276,24608,30524,43856,25912,0.01,0.02,0.07,0.02,0,0,0.13,0.06,0.01,0.81,0.49,0.51
+1,University Alaska Fairbanks,Alaska,West,Pacific,59100,101800,54,20,Public,4 Year,8930,8087,17017,24257,33187,8620,0.12,0.01,0.02,0.05,0,0.04,0.24,0.03,0.28,0.45,0.58,0.42
+1,Embry Riddle Aeronautical University Prescott,Arizona,West,Mountain,65600,117900,59,43,Private,4 Year,11394,35654,47048,35654,47048,2035,0,0.06,0.02,0.06,0.01,0.09,0.23,0.1,0.1,0.57,0.23,0.77
+1,University Arkansas,Arkansas,South,West South Central,52500,98000,49,18,Public,4 Year,11020,9130,20150,25168,36188,26237,0.01,0.03,0.05,0.06,0,0.03,0.18,0.06,0.01,0.76,0.51,0.49
+1,Harvey Mudd College,California,West,Pacific,88800,158200,55,85,Private,4 Year,18127,56876,75003,56876,75003,804,0.01,0.21,0.02,0.1,0,0.06,0.39,0.13,0.05,0.44,0.46,0.54
+1,Colorado School Mines,Colorado,West,Mountain,75600,139600,60,93,Public,4 Year,13169,18964,32133,38584,51753,5962,0,0.04,0.01,0.07,0,0.04,0.16,0.12,0.02,0.71,0.28,0.72
+1,Yale University,Connecticut,Northeast,New England,70300,138300,53,22,Private,4 Year,16000,53430,69430,53430,69430,12336,0,0.13,0.06,0.08,0,0.04,0.31,0.19,0.02,0.48,0.49,0.51
+1,University Delaware,Delaware,South,South Atlantic,58600,105400,43,22,Public,4 Year,12862,13680,26542,34310,47172,22680,0,0.05,0.05,0.06,0,0.03,0.19,0.09,0.02,0.71,0.56,0.44
+1,Embry Riddle Aeronautical University Daytona Beach,Florida,South,South Atlantic,63300,111200,58,35,Private,4 Year,11438,35814,47252,35814,47252,5538,0,0.04,0.05,0.05,0,0.06,0.22,0.19,0.09,0.51,0.19,0.81
+1,Georgia Institute Technology,Georgia,South,South Atlantic,72700,133400,48,80,Public,4 Year,11884,12424,24308,33020,44904,23109,0,0.16,0.06,0.06,0,0.03,0.3,0.21,0.01,0.48,0.3,0.7
+1,Brigham Young University Hawaii,Hawaii,West,Pacific,51700,93900,57,12,Private,4 Year,6586,5560,12146,5560,12146,2787,0,0.08,0,0.05,0.09,0.07,0.31,0.35,0,0.35,0.58,0.42
+1,University Idaho,Idaho,West,Mountain,52300,97700,54,22,Public,4 Year,8880,7864,16744,25500,34380,11702,0.01,0.01,0.01,0.08,0,0.03,0.15,0.06,0.03,0.76,0.47,0.53
+1,Illinois Institute Technology,Illinois,Midwest,East North Central,64600,118500,47,64,Private,4 Year,12762,47296,60058,47296,60058,7898,0,0.06,0.04,0.08,0,0.01,0.19,0.48,0.08,0.25,0.36,0.64
+1,Rose Hulman Institute Technology,Indiana,Midwest,East North Central,75000,135800,51,96,Private,4 Year,14766,49871,64637,49871,64637,2388,0,0.03,0.02,0.03,0,0.04,0.13,0.12,0.03,0.72,0.23,0.78
+1,Iowa State University,Iowa,Midwest,West North Central,56100,101300,48,31,Public,4 Year,8720,8988,17708,23392,32112,34435,0,0.03,0.03,0.04,0,0.02,0.12,0.12,0.05,0.72,0.44,0.56
+1,University Kansas,Kansas,Midwest,West North Central,53000,98600,52,16,Public,4 Year,10350,11148,21498,27358,37708,27180,0.01,0.04,0.04,0.06,0,0.04,0.19,0.09,0.02,0.7,0.51,0.49
+1,University Kentucky,Kentucky,South,East South Central,51700,96400,48,19,Public,4 Year,12982,12245,25227,29099,42081,29203,0,0.03,0.07,0.04,0,0.03,0.16,0.06,0.03,0.75,0.53,0.47
+1,Tulane University Louisiana,Louisiana,South,West South Central,56800,105300,44,22,Private,4 Year,15190,54820,70010,54820,70010,12603,0,0.05,0.08,0.06,0,0.03,0.21,0.1,0.04,0.65,0.56,0.44
+1,Maine Maritime Academy,Maine,Northeast,New England,67000,121800,65,48,Public,4 Year,10310,13478,23788,27098,37408,1060,0,0.01,0.01,0.01,0,0,0.03,0,0.03,0.95,0.14,0.86
+1,Massachusetts Institute Technology,Massachusetts,Northeast,New England,86300,155200,52,69,Private,4 Year,15510,51832,67342,51832,67342,11319,0,0.16,0.03,0.1,0,0.04,0.33,0.29,0.05,0.33,0.37,0.63
+1,Kettering University,Michigan,Midwest,East North Central,69900,125000,44,74,Private,4 Year,8240,43490,51730,43490,51730,2079,0,0.03,0.04,0.03,0,0.02,0.13,0.07,0.08,0.72,0.19,0.81
+1,Carleton College,Minnesota,Midwest,West North Central,58800,109900,47,45,Private,4 Year,14085,54759,68844,54759,68844,2057,0,0.09,0.04,0.06,0,0.05,0.24,0.1,0.02,0.65,0.53,0.47
+1,Mississippi State University,Mississippi,South,East South Central,51100,94100,57,27,Public,4 Year,10090,8760,18850,23360,33450,20138,0.01,0.01,0.19,0.02,0,0.01,0.25,0.04,0.01,0.71,0.49,0.51
+1,Missouri University Science and Technology,Missouri,Midwest,West North Central,67300,122600,50,80,Public,4 Year,10274,10169,20443,28499,38773,8640,0,0.03,0.03,0.03,0,0.02,0.11,0.18,0.04,0.68,0.23,0.77
+1,Montana Tech University Montana,Montana,West,Mountain,61200,112600,64,61,Public,4 Year,9656,7411,17067,22574,32230,2085,0.02,0.01,0.01,0.02,0,0,0.05,0.11,0.06,0.78,0.33,0.68
+1,University Nebraska Lincoln,Nebraska,Midwest,West North Central,51500,96700,53,20,Public,4 Year,11430,9154,20584,24949,36379,25006,0,0.02,0.03,0.05,0,0.02,0.12,0.1,0.02,0.76,0.48,0.52
+1,Sierra Nevada College,Nevada,West,Mountain,54000,95500,39,2,Private,4 Year,13357,34241,47598,34241,47598,1039,0.03,0.02,0.04,0.03,0.01,0,0.13,0.02,0.15,0.69,0.58,0.42
+1,Dartmouth College,New Hampshire,Northeast,New England,71500,130900,44,35,Private,4 Year,15756,55453,71209,55453,71209,6298,0.02,0.12,0.05,0.07,0,0.04,0.3,0.15,0.07,0.47,0.47,0.53
+1,Stevens Institute Technology,New Jersey,Northeast,Middle Atlantic,75100,139900,47,79,Private,4 Year,15244,52202,67446,52202,67446,6125,0,0.07,0.02,0.05,0,0,0.14,0.31,0.2,0.35,0.28,0.72
+1,New Mexico Institute Mining and Technology,New Mexico,West,Mountain,64700,120400,61,91,Public,4 Year,8510,7770,16280,22268,30778,2127,0.03,0.03,0.02,0.25,0,0.03,0.36,0.07,0.01,0.56,0.32,0.68
+1,Albany College Pharmacy and Health Sciences,New York,Northeast,Middle Atlantic,81000,144800,82,2,Private,4 Year,10920,35105,46025,35105,46025,1563,0,0.15,0.04,0.04,0,0.01,0.24,0.08,0.06,0.63,0.6,0.4
+1,Duke University,North Carolina,South,South Atlantic,71100,132100,50,26,Private,4 Year,15178,55695,70873,55695,70873,15856,0,0.14,0.07,0.05,0,0.02,0.3,0.18,0.03,0.49,0.5,0.5
+1,North Dakota State University,North Dakota,Midwest,West North Central,54200,98600,56,27,Public,4 Year,8565,9294,17859,13273,21838,14747,0.01,0.02,0.02,0.02,0,0.02,0.08,0.07,0.04,0.81,0.46,0.54
+1,Case Western Reserve University,Ohio,Midwest,East North Central,66600,117800,44,37,Private,4 Year,15190,49042,64232,49042,64232,10771,0,0.14,0.05,0.04,0,0.03,0.26,0.19,0.05,0.5,0.5,0.5
+1,University Tulsa,Oklahoma,South,West South Central,58700,107200,51,36,Private,4 Year,11116,41509,52625,41509,52625,4682,0.05,0.03,0.04,0.04,0,0.02,0.17,0.26,0.03,0.54,0.43,0.58
+1,Oregon Health & Science University,Oregon,West,Pacific,65400,108300,79,10,Public,4 Year,,19176,19176,33666,33666,2861,0.01,0.1,0.01,0.05,0,0.04,0.21,0.02,0.03,0.73,0.65,0.35
+1,Carnegie Mellon University,Pennsylvania,Northeast,Middle Atlantic,75900,136100,45,66,Private,4 Year,14418,55465,69883,55465,69883,12587,0,0.17,0.03,0.05,0,0.03,0.27,0.38,0.05,0.3,0.38,0.62
+1,Brown University,Rhode Island,Northeast,New England,68200,127600,45,43,Private,4 Year,14670,55656,70326,55656,70326,9181,0,0.12,0.06,0.1,0,0.04,0.32,0.17,0.09,0.42,0.51,0.49
+1,Citadel Military College South Carolina,South Carolina,South,South Atlantic,60400,108100,62,19,Public,4 Year,6904,14289,21193,36761,43665,,,,,,,,,,,,,
+1,South Dakota School Mines and Technology,South Dakota,Midwest,West North Central,66500,118500,58,92,Public,4 Year,8440,9779,18219,14021,22461,2798,0.02,0.02,0.02,0.04,0,0.03,0.13,0.06,0.01,0.81,0.22,0.78
+1,Vanderbilt University,Tennessee,South,East South Central,65400,119100,48,23,Private,4 Year,16234,49816,66050,49816,66050,12686,0,0.08,0.07,0.06,0,0.04,0.25,0.1,0.05,0.6,0.54,0.47
+1,Rice University,Texas,South,West South Central,71000,129500,50,45,Private,4 Year,14000,47350,61350,47350,61350,6621,0,0.17,0.05,0.11,0,0.03,0.37,0.24,0.03,0.37,0.43,0.57
+1,Brigham Young University Provo,Utah,West,Mountain,59200,108000,60,25,Private,4 Year,7628,5620,13248,5620,13248,30484,0,0.02,0.01,0.06,0.01,0.03,0.12,0.04,0.01,0.83,0.45,0.55
+1,Middlebury College,Vermont,Northeast,New England,60400,109800,54,19,Private,4 Year,15530,54450,69980,54450,69980,2533,0,0.07,0.03,0.09,0,0.05,0.23,0.11,0.02,0.65,0.52,0.48
+1,Washington and Lee University,Virginia,South,South Atlantic,65900,123200,40,18,Private,4 Year,13925,52455,66380,52455,66380,,,,,,,,,,,,,
+1,Seattle University,Washington,West,Pacific,60600,113700,59,12,Private,4 Year,12288,44610,56898,44610,56898,7273,0.01,0.14,0.03,0.08,0.01,0.06,0.33,0.09,0.1,0.48,0.6,0.4
+1,West Virginia University Institute Technology,West Virginia,South,South Atlantic,57100,103700,56,40,Public,4 Year,11390,7464,18854,18648,30038,1261,0,0.01,0.07,0.04,0,0.03,0.15,0.07,0.02,0.76,0.39,0.61
+1,Milwaukee School Engineering,Wisconsin,Midwest,East North Central,65700,117600,50,69,Private,4 Year,10389,40749,51138,40749,51138,2810,0,0.03,0.03,0.04,0.01,0.02,0.12,0.12,0.07,0.69,0.24,0.76
+1,University Wyoming,Wyoming,West,Mountain,52400,98800,58,25,Public,4 Year,10320,5400,15720,17490,27810,12820,0.01,0.01,0.01,0.06,0,0.02,0.11,0.07,0.08,0.74,0.52,0.48
+2,University Alabama Huntsville,Alabama,South,East South Central,57500,103900,59,45,Public,4 Year,10094,10714,20808,22362,32456,7348,0.01,0.04,0.11,0.03,0,0.02,0.21,0.06,0.04,0.69,0.43,0.57
+2,University Alaska Anchorage,Alaska,West,Pacific,56000,101000,57,10,Public,4 Year,12200,7688,19888,23858,36058,17151,0.06,0.07,0.03,0.07,0.01,0.09,0.33,0.02,0.07,0.58,0.58,0.42
+2,University Arizona,Arizona,West,Mountain,56100,101000,51,23,Public,4 Year,12550,12487,25037,36386,48936,42236,0.01,0.06,0.03,0.22,0,0.04,0.37,0.09,0.03,0.52,0.52,0.48
+2,Hendrix College,Arkansas,South,West South Central,48100,90300,58,33,Private,4 Year,12284,45790,58074,45790,58074,1358,0.02,0.06,0.05,0.05,0,0.01,0.18,0.06,0,0.76,0.55,0.45
+2,Samuel Merritt University,California,West,Pacific,91200,154100,90,0,Public,2 Year,,1420,1420,9610,9610,1580,0,0.28,0.04,0.13,0.01,0.08,0.53,0.01,0.05,0.41,0.74,0.26
+2,Goldey Beacom College,Delaware,South,South Atlantic,49800,86900,42,25,Private,4 Year,6400,24300,30700,24300,30700,2012,0,0.03,0.11,0.01,0,0.01,0.16,0.64,0.01,0.2,0.43,0.57
+2,Emory University,Georgia,South,South Atlantic,62000,110800,44,20,Private,4 Year,14456,51306,65762,51306,65762,14769,0,0.15,0.1,0.06,0,0.02,0.34,0.16,0.05,0.45,0.57,0.44
+2,Hawaii Pacific University,Hawaii,West,Pacific,52200,93500,56,15,Private,4 Year,14800,25980,40780,25980,40780,5827,0,0.16,0.06,0.13,0.02,0.17,0.54,0.14,0.02,0.29,0.57,0.43
+2,Brigham Young University Idaho,Idaho,West,Mountain,53700,93500,59,14,Private,4 Year,4592,4118,8710,4118,8710,36624,0,0.01,0,0.02,0,0.04,0.08,0.1,0.27,0.55,0.58,0.42
+2,Northwestern University,Illinois,Midwest,East North Central,63400,115400,46,20,Private,4 Year,16626,54567,71193,54567,71193,21554,0,0.13,0.05,0.08,0,0.03,0.29,0.16,0.07,0.48,0.47,0.53
+2,University Notre Dame,Indiana,Midwest,East North Central,67000,130500,45,28,Private,4 Year,15410,53391,68801,53391,68801,12179,0,0.05,0.03,0.09,0,0.04,0.21,0.1,0.05,0.64,0.46,0.55
+2,Drake University,Iowa,Midwest,West North Central,52800,99900,49,7,Private,4 Year,10528,41396,51924,41396,51924,5062,0,0.04,0.03,0.03,0,0.02,0.12,0.06,0.01,0.81,0.59,0.41
+2,Kansas State University,Kansas,Midwest,West North Central,52500,97200,51,18,Public,4 Year,9680,10263,19943,25767,35447,24766,0,0.02,0.04,0.06,0,0.03,0.15,0.09,0.02,0.75,0.49,0.51
+2,Thomas More College,Kentucky,South,East South Central,50000,90900,56,8,Private,4 Year,7950,31120,39070,31120,39070,1655,0,0.01,0.07,0.01,0,0.02,0.11,0.01,0.13,0.76,0.51,0.49
+2,Louisiana State University and Agricultural & Mechanical College,Louisiana,South,West South Central,54800,102900,53,24,Public,4 Year,11830,11950,23780,28627,40457,,,,,,,,,,,,,
+2,Bowdoin College,Maine,Northeast,New England,61300,112000,54,37,Private,4 Year,14698,53922,68620,53922,68620,1805,0,0.06,0.05,0.13,0,0.07,0.31,0.05,0.01,0.64,0.5,0.5
+2,Capitol Technology University,Maryland,South,South Atlantic,67400,118400,63,88,Private,4 Year,5708,25428,31136,25428,31136,793,0.01,0.04,0.29,0.08,0,0.04,0.46,0.04,0.02,0.49,0.19,0.81
+2,Harvard University,Massachusetts,Northeast,New England,74800,146800,54,19,Private,4 Year,17160,50420,67580,50420,67580,28791,0,0.15,0.05,0.08,0,0.04,0.32,0.17,0.06,0.46,0.49,0.52
+2,Michigan Technological University,Michigan,Midwest,East North Central,65000,116300,47,81,Public,4 Year,10756,15646,26402,33726,44482,7099,0.01,0.01,0.01,0.02,0,0.02,0.07,0.15,0.03,0.75,0.26,0.74
+2,Saint Johns University,Minnesota,Midwest,West North Central,59400,108400,45,25,Private,4 Year,10319,44990,55309,44990,55309,1895,0.01,0.03,0.03,0.05,0,0.01,0.13,0.06,0,0.81,0.03,0.97
+2,University Mississippi,Mississippi,South,East South Central,48500,89100,55,12,Public,4 Year,10696,8660,19356,24614,35310,22503,0,0.02,0.14,0.03,0,0.02,0.21,0.04,0,0.75,0.56,0.44
+2,Washington University St Louis,Missouri,Midwest,West North Central,64800,114900,42,30,Private,4 Year,16440,53399,69839,53399,69839,,,,,,,,,,,,,
+2,Montana State University,Montana,West,Mountain,53700,96200,54,31,Public,4 Year,10100,7421,17521,24849,34949,14982,0.01,0.01,0.01,0.03,0,0.03,0.09,0.04,0.03,0.83,0.46,0.54
+2,Creighton University,Nebraska,Midwest,West North Central,53500,95800,56,9,Private,4 Year,11036,39916,50952,39916,50952,8236,0,0.09,0.04,0.06,0,0.03,0.23,0.02,0.03,0.72,0.57,0.43
+2,University Nevada Reno,Nevada,West,Mountain,52700,95000,47,24,Public,4 Year,10868,7925,18793,22397,33265,19934,0.01,0.07,0.03,0.17,0,0.06,0.34,0.03,0.01,0.62,0.53,0.47
+2,University New Hampshire,New Hampshire,Northeast,New England,54300,100300,50,23,Public,4 Year,11580,18499,30079,33879,45459,15117,0,0.02,0.01,0.03,0,0.01,0.08,0.04,0.1,0.79,0.55,0.45
+2,Saint Anselm College,New Hampshire,Northeast,New England,56400,100300,59,11,Private,4 Year,14500,41200,55700,41200,55700,1968,0,0.01,0.02,0.03,0,0.02,0.07,0.01,0.12,0.8,0.6,0.4
+2,Princeton University,New Jersey,Northeast,Middle Atlantic,75200,139400,48,48,Private,4 Year,16290,49330,65620,49330,65620,8088,0,0.16,0.06,0.07,0,0.04,0.33,0.21,0.03,0.43,0.45,0.55
+2,New Mexico State University,New Mexico,West,Mountain,50400,96700,60,22,Public,4 Year,9252,7368,16620,23508,32760,15829,0.02,0.01,0.03,0.49,0,0.02,0.57,0.08,0.03,0.32,0.54,0.46
+2,Wake Forest University,North Carolina,South,South Atlantic,60700,114800,44,13,Private,4 Year,16032,53322,69354,53322,69354,7788,0,0.04,0.08,0.06,0.01,0.02,0.21,0.06,0.01,0.71,0.51,0.49
+2,University North Dakota,North Dakota,Midwest,West North Central,53800,96000,54,16,Public,4 Year,8974,8695,17669,20759,29733,14906,0.02,0.01,0.02,0.03,0,0.03,0.11,0.07,0.03,0.79,0.47,0.53
+2,Miami University Oxford,Ohio,Midwest,East North Central,57200,107300,46,22,Public,4 Year,13860,15378,29238,34895,48755,18620,0,0.02,0.03,0.03,0,0.03,0.12,0.09,0.01,0.78,0.54,0.46
+2,Oregon Institute Technology,Oregon,West,Pacific,61200,106800,60,27,Public,4 Year,9058,9987,19045,28056,37114,4260,0.01,0.05,0.01,0.08,0.01,0.05,0.22,0.01,0.04,0.73,0.46,0.54
+2,Lehigh University,Pennsylvania,Northeast,Middle Atlantic,69500,134100,45,52,Private,4 Year,13600,52930,66530,52930,66530,7119,0,0.07,0.03,0.07,0,0.02,0.19,0.16,0.05,0.61,0.45,0.55
+2,Bryant University,Rhode Island,Northeast,New England,60500,108600,37,8,Private,4 Year,15702,43973,59675,43973,59675,3462,0,0.04,0.04,0.06,0,0.01,0.16,0.08,0.03,0.73,0.42,0.59
+2,Clemson University,South Carolina,South,South Atlantic,57500,106700,50,39,Public,4 Year,10832,14970,25802,36724,47556,21857,0,0.02,0.06,0.03,0,0.02,0.13,0.07,0.03,0.77,0.47,0.54
+2,South Dakota State University,South Dakota,Midwest,West North Central,50500,91900,58,18,Public,4 Year,7896,8764,16660,12128,20024,12543,0.01,0.01,0.02,0.02,0,0.02,0.08,0.06,0.01,0.86,0.53,0.47
+2,Sewanee University South,Tennessee,South,East South Central,53700,97800,57,17,Private,4 Year,12880,45120,58000,45120,58000,1714,0,0.02,0.05,0.05,0,0.04,0.15,0.03,0,0.82,0.51,0.49
+2,Rhodes College,Tennessee,South,East South Central,51900,97800,46,25,Private,4 Year,11403,47890,59293,47890,59293,2054,0,0.07,0.06,0.04,0,0.03,0.2,0.03,0.02,0.75,0.58,0.42
+2,King's University,Texas,South,West South Central,63800,116500,33,0,Private,4 Year,,15000,15000,15000,15000,692,0.01,0.05,0.16,0.11,0,0.08,0.41,0,0.02,0.57,0.48,0.52
+2,University Utah,Utah,West,Mountain,54800,102600,57,22,Public,4 Year,10262,9222,19484,29215,39477,31515,0,0.05,0.01,0.09,0.01,0.03,0.19,0.09,0.04,0.68,0.45,0.56
+2,University Vermont,Vermont,Northeast,New England,53200,99400,50,22,Public,4 Year,12462,18276,30738,42516,54978,12856,0,0.03,0.01,0.04,0,0.03,0.11,0.04,0.04,0.8,0.56,0.44
+2,Virginia Military Institute,Virginia,South,South Atlantic,65900,120600,68,47,Public,4 Year,9428,18862,28290,45706,55134,1700,0,0.04,0.05,0.05,0.01,0.02,0.17,0.02,0,0.81,0.11,0.89
+2,University Washington Seattle,Washington,West,Pacific,61900,112300,51,34,Public,4 Year,12798,11517,24315,36898,49696,44784,0.01,0.19,0.02,0.07,0,0.05,0.35,0.15,0.04,0.47,0.52,0.48
+2,West Virginia University,West Virginia,South,South Atlantic,54400,99900,52,22,Public,4 Year,10918,8856,19774,24950,35868,29175,0,0.02,0.04,0.03,0,0.03,0.13,0.07,0,0.8,0.48,0.52
+2,Marquette University,Wisconsin,Midwest,East North Central,57800,105900,52,25,Private,4 Year,12720,41870,54590,41870,54590,11745,0,0.05,0.04,0.08,0,0.03,0.2,0.05,0.04,0.71,0.53,0.48
+3,University Alabama,Alabama,South,East South Central,52300,97400,50,15,Public,4 Year,10102,10780,20882,29230,39332,36047,0,0.01,0.11,0.03,0,0.03,0.19,0.05,0,0.76,0.55,0.45
+3,Alaska Pacific University,Alaska,West,Pacific,50300,90000,67,6,Private,4 Year,7300,20830,28130,20830,28130,579,0.15,0.02,0.02,0.03,0.01,0.07,0.29,0,0.15,0.55,0.66,0.34
+3,Arizona State University Tempe,Arizona,West,Mountain,54500,100900,52,30,Public,4 Year,12648,10822,23470,28336,40984,50320,0.01,0.06,0.04,0.16,0,0.04,0.31,0.16,0.01,0.52,0.43,0.57
+3,University Arkansas for Medical Sciences,Arkansas,South,West South Central,51700,89100,84,3,Public,4 Year,,8197,8197,15973,15973,2890,0,0.05,0.09,0.03,0,0.02,0.2,0.02,0.03,0.75,0.65,0.35
+3,California Institute Technology,California,West,Pacific,84100,151600,53,97,Private,4 Year,15525,52362,67887,52362,67887,2209,0,0.26,0.01,0.08,0,0.03,0.39,0.27,0.01,0.34,0.31,0.69
+3,University Colorado Boulder,Colorado,West,Mountain,57800,109900,48,39,Public,4 Year,14418,12532,26950,37286,51704,32432,0,0.05,0.02,0.09,0,0.04,0.2,0.07,0.02,0.71,0.44,0.56
+3,Wesleyan University,Connecticut,Northeast,New England,61600,117000,53,21,Private,4 Year,15060,54914,69974,54914,69974,3224,0,0.08,0.07,0.09,0,0.05,0.3,0.1,0.07,0.53,0.52,0.48
+3,Delaware State University,Delaware,South,South Atlantic,46300,81900,62,10,Public,4 Year,12190,7868,20058,16904,29094,4397,0,0.01,0.66,0.05,0,0.04,0.77,0.05,0.06,0.12,0.63,0.37
+3,Florida Institute Technology,Florida,South,South Atlantic,58300,105400,53,48,Private,4 Year,12880,41850,54730,41850,54730,6393,0,0.03,0.08,0.06,0,0.02,0.19,0.35,0.08,0.38,0.33,0.67
+3,University Georgia,Georgia,South,South Atlantic,54400,100700,45,14,Public,4 Year,10038,11830,21868,30404,40442,35197,0,0.08,0.08,0.05,0,0.03,0.24,0.05,0.01,0.7,0.58,0.42
+3,University Hawaii Manoa,Hawaii,West,Pacific,51600,91600,56,18,Public,4 Year,13689,11970,25659,34002,47691,19507,0,0.35,0.01,0.08,0.04,0.23,0.72,0.06,0,0.21,0.56,0.44
+3,Idaho State University,Idaho,West,Mountain,50800,91800,64,12,Public,4 Year,7207,7420,14627,22940,30147,13429,0.01,0.01,0.01,0.08,0,0.02,0.14,0.1,0.04,0.72,0.52,0.48
+3,University Illinois Urbana Champaign,Illinois,Midwest,East North Central,62600,115300,44,36,Public,4 Year,11308,15094,26402,31664,42972,45140,0,0.14,0.05,0.08,0,0.02,0.28,0.22,0.01,0.48,0.45,0.55
+3,Wabash College,Indiana,Midwest,East North Central,62200,114400,40,34,Private,4 Year,10050,43450,53500,43450,53500,926,0.01,0.01,0.06,0.06,0,0.03,0.17,0.07,0.01,0.75,0,1
+3,University Iowa,Iowa,Midwest,West North Central,54100,99400,48,16,Public,4 Year,11172,9267,20439,31233,42405,29970,0,0.04,0.03,0.06,0,0.02,0.15,0.12,0.06,0.67,0.52,0.48
+3,Benedictine College,Kansas,Midwest,West North Central,48700,91800,69,13,Private,4 Year,10300,29530,39830,29530,39830,2138,0,0.01,0.03,0.05,0,0.04,0.15,0.03,0.03,0.79,0.53,0.47
+3,Bellarmine University,Kentucky,South,East South Central,49000,90700,54,11,Private,4 Year,12250,42200,54450,42200,54450,3609,0,0.02,0.05,0.03,0,0.03,0.13,0.01,0.03,0.82,0.67,0.33
+3,Louisiana Tech University,Louisiana,South,West South Central,53100,100700,57,24,Public,4 Year,6495,9645,16140,18558,25053,11225,0,0.01,0.13,0.01,0,0.02,0.17,0.05,0.08,0.69,0.49,0.51
+3,Bates College,Maine,Northeast,New England,59500,111900,50,23,Private,4 Year,15224,53794,69018,53794,69018,1773,0,0.05,0.05,0.07,0,0.04,0.21,0.07,0.01,0.72,0.5,0.5
+3,Johns Hopkins University,Maryland,South,South Atlantic,67200,117100,57,31,Private,4 Year,15836,54240,70076,54240,70076,21372,0,0.14,0.07,0.07,0,0.03,0.31,0.18,0.04,0.48,0.52,0.48
+3,Worcester Polytechnic Institute,Massachusetts,Northeast,New England,73600,135500,47,86,Private,4 Year,14774,50530,65304,50530,65304,6381,0,0.05,0.02,0.06,0,0.03,0.16,0.21,0.08,0.56,0.31,0.69
+3,University Michigan Ann Arbor,Michigan,Midwest,East North Central,63500,112200,45,38,Public,4 Year,11534,15262,26796,49350,60884,43625,0,0.11,0.04,0.04,0,0.03,0.23,0.14,0.06,0.57,0.48,0.52
+3,University St Thomas (Minnesota),Minnesota,Midwest,West North Central,57500,106400,50,20,Private,4 Year,10412,42736,53148,42736,53148,10140,0,0.04,0.04,0.04,0,0.03,0.14,0.05,0.02,0.78,0.49,0.51
+3,Millsaps College,Mississippi,South,East South Central,49300,88700,56,24,Private,4 Year,13730,39910,53640,39910,53640,842,0.01,0.04,0.11,0.02,0,0.01,0.18,0.04,0.03,0.75,0.49,0.51
+3,University Missouri Columbia,Missouri,Midwest,West North Central,52300,98600,49,17,Public,4 Year,10786,12055,22841,29025,39811,35425,0,0.02,0.07,0.03,0,0.03,0.16,0.07,0.01,0.76,0.53,0.47
+3,Carroll College,Montana,West,Mountain,48200,91400,55,25,Private,4 Year,9880,35486,45366,35486,45366,1440,0.01,0.02,0.01,0.05,0,0.02,0.1,0.02,0.09,0.79,0.58,0.42
+3,University Nebraska Medical Center,Nebraska,Midwest,West North Central,53400,93000,79,6,Public,4 Year,,11558,11558,28898,28898,3696,0,0.05,0.02,0.03,0,0.01,0.11,0.08,0.02,0.79,0.64,0.36
+3,University Nevada Las Vegas,Nevada,West,Mountain,50400,90400,46,12,Public,4 Year,10504,7985,18489,22457,32961,28515,0,0.14,0.08,0.23,0.01,0.08,0.54,0.04,0.02,0.4,0.55,0.45
+3,New Jersey Institute Technology,New Jersey,Northeast,Middle Atlantic,64600,121300,51,75,Public,4 Year,13600,17338,30938,32750,46350,10646,0,0.18,0.08,0.16,0,0.03,0.45,0.17,0.1,0.28,0.25,0.75
+3,University New Mexico,New Mexico,West,Mountain,48400,94000,59,19,Public,4 Year,9864,5445,15309,26845,36709,27844,0.05,0.03,0.02,0.41,0,0.03,0.55,0.05,0.02,0.39,0.55,0.45
+3,Webb Institute,New York,Northeast,Middle Atlantic,80800,141800,,100,Private,4 Year,15050,50175,65225,50175,65225,90,0,0.09,0,0,0,0.04,0.13,0.01,0.01,0.84,0.13,0.87
+3,Davidson College,North Carolina,South,South Atlantic,57300,106900,50,28,Private,4 Year,14372,51447,65819,51447,65819,1770,0.01,0.06,0.06,0.07,0,0.04,0.23,0.06,0.02,0.69,0.51,0.49
+3,University Jamestown,North Dakota,Midwest,West North Central,47600,85400,64,11,Private,4 Year,7570,21976,29546,21976,29546,970,0.02,0.01,0.04,0.05,0,0,0.12,0.06,0,0.82,0.54,0.46
+3,Wittenberg University,Ohio,Midwest,East North Central,52400,105400,61,22,Private,4 Year,10356,39500,49856,39500,49856,1964,0,0.01,0.07,0.03,0,0.05,0.16,0.02,0.02,0.8,0.57,0.43
+3,University Oklahoma Norman,Oklahoma,South,West South Central,54400,100600,52,23,Public,4 Year,10994,11763,22757,27144,38138,27261,0.04,0.05,0.05,0.08,0,0.06,0.29,0.07,0.04,0.6,0.49,0.51
+3,Reed College,Oregon,West,Pacific,56100,104900,44,26,Private,4 Year,14210,56340,70550,56340,70550,1394,0,0.06,0.02,0.11,0,0.08,0.27,0.08,0.07,0.58,0.53,0.47
+3,University Portland,Oregon,West,Pacific,58500,104900,52,28,Private,4 Year,13450,45904,59354,45904,59354,4143,0,0.1,0.01,0.1,0.02,0.08,0.3,0.04,0.03,0.63,0.59,0.41
+3,University Pennsylvania,Pennsylvania,Northeast,Middle Atlantic,72800,133900,41,21,Private,4 Year,15616,55584,71200,55584,71200,24806,0,0.15,0.06,0.07,0,0.03,0.32,0.18,0.05,0.45,0.53,0.47
+3,Providence College,Rhode Island,Northeast,New England,58900,106900,44,11,Private,4 Year,14700,50390,65090,50390,65090,4533,0,0.01,0.04,0.07,0,0.02,0.14,0.02,0.06,0.77,0.56,0.44
+3,Furman,South Carolina,South,South Atlantic,52100,98800,48,16,Private,4 Year,12712,49532,62244,49532,62244,2973,0,0.02,0.05,0.04,0,0.03,0.14,0.05,0.02,0.8,0.58,0.42
+3,Augustana University,South Dakota,Midwest,West North Central,47900,88400,54,18,Private,4 Year,8248,33018,41266,33018,41266,1825,0,0.01,0.02,0.02,0,0.01,0.06,0.08,0,0.86,0.61,0.39
+3,Texas A&M University College Station,Texas,South,West South Central,60600,115700,53,30,Public,4 Year,10436,10968,21404,36442,46878,61642,0,0.06,0.03,0.18,0,0.03,0.3,0.09,0.01,0.61,0.48,0.53
+3,Weber State University,Utah,West,Mountain,53900,94000,60,8,Public,4 Year,6279,5831,12110,16585,22864,25954,0,0.01,0.01,0.09,0,0.02,0.14,0.02,0.35,0.5,0.53,0.47
+3,Norwich University,Vermont,Northeast,New England,57000,99100,51,20,Private,4 Year,13840,40016,53856,40016,53856,3672,0,0.02,0.05,0.07,0,0.04,0.19,0.01,0.04,0.76,0.2,0.8
+3,University Virginia,Virginia,South,South Atlantic,64500,117500,46,23,Public,4 Year,11590,17564,29154,48465,60055,23732,0,0.1,0.06,0.05,0,0.04,0.25,0.09,0.05,0.62,0.54,0.46
+3,University Washington Bothell,Washington,West,Pacific,60200,108000,53,26,Public,4 Year,11877,11138,23015,36519,48396,4962,0,0.25,0.05,0.08,0.01,0.06,0.45,0.08,0.02,0.46,0.51,0.49
+3,Alderson Broaddus University,West Virginia,South,South Atlantic,50600,90500,72,15,Private,4 Year,8860,27910,36770,27910,36770,1108,0,0.01,0.15,0.04,0,0.01,0.22,0.03,0,0.75,0.5,0.5
+3,University Wisconsin Madison,Wisconsin,Midwest,East North Central,57300,104400,48,33,Public,4 Year,11114,10555,21669,36805,47919,42598,0,0.05,0.02,0.05,0,0.02,0.15,0.13,0.01,0.71,0.51,0.49
+4,Tuskegee University,Alabama,South,East South Central,54500,93500,61,30,Private,4 Year,9650,22170,31820,22170,31820,3103,0,0.01,0.76,0.01,0,0,0.78,0.01,0.2,0.02,0.6,0.4
+4,Northern Arizona University,Arizona,West,Mountain,49600,90000,56,12,Public,4 Year,10282,11564,21846,25828,36110,27705,0.03,0.02,0.03,0.19,0,0.05,0.32,0.05,0.01,0.62,0.59,0.41
+4,Harding University,Arkansas,South,West South Central,49200,88600,47,10,Private,4 Year,7044,20135,27179,20135,27179,6059,0.01,0.01,0.05,0.03,0,0.01,0.11,0.06,0.01,0.83,0.57,0.43
+4,Stanford University,California,West,Pacific,79000,145200,56,51,Private,4 Year,15763,51354,67117,51354,67117,16963,0.01,0.16,0.04,0.1,0,0.07,0.37,0.23,0.03,0.37,0.42,0.59
+4,University Denver,Colorado,West,Mountain,55700,105100,48,12,Private,4 Year,13005,50556,63561,50556,63561,11809,0,0.03,0.03,0.09,0,0.03,0.19,0.11,0.03,0.67,0.56,0.44
+4,Fairfield University,Connecticut,Northeast,New England,62300,116900,41,17,Private,4 Year,14710,48350,63060,48350,63060,5123,0,0.02,0.03,0.07,0,0.01,0.13,0.07,0.1,0.7,0.6,0.4
+4,Wesley College,Delaware,South,South Atlantic,45400,77300,50,2,Private,4 Year,11717,26406,38123,26406,38123,1615,0,0.02,0.38,0.05,0,0.04,0.5,0,0.09,0.41,0.55,0.46
+4,University Florida,Florida,South,South Atlantic,55800,102800,52,29,Public,4 Year,10120,6381,16501,28658,38778,49459,0,0.07,0.06,0.16,0.01,0.02,0.33,0.09,0.03,0.55,0.54,0.46
+4,Morehouse College,Georgia,South,South Atlantic,55700,98700,58,26,Private,4 Year,13438,27574,41012,27574,41012,2109,0,0,0.94,0.01,0,0,0.95,0.03,0.02,0,0,1
+4,Chaminade University Honolulu,Hawaii,West,Pacific,45400,84000,55,3,Private,4 Year,13630,25374,39004,25374,39004,2756,0.01,0.26,0.06,0.06,0.16,0.1,0.64,0.02,0.18,0.17,0.65,0.35
+4,Boise State University,Idaho,West,Mountain,50100,86400,55,14,Public,4 Year,10692,7694,18386,23776,34468,22227,0.01,0.02,0.02,0.1,0,0.03,0.17,0.04,0.03,0.76,0.55,0.46
+4,University Chicago,Illinois,Midwest,East North Central,64000,114200,41,22,Private,4 Year,16350,58230,74580,58230,74580,15097,0,0.13,0.04,0.06,0,0.02,0.26,0.22,0.1,0.43,0.42,0.58
+4,Purdue University,Indiana,Midwest,East North Central,60900,110000,48,38,Public,4 Year,10030,9992,20022,28794,38824,39752,0,0.05,0.03,0.04,0,0.02,0.14,0.23,0.02,0.61,0.42,0.58
+4,Grinnell College,Iowa,Midwest,West North Central,53400,96500,49,41,Private,4 Year,12810,52392,65202,52392,65202,1734,0,0.07,0.06,0.08,0,0.04,0.25,0.13,0.04,0.58,0.55,0.45
+4,Centre College,Kentucky,South,East South Central,49500,88500,52,22,Private,4 Year,10480,41700,52180,41700,52180,1387,0,0.03,0.05,0.02,0,0.03,0.13,0.06,0,0.8,0.52,0.48
+4,Louisiana State University Health Sciences Center New Orleans,Louisiana,South,West South Central,52300,94200,86,2,Public,4 Year,5650,6923,12573,13705,19355,2828,0,0.09,0.09,0.04,0,0,0.22,0.02,0.02,0.74,0.66,0.34
+4,Colby College,Maine,Northeast,New England,59200,103300,50,25,Private,4 Year,14190,55210,69400,55210,69400,1847,0,0.06,0.03,0.06,0,0.05,0.2,0.11,0.09,0.6,0.53,0.47
+4,University Maryland College Park,Maryland,South,South Atlantic,61300,113400,50,33,Public,4 Year,12429,10595,23024,35216,47645,37610,0,0.13,0.11,0.08,0,0.03,0.36,0.12,0.03,0.5,0.47,0.53
+4,Babson College,Massachusetts,Northeast,New England,72000,133800,37,0,Private,4 Year,16312,51104,67416,51104,67416,3049,0,0.09,0.04,0.08,0,0.02,0.23,0.3,0.08,0.39,0.43,0.57
+4,Lawrence Technological University,Michigan,Midwest,East North Central,57900,108400,49,60,Private,4 Year,9950,33570,43520,33570,43520,4015,0,0.23,0.06,0.03,0,0,0.32,0.06,0.16,0.47,0.26,0.75
+4,University Minnesota Twin Cities,Minnesota,Midwest,West North Central,57200,104000,51,30,Public,4 Year,10312,14693,25005,30371,40683,51147,0,0.08,0.04,0.03,0,0.03,0.17,0.13,0.04,0.66,0.52,0.48
+4,University Southern Mississippi,Mississippi,South,East South Central,45100,83900,56,11,Public,4 Year,9857,8734,18591,10734,20591,14792,0,0.01,0.27,0.03,0,0.02,0.34,0.03,0.01,0.63,0.63,0.37
+4,Saint Louis University,Missouri,Midwest,West North Central,54200,95300,56,13,Private,4 Year,12290,43884,56174,43884,56174,17052,0,0.07,0.06,0.03,0,0.04,0.2,0.06,0.03,0.71,0.59,0.41
+4,University Montana,Montana,West,Mountain,46500,87800,51,8,Public,4 Year,9544,7244,16788,24959,34503,13952,0.03,0.03,0.01,0.04,0,0.04,0.14,0.05,0.07,0.75,0.54,0.46
+4,Clarkson College,Nebraska,Midwest,West North Central,50900,91500,74,0,Private,4 Year,5398,16920,22318,16920,22318,1221,0.01,0.02,0.04,0.03,0,0.02,0.12,0,0.1,0.78,0.88,0.12
+4,University New Hampshire Manchester,New Hampshire,Northeast,New England,51900,90900,50,32,Public,4 Year,,15265,15265,30635,30635,850,0,0.02,0.02,0.04,0,0.02,0.1,0,0.2,0.7,0.52,0.48
+4,Rutgers University New Brunswick,New Jersey,Northeast,Middle Atlantic,59800,111000,42,29,Public,4 Year,12706,14974,27680,31282,43988,48378,0,0.22,0.08,0.11,0,0.03,0.45,0.1,0.02,0.43,0.54,0.47
+4,Eastern New Mexico University,New Mexico,West,Mountain,44500,80500,61,5,Public,4 Year,7162,6206,13368,8128,15290,5879,0.03,0.01,0.04,0.33,0,0.03,0.44,0.02,0.07,0.47,0.59,0.41
+4,SUNY Maritime College,New York,Northeast,Middle Atlantic,74900,140700,53,32,Public,4 Year,12522,8283,20805,18063,30585,1799,0,0.04,0.04,0.07,0,0.01,0.17,0.04,0.1,0.69,0.12,0.88
+4,North Carolina State University Raleigh,North Carolina,South,South Atlantic,57300,106500,52,47,Public,4 Year,11078,9101,20179,28444,39522,33989,0,0.05,0.07,0.04,0,0.03,0.19,0.11,0.03,0.67,0.44,0.56
+4,Mayville State University,North Dakota,Midwest,West North Central,43700,81300,44,10,Public,4 Year,7840,6666,14506,9399,17239,1081,0.02,0,0.07,0.05,0.01,0.03,0.17,0.03,0.01,0.8,0.56,0.44
+4,University Dayton,Ohio,Midwest,East North Central,57400,105000,44,33,Private,4 Year,13580,42900,56480,42900,56480,11343,0,0.01,0.04,0.03,0,0.01,0.09,0.16,0.03,0.72,0.48,0.52
+4,Oklahoma State University,Oklahoma,South,West South Central,52800,98600,54,25,Public,4 Year,8549,9019,17568,24539,33088,6712,0.04,0.03,0.15,0.1,0,0.09,0.4,0,0.04,0.56,0.61,0.39
+4,Swarthmore College,Pennsylvania,Northeast,Middle Atlantic,67500,123200,44,45,Private,4 Year,15474,52588,68062,52588,68062,1542,0,0.16,0.06,0.13,0,0.08,0.44,0.1,0.05,0.42,0.51,0.49
+4,Rhode Island School Design,Rhode Island,Northeast,New England,55500,100600,39,0,Private,4 Year,13400,50960,64360,50960,64360,2449,0,0.16,0.02,0.08,0,0.04,0.29,0.29,0.1,0.32,0.66,0.34
+4,Wofford College,South Carolina,South,South Atlantic,51300,96600,51,28,Private,4 Year,12685,43845,56530,43845,56530,1658,0,0.03,0.08,0.03,0,0.03,0.17,0.02,0.01,0.8,0.51,0.49
+4,University South Dakota,South Dakota,Midwest,West North Central,47500,87900,56,8,Public,4 Year,8216,9061,17277,12425,20641,10061,0.02,0.02,0.02,0.02,0.01,0.02,0.11,0.02,0.01,0.86,0.61,0.39
+4,Christian Brothers University,Tennessee,South,East South Central,51500,96500,60,14,Private,4 Year,7400,32820,40220,32820,40220,1667,0,0.05,0.31,0.06,0,0.02,0.45,0.03,0.04,0.48,0.56,0.44
+4,University Texas Austin,Texas,South,West South Central,60700,112800,49,28,Public,4 Year,10804,10606,21410,37480,48284,51313,0,0.16,0.04,0.19,0,0.03,0.43,0.1,0.01,0.47,0.51,0.49
+4,Utah State University,Utah,West,Mountain,52400,93900,61,14,Public,4 Year,6400,7424,13824,21505,27905,27662,0.02,0.01,0.01,0.06,0,0.02,0.11,0.03,0.07,0.79,0.54,0.46
+4,Saint Michael's College,Vermont,Northeast,New England,52900,98500,40,18,Private,4 Year,12220,45375,57595,45375,57595,2618,0,0.02,0.02,0.04,0,0.02,0.09,0.05,0.01,0.86,0.59,0.41
+4,Virginia Polytechnic Institute and State University,Virginia,South,South Atlantic,62700,114000,48,42,Public,4 Year,8934,13620,22554,31304,40238,,,,,,,,,,,,,
+4,Gonzaga University,Washington,West,Pacific,57800,107600,51,19,Private,4 Year,11944,43210,55154,43210,55154,7352,0.01,0.04,0.02,0.08,0,0.04,0.19,0.06,0.06,0.7,0.56,0.44
+4,Shepherd University,West Virginia,South,South Atlantic,47100,87100,48,12,Public,4 Year,10500,7548,18048,18048,28548,4041,0.01,0.02,0.08,0.03,0,0.01,0.14,0.01,0.02,0.84,0.59,0.41
+4,University Wisconsin Platteville,Wisconsin,Midwest,East North Central,56800,100300,50,38,Public,4 Year,7580,7571,15151,15421,23001,8901,0,0.01,0.02,0.03,0,0.02,0.08,0.03,0,0.89,0.36,0.64
+5,Samford University,Alabama,South,East South Central,48400,90500,52,3,Private,4 Year,10550,31650,42200,31650,42200,4933,0,0.02,0.08,0.04,0,0.01,0.15,0.03,0.01,0.81,0.63,0.38
+5,Arizona Christian University,Arizona,West,Mountain,42600,76600,,7,Private,4 Year,10674,26796,37470,26796,37470,737,0.01,0.02,0.08,0.16,0.01,0.05,0.32,0.02,0.06,0.61,0.45,0.55
+5,John Brown University,Arkansas,South,West South Central,47000,82700,53,9,Private,4 Year,9224,26928,36152,26928,36152,2850,0.02,0.01,0.04,0.05,0,0.04,0.16,0.04,0.04,0.77,0.58,0.42
+5,Charles R Drew University Medicine and Science,California,West,Pacific,78300,135700,,3,Private,4 Year,,17440,17440,17440,17440,481,0,0.2,0.36,0.13,0,0.19,0.88,0.01,0.06,0.06,0.7,0.3
+5,Colorado College,Colorado,West,Mountain,53100,97900,48,23,Private,4 Year,12512,55470,67982,55470,67982,2067,0,0.05,0.02,0.09,0,0.08,0.25,0.07,0.03,0.66,0.54,0.46
+5,Trinity College,Connecticut,Northeast,New England,60100,110900,49,22,Private,4 Year,14750,56910,71660,56910,71660,2408,0,0.04,0.06,0.07,0,0.03,0.2,0.09,0.06,0.64,0.48,0.52
+5,Wilmington University,Delaware,South,South Atlantic,45100,76600,50,4,Private,4 Year,,11210,11210,11210,11210,14467,0.01,0.02,0.24,0.03,0,0,0.29,0.08,0.14,0.48,0.65,0.35
+5,Kennesaw State University,Georgia,South,South Atlantic,52500,94600,46,22,Public,4 Year,11467,7432,18899,21158,32625,25714,0,0.03,0.19,0.07,0,0.04,0.34,0.02,0.03,0.61,0.58,0.42
+5,University Hawaii Hilo,Hawaii,West,Pacific,44000,77200,59,14,Public,4 Year,11406,7720,19126,20680,32086,3924,0.01,0.21,0.01,0.12,0.1,0.29,0.73,0.04,0,0.23,0.61,0.39
+5,College Idaho,Idaho,West,Mountain,44700,82100,48,17,Private,4 Year,9697,30155,39852,30155,39852,1144,0.01,0.03,0.02,0.15,0,0.02,0.23,0.07,0.07,0.63,0.52,0.48
+5,Rush University,Illinois,Midwest,East North Central,63500,107600,88,6,Private,4 Year,,24900,24900,24900,24900,2457,0,0.14,0.07,0.08,0,0.01,0.3,0,0.03,0.67,0.73,0.27
+5,DePauw University,Indiana,Midwest,East North Central,56600,101000,47,24,Private,4 Year,13020,49704,62724,49704,62724,2215,0,0.03,0.06,0.03,0,0.07,0.19,0.09,0.03,0.69,0.54,0.46
+5,Allen College,Iowa,Midwest,West North Central,51600,91300,,0,Private,4 Year,7282,19970,27252,19970,27252,575,0,0.01,0.02,0,0,0.01,0.05,0.01,0.04,0.9,0.91,0.09
+5,University Saint Mary,Kansas,Midwest,West North Central,49500,89700,61,6,Private,4 Year,8140,28810,36950,28810,36950,1436,0.01,0.02,0.09,0.08,0.01,0.03,0.23,0.01,0.14,0.62,0.66,0.34
+5,University Louisville,Kentucky,South,East South Central,49500,87600,50,18,Public,4 Year,9226,11656,20882,27278,36504,21561,0,0.04,0.1,0.04,0,0.04,0.22,0.03,0,0.75,0.52,0.48
+5,University Louisiana Monroe,Louisiana,South,West South Central,48500,92500,65,7,Public,4 Year,7850,8734,16584,20834,28684,8517,0,0.02,0.23,0.02,0,0.02,0.3,0.03,0.03,0.65,0.64,0.36
+5,University Louisiana Lafayette,Louisiana,South,West South Central,48200,92500,52,19,Public,4 Year,8516,10616,19132,24344,32860,17195,0.01,0.02,0.2,0.03,0,0.02,0.27,0.04,0.01,0.68,0.56,0.44
+5,University Maine,Maine,Northeast,New England,52000,95000,50,24,Public,4 Year,10418,11170,21588,30970,41388,,,,,,,,,,,,,
+5,Loyola University Maryland,Maryland,South,South Atlantic,59900,111200,40,8,Private,4 Year,14430,49085,63515,49085,63515,5967,0,0.03,0.08,0.08,0,0.02,0.21,0.01,0.01,0.77,0.61,0.39
+5,Williams College,Massachusetts,Northeast,New England,67500,127500,47,32,Private,4 Year,14500,55450,69950,55450,69950,2126,0,0.11,0.07,0.11,0,0.07,0.36,0.09,0,0.55,0.51,0.49
+5,Michigan State University,Michigan,Midwest,East North Central,55300,100800,46,20,Public,4 Year,10322,14460,24782,39765,50087,50081,0,0.04,0.06,0.04,0,0.02,0.17,0.15,0.01,0.66,0.52,0.49
+5,St Olaf College,Minnesota,Midwest,West North Central,54100,101900,46,30,Private,4 Year,10850,47840,58690,47840,58690,3034,0,0.06,0.02,0.05,0,0.04,0.16,0.07,0.01,0.76,0.58,0.42
+5,Mississippi College,Mississippi,South,East South Central,45200,79500,57,20,Private,4 Year,10300,18026,28326,18026,28326,4984,0.01,0.02,0.23,0.03,0,0.01,0.3,0.08,0.05,0.57,0.59,0.41
+5,Barnes Jewish College Goldfarb School Nursing,Missouri,Midwest,West North Central,55000,95200,83,0,Private,4 Year,,21150,21150,21150,21150,,,,,,,,,,,,,
+5,Rocky Mountain College,Montana,West,Mountain,46000,82900,59,12,Private,4 Year,8330,28512,36842,28512,36842,1007,0.02,0.01,0.03,0.02,0.01,0.07,0.15,0.05,0.02,0.78,0.48,0.52
+5,Nebraska Methodist College Nursing & Allied Health,Nebraska,Midwest,West North Central,51300,89800,84,0,Private,4 Year,9586,18048,27634,18048,27634,1000,0.01,0.02,0.04,0.03,0,0.02,0.11,0,0.02,0.87,0.9,0.1
+5,Thomas More College Liberal Arts,New Hampshire,Northeast,New England,48900,88300,,0,Private,4 Year,9700,21600,31300,21600,31300,93,0,0.02,0.01,0.02,0,0,0.05,0.04,0.14,0.76,0.57,0.43
+5,Seton Hall University,New Jersey,Northeast,Middle Atlantic,57100,103800,45,8,Private,4 Year,15800,42470,58270,42470,58270,9627,0,0.07,0.11,0.14,0,0.02,0.35,0.04,0.11,0.5,0.59,0.41
+5,Western New Mexico University,New Mexico,West,Mountain,41700,76700,75,4,Public,4 Year,9136,6824,15960,15231,24367,3557,0.03,0.01,0.04,0.41,0,0.01,0.49,0.01,0.21,0.28,0.62,0.38
+5,University North Carolina Chapel Hill,North Carolina,South,South Atlantic,55000,100800,49,19,Public,4 Year,11190,8987,20177,35170,46360,29135,0.01,0.08,0.08,0.07,0,0.05,0.28,0.06,0.03,0.64,0.57,0.43
+5,Dickinson State University,North Dakota,Midwest,West North Central,46400,81200,55,8,Public,4 Year,6898,6765,13663,9544,16442,1479,0.01,0.01,0.04,0.05,0,0.03,0.13,0.05,0.03,0.79,0.6,0.4
+5,Denison University,Ohio,Midwest,East North Central,54400,104800,45,22,Private,4 Year,12710,51960,64670,51960,64670,2278,0,0.04,0.07,0.1,0,0.04,0.24,0.07,0.02,0.67,0.58,0.42
+5,Oklahoma State University Institute Technology,Oklahoma,South,West South Central,52600,92300,53,14,Public,2 Year,6988,5550,12538,11160,18148,3379,0.16,0.01,0.04,0.06,0,0.08,0.35,0.01,0.05,0.59,0.36,0.64
+5,Oregon State University,Oregon,West,Pacific,56200,104800,53,34,Public,4 Year,12855,11166,24021,30141,42996,28886,0.01,0.07,0.01,0.07,0,0.06,0.22,0.11,0.03,0.64,0.47,0.54
+5,Bucknell University,Pennsylvania,Northeast,Middle Atlantic,66700,122900,40,40,Private,4 Year,13662,56092,69754,56092,69754,3624,0,0.04,0.03,0.05,0,0.03,0.15,0.06,0,0.78,0.52,0.48
+5,University Rhode Island,Rhode Island,Northeast,New England,54500,99700,50,18,Public,4 Year,12950,14138,27088,30862,43812,16571,0,0.03,0.05,0.08,0,0.02,0.19,0.03,0.09,0.69,0.55,0.45
+5,Medical University South Carolina,South Carolina,South,South Atlantic,54800,92700,88,6,Public,4 Year,,26826,26826,26826,26826,2898,0,0.06,0.08,0.04,0,0.02,0.2,0.02,0.05,0.74,0.63,0.37
+5,Dakota State University,South Dakota,Midwest,West North Central,48400,84300,49,53,Public,4 Year,6873,9276,16149,12249,19122,3047,0.01,0.02,0.05,0.04,0,0.03,0.14,0.04,0.02,0.8,0.45,0.55
+5,Baptist Memorial College Health Sciences,Tennessee,South,East South Central,55700,95700,90,4,Private,4 Year,2900,14700,17600,14700,17600,1170,0,0.02,0.43,0.02,0,0,0.47,0,0.02,0.52,0.91,0.09
+5,Southern Methodist University,Texas,South,West South Central,59700,110400,46,22,Private,4 Year,16845,54493,71338,54493,71338,11272,0,0.06,0.06,0.1,0,0.03,0.25,0.13,0.01,0.6,0.48,0.52
+5,Westminster College (Utah),Utah,West,Mountain,51700,92200,55,10,Private,4 Year,9524,34300,43824,34300,43824,2991,0,0.04,0.01,0.09,0,0.03,0.18,0.05,0.07,0.7,0.55,0.46
+5,Vermont Technical College,Vermont,Northeast,New England,52400,93900,41,4,Public,4 Year,10598,15108,25706,27780,38378,1542,0.01,0.01,0.02,0.02,0,0.02,0.07,0.02,0.01,0.89,0.46,0.54
+5,College William and Mary,Virginia,South,South Atlantic,59000,108900,42,21,Public,4 Year,12236,23400,35636,44701,56937,,,,,,,,,,,,,
+5,Washington State University,Washington,West,Pacific,55900,103700,50,20,Public,4 Year,11398,11581,22979,26365,37763,28686,0.01,0.05,0.03,0.11,0,0.07,0.27,0.07,0.04,0.63,0.51,0.49
+5,West Virginia Wesleyan College,West Virginia,South,South Atlantic,47000,85200,53,21,Private,4 Year,8856,31640,40496,31640,40496,1511,0,0,0.08,0.02,0,0.03,0.13,0.05,0.02,0.8,0.56,0.44
+5,Lawrence University,Wisconsin,Midwest,East North Central,51500,98800,58,25,Private,4 Year,10341,47475,57816,47475,57816,1511,0.01,0.04,0.03,0.07,0,0.04,0.18,0.11,0.01,0.71,0.55,0.46
+6,Spring Hill College,Alabama,South,East South Central,46600,89100,53,12,Private,4 Year,13462,39464,52926,39464,52926,1376,0.01,0.01,0.15,0.06,0,0.03,0.26,0.02,0.03,0.69,0.6,0.4
+6,Arkansas State University,Arkansas,South,West South Central,44600,81400,52,7,Public,4 Year,8160,8608,16768,15298,23458,13144,0.01,0.01,0.14,0.02,0,0.02,0.19,0.06,0.01,0.74,0.59,0.41
+6,Santa Clara University,California,West,Pacific,69900,134700,44,29,Private,4 Year,14910,51711,66621,51711,66621,9015,0,0.16,0.03,0.14,0,0.05,0.38,0.14,0.08,0.41,0.5,0.5
+6,Colorado State University Fort Collins,Colorado,West,Mountain,53500,96100,51,28,Public,4 Year,11964,11831,23795,29732,41696,31354,0.01,0.03,0.02,0.09,0,0.03,0.17,0.06,0.05,0.72,0.52,0.49
+6,University Connecticut,Connecticut,Northeast,New England,59100,105200,48,24,Public,4 Year,12874,15730,28604,38098,50972,26541,0,0.09,0.05,0.07,0,0.02,0.24,0.1,0.08,0.59,0.5,0.5
+6,University Miami,Florida,South,South Atlantic,56200,99600,48,22,Private,4 Year,14108,50226,64334,50226,64334,16674,0,0.06,0.07,0.21,0,0.02,0.37,0.17,0.06,0.41,0.51,0.49
+6,Oglethorpe University,Georgia,South,South Atlantic,52400,91400,50,12,Private,4 Year,13200,38100,51300,38100,51300,1094,0,0.04,0.19,0.1,0,0.03,0.36,0.06,0.25,0.34,0.58,0.42
+6,University Hawaii West Oahu,Hawaii,West,Pacific,41300,74300,56,0,Public,4 Year,,7512,7512,20472,20472,2661,0,0.37,0.02,0.12,0.07,0.3,0.88,0.01,0.01,0.1,0.66,0.34
+6,Northwest Nazarene University,Idaho,West,Mountain,46200,80600,68,7,Private,4 Year,7400,29300,36700,29300,36700,2249,0.01,0.01,0.02,0.08,0,0.02,0.14,0.02,0.06,0.78,0.58,0.42
+6,Bradley University,Illinois,Midwest,East North Central,55600,104900,46,38,Private,4 Year,10620,33760,44380,33760,44380,5300,0,0.03,0.05,0.05,0,0.01,0.14,0.07,0.12,0.66,0.5,0.5
+6,Trine University,Indiana,Midwest,East North Central,55100,100300,56,26,Private,4 Year,10810,32175,42985,32175,42985,2831,0,0.02,0.03,0.05,0,0.03,0.13,0.05,0.07,0.75,0.42,0.58
+6,Cornell College,Iowa,Midwest,West North Central,49600,90600,47,22,Private,4 Year,9384,42299,51683,42299,51683,1086,0,0.02,0.05,0.13,0,0.04,0.25,0.04,0.04,0.66,0.53,0.47
+6,Newman University,Kansas,Midwest,West North Central,48000,88500,66,11,Private,4 Year,8326,30724,39050,30724,39050,3687,0.01,0.05,0.04,0.1,0,0.03,0.22,0.02,0.01,0.74,0.65,0.35
+6,Northern Kentucky University,Kentucky,South,East South Central,49000,87400,46,12,Public,4 Year,10022,10032,20054,19680,29702,15090,0,0.01,0.07,0.03,0,0.02,0.12,0.03,0.01,0.83,0.56,0.44
+6,University New England,Maine,Northeast,New England,50100,91500,69,7,Private,4 Year,13990,37620,51610,37620,51610,6429,0,0.05,0.06,0.01,0,0.02,0.14,0.01,0.2,0.66,0.71,0.29
+6,University Maryland Baltimore County,Maryland,South,South Atlantic,58100,103600,54,45,Public,4 Year,11696,11778,23474,26872,38568,13979,0,0.18,0.16,0.06,0,0.03,0.42,0.08,0.05,0.45,0.46,0.54
+6,MCPHS University,Massachusetts,Northeast,New England,65900,121800,71,2,Private,4 Year,16400,32705,49105,32705,49105,6935,0,0.21,0.05,0.03,0,0,0.29,0.12,0.23,0.36,0.67,0.33
+6,University Michigan Dearborn,Michigan,Midwest,East North Central,55700,99500,39,37,Public,4 Year,,12930,12930,25158,25158,8923,0,0.06,0.09,0.05,0,0.03,0.24,0.09,0.03,0.65,0.47,0.53
+6,Macalester College,Minnesota,Midwest,West North Central,53600,100400,51,31,Private,4 Year,12156,54344,66500,54344,66500,2073,0,0.07,0.02,0.06,0,0.05,0.21,0.14,0,0.66,0.61,0.4
+6,Jackson State University,Mississippi,South,East South Central,41700,74600,67,16,Public,4 Year,9552,8226,17778,19454,29006,9508,0,0.01,0.89,0,0,0.01,0.92,0.03,0,0.06,0.65,0.35
+6,William Jewell College,Missouri,Midwest,West North Central,51400,94500,60,12,Private,4 Year,9930,34400,44330,34400,44330,1060,0,0.01,0.06,0.03,0,0.06,0.16,0.04,0.02,0.77,0.6,0.4
+6,University Nebraska Omaha,Nebraska,Midwest,West North Central,49400,89500,52,18,Public,4 Year,9950,8417,18367,22689,32639,15227,0,0.03,0.06,0.09,0,0.04,0.21,0.06,0.03,0.7,0.53,0.47
+6,New England College,New Hampshire,Northeast,New England,45700,86400,43,24,Private,4 Year,14222,37914,52136,37914,52136,2399,0.01,0.02,0.17,0.06,0,0.01,0.27,0.04,0.07,0.63,0.59,0.41
+6,Rutgers University Newark,New Jersey,Northeast,Middle Atlantic,57900,101800,52,11,Public,4 Year,13536,14409,27945,30717,44253,11314,0,0.18,0.16,0.19,0.01,0.02,0.56,0.07,0.06,0.31,0.49,0.51
+6,College New Jersey,New Jersey,Northeast,Middle Atlantic,58200,101800,44,16,Public,4 Year,13617,16551,30168,28266,41883,7409,0,0.1,0.05,0.12,0,0.01,0.28,0,0.07,0.65,0.6,0.4
+6,New Mexico Highlands University,New Mexico,West,Mountain,40400,73800,63,4,Public,4 Year,7872,6150,14022,10302,18174,3546,0.07,0.01,0.05,0.53,0.01,0.01,0.67,0.06,0.04,0.24,0.64,0.36
+6,Rensselaer Polytechnic Institute,New York,Northeast,Middle Atlantic,71300,134100,49,78,Private,4 Year,15260,53880,69140,53880,69140,6835,0,0.09,0.03,0.06,0,0.06,0.24,0.17,0.02,0.57,0.3,0.7
+6,Elon University,North Carolina,South,South Atlantic,53600,93700,43,7,Private,4 Year,12230,35319,47549,35319,47549,6483,0,0.02,0.06,0.05,0,0.02,0.15,0.02,0.01,0.82,0.6,0.41
+6,University Mary,North Dakota,Midwest,West North Central,46400,79100,64,3,Private,4 Year,6890,18720,25610,18720,25610,2809,0.02,0.01,0.03,0.03,0,0.02,0.1,0.02,0.08,0.81,0.65,0.35
+6,Ohio Northern University,Ohio,Midwest,East North Central,54400,103900,49,22,Private,4 Year,11650,32260,43910,32260,43910,3695,0,0.02,0.03,0.01,0,0.03,0.09,0.06,0.07,0.78,0.51,0.49
+6,Southwestern Oklahoma State University,Oklahoma,South,West South Central,47900,90800,58,5,Public,4 Year,5830,7035,12865,13935,19765,4994,0.04,0.03,0.05,0.07,0,0.07,0.27,0.04,0.02,0.68,0.59,0.41
+6,Willamette University,Oregon,West,Pacific,52200,97700,49,14,Private,4 Year,12440,50074,62514,50074,62514,2780,0.01,0.07,0.02,0.1,0,0.07,0.27,0.1,0.05,0.59,0.54,0.46
+6,Lafayette College,Pennsylvania,Northeast,Middle Atlantic,66500,122500,37,47,Private,4 Year,15640,52880,68520,52880,68520,2503,0,0.03,0.05,0.07,0,0.02,0.17,0.08,0.07,0.68,0.47,0.53
+6,Salve Regina University,Rhode Island,Northeast,New England,53000,93900,50,6,Private,4 Year,14500,40550,55050,40550,55050,2739,0,0.01,0.02,0.06,0,0.02,0.12,0.02,0.1,0.76,0.68,0.32
+6,University South Carolina Columbia,South Carolina,South,South Atlantic,50300,89900,52,20,Public,4 Year,,12616,12616,33298,33298,32971,0,0.03,0.1,0.04,0,0.03,0.21,0.04,0.01,0.74,0.55,0.45
+6,Presbyterian College,South Carolina,South,South Atlantic,48800,89900,57,14,Private,4 Year,10480,38660,49140,38660,49140,1460,0,0.03,0.14,0.02,0,0.02,0.21,0.05,0.01,0.74,0.58,0.42
+6,University Sioux Falls,South Dakota,Midwest,West North Central,44400,78200,64,6,Private,4 Year,7350,18280,25630,18280,25630,1419,0,0.01,0.03,0.01,0,0.03,0.09,0.01,0.01,0.9,0.61,0.39
+6,University Tennessee Knoxville,Tennessee,South,East South Central,51200,95100,52,21,Public,4 Year,11240,13006,24246,31196,42436,30386,0,0.03,0.07,0.03,0,0.02,0.16,0.04,0.03,0.76,0.51,0.49
+6,Tennessee Technological University,Tennessee,South,East South Central,53100,95100,48,28,Public,4 Year,9736,9103,18839,25759,35495,11339,0,0.01,0.04,0.02,0,0.02,0.1,0.11,0,0.79,0.45,0.55
+6,University Texas Health Science Center Houston,Texas,South,West South Central,65400,109400,80,14,Public,4 Year,,6380,6380,27710,27710,4556,0,0.15,0.08,0.15,0,0.02,0.41,0.13,0.04,0.42,0.64,0.36
+6,Western Governors University,Utah,West,Mountain,54500,91500,57,9,Private,4 Year,,6670,6670,6670,6670,57821,0.01,0.04,0.09,0.07,0.01,0.03,0.25,0,0.03,0.73,0.61,0.39
+6,Bennington College,Vermont,Northeast,New England,48800,90000,50,5,Private,4 Year,15610,54360,69970,54360,69970,755,0.02,0.03,0.01,0.05,0,0.03,0.15,0.11,0.06,0.69,0.67,0.33
+6,Hampden Sydney College,Virginia,South,South Atlantic,58300,108600,52,20,Private,4 Year,13558,45746,59304,45746,59304,1105,0.01,0.02,0.08,0.02,0,0.05,0.18,0,0.01,0.82,0,1
+6,Seattle Pacific University,Washington,West,Pacific,53600,103400,52,9,Private,4 Year,11796,42939,54735,42939,54735,4217,0.01,0.1,0.04,0.08,0,0.07,0.29,0.04,0.03,0.64,0.68,0.32
+6,Bethany College (West Virginia),West Virginia,South,South Atlantic,46000,84900,63,5,Private,4 Year,10580,29773,40353,29773,40353,757,0.01,0,0.19,0.04,0,0.02,0.26,0.03,0.16,0.55,0.42,0.58
+6,Bellin College,Wisconsin,Midwest,East North Central,55800,97600,94,0,Private,4 Year,,22178,22178,22178,22178,351,0.01,0.01,0,0.01,0,0,0.04,0,0.01,0.95,0.93,0.07
+7,Birmingham Southern College,Alabama,South,East South Central,49100,88300,48,27,Private,4 Year,12350,17650,30000,17650,30000,1185,0.01,0.05,0.11,0.02,0,0.01,0.2,0,0.01,0.8,0.46,0.54
+7,Prescott College,Arizona,West,Mountain,41200,73500,69,0,Private,4 Year,7700,31485,39185,31485,39185,848,0.03,0.01,0.03,0.03,0,0.05,0.14,0.03,0.07,0.75,0.67,0.33
+7,University Arkansas Little Rock,Arkansas,South,West South Central,45600,80800,55,13,Public,4 Year,8930,8966,17896,21206,30136,11645,0,0.02,0.23,0.06,0,0.07,0.38,0.04,0.01,0.57,0.6,0.41
+7,University California Berkeley,California,West,Pacific,70700,131800,49,36,Public,4 Year,16160,14184,30344,43176,59336,37565,0,0.3,0.02,0.12,0,0.04,0.49,0.16,0.04,0.31,0.5,0.5
+7,University Hartford,Connecticut,Northeast,New England,55200,101600,53,15,Private,4 Year,12476,40694,53170,40694,53170,6817,0,0.03,0.13,0.09,0,0.02,0.28,0.07,0.07,0.58,0.51,0.49
+7,Embry Riddle Aeronautical University Worldwide,Florida,South,South Atlantic,55800,96800,67,3,Private,4 Year,,9360,9360,9360,9360,14176,0.01,0.03,0.09,0.05,0.01,0.06,0.23,0.03,0.19,0.55,0.14,0.86
+7,Georgia State University,Georgia,South,South Atlantic,50600,90800,47,18,Public,4 Year,11378,10858,22236,29432,40810,32556,0,0.1,0.37,0.08,0,0.04,0.59,0.05,0.03,0.33,0.59,0.41
+7,Lewis Clark State College,Idaho,West,Mountain,44900,77600,60,5,Public,4 Year,7580,6618,14198,19236,26816,4304,0.02,0.01,0.01,0.05,0,0.02,0.12,0.03,0.03,0.83,0.61,0.39
+7,University Illinois Chicago,Illinois,Midwest,East North Central,56300,103800,48,31,Public,4 Year,12074,13764,25838,26980,39054,27969,0,0.19,0.08,0.19,0,0.02,0.49,0.09,0.02,0.4,0.54,0.46
+7,Butler University,Indiana,Midwest,East North Central,51800,99300,53,9,Private,4 Year,13830,41120,54950,41120,54950,4848,0,0.03,0.04,0.03,0,0.02,0.11,0.03,0.03,0.83,0.59,0.41
+7,Loras College,Iowa,Midwest,West North Central,48000,90100,56,14,Private,4 Year,8275,34184,42459,34184,42459,1569,0,0.01,0.03,0.06,0,0.01,0.11,0.02,0.05,0.83,0.48,0.52
+7,Wichita State University,Kansas,Midwest,West North Central,48700,87300,57,24,Public,4 Year,11252,8271,19523,17452,28704,14995,0.01,0.06,0.06,0.09,0,0.03,0.24,0.12,0.04,0.6,0.52,0.48
+7,Transylvania University,Kentucky,South,East South Central,47900,85600,51,25,Private,4 Year,10460,38750,49210,38750,49210,1014,0,0.02,0.03,0.05,0,0.03,0.13,0.04,0.04,0.8,0.58,0.42
+7,University New Orleans,Louisiana,South,West South Central,49900,91600,55,23,Public,4 Year,10575,9054,19629,13890,24465,9234,0,0.07,0.15,0.09,0,0.03,0.35,0.07,0.03,0.56,0.51,0.49
+7,Saint Joseph's College Maine,Maine,Northeast,New England,46900,84300,60,2,Private,4 Year,13680,35650,49330,35650,49330,2933,0,0.01,0.03,0.02,0,0,0.07,0,0.3,0.63,0.71,0.29
+7,St. John's College,Maryland,South,South Atlantic,55900,101200,,0,Private,4 Year,12602,53218,65820,53218,65820,472,0,0.03,0.02,0.07,0,0,0.12,0.1,0.04,0.74,0.42,0.58
+7,Tufts University,Massachusetts,Northeast,New England,65200,118100,49,25,Private,4 Year,14560,56382,70942,56382,70942,10907,0,0.12,0.03,0.05,0,0.04,0.25,0.11,0.1,0.54,0.55,0.46
+7,Albion College,Michigan,Midwest,East North Central,52100,99300,44,23,Private,4 Year,12380,45775,58155,45775,58155,1268,0,0.02,0.04,0.04,0,0.03,0.12,0.03,0.06,0.79,0.5,0.5
+7,Gustavus Adolphus College,Minnesota,Midwest,West North Central,51200,96800,47,22,Private,4 Year,9910,45400,55310,45400,55310,2457,0,0.04,0.02,0.03,0,0.04,0.13,0.03,0,0.84,0.54,0.46
+7,Belhaven University,Mississippi,South,East South Central,41200,74300,60,2,Private,4 Year,8500,25300,33800,25300,33800,4114,0.01,0.01,0.55,0.04,0,0.02,0.61,0.02,0.09,0.28,0.68,0.32
+7,Rockhurst University,Missouri,Midwest,West North Central,54000,92500,59,11,Private,4 Year,10200,37590,47790,37590,47790,3002,0,0.03,0.05,0.05,0,0.03,0.16,0.01,0.08,0.75,0.58,0.42
+7,Montana State University Billings,Montana,West,Mountain,43300,77700,59,5,Public,4 Year,7680,5930,13610,19250,26930,4768,0.04,0.01,0.01,0.05,0,0.02,0.14,0.03,0.01,0.82,0.63,0.37
+7,Union College (Nebraska),Nebraska,Midwest,West North Central,49100,87800,55,9,Private,4 Year,7070,23780,30850,23780,30850,,,,,,,,,,,,,
+7,Franklin Pierce University,New Hampshire,Northeast,New England,47800,85600,52,3,Private,4 Year,13345,36900,50245,36900,50245,2275,0,0.02,0.04,0.02,0,0.03,0.1,0.02,0.11,0.76,0.56,0.44
+7,Colgate University,New York,Northeast,Middle Atlantic,68400,130600,41,26,Private,4 Year,13995,55870,69865,55870,69865,2888,0,0.04,0.04,0.08,0,0.04,0.2,0.09,0.04,0.67,0.54,0.46
+7,North Carolina A & T State University,North Carolina,South,South Atlantic,52600,93400,61,25,Public,4 Year,7624,6612,14236,19822,27446,10725,0,0.01,0.8,0.02,0,0.03,0.86,0.04,0.04,0.06,0.55,0.45
+7,Minot State University,North Dakota,Midwest,West North Central,44500,74100,55,7,Public,4 Year,6610,7064,13674,7064,13674,3410,0.02,0.01,0.05,0.05,0,0.03,0.16,0.12,0.03,0.69,0.61,0.39
+7,Kenyon College,Ohio,Midwest,East North Central,55000,103800,50,17,Private,4 Year,12510,55930,68440,55930,68440,1662,0.01,0.05,0.04,0.06,0,0.04,0.19,0.05,0.03,0.74,0.55,0.45
+7,Oklahoma Christian University,Oklahoma,South,West South Central,49700,87900,57,41,Private,4 Year,8190,22760,30950,22760,30950,2475,0.02,0.08,0.12,0.06,0,0.06,0.35,0,0,0.65,0.46,0.54
+7,Oklahoma City University,Oklahoma,South,West South Central,47700,87900,58,9,Private,4 Year,8896,31026,39922,31026,39922,3035,0.03,0.02,0.05,0.07,0,0.07,0.24,0.16,0.01,0.59,0.59,0.41
+7,University Oregon,Oregon,West,Pacific,51800,95800,46,13,Public,4 Year,12963,11898,24861,35478,48441,24096,0.01,0.05,0.02,0.09,0,0.06,0.22,0.13,0.02,0.62,0.52,0.48
+7,Villanova University,Pennsylvania,Northeast,Middle Atlantic,65100,119500,41,23,Private,4 Year,14020,53308,67328,53308,67328,10735,0,0.06,0.05,0.07,0,0.02,0.2,0.03,0.03,0.73,0.52,0.48
+7,New England Institute Technology,Rhode Island,Northeast,New England,51700,93200,44,14,Private,4 Year,13065,29940,43005,29940,43005,2922,0.01,0.02,0.05,0.1,0,0.01,0.18,0.04,0.11,0.68,0.32,0.68
+7,Northern State University,South Dakota,Midwest,West North Central,42300,77700,56,7,Public,4 Year,8029,8498,16527,11471,19500,3531,0.02,0.01,0.01,0.02,0,0.02,0.08,0.05,0.01,0.86,0.61,0.39
+7,Texas Tech University,Texas,South,West South Central,56800,106500,54,22,Public,4 Year,9530,11045,20575,23495,33025,35158,0,0.02,0.06,0.2,0,0.03,0.32,0.08,0.01,0.6,0.46,0.54
+7,Utah Valley University,Utah,West,Mountain,51100,90600,57,12,Public,4 Year,,5726,5726,16296,16296,31332,0.01,0.01,0.01,0.1,0.01,0.02,0.16,0.02,0.02,0.8,0.45,0.55
+7,Champlain College,Vermont,Northeast,New England,51100,88400,39,14,Private,4 Year,15354,41010,56364,41010,56364,3585,0,0.02,0.03,0.04,0,0.06,0.14,0.01,0.18,0.67,0.42,0.58
+7,University Richmond,Virginia,South,South Atlantic,59800,107500,48,13,Private,4 Year,12250,52610,64860,52610,64860,4182,0,0.05,0.08,0.06,0,0.03,0.23,0.09,0.07,0.61,0.54,0.46
+7,Whitman College,Washington,West,Pacific,54600,102600,53,33,Private,4 Year,13174,51764,64938,51764,64938,1498,0,0.05,0.01,0.08,0,0.06,0.2,0.04,0.03,0.73,0.56,0.44
+7,Wheeling Jesuit University,West Virginia,South,South Atlantic,44800,83400,57,5,Private,4 Year,9900,29290,39190,29290,39190,1575,0,0.01,0.04,0.02,0,0.02,0.1,0.03,0.09,0.79,0.56,0.44
+7,University Wisconsin Eau Claire,Wisconsin,Midwest,East North Central,52100,93600,46,14,Public,4 Year,7813,8820,16633,17096,24909,10721,0,0.04,0.01,0.02,0,0.02,0.09,0.02,0,0.89,0.6,0.4
+8,University Alabama Birmingham,Alabama,South,East South Central,48600,87200,57,17,Public,4 Year,6400,10710,17110,24630,31030,18698,0,0.05,0.21,0.03,0,0.03,0.32,0.04,0.01,0.63,0.6,0.4
+8,Ouachita Baptist University,Arkansas,South,West South Central,44100,80200,58,18,Private,4 Year,7880,26790,34670,26790,34670,1501,0.01,0.01,0.09,0.04,0,0,0.14,0.03,0,0.83,0.51,0.49
+8,California State University Maritime Academy,California,West,Pacific,70500,129600,57,15,Public,4 Year,12576,7135,19711,13273,25849,1047,0,0.09,0.02,0.17,0,0.11,0.39,0.01,0.06,0.54,0.14,0.86
+8,Regis University,Colorado,West,Mountain,55500,94800,58,13,Private,4 Year,11560,36810,48370,36810,48370,9208,0.01,0.05,0.06,0.15,0,0.03,0.29,0.01,0.09,0.61,0.63,0.37
+8,Connecticut College,Connecticut,Northeast,New England,57500,100800,36,30,Private,4 Year,15150,54820,69970,54820,69970,1900,0,0.04,0.03,0.09,0,0.03,0.18,0.05,0.05,0.72,0.62,0.38
+8,Florida State University,Florida,South,South Atlantic,50800,92700,49,18,Public,4 Year,10816,6516,17332,21683,32499,41226,0,0.03,0.08,0.16,0,0.03,0.3,0.05,0.02,0.64,0.55,0.45
+8,Georgia Southern University,Georgia,South,South Atlantic,49000,88000,49,17,Public,4 Year,10070,7422,17492,20904,30974,20517,0,0.01,0.26,0.06,0,0.02,0.35,0.02,0.02,0.61,0.52,0.48
+8,DePaul University,Illinois,Midwest,East North Central,55700,102900,43,15,Private,4 Year,14235,39975,54210,39975,54210,23799,0,0.08,0.09,0.14,0,0.03,0.34,0.06,0.06,0.54,0.53,0.47
+8,Valparaiso University,Indiana,Midwest,East North Central,53300,98000,52,31,Private,4 Year,11860,40260,52120,40260,52120,4507,0,0.02,0.06,0.07,0,0.02,0.18,0.14,0.03,0.65,0.51,0.49
+8,Dordt College,Iowa,Midwest,West North Central,51000,89600,57,17,Private,4 Year,9590,30870,40460,30870,40460,1459,0,0.01,0.02,0.01,0.07,0,0.11,0.08,0.09,0.72,0.46,0.54
+8,Pittsburg State University,Kansas,Midwest,West North Central,47100,84900,51,8,Public,4 Year,7778,7298,15076,18642,26420,7479,0.01,0.01,0.04,0.04,0,0.05,0.15,0.07,0,0.78,0.51,0.49
+8,Western Kentucky University,Kentucky,South,East South Central,45500,83100,49,10,Public,4 Year,8343,10602,18945,26496,34839,20171,0,0.01,0.1,0.03,0,0.02,0.16,0.07,0.01,0.76,0.58,0.42
+8,Thomas College,Maine,Northeast,New England,46100,81500,49,3,Private,4 Year,11250,26900,38150,26900,38150,1404,0,0.01,0.02,0.01,0,0.06,0.11,0.02,0.13,0.74,0.55,0.45
+8,"University Maryland, Baltimore",Maryland,South,South Atlantic,57300,99600,76,4,Public,4 Year,,11033,11033,39267,39267,6276,0,0.15,0.15,0.05,0,0.03,0.39,0.04,0.02,0.55,0.71,0.29
+8,University Maryland University College,Maryland,South,South Atlantic,55300,99600,59,27,Public,4 Year,,7416,7416,12336,12336,47906,0.01,0.05,0.3,0.1,0.01,0.03,0.49,0.01,0.09,0.4,0.49,0.52
+8,Massachusetts Maritime Academy,Massachusetts,Northeast,New England,67900,117500,53,47,Public,4 Year,12675,9724,22399,26102,38777,1497,0.01,0.03,0.02,0.03,0,0.01,0.1,0.01,0.02,0.88,0.13,0.87
+8,Kalamazoo College,Michigan,Midwest,East North Central,51600,94500,52,31,Private,4 Year,9756,48516,58272,48516,58272,1461,0,0.06,0.05,0.09,0,0.05,0.26,0.08,0.06,0.61,0.57,0.43
+8,Delta State University,Mississippi,South,East South Central,40800,74200,63,5,Public,4 Year,7722,7246,14968,7246,14968,3614,0,0.01,0.37,0.01,0,0.01,0.4,0.03,0.01,0.56,0.62,0.38
+8,Westminster College (Missouri),Missouri,Midwest,West North Central,49400,91600,52,25,Private,4 Year,10140,27600,37740,27600,37740,954,0.02,0.01,0.08,0.04,0,0.01,0.16,0.16,0.03,0.65,0.43,0.57
+8,Montana State University Northern,Montana,West,Mountain,43400,75400,63,1,Public,4 Year,6520,5956,12476,18556,25076,1230,0.13,0.01,0.01,0.01,0,0,0.17,0.02,0.05,0.77,0.5,0.5
+8,Hastings College,Nebraska,Midwest,West North Central,48600,87100,55,14,Private,4 Year,9700,30050,39750,30050,39750,1212,0.01,0.01,0.03,0.06,0,0.03,0.14,0.02,0.01,0.83,0.49,0.51
+8,Rivier University,New Hampshire,Northeast,New England,49500,85100,58,41,Private,4 Year,12526,31790,44316,31790,44316,2349,0,0.13,0.03,0.04,0,0.02,0.21,0,0.08,0.71,0.75,0.25
+8,Rider University,New Jersey,Northeast,Middle Atlantic,51600,99000,47,5,Private,4 Year,14700,41310,56010,41310,56010,5294,0,0.04,0.1,0.1,0,0.02,0.27,0.04,0.05,0.64,0.6,0.4
+8,Clarkson University,New York,Northeast,Middle Atlantic,66400,130100,58,58,Private,4 Year,14908,49444,64352,49444,64352,3873,0,0.03,0.02,0.04,0,0.02,0.12,0.08,0.03,0.77,0.31,0.69
+8,University North Carolina Charlotte,North Carolina,South,South Atlantic,52500,92600,49,25,Public,4 Year,11100,7044,18144,20478,31578,27238,0,0.05,0.16,0.07,0,0.03,0.32,0.06,0.03,0.59,0.5,0.51
+8,Valley City State University,North Dakota,Midwest,West North Central,39900,68600,56,3,Public,4 Year,6446,7626,14072,17166,23612,1378,0.01,0.01,0.03,0.04,0,0.03,0.12,0.03,0.01,0.84,0.59,0.41
+8,Mount Carmel College Nursing,Ohio,Midwest,East North Central,56600,99700,78,0,Private,4 Year,5000,13907,18907,13907,18907,1084,0,0.01,0.06,0.02,0,0.02,0.12,0,0.01,0.87,0.9,0.1
+8,Pacific University,Oregon,West,Pacific,50200,94000,66,8,Private,4 Year,12528,44298,56826,44298,56826,3640,0.01,0.14,0.02,0.08,0.02,0.07,0.33,0.04,0.06,0.57,0.63,0.37
+8,University Sciences,Pennsylvania,Northeast,Middle Atlantic,60700,115200,72,12,Private,4 Year,15938,25000,40938,25000,40938,2748,0,0.32,0.06,0.03,0,0.02,0.44,0.04,0.1,0.42,0.61,0.39
+8,Roger Williams University,Rhode Island,Northeast,New England,52900,92700,48,12,Private,4 Year,15890,34522,50412,34522,50412,4884,0.01,0.02,0.02,0.05,0,0,0.11,0.05,0.13,0.72,0.51,0.49
+8,College Charleston,South Carolina,South,South Atlantic,47300,85100,44,20,Public,4 Year,12166,12738,24904,31920,44086,11456,0,0.02,0.07,0.04,0,0.04,0.17,0.02,0.01,0.81,0.64,0.36
+8,Mount Marty College,South Dakota,Midwest,West North Central,41400,76500,67,5,Private,4 Year,7986,27276,35262,27276,35262,1236,0.02,0.01,0.03,0.05,0,0,0.12,0,0,0.88,0.59,0.41
+8,University Memphis,Tennessee,South,East South Central,47200,85800,55,12,Public,4 Year,9975,9701,19676,21413,31388,21059,0,0.03,0.34,0.04,0,0.03,0.44,0.03,0.02,0.51,0.6,0.4
+8,Texas Tech University Health Sciences Center,Texas,South,West South Central,61300,104900,86,3,Public,4 Year,,7911,7911,20361,20361,4931,0.01,0.15,0.07,0.17,0,0,0.39,0.01,0.06,0.54,0.69,0.32
+8,Southern Utah University,Utah,West,Mountain,46400,84400,65,7,Public,4 Year,7090,6769,13859,20585,27675,7656,0.01,0.01,0.01,0.05,0.01,0.01,0.1,0.05,0.06,0.8,0.55,0.45
+8,College St Joseph,Vermont,Northeast,New England,47000,85000,72,0,Private,4 Year,12000,18520,30520,18520,30520,332,0,0,0.16,0.08,0,0,0.24,0.01,0,0.75,0.52,0.48
+8,George Mason University,Virginia,South,South Atlantic,58900,105700,48,23,Public,4 Year,11460,12462,23922,35922,47382,33729,0,0.15,0.09,0.1,0,0.04,0.39,0.06,0.07,0.49,0.54,0.46
+8,University Puget Sound,Washington,West,Pacific,54200,101300,45,21,Private,4 Year,12540,49776,62316,49776,62316,2826,0,0.07,0.01,0.07,0,0.09,0.23,0,0.02,0.75,0.59,0.41
+8,University Charleston,West Virginia,South,South Atlantic,44600,81900,51,4,Private,4 Year,9180,30900,40080,30900,40080,2111,0.01,0.03,0.1,0.03,0,0.01,0.17,0.06,0.15,0.61,0.55,0.45
+9,University South Alabama,Alabama,South,East South Central,47700,86400,56,17,Public,4 Year,7620,9870,17490,19740,27360,15805,0.01,0.03,0.21,0.03,0,0.02,0.3,0.04,0.02,0.64,0.61,0.39
+9,Southern Arkansas University,Arkansas,South,West South Central,42800,80100,56,53,Public,4 Year,6240,8676,14916,12786,19026,3546,0.01,0.01,0.27,0.02,0.01,0.01,0.32,0.05,0.01,0.63,0.58,0.42
+9,Claremont McKenna College,California,West,Pacific,68500,125400,43,16,Private,4 Year,16705,54405,71110,54405,71110,1324,0,0.11,0.04,0.12,0,0.08,0.34,0.17,0.07,0.42,0.48,0.52
+9,University Colorado Colorado Springs,Colorado,West,Mountain,52200,90900,53,21,Public,4 Year,10500,10463,20963,24893,35393,11761,0,0.03,0.04,0.14,0,0.06,0.28,0.03,0.03,0.67,0.53,0.47
+9,Sacred Heart University,Connecticut,Northeast,New England,55000,100500,46,15,Private,4 Year,15310,41420,56730,41420,56730,7781,0,0.02,0.05,0.06,0,0.01,0.15,0.05,0.13,0.68,0.67,0.33
+9,University Tampa,Florida,South,South Atlantic,49200,91500,48,8,Private,4 Year,10810,29208,40018,29208,40018,7683,0,0.02,0.05,0.12,0,0.03,0.22,0.12,0.09,0.58,0.56,0.44
+9,University North Georgia,Georgia,South,South Atlantic,47300,85600,51,8,Public,4 Year,7876,7336,15212,21148,29024,16064,0,0.03,0.04,0.09,0,0.03,0.19,0.01,0.01,0.78,0.56,0.45
+9,Lake Forest College,Illinois,Midwest,East North Central,55400,102600,46,21,Private,4 Year,10390,47064,57454,47064,57454,1626,0,0.05,0.07,0.15,0,0.04,0.3,0.09,0.03,0.58,0.57,0.43
+9,Indiana University Bloomington,Indiana,Midwest,East North Central,53600,97100,47,16,Public,4 Year,10465,10681,21146,35456,45921,46416,0,0.04,0.04,0.04,0,0.03,0.16,0.14,0.01,0.7,0.5,0.5
+9,Central College,Iowa,Midwest,West North Central,49000,88800,55,36,Private,4 Year,10280,37295,47575,37295,47575,1411,0,0.01,0.02,0.03,0,0.01,0.08,0.01,0.03,0.88,0.52,0.48
+9,Georgetown College,Kentucky,South,East South Central,45000,81900,54,10,Private,4 Year,9780,38650,48430,38650,48430,1262,0,0.01,0.08,0.03,0,0.03,0.15,0.01,0.02,0.81,0.6,0.4
+9,Loyola University New Orleans,Louisiana,South,West South Central,47900,88600,47,4,Private,4 Year,13380,39692,53072,39692,53072,4330,0.01,0.03,0.15,0.13,0,0.03,0.35,0.03,0.07,0.55,0.62,0.38
+9,University Southern Maine,Maine,Northeast,New England,46900,81300,55,8,Public,4 Year,9450,9520,18970,22780,32230,8428,0.01,0.02,0.03,0.02,0,0.02,0.09,0.01,0.14,0.76,0.59,0.41
+9,Bentley University,Massachusetts,Northeast,New England,66600,116600,36,7,Private,4 Year,16320,49880,66200,49880,66200,5565,0,0.08,0.03,0.06,0,0.02,0.18,0.21,0.04,0.56,0.43,0.57
+9,Oakland University,Michigan,Midwest,East North Central,51300,93300,49,19,Public,4 Year,10100,12606,22706,24230,34330,20519,0,0.05,0.08,0.03,0,0.02,0.18,0.03,0.05,0.74,0.58,0.42
+9,University Minnesota Duluth,Minnesota,Midwest,West North Central,53200,95700,48,30,Public,4 Year,7760,13367,21127,18485,26245,11093,0.01,0.03,0.02,0.02,0,0.03,0.11,0.03,0.05,0.82,0.47,0.53
+9,William Carey University,Mississippi,South,East South Central,41100,71800,61,6,Private,4 Year,6810,12600,19410,12600,19410,3936,0,0.03,0.28,0.02,0,0,0.33,0.02,0.01,0.64,0.67,0.33
+9,University Missouri Kansas City,Missouri,Midwest,West North Central,50800,89600,55,24,Public,4 Year,10334,9884,20218,25010,35344,16146,0,0.06,0.11,0.06,0,0.03,0.26,0.1,0.05,0.59,0.55,0.45
+9,University Montana Western,Montana,West,Mountain,35400,63700,63,4,Public,4 Year,7950,5717,13667,17179,25129,1375,0.02,0.01,0.01,0.04,0,0.01,0.09,0,0.05,0.86,0.57,0.43
+9,Doane University Arts & Sciences,Nebraska,Midwest,West North Central,47300,85300,51,21,Private,4 Year,9400,33800,43200,33800,43200,,,,,,,,,,,,,
+9,Colby Sawyer College,New Hampshire,Northeast,New England,46400,83700,43,7,Private,4 Year,14264,42398,56662,42398,56662,1369,0,0.02,0.06,0.03,0,0.01,0.12,0.1,0.15,0.63,0.69,0.31
+9,Fairleigh Dickinson University Florham,New Jersey,Northeast,Middle Atlantic,53700,98500,42,6,Private,4 Year,13392,42618,56010,42618,56010,3231,0.01,0.06,0.11,0.13,0,0.02,0.33,0.03,0.07,0.58,0.57,0.43
+9,Cornell University,New York,Northeast,Middle Atlantic,70100,128200,45,43,Private,4 Year,14816,55188,70004,55188,70004,21679,0,0.14,0.05,0.09,0,0.04,0.32,0.2,0.08,0.4,0.49,0.52
+9,Queens University Charlotte,North Carolina,South,South Atlantic,49400,86600,48,9,Private,4 Year,10860,34684,45544,34684,45544,2248,0,0.02,0.17,0.05,0,0.01,0.27,0.06,0.11,0.57,0.7,0.3
+9,Trinity Bible College and Graduate School,North Dakota,Midwest,West North Central,34100,61300,,0,Private,4 Year,6132,16320,22452,16320,22452,230,0.04,0,0.08,0.02,0.03,0.04,0.2,0.01,0,0.79,0.36,0.64
+9,Ohio Wesleyan University,Ohio,Midwest,East North Central,51300,99200,46,21,Private,4 Year,12430,45760,58190,45760,58190,1734,0,0.02,0.07,0.04,0,0.05,0.18,0.07,0.03,0.72,0.54,0.47
+9,Oral Roberts University,Oklahoma,South,West South Central,45900,85100,59,8,Private,4 Year,9450,27728,37178,27728,37178,3481,0.03,0.02,0.16,0.08,0,0.04,0.34,0.08,0.1,0.49,0.56,0.44
+9,Drexel University,Pennsylvania,Northeast,Middle Atlantic,61700,114800,47,28,Private,4 Year,14079,53279,67358,53279,67358,26359,0,0.12,0.08,0.05,0,0.03,0.28,0.13,0.04,0.55,0.53,0.48
+9,Rhode Island College,Rhode Island,Northeast,New England,47200,83500,52,5,Public,4 Year,11829,8929,20758,21692,33521,8641,0,0.03,0.07,0.13,0,0.02,0.26,0,0.09,0.65,0.69,0.31
+9,University South Carolina Upstate,South Carolina,South,South Atlantic,46000,81400,50,13,Public,4 Year,9480,11763,21243,23265,32745,5585,0,0.02,0.27,0.05,0,0.03,0.38,0.02,0.04,0.57,0.65,0.35
+9,Dakota Wesleyan University,South Dakota,Midwest,West North Central,41800,75700,52,10,Private,4 Year,7350,27300,34650,27300,34650,870,0.01,0,0.02,0.03,0,0.02,0.08,0.02,0,0.9,0.57,0.43
+9,Lipscomb University,Tennessee,South,East South Central,49000,84800,59,12,Private,4 Year,12652,32144,44796,32144,44796,4489,0,0.03,0.08,0.05,0,0.02,0.18,0.02,0.07,0.74,0.62,0.38
+9,University Houston,Texas,South,West South Central,56000,103900,50,24,Public,4 Year,10270,12506,22776,27956,38226,40914,0,0.2,0.1,0.27,0,0.03,0.6,0.1,0.01,0.29,0.49,0.51
+9,Southern Vermont College,Vermont,Northeast,New England,42900,78700,63,17,Private,4 Year,11000,25511,36511,25511,36511,457,0.01,0.01,0.13,0.09,0,0.02,0.26,0,0.16,0.58,0.62,0.39
+9,James Madison University,Virginia,South,South Atlantic,57400,102600,42,12,Public,4 Year,10092,12016,22108,28416,38508,20855,0,0.04,0.04,0.05,0,0.03,0.17,0.02,0.03,0.77,0.6,0.4
+9,Western Washington University,Washington,West,Pacific,55000,99300,45,16,Public,4 Year,11466,8132,19598,23544,35010,15060,0,0.06,0.02,0.07,0,0.08,0.24,0.01,0.01,0.74,0.56,0.44
+9,Marshall University,West Virginia,South,South Atlantic,45000,79700,50,12,Public,4 Year,10450,8128,18578,18614,29064,13381,0,0.01,0.06,0.02,0,0.02,0.11,0.03,0.04,0.82,0.59,0.42
+9,University Wisconsin Milwaukee,Wisconsin,Midwest,East North Central,50600,90300,50,17,Public,4 Year,10728,11084,21812,22364,33092,27596,0,0.06,0.08,0.08,0,0.03,0.25,0.06,0,0.69,0.53,0.47
+10,Alabama A&M University,Alabama,South,East South Central,48700,83500,58,20,Public,4 Year,8379,9698,18077,17918,26297,5333,0,0,0.91,0.01,0,0,0.92,0.01,0.02,0.05,0.55,0.45
+10,Henderson State University,Arkansas,South,West South Central,42900,79800,57,5,Public,4 Year,7504,8436,15940,10086,17590,3627,0,0.01,0.23,0.04,0,0.04,0.32,0.01,0,0.67,0.57,0.43
+10,University Central Arkansas,Arkansas,South,West South Central,44900,79800,52,8,Public,4 Year,6854,8751,15605,15274,22128,11698,0.01,0.02,0.17,0.04,0,0.03,0.26,0.05,0.01,0.68,0.61,0.39
+10,University California San Diego,California,West,Pacific,63400,123700,52,58,Public,4 Year,12362,14199,26561,43191,55553,30709,0,0.34,0.01,0.15,0,0.05,0.55,0.17,0.03,0.25,0.46,0.54
+10,Colorado State University Pueblo,Colorado,West,Mountain,48100,87600,62,13,Public,4 Year,10470,10408,20878,26329,36799,7256,0.01,0.01,0.06,0.23,0,0.03,0.33,0.02,0.16,0.49,0.62,0.39
+10,Quinnipiac University,Connecticut,Northeast,New England,55900,97700,46,10,Private,4 Year,14540,47960,62500,47960,62500,9035,0,0.03,0.05,0.08,0,0.02,0.18,0.02,0.04,0.76,0.62,0.38
+10,University South Florida,Florida,South,South Atlantic,49700,91300,49,25,Public,4 Year,11610,6410,18020,17324,28934,41938,0,0.06,0.1,0.18,0,0.03,0.38,0.08,0.02,0.53,0.56,0.44
+10,Spelman College,Georgia,South,South Atlantic,50200,85400,52,24,Private,4 Year,13865,29314,43179,29314,43179,2135,0,0,0.87,0,0,0.03,0.9,0.02,0.08,0,1,0
+10,Taylor University,Indiana,Midwest,East North Central,48700,90600,59,16,Private,4 Year,9614,34114,43728,34114,43728,2146,0,0.03,0.03,0.03,0,0.01,0.1,0.05,0,0.86,0.56,0.44
+10,Graceland University Lamoni,Iowa,Midwest,West North Central,48300,88700,66,5,Private,4 Year,8760,29240,38000,29240,38000,2406,0,0.01,0.08,0.06,0.01,0.02,0.19,0.04,0.08,0.69,0.67,0.33
+10,Baker University,Kansas,Midwest,West North Central,47800,84200,55,2,Private,4 Year,8410,29830,38240,29830,38240,2957,0.02,0.02,0.1,0.05,0,0.01,0.19,0.01,0.06,0.74,0.59,0.42
+10,Brescia University,Kentucky,South,East South Central,44300,81200,53,7,Private,4 Year,9200,22400,31600,22400,31600,1056,0.01,0,0.13,0.06,0,0,0.2,0.01,0.13,0.67,0.73,0.27
+10,Centenary College Louisiana,Louisiana,South,West South Central,47000,88400,37,26,Private,4 Year,13400,36580,49980,36580,49980,619,0.01,0.03,0.14,0.06,0,0.04,0.28,0.02,0,0.7,0.57,0.44
+10,Husson University,Maine,Northeast,New England,43300,77600,52,1,Private,4 Year,9830,18180,28010,18180,28010,3415,0.01,0.02,0.04,0.01,0,0.01,0.1,0.03,0,0.88,0.56,0.45
+10,Washington Adventist University,Maryland,South,South Atlantic,55600,97600,63,9,Private,4 Year,9370,23900,33270,23900,33270,,,,,,,,,,,,,
+10,Amherst College,Massachusetts,Northeast,New England,63800,116500,45,32,Private,4 Year,14740,56426,71166,56426,71166,1792,0,0.13,0.12,0.13,0,0.05,0.44,0.1,0.05,0.42,0.48,0.52
+10,University Detroit Mercy,Michigan,Midwest,East North Central,51800,92800,57,13,Private,4 Year,9496,28000,37496,28000,37496,4945,0,0.05,0.1,0.03,0,0.02,0.21,0.12,0.19,0.49,0.6,0.4
+10,Saint Mary's University Minnesota,Minnesota,Midwest,West North Central,53000,93700,53,5,Private,4 Year,9080,35140,44220,35140,44220,5825,0,0.02,0.05,0.03,0,0.01,0.11,0.03,0.32,0.55,0.65,0.35
+10,Mississippi University for Women,Mississippi,South,East South Central,39500,69500,63,2,Public,4 Year,7424,7040,14464,7040,14464,2696,0,0.02,0.37,0.01,0,0,0.4,0.02,0,0.58,0.81,0.19
+10,Alcorn State University,Mississippi,South,East South Central,40900,69500,67,19,Public,4 Year,9608,7144,16752,7144,16752,3639,0,0,0.93,0,0,0.02,0.96,0.02,0,0.03,0.66,0.34
+10,University Missouri St Louis,Missouri,Midwest,West North Central,48700,87500,51,13,Public,4 Year,9450,10491,19941,27900,37350,17072,0,0.04,0.14,0.02,0,0.01,0.23,0.03,0.05,0.69,0.6,0.4
+10,Bellevue University,Nebraska,Midwest,West North Central,49400,84800,57,23,Private,4 Year,8730,9390,18120,9390,18120,9879,0.01,0.02,0.12,0.07,0,0.02,0.24,0.03,0.16,0.57,0.53,0.47
+10,Keene State College,New Hampshire,Northeast,New England,48900,83600,49,8,Public,4 Year,11026,14212,25238,23176,34202,4957,0,0.01,0.01,0.03,0,0.02,0.08,0,0.09,0.84,0.57,0.43
+10,Columbia University City New York,New York,Northeast,Middle Atlantic,71400,126800,45,30,Private,4 Year,14016,59985,74001,59985,74001,27589,0,0.13,0.05,0.08,0,0.03,0.29,0.3,0.07,0.35,0.51,0.49
+10,Lenoir Rhyne University,North Carolina,South,South Atlantic,46400,86300,54,7,Private,4 Year,12510,36400,48910,36400,48910,2050,0.01,0.02,0.13,0.03,0,0.03,0.21,0.02,0.04,0.74,0.63,0.38
+10,Ohio State University,Ohio,Midwest,East North Central,55300,98600,49,27,Public,4 Year,12434,10726,23160,30742,43176,58322,0,0.06,0.05,0.04,0,0.03,0.17,0.11,0.03,0.69,0.49,0.51
+10,University Central Oklahoma,Oklahoma,South,West South Central,45300,82900,56,8,Public,4 Year,7970,7488,15458,18376,26346,16840,0.04,0.03,0.09,0.08,0,0.08,0.31,0.09,0.02,0.58,0.59,0.41
+10,Lewis & Clark College,Oregon,West,Pacific,50000,93200,51,12,Private,4 Year,12490,50934,63424,50934,63424,3504,0.02,0.06,0.02,0.08,0,0.01,0.19,0.07,0.08,0.66,0.6,0.4
+10,Haverford College,Pennsylvania,Northeast,Middle Atlantic,59300,112300,47,36,Private,4 Year,16402,54592,70994,54592,70994,1194,0,0.08,0.06,0.09,0,0.06,0.29,0.06,0.01,0.64,0.53,0.47
+10,South Carolina State University,South Carolina,South,South Atlantic,44500,80800,71,16,Public,4 Year,9890,11060,20950,21750,31640,3331,0,0.01,0.94,0.01,0,0,0.95,0,0.01,0.04,0.56,0.44
+10,Black Hills State University,South Dakota,Midwest,West North Central,40400,72600,51,11,Public,4 Year,6978,8733,15711,11778,18756,4489,0.03,0.01,0.01,0.04,0,0.03,0.12,0.02,0.04,0.82,0.65,0.35
+10,Southern Adventist University,Tennessee,South,East South Central,47500,84000,67,9,Private,4 Year,6940,21950,28890,21950,28890,3175,0,0.07,0.12,0.19,0.01,0.03,0.43,0.05,0,0.53,0.58,0.42
+10,University Texas Medical Branch,Texas,South,West South Central,61100,103100,87,3,Public,4 Year,,7721,7721,20258,20258,3211,0,0.17,0.12,0.15,0,0.02,0.46,0.04,0.03,0.46,0.68,0.32
+10,Goddard College,Vermont,Northeast,New England,42700,76900,,0,Private,4 Year,1698,16586,18284,16586,18284,538,0,0.02,0.04,0.05,0,0.02,0.12,0,0.11,0.76,0.7,0.3
+10,University Mary Washington,Virginia,South,South Atlantic,54200,98200,49,17,Public,4 Year,11118,12188,23306,27434,38552,,,,,,,,,,,,,
+10,Pacific Lutheran University,Washington,West,Pacific,54500,98100,53,20,Private,4 Year,10790,42066,52856,42066,52856,3242,0.01,0.07,0.03,0.08,0.01,0.07,0.26,0.05,0.02,0.67,0.63,0.37
+10,West Liberty University,West Virginia,South,South Atlantic,42500,77000,51,6,Public,4 Year,9406,7730,17136,15670,25076,2694,0,0.01,0.05,0.01,0,0.01,0.07,0.02,0.03,0.88,0.6,0.4
+10,Ripon College,Wisconsin,Midwest,East North Central,46300,89600,60,26,Private,4 Year,8400,43808,52208,43808,52208,840,0,0.01,0.02,0.05,0,0.02,0.11,0.04,0.02,0.84,0.53,0.47
+11,Troy University,Alabama,South,East South Central,44500,81500,60,8,Public,4 Year,8185,12460,20645,22875,31060,19041,0.01,0.01,0.36,0.04,0,0.03,0.44,0.03,0.04,0.49,0.63,0.37
+11,University Southern California,California,West,Pacific,64500,120600,47,23,Private,4 Year,15395,56225,71620,56225,71620,42453,0,0.18,0.05,0.13,0,0.03,0.4,0.23,0.05,0.33,0.52,0.48
+11,Metropolitan State University Denver,Colorado,West,Mountain,49400,87200,51,11,Public,4 Year,,7665,7665,20847,20847,21674,0.01,0.04,0.06,0.21,0,0.04,0.35,0.01,0.04,0.61,0.54,0.46
+11,University New Haven,Connecticut,Northeast,New England,52100,94800,52,25,Private,4 Year,15900,39270,55170,39270,55170,6811,0,0.03,0.09,0.09,0,0.01,0.22,0.16,0.08,0.55,0.49,0.51
+11,Florida Atlantic University,Florida,South,South Atlantic,49400,91200,51,15,Public,4 Year,11896,6039,17935,21595,33491,30297,0,0.04,0.19,0.24,0,0.03,0.5,0.02,0.01,0.46,0.57,0.43
+11,Mercer University,Georgia,South,South Atlantic,48500,85100,62,14,Private,4 Year,11616,36894,48510,36894,48510,8552,0.01,0.07,0.3,0.04,0,0.02,0.43,0.04,0.05,0.48,0.62,0.38
+11,Wheaton College (Illinois),Illinois,Midwest,East North Central,53700,99700,55,12,Private,4 Year,10180,36420,46600,36420,46600,2914,0,0.08,0.03,0.05,0,0.04,0.2,0.04,0.04,0.73,0.53,0.47
+11,University Evansville,Indiana,Midwest,East North Central,50300,89900,54,17,Private,4 Year,12460,36416,48876,36416,48876,2567,0,0.02,0.03,0.03,0,0.02,0.09,0.13,0.03,0.75,0.56,0.44
+11,Simpson College,Iowa,Midwest,West North Central,49900,88600,47,17,Private,4 Year,8380,39144,47524,39144,47524,1725,0.01,0.01,0.02,0.02,0,0.02,0.08,0.01,0.06,0.86,0.56,0.44
+11,Southwestern College (Kansas),Kansas,Midwest,West North Central,48500,83500,61,10,Private,4 Year,7760,30150,37910,30150,37910,1627,0.02,0.02,0.09,0.07,0,0.04,0.23,0.07,0.1,0.61,0.45,0.55
+11,Eastern Kentucky University,Kentucky,South,East South Central,45600,80700,56,5,Public,4 Year,9018,9296,18314,19074,28092,16305,0,0.01,0.06,0.02,0,0.02,0.12,0.02,0.04,0.83,0.58,0.43
+11,McNeese State University,Louisiana,South,West South Central,50200,88200,57,13,Public,4 Year,8704,7859,16563,18934,27638,8237,0.01,0.02,0.17,0.03,0,0.02,0.24,0.04,0,0.72,0.62,0.38
+11,Xavier University Louisiana,Louisiana,South,West South Central,46700,88200,63,35,Private,4 Year,9047,24488,33535,24488,33535,2976,0,0.13,0.7,0.03,0,0.03,0.88,0.03,0.01,0.07,0.73,0.28
+11,University Maine Fort Kent,Maine,Northeast,New England,43500,76300,73,5,Public,4 Year,8220,8115,16335,12315,20535,1327,0.01,0.01,0.03,0.01,0,0.02,0.07,0.08,0.21,0.63,0.69,0.31
+11,St Mary's College Maryland,Maryland,South,South Atlantic,53300,95400,45,27,Public,4 Year,13202,14806,28008,30568,43770,1721,0,0.03,0.08,0.07,0,0.04,0.23,0.02,0.03,0.73,0.57,0.43
+11,Boston College,Massachusetts,Northeast,New England,63600,115400,43,13,Private,4 Year,14478,55464,69942,55464,69942,14317,0,0.08,0.04,0.09,0,0.03,0.23,0.1,0.09,0.58,0.55,0.46
+11,Western Michigan University,Michigan,Midwest,East North Central,50900,92200,47,16,Public,4 Year,10143,12483,22626,15373,25516,23914,0,0.02,0.11,0.05,0,0.03,0.21,0.08,0.01,0.7,0.51,0.49
+11,Saint Cloud State University,Minnesota,Midwest,West North Central,51600,91600,50,15,Public,4 Year,8900,8912,17812,17146,26046,16076,0,0.05,0.05,0.03,0,0.03,0.15,0.06,0.05,0.73,0.53,0.47
+11,Missouri State University Springfield,Missouri,Midwest,West North Central,45900,86800,50,9,Public,4 Year,8755,7452,16207,15342,24097,21816,0.01,0.01,0.04,0.03,0,0.03,0.12,0.06,0.02,0.8,0.58,0.42
+11,University Nebraska Kearney,Nebraska,Midwest,West North Central,44300,80800,52,8,Public,4 Year,9878,7513,17391,14503,24381,6902,0,0.01,0.02,0.09,0,0.01,0.13,0.06,0.01,0.8,0.59,0.41
+11,Southern New Hampshire University,New Hampshire,Northeast,New England,47400,83400,49,8,Private,4 Year,13120,31136,44256,31136,44256,43274,0,0.01,0.06,0.02,0,0,0.09,0.03,0.63,0.25,0.61,0.39
+11,Felician University,New Jersey,Northeast,Middle Atlantic,53200,98200,51,10,Private,4 Year,12880,34315,47195,34315,47195,1953,0.01,0.07,0.2,0.25,0.01,0.01,0.53,0.03,0.08,0.37,0.74,0.26
+11,Cooper Union for Advancement Science and Art,New York,Northeast,Middle Atlantic,68500,126200,46,56,Private,4 Year,16638,46700,63338,46700,63338,966,0.01,0.2,0.05,0.1,0,0.02,0.38,0.15,0.15,0.33,0.34,0.66
+11,East Carolina University,North Carolina,South,South Atlantic,48400,85400,55,11,Public,4 Year,9606,7188,16794,23465,33071,27511,0.01,0.03,0.16,0.05,0,0.03,0.28,0.01,0.02,0.69,0.6,0.4
+11,John Carroll University,Ohio,Midwest,East North Central,51600,97300,39,16,Private,4 Year,11874,41340,53214,41340,53214,3688,0,0.02,0.05,0.03,0,0.02,0.12,0.02,0.02,0.84,0.51,0.49
+11,University Cincinnati,Ohio,Midwest,East North Central,53600,97300,50,19,Public,4 Year,11118,11000,22118,26334,37452,35313,0,0.03,0.07,0.03,0,0.02,0.16,0.09,0.05,0.71,0.54,0.47
+11,Langston University,Oklahoma,South,West South Central,46500,81500,66,8,Public,4 Year,9476,5950,15426,13300,22776,2482,0.02,0,0.79,0.01,0,0,0.82,0,0.04,0.14,0.63,0.37
+11,Cameron University,Oklahoma,South,West South Central,43900,81500,54,14,Public,4 Year,5452,6450,11902,15870,21322,5537,0.05,0.02,0.16,0.12,0.01,0.08,0.43,0.05,0.02,0.51,0.61,0.4
+11,Linfield College McMinnville,Oregon,West,Pacific,52100,92000,48,17,Private,4 Year,12420,43232,55652,43232,55652,1683,0.01,0.06,0.02,0.1,0.01,0.11,0.3,0.06,0.03,0.62,0.62,0.38
+11,Franklin and Marshall College,Pennsylvania,Northeast,Middle Atlantic,57200,109700,42,23,Private,4 Year,14050,56750,70800,56750,70800,2209,0,0.05,0.06,0.08,0,0.02,0.2,0.14,0.07,0.59,0.51,0.49
+11,Johnson & Wales University Providence,Rhode Island,Northeast,New England,46500,78900,41,5,Private,4 Year,14337,32091,46428,32091,46428,9955,0,0.01,0.1,0.1,0,0.06,0.27,0.14,0.07,0.53,0.59,0.41
+11,Winthrop University,South Carolina,South,South Atlantic,44300,79700,49,9,Public,4 Year,9312,15590,24902,29846,39158,6024,0,0.01,0.27,0.04,0,0.02,0.35,0.03,0,0.61,0.69,0.31
+11,Fisk University,Tennessee,South,East South Central,45300,83600,53,39,Private,4 Year,10790,21480,32270,21480,32270,772,0,0.01,0.85,0.02,0,0.02,0.89,0,0.1,0.01,0.63,0.37
+11,Trinity University,Texas,South,West South Central,54900,102900,46,27,Private,4 Year,13464,42976,56440,42976,56440,2432,0,0.06,0.04,0.19,0,0.04,0.33,0.07,0.04,0.56,0.53,0.47
+11,Castleton University,Vermont,Northeast,New England,41700,76200,52,6,Public,4 Year,10598,12314,22912,28322,38920,2183,0.01,0.01,0.02,0.02,0,0.01,0.07,0.02,0.1,0.82,0.54,0.46
+11,Jefferson College Health Sciences,Virginia,South,South Atlantic,55500,97600,86,1,Private,4 Year,5870,26886,32756,26886,32756,1131,0,0.03,0.07,0.04,0,0.01,0.15,0,0.02,0.83,0.8,0.2
+11,Walla Walla University,Washington,West,Pacific,53700,97800,54,22,Private,4 Year,4275,28035,32310,28035,32310,1887,0.01,0.07,0.03,0.12,0,0,0.24,0.01,0.05,0.71,0.54,0.46
+11,Davis & Elkins College,West Virginia,South,South Atlantic,41100,76500,43,10,Private,4 Year,9450,29390,38840,29390,38840,846,0.01,0,0.05,0,0,0,0.05,0.15,0.17,0.64,0.53,0.47
+11,University Wisconsin Stout,Wisconsin,Midwest,East North Central,50400,89500,47,14,Public,4 Year,6924,9457,16381,17423,24347,9394,0,0.03,0.02,0.02,0,0.02,0.09,0.04,0.01,0.86,0.49,0.51
+12,Jacksonville State University,Alabama,South,East South Central,43800,80000,61,7,Public,4 Year,8100,10425,18525,20145,28245,8659,0.01,0.01,0.23,0.01,0,0,0.26,0.02,0.03,0.69,0.58,0.43
+12,University Arkansas Monticello,Arkansas,South,West South Central,43500,78300,61,2,Public,4 Year,6824,7696,14520,13546,20370,3854,0,0.01,0.27,0.03,0,0.02,0.34,0,0.01,0.65,0.6,0.4
+12,California Polytechnic State University San Luis Obispo,California,West,Pacific,65600,119500,51,38,Public,4 Year,13796,9816,23612,21696,35492,20186,0,0.12,0.01,0.15,0,0.07,0.35,0.02,0.05,0.59,0.46,0.54
+12,University Northern Colorado,Colorado,West,Mountain,47700,87100,52,7,Public,4 Year,11204,9786,20990,21474,32678,12050,0,0.02,0.04,0.15,0,0.03,0.24,0.03,0.14,0.6,0.66,0.34
+12,Central Connecticut State University,Connecticut,Northeast,New England,53100,93700,45,15,Public,4 Year,12176,10616,22792,21856,34032,12037,0,0.04,0.1,0.11,0,0.02,0.28,0.02,0.03,0.68,0.5,0.5
+12,Jacksonville University,Florida,South,South Atlantic,50100,90400,66,5,Private,4 Year,14080,36670,50750,36670,50750,4085,0,0.02,0.15,0.07,0,0.03,0.27,0.03,0.2,0.5,0.66,0.34
+12,Berry College,Georgia,South,South Atlantic,44900,84900,44,21,Private,4 Year,12770,36556,49326,36556,49326,2177,0,0.01,0.04,0.06,0,0.03,0.15,0.01,0.02,0.83,0.61,0.39
+12,Illinois Wesleyan University,Illinois,Midwest,East North Central,53100,96000,44,18,Private,4 Year,10984,47636,58620,47636,58620,1893,0,0.04,0.05,0.07,0,0.02,0.18,0.08,0.03,0.71,0.56,0.44
+12,Loyola University Chicago,Illinois,Midwest,East North Central,53400,96000,45,15,Private,4 Year,14480,44048,58528,44048,58528,15902,0,0.09,0.06,0.11,0,0.05,0.31,0.05,0.03,0.61,0.64,0.36
+12,Saint Mary's College,Indiana,Midwest,East North Central,49700,89300,54,15,Private,4 Year,12580,42220,54800,42220,54800,1166,0.01,0.01,0.08,0.04,0,0.02,0.16,0.01,0.02,0.81,0.6,0.4
+12,Wartburg College,Iowa,Midwest,West North Central,49300,88000,49,34,Private,4 Year,9996,41280,51276,41280,51276,1661,0,0.01,0.05,0.03,0,0.02,0.11,0.1,0.02,0.78,0.52,0.48
+12,Washburn University,Kansas,Midwest,West North Central,47000,83000,54,4,Public,4 Year,8237,8870,17107,19940,28177,6722,0.01,0.01,0.05,0.07,0,0.03,0.17,0.04,0.17,0.63,0.59,0.41
+12,Murray State University,Kentucky,South,East South Central,44800,79900,56,9,Public,4 Year,9190,9084,18274,24540,33730,11207,0,0.01,0.07,0.02,0,0.02,0.11,0.07,0.02,0.8,0.59,0.41
+12,University Maine Augusta,Maine,Northeast,New England,41600,73100,61,7,Public,4 Year,,7988,7988,17918,17918,4664,0.02,0.01,0.01,0.02,0,0.02,0.07,0.01,0.12,0.8,0.72,0.28
+12,McDaniel College,Maryland,South,South Atlantic,51100,94600,54,6,Private,4 Year,11430,43260,54690,43260,54690,3206,0.01,0.03,0.11,0.04,0,0,0.18,0.01,0.05,0.76,0.64,0.36
+12,College Holy Cross,Massachusetts,Northeast,New England,61800,114600,46,24,Private,4 Year,14520,52770,67290,52770,67290,2787,0,0.05,0.04,0.11,0,0.04,0.23,0.01,0.07,0.69,0.49,0.51
+12,Wayne State University,Michigan,Midwest,East North Central,50800,91700,53,21,Public,4 Year,10427,13347,23774,28241,38668,27578,0,0.08,0.18,0.04,0,0.03,0.32,0.08,0.06,0.54,0.56,0.44
+12,Augsburg University,Minnesota,Midwest,West North Central,50500,91000,52,11,Private,4 Year,10280,38800,49080,38800,49080,3548,0.01,0.06,0.1,0.05,0,0.02,0.25,0.02,0.14,0.6,0.58,0.42
+12,Tougaloo College,Mississippi,South,East South Central,36900,66400,69,18,Private,4 Year,6643,10790,17433,10790,17433,900,0,0,0.99,0,0,0,0.99,0,0,0,0.65,0.35
+12,Truman State University,Missouri,Midwest,West North Central,47900,85800,48,16,Public,4 Year,8780,7729,16509,14581,23361,6248,0,0.02,0.04,0.03,0,0.03,0.11,0.06,0.02,0.81,0.6,0.4
+12,Nebraska Wesleyan University,Nebraska,Midwest,West North Central,45700,80500,60,8,Private,4 Year,9622,34202,43824,34202,43824,2083,0,0.02,0.03,0.04,0,0.01,0.11,0.02,0.05,0.82,0.64,0.36
+12,Plymouth State University,New Hampshire,Northeast,New England,47000,82200,50,6,Public,4 Year,11100,14099,25199,22769,33869,4855,0,0.02,0.02,0.03,0,0.01,0.08,0.03,0.11,0.78,0.52,0.48
+12,Saint Peter's University,New Jersey,Northeast,Middle Atlantic,52900,95900,35,14,Private,4 Year,15414,37486,52900,37486,52900,3302,0.01,0.07,0.25,0.29,0,0.02,0.64,0.02,0.11,0.23,0.61,0.39
+12,Manhattan College,New York,Northeast,Middle Atlantic,64000,125700,46,40,Private,4 Year,16200,43480,59680,43480,59680,3970,0,0.04,0.04,0.18,0,0.02,0.27,0.03,0.16,0.53,0.45,0.55
+12,High Point University,North Carolina,South,South Atlantic,48600,84300,50,8,Private,4 Year,14130,35118,49248,35118,49248,4399,0.01,0.01,0.06,0.04,0,0.04,0.15,0.02,0.03,0.8,0.6,0.4
+12,Portland State University,Oregon,West,Pacific,50800,90500,48,16,Public,4 Year,10428,9105,19533,27060,37488,27696,0.01,0.07,0.03,0.1,0.01,0.05,0.27,0.08,0.05,0.6,0.54,0.47
+12,Gettysburg College,Pennsylvania,Northeast,Middle Atlantic,58400,109300,39,24,Private,4 Year,13010,54480,67490,54480,67490,2447,0,0.02,0.04,0.05,0,0.03,0.13,0.04,0.03,0.8,0.53,0.48
+12,Erskine College,South Carolina,South,South Atlantic,43500,78000,57,28,Private,4 Year,10900,34560,45460,34560,45460,753,0,0.01,0.17,0.03,0,0,0.21,0,0.19,0.61,0.44,0.56
+12,Union University,Tennessee,South,East South Central,46400,83000,59,6,Private,4 Year,10200,32890,43090,32890,43090,3846,0,0.02,0.2,0.02,0,0.01,0.25,0.01,0.09,0.65,0.63,0.37
+12,Baylor University,Texas,South,West South Central,55500,101400,49,16,Private,4 Year,12595,45727,58322,45727,58322,16263,0,0.06,0.07,0.13,0,0.04,0.31,0.04,0.01,0.64,0.56,0.44
+12,Green Mountain College,Vermont,Northeast,New England,42000,75200,57,2,Private,4 Year,11722,37002,48724,37002,48724,833,0.01,0.01,0.04,0.03,0,0.01,0.1,0.02,0.26,0.61,0.57,0.43
+12,Marymount University,Virginia,South,South Atlantic,52300,93100,44,15,Private,4 Year,13190,31466,44656,31466,44656,3441,0.01,0.08,0.15,0.13,0.01,0.03,0.4,0.09,0.04,0.47,0.68,0.32
+12,University Washington Tacoma,Washington,West,Pacific,56000,96800,50,23,Public,4 Year,11028,11361,22389,36742,47770,4477,0.01,0.16,0.07,0.1,0.01,0.07,0.43,0.05,0.05,0.47,0.54,0.46
+12,West Virginia State University,West Virginia,South,South Atlantic,41800,76000,46,8,Public,4 Year,11892,8167,20059,16072,27964,2884,0.01,0,0.1,0.01,0,0,0.11,0.01,0.4,0.48,0.55,0.45
+12,University Wisconsin Whitewater,Wisconsin,Midwest,East North Central,48900,89300,44,8,Public,4 Year,6786,7692,14478,16265,23051,12176,0,0.02,0.05,0.05,0,0.03,0.15,0.02,0,0.84,0.51,0.5
+13,Auburn University Montgomery,Alabama,South,East South Central,45000,79600,61,12,Public,4 Year,6980,10288,17268,22048,29028,5057,0.01,0.02,0.32,0.01,0,0.03,0.38,0.05,0.06,0.51,0.64,0.36
+13,Arkansas Tech University,Arkansas,South,West South Central,45000,76900,54,7,Public,4 Year,7870,9068,16938,15848,23718,12002,0.01,0.01,0.08,0.06,0,0.03,0.19,0.04,0,0.78,0.56,0.44
+13,Pomona College,California,West,Pacific,63800,117200,47,37,Private,4 Year,16716,52780,69496,52780,69496,1650,0,0.13,0.07,0.14,0,0.07,0.41,0.09,0.07,0.43,0.51,0.49
+13,Fort Lewis College,Colorado,West,Mountain,48300,82600,55,19,Public,4 Year,9878,9040,18918,19696,29574,3791,0.23,0.01,0.01,0.1,0,0.06,0.41,0.01,0.03,0.55,0.49,0.51
+13,University Bridgeport,Connecticut,Northeast,New England,49900,93600,59,31,Private,4 Year,13860,32850,46710,32850,46710,5191,0.01,0.03,0.25,0.11,0,0.02,0.43,0.24,0,0.33,0.61,0.39
+13,Florida International University,Florida,South,South Atlantic,49600,90100,51,16,Public,4 Year,10882,6558,17440,18956,29838,49610,0,0.03,0.12,0.63,0,0.02,0.8,0.07,0.01,0.12,0.56,0.44
+13,Augusta University,Georgia,South,South Atlantic,47000,84400,69,10,Public,4 Year,9640,10758,20398,29796,39436,7988,0,0.06,0.21,0.05,0,0.04,0.37,0.02,0.03,0.58,0.62,0.38
+13,Earlham College,Indiana,Midwest,East North Central,49100,88400,57,31,Private,4 Year,10400,46450,56850,46450,56850,1076,0.01,0.05,0.12,0.06,0,0,0.24,0.18,0.05,0.53,0.55,0.45
+13,Coe College,Iowa,Midwest,West North Central,47200,86900,41,24,Private,4 Year,9480,45000,54480,45000,54480,1436,0,0.02,0.05,0.08,0,0.03,0.18,0.05,0.04,0.73,0.56,0.44
+13,Ottawa University Kansas City,Kansas,Midwest,West North Central,45200,82600,,9,Private,4 Year,11900,27630,39530,27630,39530,346,0.02,0.04,0.08,0.04,0,0.02,0.19,0.01,0.04,0.77,0.68,0.32
+13,Spalding University,Kentucky,South,East South Central,44800,79200,71,0,Private,4 Year,7600,24500,32100,24500,32100,2311,0,0.01,0.18,0.03,0,0.03,0.25,0,0.12,0.63,0.74,0.27
+13,University Holy Cross,Louisiana,South,West South Central,48400,86300,69,3,Private,4 Year,,17300,17300,17300,17300,1095,0.01,0.04,0.23,0.07,0,0.02,0.36,0,0.14,0.49,0.82,0.18
+13,University Maine Farmington,Maine,Northeast,New England,41100,71700,64,5,Public,4 Year,9726,9666,19392,19778,29504,1960,0.01,0.01,0.02,0.01,0,0.02,0.07,0.01,0.09,0.84,0.67,0.33
+13,Mount St. Mary's University,Maryland,South,South Atlantic,50200,94100,50,11,Private,4 Year,13075,41350,54425,41350,54425,2305,0.01,0.03,0.1,0.08,0,0.03,0.25,0.02,0.02,0.72,0.52,0.48
+13,Boston University,Massachusetts,Northeast,New England,61400,113600,43,25,Private,4 Year,15720,53948,69668,53948,69668,32112,0,0.11,0.04,0.08,0,0.03,0.25,0.2,0.1,0.46,0.58,0.42
+13,Calvin College,Michigan,Midwest,East North Central,50200,91100,54,23,Private,4 Year,10200,34600,44800,34600,44800,3993,0,0.04,0.02,0.03,0,0.03,0.13,0.11,0.02,0.75,0.55,0.45
+13,Minnesota State University Mankato,Minnesota,Midwest,West North Central,51600,90900,54,13,Public,4 Year,8719,8184,16903,16235,24954,15387,0,0.03,0.05,0.03,0,0.02,0.14,0.07,0.04,0.76,0.53,0.47
+13,Rust College,Mississippi,South,East South Central,34800,62400,76,32,Private,4 Year,4300,9900,14200,9900,14200,963,0,0,0.96,0,0,0,0.96,0.03,0,0,0.59,0.42
+13,Northwest Missouri State University,Missouri,Midwest,West North Central,46900,85100,50,26,Public,4 Year,10016,9805,19821,16457,26473,6720,0,0.01,0.06,0.03,0,0.03,0.12,0.11,0.04,0.74,0.54,0.47
+13,Midland University,Nebraska,Midwest,West North Central,43800,78100,60,7,Private,4 Year,8776,32558,41334,32558,41334,1362,0,0.01,0.05,0.03,0,0.07,0.16,0.05,0.15,0.65,0.5,0.5
+13,Granite State College,New Hampshire,Northeast,New England,43500,76900,67,3,Public,4 Year,,9645,9645,10875,10875,2209,0.01,0.01,0.01,0.02,0,0.02,0.07,0,0.09,0.85,0.74,0.26
+13,Thomas Edison State University,New Jersey,Northeast,Middle Atlantic,52500,95600,54,0,Public,4 Year,,7519,7519,9967,9967,21495,0.01,0.04,0.15,0.08,0.01,0.02,0.3,0.01,0.13,0.56,0.49,0.52
+13,New York University,New York,Northeast,Middle Atlantic,63100,117700,42,18,Private,4 Year,18156,51828,69984,51828,69984,49274,0,0.15,0.05,0.09,0,0.03,0.31,0.23,0.1,0.35,0.55,0.45
+13,Johnson C Smith University,North Carolina,South,South Atlantic,45700,83300,57,16,Private,4 Year,7100,18236,25336,18236,25336,1402,0,0,0.74,0.06,0,0.02,0.82,0.03,0.14,0,0.61,0.39
+13,Oberlin College,Ohio,Midwest,East North Central,53100,96800,47,21,Private,4 Year,16338,55054,71392,55054,71392,2978,0,0.04,0.05,0.07,0,0.06,0.22,0.07,0.01,0.7,0.55,0.45
+13,Southern Nazarene University,Oklahoma,South,West South Central,46100,81000,62,5,Private,4 Year,8496,25188,33684,25188,33684,2254,0.04,0.02,0.14,0.06,0,0.03,0.3,0.03,0.03,0.64,0.52,0.48
+13,George Fox University,Oregon,West,Pacific,51200,89600,52,8,Private,4 Year,11250,36020,47270,36020,47270,3786,0.01,0.04,0.02,0.07,0.01,0.05,0.18,0.04,0.07,0.71,0.56,0.44
+13,Pennsylvania State University,Pennsylvania,Northeast,Middle Atlantic,58500,105500,47,37,Public,4 Year,11570,18454,30024,34858,46428,47040,0,0.06,0.04,0.05,0,0.02,0.17,0.14,0.02,0.67,0.46,0.54
+13,Francis Marion University,South Carolina,South,South Atlantic,42900,77600,58,18,Public,4 Year,7948,11160,19108,21544,29492,3944,0,0.01,0.45,0.01,0,0.01,0.49,0.02,0.01,0.48,0.7,0.3
+13,Coastal Carolina University,South Carolina,South,South Atlantic,44700,77600,48,14,Public,4 Year,9190,11536,20726,26648,35838,9976,0,0.01,0.19,0.04,0,0.04,0.28,0.01,0.01,0.7,0.55,0.45
+13,University Tennessee Chattanooga,Tennessee,South,East South Central,46000,82300,56,17,Public,4 Year,9050,8664,17714,24782,33832,11670,0,0.02,0.11,0.03,0,0.07,0.23,0.02,0.01,0.74,0.55,0.45
+13,Lamar University,Texas,South,West South Central,53300,101200,57,16,Public,4 Year,8920,10192,19112,22642,31562,14895,0,0.03,0.24,0.14,0,0.02,0.43,0.07,0.02,0.48,0.61,0.39
+13,Lyndon State College,Vermont,Northeast,New England,41500,75100,49,8,Public,4 Year,10598,12074,22672,25394,35992,1430,0.01,0.01,0.03,0.03,0,0.02,0.11,0.01,0.05,0.84,0.43,0.57
+13,Hampton University,Virginia,South,South Atlantic,52700,92600,61,12,Private,4 Year,11778,26702,38480,26702,38480,4393,0,0.02,0.89,0.01,0,0,0.92,0.01,0,0.06,0.65,0.35
+13,Concord University,West Virginia,South,South Atlantic,41700,75800,53,9,Public,4 Year,8988,7896,16884,17320,26308,2545,0,0.01,0.07,0.01,0,0,0.1,0.05,0,0.85,0.58,0.42
+13,Saint Norbert College,Wisconsin,Midwest,East North Central,49300,88700,40,15,Private,4 Year,9954,38129,48083,38129,48083,2169,0.01,0.02,0.01,0.03,0,0.02,0.08,0.03,0,0.89,0.57,0.43
+14,Huntingdon College,Alabama,South,East South Central,42400,78900,69,14,Private,4 Year,9750,27400,37150,27400,37150,1160,0.01,0.01,0.2,0.03,0,0.03,0.27,0.01,0.09,0.64,0.49,0.51
+14,University Ozarks,Arkansas,South,West South Central,42300,74500,58,16,Private,4 Year,7400,24230,31630,24230,31630,587,0.01,0,0.06,0.15,0,0.04,0.25,0.06,0.02,0.68,0.52,0.48
+14,University California Santa Barbara,California,West,Pacific,59700,116300,47,29,Public,4 Year,15273,14424,29697,43416,58689,23051,0,0.18,0.02,0.23,0,0.08,0.51,0.08,0.03,0.38,0.52,0.49
+14,Western State Colorado University,Colorado,West,Mountain,44800,81500,47,19,Public,4 Year,9635,10114,19749,21586,31221,2584,0.01,0.01,0.02,0.09,0.01,0.03,0.16,0.01,0.15,0.68,0.43,0.57
+14,Colorado Mesa University,Colorado,West,Mountain,47800,81500,55,7,Public,4 Year,10925,9243,20168,22440,33365,9116,0.01,0.01,0.02,0.15,0.01,0.03,0.24,0.01,0.03,0.72,0.54,0.46
+14,University Saint Joseph,Connecticut,Northeast,New England,49900,88800,63,9,Private,4 Year,11428,39173,50601,39173,50601,2565,0,0.05,0.1,0.09,0,0.01,0.25,0.01,0.19,0.55,0.89,0.11
+14,Adventist University Health Sciences,Florida,South,South Atlantic,51600,89800,88,5,Private,4 Year,4200,15150,19350,15150,19350,,,,,,,,,,,,,
+14,Nova Southeastern University,Florida,South,South Atlantic,50200,89800,60,9,Private,4 Year,13250,30900,44150,30900,44150,24148,0,0.06,0.22,0.26,0,0.02,0.56,0.04,0.07,0.33,0.7,0.3
+14,Agnes Scott College,Georgia,South,South Atlantic,46000,83600,57,26,Private,4 Year,12330,41160,53490,41160,53490,873,0,0.05,0.33,0.09,0,0.06,0.53,0.12,0.03,0.33,0.99,0.01
+14,Northern Illinois University,Illinois,Midwest,East North Central,53000,95500,47,20,Public,4 Year,10880,12262,23142,12262,23142,20611,0,0.05,0.14,0.12,0,0.03,0.34,0.05,0.01,0.6,0.51,0.49
+14,Indiana University Purdue University Indianapolis,Indiana,Midwest,East North Central,50500,88200,55,15,Public,4 Year,8924,9465,18389,29821,38745,30690,0,0.04,0.1,0.05,0,0.03,0.22,0.06,0.01,0.71,0.56,0.44
+14,Luther College,Iowa,Midwest,West North Central,48200,85900,49,21,Private,4 Year,9460,42290,51750,42290,51750,2385,0,0.02,0.01,0.03,0,0.02,0.09,0.06,0.01,0.84,0.56,0.44
+14,McPherson College,Kansas,Midwest,West North Central,44500,80900,59,9,Private,4 Year,8788,28951,37739,28951,37739,659,0,0.01,0.12,0.11,0.01,0.03,0.28,0.02,0.01,0.69,0.4,0.6
+14,Kentucky Wesleyan College,Kentucky,South,East South Central,42100,76800,65,14,Private,4 Year,9764,26440,36204,26440,36204,709,0,0,0.14,0.02,0,0,0.17,0.01,0.15,0.68,0.46,0.54
+14,Nicholls State University,Louisiana,South,West South Central,44500,84300,53,5,Public,4 Year,9938,7982,17920,9075,19013,6292,0.02,0.01,0.2,0.03,0,0.03,0.29,0.02,0.02,0.67,0.63,0.37
+14,University Maine Presque Isle,Maine,Northeast,New England,39000,70700,58,6,Public,4 Year,8406,8035,16441,12235,20641,1138,0.03,0,0.01,0.01,0,0.03,0.08,0.06,0.12,0.75,0.64,0.36
+14,Washington College,Maryland,South,South Atlantic,52800,93500,55,21,Private,4 Year,12414,46978,59392,46978,59392,,,,,,,,,,,,,
+14,Brandeis University,Massachusetts,Northeast,New England,60600,113200,48,29,Private,4 Year,15440,55395,70835,55395,70835,5945,0,0.1,0.05,0.05,0,0.02,0.22,0.23,0.1,0.45,0.54,0.46
+14,Hope College,Michigan,Midwest,East North Central,49200,90900,51,18,Private,4 Year,10310,34010,44320,34010,44320,3455,0,0.02,0.03,0.08,0,0.02,0.14,0.03,0.01,0.83,0.6,0.4
+14,Hamline University,Minnesota,Midwest,West North Central,48100,90400,52,5,Private,4 Year,10358,41298,51656,41298,51656,4469,0.01,0.04,0.04,0.04,0,0.03,0.16,0.02,0.32,0.51,0.62,0.38
+14,Mississippi Valley State University,Mississippi,South,East South Central,32500,61900,70,11,Public,4 Year,8043,6570,14613,6570,14613,2222,0,0.01,0.92,0.01,0,0,0.93,0,0.04,0.03,0.59,0.41
+14,Park University,Missouri,Midwest,West North Central,48500,85000,56,7,Private,4 Year,8200,12650,20850,12650,20850,10792,0.01,0.03,0.19,0.12,0,0.03,0.38,0.01,0,0.61,0.48,0.52
+14,College Saint Mary,Nebraska,Midwest,West North Central,43900,77700,45,9,Private,4 Year,7700,20350,28050,20350,28050,1018,0.01,0.02,0.06,0.1,0,0.03,0.21,0.01,0,0.78,0.98,0.02
+14,Montclair State University,New Jersey,Northeast,Middle Atlantic,50800,95400,42,9,Public,4 Year,15564,12790,28354,20578,36142,20022,0,0.05,0.1,0.22,0,0.03,0.4,0.03,0.09,0.48,0.63,0.37
+14,Union College (New York),New York,Northeast,Middle Atlantic,63300,117500,50,47,Private,4 Year,13563,55290,68853,55290,68853,2242,0,0.06,0.04,0.07,0,0.02,0.19,0.08,0,0.73,0.46,0.54
+14,Belmont Abbey College,North Carolina,South,South Atlantic,46700,82900,49,7,Private,4 Year,10355,18500,28855,18500,28855,1560,0,0.01,0.25,0.02,0,0,0.28,0.01,0.3,0.4,0.57,0.43
+14,Kettering College,Ohio,Midwest,East North Central,54300,95800,,0,Private,4 Year,4100,16200,20300,16200,20300,760,0,0.05,0.05,0.03,0,0.02,0.15,0,0.01,0.84,0.8,0.2
+14,Southeastern Oklahoma State University,Oklahoma,South,West South Central,45000,80500,53,15,Public,4 Year,6970,6750,13720,15390,22360,3878,0.18,0.01,0.05,0.04,0,0.14,0.42,0.03,0,0.56,0.54,0.46
+14,Concordia University Portland,Oregon,West,Pacific,48000,86100,69,1,Private,4 Year,9520,30908,40428,30908,40428,7435,0.01,0.02,0.17,0.07,0.01,0.02,0.3,0.01,0.21,0.49,0.77,0.23
+14,Saint Joseph's University,Pennsylvania,Northeast,Middle Atlantic,57300,105100,41,6,Private,4 Year,14840,44973,59813,44973,59813,8974,0,0.03,0.1,0.05,0,0.02,0.19,0.04,0.05,0.72,0.57,0.43
+14,Trevecca Nazarene University,Tennessee,South,East South Central,45300,81700,65,5,Private,4 Year,8400,25598,33998,25598,33998,2606,0,0.01,0.14,0.03,0,0.03,0.21,0.01,0.13,0.65,0.6,0.4
+14,University Texas Dallas,Texas,South,West South Central,57100,100900,42,44,Public,4 Year,11532,13034,24566,36876,48408,23095,0,0.2,0.05,0.13,0,0.03,0.41,0.24,0.02,0.33,0.43,0.57
+14,Old Dominion University,Virginia,South,South Atlantic,50200,89900,52,19,Public,4 Year,11620,10872,22492,29772,41392,24932,0,0.04,0.24,0.06,0,0.05,0.4,0.03,0.04,0.52,0.55,0.45
+14,Central Washington University,Washington,West,Pacific,52700,93200,47,13,Public,4 Year,11115,8072,19187,23053,34168,11799,0.01,0.05,0.03,0.12,0.01,0.06,0.28,0.01,0.1,0.62,0.52,0.48
+14,Fairmont State University,West Virginia,South,South Atlantic,42900,74100,53,7,Public,4 Year,9004,7514,16518,16324,25328,4035,0,0,0.05,0.02,0,0.02,0.11,0.03,0.01,0.86,0.56,0.44
+14,University Wisconsin La Crosse,Wisconsin,Midwest,East North Central,49600,88300,53,19,Public,4 Year,6331,9106,15437,17924,24255,10669,0,0.02,0.01,0.03,0,0.02,0.08,0.03,0,0.89,0.57,0.43
+15,Athens State University,Alabama,South,East South Central,45000,78800,51,9,Public,4 Year,,6810,6810,12870,12870,3128,0.02,0.01,0.13,0.02,0,0.02,0.19,0.01,0.03,0.78,0.65,0.35
+15,Oakwood University,Alabama,South,East South Central,43500,78800,71,16,Private,4 Year,9312,16720,26032,16720,26032,1939,0.01,0.01,0.84,0.02,0,0,0.88,0.08,0.03,0.01,0.57,0.43
+15,Lyon College,Arkansas,South,West South Central,41200,74300,53,33,Private,4 Year,9130,28790,37920,28790,37920,712,0.01,0.02,0.07,0.06,0,0,0.16,0.03,0.07,0.74,0.48,0.53
+15,University California Los Angeles,California,West,Pacific,62000,116100,48,31,Public,4 Year,15816,13774,29590,42766,58582,41845,0,0.27,0.03,0.17,0,0.04,0.52,0.15,0.03,0.31,0.53,0.47
+15,Western Connecticut State University,Connecticut,Northeast,New England,51700,88100,50,6,Public,4 Year,13072,10819,23891,22059,35131,5952,0,0.03,0.11,0.15,0,0.01,0.31,0,0.03,0.66,0.54,0.46
+15,University West Georgia,Georgia,South,South Atlantic,46700,82700,51,9,Public,4 Year,10918,7292,18210,20774,31692,12206,0,0.01,0.35,0.04,0,0.03,0.43,0.01,0.01,0.54,0.65,0.36
+15,Knox College,Illinois,Midwest,East North Central,50600,95400,45,24,Private,4 Year,9870,46554,56424,46554,56424,1399,0,0.06,0.08,0.13,0,0.04,0.3,0.13,0.04,0.53,0.58,0.42
+15,Holy Cross College,Indiana,Midwest,East North Central,48100,87800,,0,Private,4 Year,11500,30820,42320,30820,42320,520,0,0.02,0.09,0.11,0,0.04,0.26,0.06,0.01,0.68,0.35,0.65
+15,University Northern Iowa,Iowa,Midwest,West North Central,47100,85300,46,8,Public,4 Year,8948,8938,17886,19480,28428,11928,0,0.01,0.03,0.03,0,0.02,0.09,0.05,0.02,0.84,0.58,0.42
+15,Kansas Wesleyan University,Kansas,Midwest,West North Central,44700,79400,61,10,Private,4 Year,9500,29500,39000,29500,39000,710,0.01,0.01,0.06,0.13,0,0.02,0.23,0.04,0.01,0.73,0.54,0.46
+15,Union College (Kentucky),Kentucky,South,East South Central,40400,76000,37,4,Private,4 Year,7600,27140,34740,27140,34740,,,,,,,,,,,,,
+15,Southeastern Louisiana University,Louisiana,South,West South Central,46700,83900,51,8,Public,4 Year,8420,8165,16585,20643,29063,14487,0,0.01,0.15,0.06,0,0.05,0.27,0.02,0.06,0.65,0.62,0.38
+15,Unity College,Maine,Northeast,New England,38200,69500,,23,Private,4 Year,10710,29160,39870,29160,39870,,,,,,,,,,,,,
+15,Stevenson University,Maryland,South,South Atlantic,50400,91600,51,15,Private,4 Year,13130,36182,49312,36182,49312,4322,0,0.03,0.29,0.05,0,0.03,0.4,0.01,0.04,0.56,0.66,0.34
+15,Wentworth Institute Technology,Massachusetts,Northeast,New England,62700,112700,53,39,Private,4 Year,14190,33950,48140,33950,48140,4558,0,0.06,0.05,0.03,0,0.05,0.2,0.06,0.13,0.61,0.19,0.81
+15,Alma College,Michigan,Midwest,East North Central,48400,89900,52,15,Private,4 Year,10998,40258,51256,40258,51256,1396,0.01,0.02,0.03,0.04,0,0.03,0.12,0.01,0.04,0.83,0.55,0.45
+15,College Saint Benedict,Minnesota,Midwest,West North Central,49100,88600,50,18,Private,4 Year,10904,45264,56168,45264,56168,2020,0.01,0.06,0.02,0.05,0,0.01,0.14,0.05,0,0.81,1,0
+15,Webster University,Missouri,Midwest,West North Central,46500,83500,50,2,Private,4 Year,11050,27900,38950,27900,38950,16769,0,0.03,0.37,0.07,0,0.02,0.49,0.02,0.06,0.43,0.56,0.44
+15,Ramapo College New Jersey,New Jersey,Northeast,Middle Atlantic,51600,95200,41,12,Public,4 Year,12450,14374,26824,23715,36165,6003,0,0.06,0.05,0.13,0,0.01,0.26,0.02,0.08,0.65,0.56,0.44
+15,Yeshiva University,New York,Northeast,Middle Atlantic,63500,112800,40,11,Private,4 Year,12250,43500,55750,43500,55750,6348,0,0.05,0.02,0.03,0,0.01,0.11,0.1,0.15,0.65,0.52,0.48
+15,Appalachian State University,North Carolina,South,South Atlantic,46600,82700,47,9,Public,4 Year,8304,7214,15518,22021,30325,18026,0,0.02,0.03,0.04,0,0.02,0.11,0.01,0.02,0.86,0.55,0.45
+15,Marietta College,Ohio,Midwest,East North Central,51200,94300,57,45,Private,4 Year,11320,36040,47360,36040,47360,1500,0,0.01,0.05,0.03,0,0.02,0.11,0.11,0.06,0.73,0.43,0.57
+15,Oklahoma Wesleyan University,Oklahoma,South,West South Central,43300,78700,58,1,Private,4 Year,8644,26956,35600,26956,35600,1345,0.07,0,0.07,0.07,0,0.04,0.26,0.06,0.03,0.66,0.63,0.37
+15,Pacific Northwest College Art,Oregon,West,Pacific,46300,85000,,0,Private,4 Year,12860,38250,51110,38250,51110,519,0.01,0.02,0.01,0.05,0,0.12,0.22,0.03,0.04,0.72,0.69,0.31
+15,La Salle University,Pennsylvania,Northeast,Middle Atlantic,55800,104800,40,5,Private,4 Year,15080,30560,45640,30560,45640,6242,0,0.05,0.17,0.07,0,0.06,0.35,0.03,0.06,0.56,0.66,0.34
+15,Lander University,South Carolina,South,South Atlantic,42600,77100,54,9,Public,4 Year,9100,11700,20800,21300,30400,2787,0,0.02,0.31,0.01,0,0.02,0.36,0.01,0.05,0.58,0.69,0.31
+15,Middle Tennessee State University,Tennessee,South,East South Central,46500,81100,52,9,Public,4 Year,9436,9206,18642,28364,37800,22729,0,0.03,0.19,0.04,0,0.03,0.29,0.04,0.01,0.66,0.54,0.46
+15,Lynchburg College,Virginia,South,South Atlantic,47700,89100,54,11,Private,4 Year,10800,39530,50330,39530,50330,2736,0.01,0.01,0.11,0.04,0,0.03,0.2,0.02,0.08,0.7,0.62,0.38
+15,Saint Martin's University,Washington,West,Pacific,53200,91800,60,29,Private,4 Year,11445,37356,48801,37356,48801,1801,0.01,0.04,0.06,0.1,0.02,0.07,0.3,0.08,0.05,0.56,0.51,0.49
+15,Bluefield State College,West Virginia,South,South Atlantic,43200,72800,60,3,Public,4 Year,,8820,8820,16920,16920,1563,0,0,0.1,0.01,0,0.01,0.13,0.02,0.01,0.84,0.62,0.38
+15,Edgewood College,Wisconsin,Midwest,East North Central,49500,87500,54,5,Private,4 Year,11020,29500,40520,29500,40520,2980,0,0.02,0.03,0.05,0,0.02,0.13,0.04,0.08,0.75,0.72,0.28
+16,University Arkansas Fort Smith,Arkansas,South,West South Central,40700,71100,55,9,Public,4 Year,8416,7128,15544,15969,24385,6830,0.03,0.04,0.04,0.1,0,0.05,0.27,0.02,0,0.72,0.56,0.44
+16,University California Irvine,California,West,Pacific,59600,116000,49,34,Public,4 Year,15263,15614,30877,44606,59869,30051,0,0.36,0.02,0.22,0,0.04,0.64,0.14,0.02,0.2,0.52,0.48
+16,Adams State University,Colorado,West,Mountain,44400,81400,56,3,Public,4 Year,8782,9440,18222,20456,29238,3154,0.01,0.01,0.06,0.26,0,0.04,0.39,0,0.05,0.56,0.55,0.45
+16,St Vincent's College,Connecticut,Northeast,New England,46800,87900,,0,Private,2 Year,,18750,18750,18750,18750,751,0,0.03,0.12,0.12,0,0,0.27,0,0.11,0.63,0.87,0.13
+16,University Central Florida,Florida,South,South Atlantic,49700,88600,50,16,Public,4 Year,9617,6368,15985,22467,32084,60767,0,0.06,0.11,0.22,0,0.03,0.41,0.03,0.02,0.55,0.55,0.45
+16,Armstrong State University,Georgia,South,South Atlantic,46600,81500,60,10,Public,4 Year,11385,6384,17769,19866,31251,7094,0,0.03,0.25,0.06,0,0.04,0.38,0.02,0.01,0.6,0.68,0.32
+16,Illinois State University,Illinois,Midwest,East North Central,51200,95000,47,10,Public,4 Year,9850,14516,24366,26040,35890,20615,0,0.02,0.07,0.08,0,0.02,0.2,0.02,0.01,0.78,0.56,0.44
+16,Franklin College,Indiana,Midwest,East North Central,48900,86200,45,21,Private,4 Year,9946,32010,41956,32010,41956,231,0,0,0.66,0.03,0,0.03,0.71,0,0.01,0.28,0.78,0.22
+16,Maharishi University Management,Iowa,Midwest,West North Central,46800,85200,,65,Private,4 Year,7400,16530,23930,16530,23930,1454,0,0.02,0.07,0.03,0,0.02,0.13,0.68,0.01,0.18,0.33,0.67
+16,Fort Hays State University,Kansas,Midwest,West North Central,45100,79300,64,6,Public,4 Year,8300,5133,13433,15201,23501,13825,0,0.01,0.04,0.06,0,0.02,0.14,0.26,0.01,0.59,0.61,0.4
+16,Morehead State University,Kentucky,South,East South Central,41300,74900,56,9,Public,4 Year,9960,9170,19130,13646,23606,11052,0,0,0.04,0.02,0,0.01,0.07,0.01,0.01,0.9,0.61,0.39
+16,Southern University and A&M College,Louisiana,South,West South Central,48000,83100,65,17,Public,4 Year,9105,9123,18228,16472,25577,,,,,,,,,,,,,
+16,University Maine Machias,Maine,Northeast,New England,37100,66200,47,13,Public,4 Year,8486,7840,16326,15100,23586,810,0.03,0.01,0.03,0.03,0,0.01,0.11,0.01,0.18,0.71,0.68,0.33
+16,Towson University,Maryland,South,South Atlantic,51200,91200,47,15,Public,4 Year,13034,9940,22974,23208,36242,22285,0,0.05,0.16,0.05,0,0.04,0.3,0.02,0.05,0.63,0.62,0.38
+16,Northeastern University,Massachusetts,Northeast,New England,62500,109700,46,40,Private,4 Year,16880,51387,68267,51387,68267,19798,0,0.09,0.03,0.06,0,0.03,0.21,0.28,0.07,0.45,0.49,0.51
+16,College for Creative Studies,Michigan,Midwest,East North Central,51200,89800,40,0,Private,4 Year,8800,44110,52910,44110,52910,1459,0,0.04,0.09,0.04,0,0.04,0.21,0.09,0.14,0.56,0.49,0.51
+16,College Saint Scholastica,Minnesota,Midwest,West North Central,51200,86800,64,12,Private,4 Year,9710,37212,46922,37212,46922,4204,0.01,0.03,0.04,0.02,0,0.02,0.13,0.03,0.02,0.82,0.72,0.28
+16,Winona State University,Minnesota,Midwest,West North Central,49700,86800,51,10,Public,4 Year,9010,9425,18435,15348,24358,8684,0,0.02,0.02,0.02,0,0.02,0.09,0.03,0.02,0.86,0.63,0.38
+16,Concordia University Saint Paul,Minnesota,Midwest,West North Central,49200,86800,58,5,Private,4 Year,9000,22275,31275,22275,31275,4081,0.01,0.06,0.1,0.03,0,0.03,0.22,0.04,0.06,0.69,0.63,0.37
+16,University Central Missouri,Missouri,Midwest,West North Central,46900,83300,54,45,Public,4 Year,8766,7673,16439,14442,23208,13379,0,0.01,0.07,0.02,0,0.02,0.12,0.14,0.14,0.6,0.53,0.47
+16,Chadron State College,Nebraska,Midwest,West North Central,42300,76700,66,3,Public,4 Year,7380,7196,14576,7196,14576,3033,0.01,0.01,0.04,0.06,0,0.03,0.15,0.02,0.08,0.76,0.58,0.42
+16,Drew University,New Jersey,Northeast,Middle Atlantic,52800,95000,37,16,Private,4 Year,14108,39500,53608,39500,53608,2113,0,0.05,0.12,0.1,0,0.03,0.29,0.09,0.14,0.48,0.59,0.41
+16,University Rochester,New York,Northeast,Middle Atlantic,61100,112700,50,32,Private,4 Year,15938,53926,69864,53926,69864,11060,0,0.08,0.04,0.05,0,0.02,0.2,0.24,0.08,0.48,0.51,0.49
+16,Campbell University,North Carolina,South,South Atlantic,46300,82400,56,8,Private,4 Year,11430,32500,43930,32500,43930,6101,0.01,0.03,0.16,0.06,0,0.02,0.27,0.02,0.1,0.62,0.53,0.47
+16,University North Carolina School Arts,North Carolina,South,South Atlantic,46400,82400,44,0,Public,4 Year,9021,9358,18379,25501,34522,958,0.01,0.01,0.08,0.07,0,0.05,0.21,0.03,0.03,0.73,0.48,0.52
+16,Xavier University,Ohio,Midwest,East North Central,51800,94000,46,7,Private,4 Year,12780,38530,51310,38530,51310,6508,0,0.03,0.09,0.05,0,0.03,0.19,0.04,0.04,0.74,0.57,0.43
+16,Northeastern State University,Oklahoma,South,West South Central,44500,77600,58,7,Public,4 Year,7638,6650,14288,14720,22358,8310,0.21,0.02,0.04,0.04,0,0.14,0.45,0.02,0.02,0.51,0.62,0.38
+16,Southern Oregon University,Oregon,West,Pacific,46000,81200,54,6,Public,4 Year,13199,9654,22853,25584,38783,5954,0.01,0.02,0.02,0.08,0,0.05,0.18,0.03,0.25,0.54,0.58,0.42
+16,Thomas Jefferson University,Pennsylvania,Northeast,Middle Atlantic,63400,102500,83,7,Private,4 Year,13465,40501,53966,40501,53966,3606,0,0.15,0.06,0.04,0,0,0.26,0.04,0.07,0.64,0.68,0.33
+16,Limestone College,South Carolina,South,South Atlantic,42100,76500,57,10,Private,4 Year,9765,26000,35765,26000,35765,3214,0,0,0.47,0.03,0,0,0.51,0.03,0.02,0.44,0.56,0.44
+16,Cumberland University,Tennessee,South,East South Central,45500,81000,61,3,Private,4 Year,9290,22890,32180,22890,32180,1481,0,0.01,0.12,0.03,0,0,0.16,0.03,0.17,0.64,0.57,0.43
+16,University Texas Arlington,Texas,South,West South Central,55400,99500,55,22,Public,4 Year,10302,10250,20552,25134,35436,39740,0,0.09,0.14,0.21,0,0.03,0.47,0.11,0.01,0.41,0.6,0.4
+16,Virginia Commonwealth University,Virginia,South,South Atlantic,49900,88200,52,18,Public,4 Year,10428,14490,24918,35138,45566,30848,0,0.12,0.16,0.07,0,0.04,0.38,0.05,0.04,0.52,0.58,0.42
+16,Northwest University,Washington,West,Pacific,50900,89000,51,3,Private,4 Year,8630,31540,40170,31540,40170,1862,0.01,0.06,0.05,0.08,0.02,0.04,0.25,0.03,0.07,0.65,0.59,0.41
+16,Ohio Valley University,West Virginia,South,South Atlantic,38800,71100,81,1,Private,4 Year,7980,21900,29880,21900,29880,,,,,,,,,,,,,
+16,Carroll University,Wisconsin,Midwest,East North Central,45600,86500,49,14,Private,4 Year,9484,31918,41402,31918,41402,3446,0,0.03,0.01,0.06,0,0.02,0.12,0.02,0.01,0.85,0.66,0.35
+17,University West Alabama,Alabama,South,East South Central,42700,76100,61,4,Public,4 Year,8116,10040,18156,18490,26606,3989,0.01,0,0.44,0.02,0,0.01,0.48,0.04,0.05,0.44,0.7,0.3
+17,University Arkansas Pine Bluff,Arkansas,South,West South Central,40500,70500,67,22,Public,4 Year,7881,7842,15723,14094,21975,2513,0,0.01,0.91,0.02,0,0,0.94,0.01,0,0.05,0.54,0.46
+17,San Jose State University,California,West,Pacific,63000,114700,53,28,Public,4 Year,16442,7796,24238,17300,33742,32713,0,0.32,0.03,0.23,0.01,0.05,0.63,0.11,0.04,0.22,0.5,0.5
+17,Colorado Christian University,Colorado,West,Mountain,46800,80100,70,2,Private,4 Year,11846,31866,43712,31866,43712,5787,0.01,0.03,0.07,0.11,0,0.04,0.25,0,0.05,0.7,0.64,0.36
+17,Eastern Connecticut State University,Connecticut,Northeast,New England,49200,87800,43,14,Public,4 Year,13560,11356,24916,22596,36156,5287,0,0.03,0.07,0.09,0,0.03,0.22,0.01,0.08,0.69,0.53,0.47
+17,Eckerd College,Florida,South,South Atlantic,49200,88400,52,25,Private,4 Year,12588,44540,57128,44540,57128,2083,0,0.02,0.05,0.08,0,0.03,0.18,0.04,0.01,0.77,0.62,0.38
+17,Clayton State University,Georgia,South,South Atlantic,46400,81200,54,9,Public,4 Year,9994,6410,16404,19486,29480,7022,0,0.05,0.61,0.03,0,0.03,0.72,0.02,0.04,0.22,0.69,0.32
+17,Principia College,Illinois,Midwest,East North Central,52600,94900,56,19,Private,4 Year,11610,29470,41080,29470,41080,,,,,,,,,,,,,
+17,Indiana State University,Indiana,Midwest,East North Central,47900,85600,55,8,Public,4 Year,10590,9090,19680,19836,30426,13183,0,0.01,0.17,0.03,0,0.03,0.24,0.08,0.02,0.66,0.55,0.45
+17,Saint Ambrose University,Iowa,Midwest,West North Central,46900,84400,48,8,Private,4 Year,10470,30894,41364,30894,41364,3508,0,0.01,0.03,0.06,0,0.02,0.12,0.03,0.04,0.81,0.59,0.42
+17,Sterling College,Kansas,Midwest,West North Central,42700,79100,73,7,Private,4 Year,8280,26000,34280,26000,34280,720,0.03,0,0.11,0.09,0.02,0,0.25,0,0.07,0.69,0.47,0.53
+17,University Cumberlands,Kentucky,South,East South Central,39800,73800,63,8,Private,4 Year,9000,23000,32000,23000,32000,5736,0,0.01,0.05,0.02,0,0,0.08,0.02,0.12,0.78,0.64,0.36
+17,Louisiana State University Shreveport,Louisiana,South,West South Central,44500,79800,54,10,Public,4 Year,,7235,7235,20389,20389,4186,0.01,0.02,0.23,0.04,0,0.03,0.32,0.02,0.09,0.57,0.62,0.39
+17,Louisiana College,Louisiana,South,West South Central,44800,79800,58,4,Private,4 Year,5618,17000,22618,17000,22618,1256,0.01,0.01,0.22,0.03,0,0.01,0.28,0.06,0.04,0.62,0.53,0.47
+17,Dillard University,Louisiana,South,West South Central,44700,79800,74,20,Private,4 Year,10100,18099,28199,18099,28199,1200,0,0,0.92,0.01,0,0.01,0.94,0.02,0.04,0,0.73,0.27
+17,Maine College Art,Maine,Northeast,New England,36300,64600,37,0,Private,4 Year,11890,35000,46890,35000,46890,459,0,0.02,0.02,0.06,0,0.05,0.14,0.02,0.02,0.82,0.73,0.27
+17,Goucher College,Maryland,South,South Atlantic,49400,90600,42,11,Private,4 Year,14506,44300,58806,44300,58806,2120,0,0.03,0.1,0.07,0,0.03,0.23,0.01,0.19,0.58,0.71,0.29
+17,University Massachusetts Lowell,Massachusetts,Northeast,New England,58800,109300,53,35,Public,4 Year,12748,15180,27928,32827,45575,17179,0,0.08,0.06,0.08,0,0.02,0.24,0.07,0.06,0.63,0.4,0.6
+17,Ferris State University,Michigan,Midwest,East North Central,50000,89300,50,8,Public,4 Year,9894,12630,22524,12630,22524,14600,0.01,0.01,0.07,0.04,0,0.03,0.16,0.03,0.03,0.78,0.53,0.47
+17,Avila University,Missouri,Midwest,West North Central,45900,81200,68,3,Private,4 Year,7200,19900,27100,19900,27100,1907,0.01,0.02,0.19,0.07,0,0.02,0.3,0.1,0,0.6,0.65,0.35
+17,Peru State College,Nebraska,Midwest,West North Central,42600,74800,50,6,Public,4 Year,8010,7452,15462,7482,15492,2499,0.01,0.01,0.07,0.05,0,0.03,0.17,0,0.05,0.78,0.6,0.4
+17,Rutgers University Camden,New Jersey,Northeast,Middle Atlantic,51100,93900,50,9,Public,4 Year,12336,14835,27171,30613,42949,6321,0,0.08,0.15,0.11,0,0.03,0.39,0.02,0.03,0.56,0.55,0.45
+17,Fordham University,New York,Northeast,Middle Atlantic,58700,112500,38,10,Private,4 Year,17969,52687,70656,52687,70656,15231,0,0.08,0.06,0.12,0,0.03,0.29,0.13,0.03,0.55,0.59,0.42
+17,Ohio University,Ohio,Midwest,East North Central,51400,93300,47,9,Public,4 Year,11830,12192,24022,21656,33486,29217,0,0.01,0.05,0.03,0,0.03,0.12,0.06,0.02,0.8,0.58,0.42
+17,East Central University,Oklahoma,South,West South Central,44700,77500,66,9,Public,4 Year,5514,6810,12324,17700,23214,4428,0.14,0.01,0.04,0.04,0,0.09,0.33,0.06,0.02,0.6,0.62,0.38
+17,Northwest Christian University,Oregon,West,Pacific,45200,81100,62,5,Private,4 Year,9300,30050,39350,30050,39350,705,0.03,0.02,0.02,0.08,0,0.03,0.19,0,0.02,0.8,0.64,0.36
+17,Muhlenberg College,Pennsylvania,Northeast,Middle Atlantic,53400,101900,43,20,Private,4 Year,11765,52595,64360,52595,64360,2440,0,0.03,0.03,0.06,0,0.02,0.14,0.01,0.1,0.75,0.6,0.4
+17,Charleston Southern University,South Carolina,South,South Atlantic,42800,76300,65,9,Private,4 Year,10200,25500,35700,25500,35700,3367,0.01,0.01,0.28,0.03,0,0.02,0.35,0.01,0.05,0.6,0.62,0.38
+17,Belmont University,Tennessee,South,East South Central,47300,80900,47,3,Private,4 Year,12120,34310,46430,34310,46430,7244,0,0.02,0.04,0.04,0,0.03,0.14,0.01,0.05,0.79,0.62,0.38
+17,Prairie View A&M University,Texas,South,West South Central,57800,99400,65,22,Public,4 Year,8925,10533,19458,24843,33768,8429,0,0.03,0.84,0.03,0,0.01,0.91,0.03,0.02,0.05,0.61,0.39
+17,Christopher Newport University,Virginia,South,South Atlantic,50800,87200,55,25,Public,4 Year,11460,14754,26214,27220,38680,5221,0,0.02,0.08,0.05,0,0.05,0.21,0,0.04,0.76,0.57,0.43
+17,Whitworth University,Washington,West,Pacific,49900,88800,52,18,Private,4 Year,11496,43640,55136,43640,55136,2654,0.01,0.03,0.02,0.08,0.01,0.05,0.19,0.03,0.02,0.76,0.6,0.4
+17,Glenville State College,West Virginia,South,South Atlantic,37400,67700,60,3,Public,4 Year,,7327,7327,16565,16565,1802,0,0,0.13,0.01,0,0.01,0.15,0,0.08,0.76,0.42,0.58
+17,Beloit College,Wisconsin,Midwest,East North Central,47400,85700,59,24,Private,4 Year,8830,50040,58870,50040,58870,1303,0,0.03,0.05,0.08,0,0.02,0.18,0.1,0.03,0.7,0.58,0.42
+18,University North Alabama,Alabama,South,East South Central,43000,75600,61,6,Public,4 Year,9200,10370,19570,18680,27880,6841,0.01,0.02,0.13,0.03,0,0.02,0.2,0.04,0.04,0.71,0.58,0.42
+18,Central Baptist College,Arkansas,South,West South Central,36900,68000,,3,Private,4 Year,7500,16200,23700,16200,23700,858,0.01,0,0.2,0.04,0,0.01,0.27,0.03,0,0.7,0.47,0.53
+18,Loyola Marymount University,California,West,Pacific,58500,113300,39,9,Private,4 Year,14490,48522,63012,48522,63012,9515,0,0.11,0.06,0.23,0,0.07,0.47,0.07,0.01,0.45,0.58,0.42
+18,Johnson & Wales University Denver,Colorado,West,Mountain,41500,74800,39,0,Private,4 Year,12546,32091,44637,32091,44637,1391,0.01,0.02,0.08,0.16,0,0.06,0.32,0.01,0.1,0.57,0.6,0.4
+18,Albertus Magnus College,Connecticut,Northeast,New England,49700,85900,62,2,Private,4 Year,13200,32060,45260,32060,45260,1550,0,0.01,0.33,0.14,0,0.01,0.5,0.01,0.08,0.42,0.67,0.34
+18,Charter Oak State College,Connecticut,Northeast,New England,49200,85900,68,2,Public,4 Year,,10161,10161,13101,13101,1929,0,0.01,0.17,0.12,0,0.03,0.33,0.01,0.08,0.58,0.67,0.33
+18,Rollins College,Florida,South,South Atlantic,49000,87000,53,7,Private,4 Year,14735,49760,64495,49760,64495,3207,0,0.03,0.06,0.15,0,0.03,0.28,0.07,0.02,0.63,0.59,0.41
+18,Clark Atlanta University,Georgia,South,South Atlantic,46300,81100,54,15,Private,4 Year,9524,23436,32960,23436,32960,3485,0,0,0.84,0,0,0,0.85,0.04,0.11,0,0.74,0.26
+18,Lakeview College Nursing,Illinois,Midwest,East North Central,55000,94100,83,0,Private,4 Year,,16320,16320,16320,16320,317,0.01,0.02,0.09,0.02,0.01,0.01,0.15,0,0.01,0.84,0.86,0.15
+18,Hanover College,Indiana,Midwest,East North Central,47500,85100,53,24,Private,4 Year,11580,37670,49250,37670,49250,1145,0.01,0.01,0.05,0.02,0,0.02,0.11,0.06,0.03,0.81,0.58,0.42
+18,Northwestern College,Iowa,Midwest,West North Central,44800,82400,42,11,Private,4 Year,9200,31100,40300,31100,40300,1205,0,0.01,0.01,0.05,0,0.02,0.1,0.03,0.04,0.83,0.59,0.41
+18,MidAmerica Nazarene University,Kansas,Midwest,West North Central,46200,78500,60,1,Private,4 Year,8708,30736,39444,30736,39444,1870,0.01,0.02,0.11,0.06,0.01,0.01,0.2,0,0.15,0.65,0.64,0.36
+18,Kentucky State University,Kentucky,South,East South Central,40700,73100,57,13,Public,4 Year,6690,8090,14780,19390,26080,1895,0,0.01,0.53,0.02,0,0.02,0.58,0.01,0.12,0.29,0.61,0.39
+18,Bowie State University,Maryland,South,South Atlantic,50300,89900,65,11,Public,4 Year,10904,8233,19137,18873,29777,5695,0,0.01,0.83,0.03,0,0.03,0.91,0.04,0.02,0.04,0.63,0.37
+18,Wellesley College,Massachusetts,Northeast,New England,58900,106200,48,34,Private,4 Year,16468,53732,70200,53732,70200,2323,0,0.23,0.06,0.09,0,0.06,0.44,0.12,0.05,0.4,0.97,0.03
+18,Eastern Michigan University,Michigan,Midwest,East North Central,47300,86700,50,6,Public,4 Year,9854,13959,23813,13959,23813,22401,0,0.03,0.18,0.04,0,0.03,0.28,0.03,0.03,0.66,0.6,0.4
+18,Maryville University Saint Louis,Missouri,Midwest,West North Central,46800,80100,53,2,Private,4 Year,10088,28470,38558,28470,38558,5931,0.01,0.03,0.1,0.04,0,0.02,0.2,0.02,0.04,0.75,0.79,0.21
+18,Wayne State College,Nebraska,Midwest,West North Central,40600,73400,54,11,Public,4 Year,7668,6989,14657,12299,19967,3470,0.01,0.01,0.03,0.07,0,0.02,0.12,0.01,0.08,0.79,0.57,0.43
+18,Monmouth University,New Jersey,Northeast,Middle Atlantic,52200,93200,44,13,Private,4 Year,13981,38138,52119,38138,52119,6395,0,0.03,0.06,0.09,0,0.02,0.2,0.02,0.04,0.74,0.64,0.36
+18,Hofstra University,New York,Northeast,Middle Atlantic,57300,110400,38,7,Private,4 Year,15948,46760,62708,46760,62708,10953,0,0.08,0.08,0.11,0.01,0.02,0.31,0.1,0.06,0.54,0.56,0.44
+18,John Wesley University,North Carolina,South,South Atlantic,45100,82100,,0,Private,4 Year,3600,13330,16930,13330,16930,,,,,,,,,,,,,
+18,University Toledo,Ohio,Midwest,East North Central,51800,92500,52,21,Public,4 Year,11434,9795,21229,19133,30567,20626,0,0.03,0.12,0.04,0,0.02,0.21,0.08,0.04,0.67,0.5,0.5
+18,Northwestern Oklahoma State University,Oklahoma,South,West South Central,42200,76800,55,11,Public,4 Year,4780,7036,11816,14153,18933,2166,0.06,0.01,0.06,0.07,0.01,0.01,0.21,0.06,0.08,0.65,0.58,0.42
+18,Warner Pacific College,Oregon,West,Pacific,45500,80500,58,10,Private,4 Year,9630,18740,28370,18740,28370,554,0.01,0.04,0.1,0.17,0.02,0.05,0.38,0.01,0.06,0.54,0.57,0.44
+18,Ursinus College,Pennsylvania,Northeast,Middle Atlantic,54400,101800,42,40,Private,4 Year,12750,52050,64800,52050,64800,,,,,,,,,,,,,
+18,University South Carolina Aiken,South Carolina,South,South Atlantic,41600,75100,58,10,Public,4 Year,7766,10760,18526,21218,28984,3444,0,0.01,0.25,0.04,0,0.03,0.34,0.03,0.02,0.61,0.63,0.37
+18,University Tennessee Martin,Tennessee,South,East South Central,44400,78600,58,10,Public,4 Year,6164,9512,15676,15552,21716,7042,0,0.01,0.15,0.02,0,0.02,0.2,0.03,0,0.77,0.59,0.41
+18,LeTourneau University,Texas,South,West South Central,56600,98900,53,21,Private,4 Year,9970,30210,40180,30210,40180,2667,0,0.01,0.1,0.09,0,0.04,0.24,0.04,0.13,0.58,0.52,0.49
+18,Shenandoah University,Virginia,South,South Atlantic,48700,86600,57,7,Private,4 Year,10370,32530,42900,32530,42900,3693,0.01,0.07,0.11,0.05,0,0,0.25,0.05,0.05,0.65,0.64,0.36
+18,Bellevue College,Washington,West,Pacific,50100,88500,56,14,Public,2 Year,,4258,4258,9689,9689,13469,0.01,0.17,0.05,0.11,0.01,0.04,0.38,0.06,0.09,0.48,0.55,0.45
+18,West Virginia University Parkersburg,West Virginia,South,South Atlantic,36700,65200,67,3,Public,2 Year,,6330,6330,10920,10920,2985,0,0.01,0.02,0,0,0.03,0.05,0,0.04,0.91,0.62,0.38
+18,Carthage College,Wisconsin,Midwest,East North Central,48900,85400,48,17,Private,4 Year,11990,43550,55540,43550,55540,2948,0,0.01,0.05,0.04,0,0.02,0.14,0.01,0.12,0.74,0.54,0.46
+19,University Mobile,Alabama,South,East South Central,40600,74100,77,7,Private,4 Year,9600,22820,32420,22820,32420,1600,0.02,0.01,0.24,0.01,0,0.02,0.3,0.03,0.05,0.63,0.66,0.34
+19,Philander Smith College,Arkansas,South,West South Central,34600,61200,,26,Private,4 Year,8250,12414,20664,12414,20664,567,0,0.01,0.9,0,0,0.02,0.94,0.06,0,0.01,0.64,0.36
+19,University California Davis,California,West,Pacific,61500,112600,52,35,Public,4 Year,16211,14463,30674,43458,59669,34508,0,0.3,0.02,0.17,0,0.05,0.54,0.1,0.02,0.33,0.57,0.44
+19,Nazarene Bible College,Colorado,West,Mountain,33600,60100,,0,Private,4 Year,,14700,14700,14700,14700,762,0.01,0.01,0.06,0.07,0,0.03,0.18,0,0,0.82,0.37,0.63
+19,University North Florida,Florida,South,South Atlantic,48800,86600,51,11,Public,4 Year,9976,6394,16370,20112,30088,15984,0,0.04,0.1,0.09,0,0.05,0.28,0.02,0,0.69,0.56,0.44
+19,Valdosta State University,Georgia,South,South Atlantic,43400,81000,57,7,Public,4 Year,8110,7476,15586,20958,29068,11563,0,0.01,0.33,0.04,0,0.03,0.42,0.03,0,0.55,0.61,0.39
+19,North Central College,Illinois,Midwest,East North Central,50400,92900,45,9,Private,4 Year,11019,38880,49899,38880,49899,3043,0,0.02,0.04,0.09,0,0.03,0.18,0.02,0.07,0.73,0.55,0.45
+19,Indiana Institute Technology,Indiana,Midwest,East North Central,50000,84900,46,11,Private,4 Year,10020,26900,36920,26900,36920,7192,0,0.01,0.37,0.04,0,0.02,0.44,0.03,0.12,0.41,0.62,0.38
+19,Morningside College,Iowa,Midwest,West North Central,44900,82100,60,6,Private,4 Year,9610,31530,41140,31530,41140,2823,0,0.01,0.01,0.03,0,0.01,0.06,0.02,0.1,0.82,0.68,0.32
+19,Emporia State University,Kansas,Midwest,West North Central,43500,78000,60,9,Public,4 Year,8912,6758,15670,20675,29587,6114,0.01,0.01,0.04,0.06,0,0.05,0.16,0.09,0.03,0.72,0.63,0.37
+19,Berea College,Kentucky,South,East South Central,39500,71600,53,27,Private,4 Year,6764,39990,46754,39990,46754,1621,0,0.02,0.15,0.06,0,0.05,0.28,0.08,0.02,0.62,0.56,0.44
+19,Salisbury University,Maryland,South,South Atlantic,50400,89800,51,12,Public,4 Year,11950,9824,21774,19526,31476,8770,0,0.03,0.12,0.04,0,0.04,0.23,0.02,0.03,0.72,0.59,0.41
+19,Stonehill College,Massachusetts,Northeast,New England,55900,103200,42,18,Private,4 Year,16000,42746,58746,42746,58746,2284,0,0.02,0.04,0.05,0,0.02,0.13,0.01,0.03,0.84,0.59,0.41
+19,Northwood University,Michigan,Midwest,East North Central,47800,86300,47,1,Private,4 Year,10480,27060,37540,27060,37540,3131,0,0.01,0.09,0.05,0,0.01,0.16,0.03,0.17,0.64,0.44,0.57
+19,University Minnesota Crookston,Minnesota,Midwest,West North Central,49200,86400,54,4,Public,4 Year,7658,11921,19579,11921,19579,2850,0.01,0.02,0.05,0.02,0,0.01,0.1,0.03,0.26,0.61,0.53,0.47
+19,Drury University,Missouri,Midwest,West North Central,42600,79400,60,12,Private,4 Year,8096,28365,36461,28365,36461,4215,0.01,0.01,0.04,0.05,0,0.02,0.13,0.05,0,0.82,0.61,0.4
+19,Concordia University Nebraska,Nebraska,Midwest,West North Central,39700,68900,48,5,Private,4 Year,8470,32220,40690,32220,40690,2332,0,0.02,0.05,0.04,0,0.01,0.12,0.01,0.08,0.8,0.6,0.4
+19,Fairleigh Dickinson University Metropolitan,New Jersey,Northeast,Middle Atlantic,50800,93000,43,23,Private,4 Year,13348,40236,53584,40236,53584,8777,0,0.05,0.1,0.21,0,0.01,0.38,0.13,0.09,0.4,0.59,0.41
+19,Barnard College,New York,Northeast,Middle Atlantic,59200,109800,57,19,Private,4 Year,17225,55032,72257,55032,72257,2573,0,0.14,0.07,0.11,0,0.05,0.37,0.08,0.01,0.55,1,0
+19,Methodist University,North Carolina,South,South Atlantic,45800,80500,58,9,Private,4 Year,12890,33846,46736,33846,46736,2461,0.01,0.02,0.18,0.08,0,0.03,0.32,0.06,0.11,0.51,0.46,0.54
+19,University North Carolina Wilmington,North Carolina,South,South Atlantic,46400,80500,47,14,Public,4 Year,10686,7000,17686,21065,31751,14570,0.01,0.02,0.06,0.06,0,0.03,0.17,0.01,0.03,0.79,0.62,0.38
+19,College Wooster,Ohio,Midwest,East North Central,49200,91300,56,32,Private,4 Year,11850,50250,62100,50250,62100,2049,0.01,0.04,0.08,0.05,0,0,0.18,0.08,0.04,0.7,0.55,0.45
+19,Oklahoma Baptist University,Oklahoma,South,West South Central,43900,76600,62,8,Private,4 Year,7350,28258,35608,28258,35608,1979,0.05,0.01,0.06,0.02,0,0.08,0.23,0.04,0.03,0.7,0.59,0.41
+19,Marylhurst University,Oregon,West,Pacific,46200,79800,63,0,Private,4 Year,,20835,20835,20835,20835,1273,0.01,0.02,0.06,0.06,0.01,0.03,0.18,0.08,0.05,0.69,0.67,0.33
+19,Pennsylvania State University Penn State Harrisburg,Pennsylvania,Northeast,Middle Atlantic,55000,100400,47,31,Public,4 Year,13280,15198,28478,24450,37730,4519,0,0.07,0.09,0.06,0,0.03,0.26,0.1,0.02,0.62,0.44,0.56
+19,University Pittsburgh Pittsburgh,Pennsylvania,Northeast,Middle Atlantic,55900,100400,50,27,Public,4 Year,11050,19080,30130,32052,43102,28617,0,0.08,0.05,0.03,0,0.03,0.18,0.1,0.03,0.69,0.52,0.48
+19,Newberry College,South Carolina,South,South Atlantic,41200,74700,54,14,Private,4 Year,10666,26424,37090,26424,37090,1093,0,0.01,0.26,0.04,0,0.03,0.34,0.04,0.02,0.6,0.47,0.53
+19,Tennessee State University,Tennessee,South,East South Central,47200,78400,68,14,Public,4 Year,7806,8008,15814,21364,29170,9027,0,0.01,0.64,0.01,0,0.03,0.69,0.1,0.01,0.2,0.61,0.39
+19,Texas Christian University,Texas,South,West South Central,56000,98700,51,9,Private,4 Year,12804,46950,59754,46950,59754,10033,0.01,0.03,0.05,0.11,0,0.01,0.2,0.05,0.03,0.73,0.59,0.41
+19,Randolph College,Virginia,South,South Atlantic,47000,86100,50,23,Private,4 Year,13580,39585,53165,39585,53165,693,0.01,0.03,0.11,0.05,0,0.04,0.22,0.1,0,0.68,0.64,0.36
+19,University Wisconsin Oshkosh,Wisconsin,Midwest,East North Central,47700,84300,52,10,Public,4 Year,7448,8820,16268,16393,23841,14541,0.01,0.04,0.02,0.03,0,0.02,0.11,0.01,0.01,0.87,0.61,0.39
+20,Alabama State University,Alabama,South,East South Central,39800,71500,61,16,Public,4 Year,5422,11068,16490,19396,24818,5519,0,0,0.9,0.01,0,0.01,0.93,0.02,0.01,0.04,0.62,0.38
+20,Menlo College,California,West,Pacific,61900,112400,59,0,Private,4 Year,14225,42800,57025,42800,57025,794,0.01,0.07,0.07,0.21,0.03,0.07,0.45,0.13,0.08,0.34,0.41,0.59
+20,Southern Connecticut State University,Connecticut,Northeast,New England,48500,83600,51,6,Public,4 Year,12860,10875,23735,22115,34975,10825,0,0.03,0.14,0.1,0,0.02,0.29,0.01,0.09,0.62,0.64,0.36
+20,New College Florida,Florida,South,South Atlantic,47300,86500,40,4,Public,4 Year,9264,6919,16183,29944,39208,834,0,0.02,0.03,0.15,0,0.05,0.25,0.02,0.03,0.71,0.59,0.41
+20,Georgia College and State University,Georgia,South,South Atlantic,45300,80300,51,12,Public,4 Year,11016,9346,20362,28060,39076,6772,0,0.02,0.08,0.05,0,0.02,0.16,0.02,0,0.82,0.61,0.39
+20,Saint Xavier University,Illinois,Midwest,East North Central,49400,91200,60,10,Private,4 Year,11340,33880,45220,33880,45220,4073,0,0.03,0.16,0.23,0,0.02,0.44,0,0.05,0.51,0.69,0.31
+20,Manchester University,Indiana,Midwest,East North Central,46900,84700,56,10,Private,4 Year,9580,32758,42338,32758,42338,1488,0,0.04,0.06,0.05,0,0.03,0.17,0.02,0.01,0.8,0.53,0.47
+20,Clarke University,Iowa,Midwest,West North Central,44900,80200,52,6,Private,4 Year,9600,33350,42950,33350,42950,1200,0,0.01,0.03,0.04,0,0.01,0.09,0.01,0.02,0.88,0.7,0.3
+20,Tabor College,Kansas,Midwest,West North Central,43300,77500,62,7,Private,4 Year,9850,28245,38095,28245,38095,766,0,0.01,0.08,0.11,0,0.03,0.24,0.02,0.06,0.68,0.5,0.51
+20,Asbury University,Kentucky,South,East South Central,39400,70800,59,4,Private,4 Year,7160,30198,37358,30198,37358,1879,0,0.01,0.05,0.02,0,0.05,0.14,0.02,0.05,0.8,0.61,0.39
+20,Northwestern State University Louisiana,Louisiana,South,West South Central,44300,79300,62,6,Public,4 Year,8884,8580,17464,19368,28252,9002,0.02,0.01,0.27,0.05,0,0.03,0.37,0.01,0.03,0.59,0.69,0.31
+20,University Baltimore,Maryland,South,South Atlantic,51000,89600,56,2,Public,4 Year,,8958,8958,21076,21076,6422,0,0.05,0.4,0.05,0,0.03,0.53,0.03,0.04,0.41,0.58,0.42
+20,Western New England University,Massachusetts,Northeast,New England,56400,103000,44,21,Private,4 Year,13590,36804,50394,36804,50394,3922,0,0.04,0.06,0.07,0,0.01,0.18,0.03,0.09,0.7,0.45,0.55
+20,University Massachusetts Amherst,Massachusetts,Northeast,New England,57400,103000,46,24,Public,4 Year,13202,16072,29274,34755,47957,28635,0,0.08,0.04,0.05,0,0.02,0.19,0.08,0.1,0.64,0.49,0.51
+20,Walsh College Accountancy and Business Administration,Michigan,Midwest,East North Central,49400,85200,42,5,Private,4 Year,,17625,17625,17625,17625,2753,0,0.05,0.1,0.03,0,0.01,0.19,0.04,0.01,0.76,0.49,0.51
+20,Metropolitan State University,Minnesota,Midwest,West North Central,50200,85900,53,11,Public,4 Year,,7879,7879,14980,14980,8355,0.01,0.12,0.18,0.05,0,0.04,0.4,0.02,0.03,0.56,0.56,0.44
+20,Southeast Missouri State University,Missouri,Midwest,West North Central,43700,79100,52,9,Public,4 Year,8935,7418,16353,13155,22090,12087,0.01,0.01,0.09,0.02,0,0,0.12,0.09,0.06,0.74,0.57,0.43
+20,Rowan University,New Jersey,Northeast,Middle Atlantic,51100,91200,43,21,Public,4 Year,12552,13697,26249,22339,34891,14778,0,0.06,0.09,0.09,0,0.02,0.26,0.01,0.04,0.69,0.5,0.5
+20,Binghamton University,New York,Northeast,Middle Atlantic,61300,109600,44,34,Public,4 Year,15058,9808,24866,24488,39546,16695,0,0.12,0.05,0.09,0,0.02,0.28,0.16,0.03,0.52,0.48,0.52
+20,University Akron,Ohio,Midwest,East North Central,50700,89200,48,22,Public,4 Year,12200,11463,23663,17750,29950,23962,0,0.02,0.12,0.02,0,0.03,0.2,0.06,0.03,0.72,0.49,0.51
+20,Oklahoma Panhandle State University,Oklahoma,South,West South Central,42300,74400,54,10,Public,4 Year,4695,8194,12889,9133,13828,1298,0.03,0.01,0.1,0.16,0,0.03,0.34,0.02,0.03,0.61,0.55,0.45
+20,Western Oregon University,Oregon,West,Pacific,44500,79300,50,5,Public,4 Year,10415,9540,19955,26415,36830,6049,0.02,0.03,0.03,0.08,0.02,0,0.19,0.06,0.06,0.7,0.61,0.39
+20,Southern Wesleyan University,South Carolina,South,South Atlantic,42900,74600,52,5,Private,4 Year,9030,25476,34506,25476,34506,1778,0,0.01,0.27,0.03,0,0.02,0.33,0.02,0.14,0.51,0.64,0.36
+20,Austin Peay State University,Tennessee,South,East South Central,44200,78200,63,10,Public,4 Year,10700,8411,19111,24467,35167,10111,0,0.02,0.19,0.06,0,0.05,0.32,0,0.02,0.66,0.6,0.4
+20,Freed Hardeman University,Tennessee,South,East South Central,43700,78200,54,9,Private,4 Year,8260,21950,30210,21950,30210,1867,0,0.01,0.12,0.02,0,0.02,0.17,0.02,0.11,0.7,0.58,0.42
+20,Texas A&M University Kingsville,Texas,South,West South Central,53100,97500,63,53,Public,4 Year,8760,8462,17222,20912,29672,13246,0,0.01,0.06,0.6,0,0.01,0.67,0.14,0.01,0.18,0.51,0.49
+20,Roanoke College,Virginia,South,South Atlantic,48500,85100,53,18,Private,4 Year,13690,44030,57720,44030,57720,2050,0,0.02,0.05,0.04,0,0.04,0.15,0.03,0,0.82,0.6,0.4
+20,Eastern Washington University,Washington,West,Pacific,49500,87500,52,17,Public,4 Year,12793,7323,20116,24444,37237,13453,0.01,0.03,0.03,0.13,0,0.05,0.25,0.03,0.07,0.64,0.56,0.44
+20,Cardinal Stritch University,Wisconsin,Midwest,East North Central,47000,82500,51,2,Private,4 Year,8440,29998,38438,29998,38438,3811,0.01,0.02,0.22,0.08,0,0.02,0.34,0.03,0.03,0.59,0.64,0.36
+20,Wisconsin Lutheran College,Wisconsin,Midwest,East North Central,46200,82500,45,10,Private,4 Year,10190,29725,39915,29725,39915,1179,0.01,0.01,0.05,0.05,0,0.02,0.14,0.02,0.01,0.83,0.56,0.45
+21,Faulkner University,Alabama,South,East South Central,39400,71300,61,2,Private,4 Year,7750,21690,29440,21690,29440,3335,0.01,0.01,0.45,0.02,0,0.02,0.5,0.02,0.03,0.46,0.6,0.4
+21,California State Polytechnic University Pomona,California,West,Pacific,57700,110800,50,30,Public,4 Year,17358,7353,24711,19233,36591,23966,0,0.24,0.03,0.38,0,0.04,0.69,0.05,0.05,0.21,0.44,0.56
+21,Saint Mary's College California,California,West,Pacific,59900,110800,51,5,Private,4 Year,15370,47280,62650,47280,62650,4112,0,0.1,0.05,0.22,0.01,0.05,0.44,0.02,0.1,0.44,0.61,0.39
+21,Stetson University,Florida,South,South Atlantic,47000,86000,44,7,Private,4 Year,13052,46030,59082,46030,59082,4137,0,0.02,0.07,0.14,0,0.03,0.26,0.05,0.02,0.67,0.56,0.44
+21,Savannah College Art and Design,Georgia,South,South Atlantic,46800,80100,34,3,Private,4 Year,14550,36630,51180,36630,51180,11347,0.01,0.05,0.11,0.08,0,0,0.24,0.19,0.05,0.52,0.64,0.36
+21,Southern Illinois University Carbondale,Illinois,Midwest,East North Central,49700,90900,54,17,Public,4 Year,10622,14704,25326,14704,25326,17989,0,0.02,0.17,0.07,0,0.03,0.29,0.1,0,0.61,0.46,0.54
+21,University Indianapolis,Indiana,Midwest,East North Central,47300,84500,55,5,Private,4 Year,10288,29688,39976,29688,39976,5442,0,0.02,0.08,0.04,0,0.02,0.16,0.08,0.08,0.69,0.67,0.33
+21,University Dubuque,Iowa,Midwest,West North Central,44200,79700,48,7,Private,4 Year,9930,34110,44040,34110,44040,2121,0.01,0.02,0.11,0.07,0,0.03,0.23,0.03,0.08,0.66,0.44,0.56
+21,Friends University,Kansas,Midwest,West North Central,44700,76500,59,14,Private,4 Year,7972,28415,36387,28415,36387,1882,0.01,0.03,0.11,0.04,0,0.06,0.25,0,0.06,0.69,0.58,0.42
+21,University Pikeville,Kentucky,South,East South Central,39000,70700,74,11,Private,4 Year,7800,20950,28750,20950,28750,2458,0,0.01,0.07,0.02,0,0,0.1,0.02,0,0.88,0.51,0.49
+21,Grambling State University,Louisiana,South,West South Central,43100,73100,66,10,Public,4 Year,7192,7435,14627,16458,23650,4504,0,0,0.91,0.01,0,0.01,0.94,0.04,0.01,0.02,0.62,0.38
+21,Frostburg State University,Maryland,South,South Atlantic,49600,87000,48,19,Public,4 Year,10202,9172,19374,22892,33094,5645,0,0.02,0.26,0.04,0,0.04,0.36,0.02,0.02,0.6,0.52,0.48
+21,Andrews University,Michigan,Midwest,East North Central,47600,85000,51,7,Private,4 Year,9078,29288,38366,29288,38366,3418,0,0.09,0.21,0.13,0,0.02,0.46,0.21,0.02,0.31,0.46,0.54
+21,Bethel University (Minnesota),Minnesota,Midwest,West North Central,51000,85700,65,9,Private,4 Year,10520,37300,47820,37300,47820,3979,0,0.03,0.06,0.03,0,0.02,0.14,0.01,0.03,0.83,0.63,0.37
+21,Lindenwood University,Missouri,Midwest,West North Central,45100,78500,48,9,Private,4 Year,9000,17600,26600,17600,26600,12151,0,0.01,0.17,0.03,0,0.03,0.23,0.1,0.11,0.56,0.59,0.41
+21,William Paterson University New Jersey,New Jersey,Northeast,Middle Atlantic,50500,90200,44,7,Public,4 Year,11445,13060,24505,21260,32705,11048,0,0.06,0.13,0.25,0,0.02,0.47,0.01,0.05,0.47,0.58,0.43
+21,SUNY Downstate Medical Center,New York,Northeast,Middle Atlantic,64000,109300,83,0,Public,4 Year,,7481,7481,16931,16931,,,,,,,,,,,,,
+21,North Carolina Wesleyan College,North Carolina,South,South Atlantic,45300,78800,62,8,Private,4 Year,10800,31000,41800,31000,41800,1872,0.01,0.01,0.48,0.02,0,0.02,0.53,0.04,0.13,0.3,0.58,0.42
+21,Cleveland State University,Ohio,Midwest,East North Central,48300,88600,51,20,Public,4 Year,13560,10625,24185,14992,28552,16936,0,0.03,0.17,0.04,0,0.03,0.27,0.09,0.03,0.62,0.55,0.45
+21,Mid America Christian University,Oklahoma,South,West South Central,40700,74100,71,0,Private,4 Year,8036,18334,26370,18334,26370,2688,0.04,0.01,0.28,0.07,0,0.04,0.43,0,0.04,0.53,0.65,0.36
+21,Corban University,Oregon,West,Pacific,42500,77300,63,1,Private,4 Year,10228,33040,43268,33040,43268,1125,0.01,0.02,0.02,0.03,0.01,0.06,0.15,0.01,0.06,0.78,0.6,0.4
+21,Dickinson College,Pennsylvania,Northeast,Middle Atlantic,55800,100100,46,25,Private,4 Year,13698,54661,68359,54661,68359,2364,0,0.02,0.04,0.06,0,0.03,0.16,0.09,0.02,0.74,0.58,0.42
+21,Widener University,Pennsylvania,Northeast,Middle Atlantic,55700,100100,57,13,Private,4 Year,14446,45948,60394,45948,60394,4912,0,0.04,0.15,0.05,0,0.02,0.26,0.04,0.03,0.67,0.62,0.39
+21,Converse College,South Carolina,South,South Atlantic,39000,71000,60,8,Private,4 Year,10930,18690,29620,18690,29620,1389,0,0,0.07,0.04,0,0.03,0.14,0.01,0.36,0.48,0.92,0.08
+21,University Dallas,Texas,South,West South Central,53000,96400,49,16,Private,4 Year,12400,40652,53052,40652,53052,2548,0,0.07,0.08,0.15,0,0.03,0.33,0.12,0.02,0.54,0.47,0.53
+21,Longwood University,Virginia,South,South Atlantic,47300,83300,54,9,Public,4 Year,11746,13340,25086,29300,41046,5096,0,0.01,0.08,0.05,0,0.03,0.18,0.01,0.04,0.78,0.68,0.32
+21,Cornish College Arts,Washington,West,Pacific,49000,86400,39,0,Private,4 Year,12400,41642,54042,41642,54042,767,0.01,0.06,0.04,0.1,0,0.08,0.29,0.03,0.06,0.63,0.64,0.36
+22,University Montevallo,Alabama,South,East South Central,38900,70700,49,7,Public,4 Year,9330,12760,22090,25780,35110,3070,0.01,0.01,0.14,0.03,0,0.02,0.21,0.01,0.06,0.73,0.67,0.33
+22,Lynn University,Florida,South,South Atlantic,46100,85000,45,2,Private,4 Year,12170,38210,50380,38210,50380,2613,0,0.01,0.1,0.12,0,0.01,0.24,0.23,0.15,0.39,0.48,0.52
+22,Shorter University,Georgia,South,South Atlantic,45600,79900,55,6,Private,4 Year,9400,22370,31770,22370,31770,1566,0.01,0.01,0.23,0.03,0,0.02,0.29,0.04,0.04,0.63,0.59,0.41
+22,Saint Francis Medical Center College Nursing,Illinois,Midwest,East North Central,52800,90800,,0,Private,4 Year,3700,20460,24160,20460,24160,682,0,0.03,0.03,0.02,0,0,0.08,0,0.01,0.91,0.9,0.1
+22,Ball State University,Indiana,Midwest,East North Central,45600,83700,48,7,Public,4 Year,10234,9896,20130,26468,36702,20655,0,0.01,0.07,0.03,0,0.02,0.13,0.04,0.04,0.79,0.61,0.39
+22,University Saint Francis Fort Wayne,Indiana,Midwest,East North Central,45700,83700,63,5,Private,4 Year,12122,36410,48532,36410,48532,2308,0,0.01,0.07,0.06,0,0.02,0.17,0.01,0.02,0.8,0.7,0.3
+22,Mount Mercy University,Iowa,Midwest,West North Central,47200,79000,51,4,Private,4 Year,9534,31798,41332,31798,41332,1762,0,0.01,0.04,0.01,0,0.01,0.09,0.03,0.05,0.83,0.71,0.29
+22,Bethel College North Newton,Kansas,Midwest,West North Central,42700,73800,54,12,Private,4 Year,8850,28780,37630,28780,37630,483,0,0,0.15,0.1,0,0.02,0.27,0.02,0,0.71,0.51,0.49
+22,Kentucky Christian University,Kentucky,South,East South Central,39600,70300,68,3,Private,4 Year,8270,19820,28090,19820,28090,658,0,0.01,0.09,0.01,0,0.01,0.12,0.02,0.2,0.67,0.46,0.54
+22,Midway University,Kentucky,South,East South Central,39200,70300,53,3,Private,4 Year,8480,24650,33130,24650,33130,1140,0,0.01,0.09,0.04,0,0.02,0.15,0.03,0.07,0.76,0.83,0.17
+22,Southern University New Orleans,Louisiana,South,West South Central,40100,71000,76,13,Public,4 Year,9040,9371,18411,11160,20200,2103,0,0.01,0.84,0.01,0,0,0.85,0,0.12,0.02,0.76,0.24
+22,University Maryland Eastern Shore,Maryland,South,South Atlantic,48300,86700,63,14,Public,4 Year,9864,8302,18166,18508,28372,4279,0,0.02,0.67,0.02,0,0.11,0.81,0.03,0.01,0.15,0.56,0.44
+22,Merrimack College,Massachusetts,Northeast,New England,56000,102500,50,13,Private,4 Year,15845,41760,57605,41760,57605,3337,0,0.01,0.03,0.05,0,0.01,0.11,0.06,0.19,0.64,0.52,0.48
+22,Cleary University,Michigan,Midwest,East North Central,47400,84700,50,0,Private,4 Year,9600,20250,29850,20250,29850,537,0,0.03,0.08,0.02,0,0,0.13,0.06,0.08,0.74,0.54,0.46
+22,University Minnesota Morris,Minnesota,Midwest,West North Central,46100,85300,53,27,Public,4 Year,8342,13314,21656,15342,23684,1899,0.07,0.03,0.01,0.04,0,0.11,0.26,0.09,0.01,0.65,0.54,0.46
+22,Kansas City Art Institute,Missouri,Midwest,West North Central,42500,77700,37,0,Private,4 Year,10400,38400,48800,38400,48800,,,,,,,,,,,,,
+22,Missouri Western State University,Missouri,Midwest,West North Central,43400,77700,53,14,Public,4 Year,,6466,6466,14137,14137,5834,0.01,0.01,0.1,0.01,0,0.03,0.16,0.02,0.03,0.79,0.58,0.42
+22,Kean University,New Jersey,Northeast,Middle Atlantic,48200,90000,51,10,Public,4 Year,14470,12348,26818,19383,33853,14359,0,0.06,0.2,0.24,0,0.02,0.51,0.01,0.07,0.41,0.63,0.37
+22,Hobart William Smith Colleges,New York,Northeast,Middle Atlantic,56500,108500,46,18,Private,4 Year,14785,55255,70040,55255,70040,2425,0.01,0.03,0.05,0.06,0,0,0.14,0.06,0.12,0.68,0.52,0.48
+22,Catawba College,North Carolina,South,South Atlantic,42500,78100,58,11,Private,4 Year,10488,30520,41008,30520,41008,1300,0.01,0.01,0.2,0.04,0,0.02,0.28,0.03,0,0.69,0.53,0.47
+22,University Mount Union,Ohio,Midwest,East North Central,48300,88500,41,19,Private,4 Year,10200,31260,41460,31260,41460,2262,0,0.01,0.05,0.02,0,0.04,0.12,0.03,0.04,0.82,0.5,0.5
+22,Rogers State University,Oklahoma,South,West South Central,41400,73800,48,11,Public,4 Year,8616,6870,15486,15210,23826,4030,0.13,0.01,0.02,0.05,0,0.18,0.38,0.01,0,0.6,0.63,0.38
+22,Multnomah University,Oregon,West,Pacific,40500,76400,82,0,Private,4 Year,8870,25900,34770,25900,34770,753,0.01,0.01,0.04,0.06,0.01,0.04,0.16,0.01,0.04,0.8,0.44,0.56
+22,Anderson University (South Carolina),South Carolina,South,South Atlantic,39900,70100,51,5,Private,4 Year,9830,28000,37830,28000,37830,3112,0.01,0.01,0.09,0.03,0,0,0.14,0.01,0.08,0.78,0.66,0.34
+22,East Tennessee State University,Tennessee,South,East South Central,43700,77300,57,8,Public,4 Year,8472,9277,17749,28459,36931,14434,0,0.02,0.06,0.02,0,0.02,0.12,0.03,0.01,0.83,0.58,0.42
+22,St. Mary's University,Texas,South,West South Central,52900,95300,61,17,Private,4 Year,10270,30650,40920,30650,40920,3712,0.01,0.03,0.04,0.56,0,0,0.63,0.09,0.04,0.24,0.53,0.47
+22,Radford University,Virginia,South,South Atlantic,48900,82900,53,10,Public,4 Year,9406,11210,20616,22845,32251,9798,0,0.02,0.11,0.05,0,0.04,0.23,0.01,0.01,0.75,0.58,0.42
+22,Bastyr University,Washington,West,Pacific,48400,86300,,0,Private,4 Year,7590,26166,33756,26166,33756,1202,0.01,0.1,0.04,0.04,0,0.06,0.24,0.06,0.06,0.65,0.82,0.18
+22,Viterbo University,Wisconsin,Midwest,East North Central,46800,81900,62,3,Private,4 Year,9060,27970,37030,27970,37030,2804,0,0.01,0.02,0.02,0,0.02,0.07,0.01,0.01,0.91,0.73,0.27
+23,Judson College,Alabama,South,East South Central,37900,67600,65,13,Private,4 Year,10590,18510,29100,18510,29100,378,0.01,0.01,0.16,0.02,0,0.01,0.2,0.01,0.03,0.75,0.97,0.03
+23,University San Francisco,California,West,Pacific,60600,109900,52,6,Private,4 Year,14830,48066,62896,48066,62896,10689,0,0.18,0.04,0.18,0.01,0.06,0.47,0.16,0.05,0.33,0.63,0.37
+23,St Thomas University,Florida,South,South Atlantic,47400,84500,57,4,Private,4 Year,11700,33222,44922,33222,44922,2217,0,0.01,0.21,0.47,0,0.02,0.71,0.13,0.03,0.12,0.55,0.45
+23,Middle Georgia State University,Georgia,South,South Atlantic,44000,79800,57,11,Public,4 Year,9080,4608,13688,13568,22648,7927,0,0.02,0.33,0.03,0,0.03,0.42,0.01,0,0.57,0.58,0.42
+23,Methodist College,Illinois,Midwest,East North Central,51400,90500,,0,Private,4 Year,7440,20800,28240,20800,28240,595,0,0.03,0.1,0.03,0,0.02,0.18,0,0,0.82,0.87,0.13
+23,William Penn University,Iowa,Midwest,West North Central,43900,78300,59,7,Private,4 Year,6952,25600,32552,25600,32552,1791,0.01,0.01,0.16,0.08,0,0.02,0.28,0.03,0.03,0.66,0.5,0.5
+23,Bethany College (Kansas),Kansas,Midwest,West North Central,39100,73200,61,17,Private,4 Year,10605,28475,39080,28475,39080,717,0,0.01,0.15,0.15,0.01,0.03,0.34,0,0,0.65,0.39,0.61
+23,New Orleans Baptist Theological Seminary,Louisiana,South,West South Central,33900,61500,,0,Private,4 Year,2625,7775,10400,7775,10400,,,,,,,,,,,,,
+23,Notre Dame Maryland University,Maryland,South,South Atlantic,48300,86400,58,3,Private,4 Year,11850,36900,48750,36900,48750,2764,0.01,0.07,0.23,0.04,0,0,0.35,0.01,0.02,0.62,0.86,0.14
+23,Clark University,Massachusetts,Northeast,New England,52600,101400,47,14,Private,4 Year,9170,45730,54900,45730,54900,3423,0,0.05,0.04,0.05,0,0.02,0.16,0.25,0.09,0.51,0.57,0.43
+23,Central Michigan University,Michigan,Midwest,East North Central,47700,83600,46,13,Public,4 Year,10076,12960,23036,12960,23036,26879,0.01,0.01,0.11,0.03,0,0.02,0.19,0.04,0.04,0.73,0.57,0.43
+23,Concordia College Moorhead,Minnesota,Midwest,West North Central,46800,85200,63,21,Private,4 Year,8230,39878,48108,39878,48108,2398,0.01,0.02,0.02,0.02,0,0.02,0.07,0.04,0.06,0.83,0.6,0.4
+23,Bloomfield College,New Jersey,Northeast,Middle Atlantic,48400,89100,55,17,Private,4 Year,11950,29550,41500,29550,41500,2004,0.01,0.03,0.52,0.24,0,0.01,0.81,0.04,0.05,0.11,0.64,0.36
+23,Hamilton College,New York,Northeast,Middle Atlantic,62600,108100,45,25,Private,4 Year,13870,54620,68490,54620,68490,1904,0,0.07,0.04,0.08,0,0.03,0.22,0.05,0.09,0.64,0.52,0.48
+23,Pfeiffer University,North Carolina,South,South Atlantic,44200,78000,51,4,Private,4 Year,11226,30234,41460,30234,41460,1784,0,0.01,0.26,0.03,0,0.01,0.32,0.05,0.09,0.54,0.64,0.36
+23,University Findlay,Ohio,Midwest,East North Central,49100,87900,53,3,Private,4 Year,10000,34360,44360,34360,44360,5172,0,0.01,0.03,0.02,0,0.01,0.07,0.1,0.02,0.81,0.61,0.39
+23,University Science and Arts Oklahoma,Oklahoma,South,West South Central,37300,67400,49,11,Public,4 Year,6350,7215,13565,17565,23915,904,0.11,0.01,0.04,0.06,0,0.06,0.29,0.08,0,0.63,0.65,0.36
+23,Eastern Oregon University,Oregon,West,Pacific,44000,73900,56,5,Public,4 Year,10040,8679,18719,20739,30779,3653,0.02,0.02,0.03,0.06,0.01,0.01,0.16,0.01,0.07,0.76,0.64,0.36
+23,University Scranton,Pennsylvania,Northeast,Middle Atlantic,56400,99700,42,12,Private,4 Year,15182,44532,59714,44532,59714,5589,0,0.03,0.03,0.07,0,0.02,0.15,0.02,0.04,0.79,0.57,0.43
+23,Columbia College (South Carolina),South Carolina,South,South Atlantic,39200,68300,56,6,Private,4 Year,7900,19500,27400,19500,27400,1221,0,0.01,0.37,0.05,0,0.04,0.47,0.02,0.01,0.51,0.86,0.14
+23,Carson Newman University,Tennessee,South,East South Central,42700,76500,61,5,Private,4 Year,8810,27900,36710,27900,36710,2362,0,0.01,0.07,0.01,0,0,0.09,0.05,0.14,0.73,0.6,0.41
+23,University Houston Clear Lake,Texas,South,West South Central,50700,94800,48,29,Public,4 Year,,8500,8500,24731,24731,8665,0.01,0.06,0.09,0.26,0.02,0.02,0.46,0.16,0.01,0.37,0.62,0.38
+23,University Virginia's College Wise,Virginia,South,South Atlantic,46500,82600,53,5,Public,4 Year,10438,10119,20557,27176,37614,2183,0,0.01,0.1,0.02,0,0,0.14,0,0.07,0.79,0.6,0.4
+23,Evergreen State College,Washington,West,Pacific,47500,83500,47,0,Public,4 Year,11346,7949,19295,26459,37805,4219,0.03,0.02,0.05,0.08,0,0.07,0.26,0.01,0.08,0.66,0.55,0.45
+23,Concordia University Wisconsin,Wisconsin,Midwest,East North Central,46700,81600,61,9,Private,4 Year,10860,29450,40310,29450,40310,8161,0.01,0.02,0.12,0.03,0,0.03,0.21,0.04,0.06,0.69,0.69,0.32
+24,Amridge University,Alabama,South,East South Central,35700,65900,,0,Private,4 Year,,6900,6900,6900,6900,625,0,0.01,0.41,0.01,0,0,0.42,0,0.29,0.29,0.6,0.41
+24,Golden Gate University San Francisco,California,West,Pacific,59200,109800,49,3,Private,4 Year,,15840,15840,15840,15840,2909,0,0.17,0.07,0.1,0.02,0.02,0.37,0.14,0.19,0.3,0.55,0.45
+24,Barry University,Florida,South,South Atlantic,47400,84400,66,12,Private,4 Year,11100,29850,40950,29850,40950,8518,0,0.02,0.25,0.24,0,0.01,0.52,0.07,0.18,0.23,0.66,0.34
+24,Covenant College,Georgia,South,South Atlantic,44400,79400,62,19,Private,4 Year,10260,34330,44590,34330,44590,1173,0,0.02,0.03,0.03,0,0.02,0.1,0.03,0.02,0.85,0.59,0.41
+24,Southern Illinois University Edwardsville,Illinois,Midwest,East North Central,51400,90100,50,21,Public,4 Year,11121,12132,23253,25817,36938,13972,0,0.02,0.13,0.04,0,0.03,0.22,0.03,0.02,0.73,0.54,0.46
+24,Indiana University Purdue University Fort Wayne,Indiana,Midwest,East North Central,47300,83200,52,17,Public,4 Year,5996,8450,14446,20288,26284,13214,0,0.03,0.05,0.05,0,0.03,0.15,0.02,0.01,0.83,0.56,0.45
+24,Upper Iowa University,Iowa,Midwest,West North Central,44200,78000,56,3,Private,4 Year,8454,30450,38904,30450,38904,,,,,,,,,,,,,
+24,Manhattan Christian College,Kansas,Midwest,West North Central,39400,72200,,0,Private,4 Year,9092,15850,24942,15850,24942,311,0.02,0,0.03,0.03,0,0.01,0.08,0.05,0.11,0.76,0.47,0.53
+24,Campbellsville University,Kentucky,South,East South Central,37600,66800,50,7,Private,4 Year,8000,25400,33400,25400,33400,3427,0,0.01,0.11,0.02,0,0.01,0.15,0.07,0.02,0.77,0.58,0.42
+24,Maryland Institute College Art,Maryland,South,South Atlantic,49000,84500,40,0,Private,4 Year,13280,48630,61910,48630,61910,2262,0,0.12,0.06,0.06,0,0.05,0.29,0.13,0.06,0.52,0.72,0.28
+24,Smith College,Massachusetts,Northeast,New England,52700,98200,51,26,Private,4 Year,17520,52404,69924,52404,69924,2989,0,0.12,0.05,0.09,0,0.04,0.3,0.13,0.08,0.48,0.98,0.02
+24,Lake Superior State University,Michigan,Midwest,East North Central,45900,83500,48,14,Public,4 Year,9882,12090,21972,12090,21972,2407,0.09,0.01,0.03,0.02,0,0,0.15,0.07,0.02,0.77,0.52,0.48
+24,Minneapolis College Art and Design,Minnesota,Midwest,West North Central,47400,84700,39,0,Private,4 Year,5610,39210,44820,39210,44820,783,0.01,0.07,0.04,0.06,0,0,0.18,0,0.25,0.57,0.66,0.34
+24,Stephens College,Missouri,Midwest,West North Central,42800,77200,47,6,Private,4 Year,10632,30950,41582,30950,41582,862,0,0.01,0.14,0.04,0.01,0.06,0.25,0,0.02,0.72,0.96,0.04
+24,New Jersey City University,New Jersey,Northeast,Middle Atlantic,48700,87600,55,9,Public,4 Year,12738,12051,24789,21573,34311,8136,0,0.08,0.2,0.32,0,0.01,0.62,0.02,0.08,0.29,0.63,0.37
+24,Pace University New York,New York,Northeast,Middle Atlantic,59800,107800,40,14,Private,4 Year,19200,45280,64480,45280,64480,12857,0,0.09,0.11,0.12,0,0.03,0.35,0.14,0.05,0.47,0.61,0.4
+24,Stony Brook University,New York,Northeast,Middle Atlantic,59200,107800,49,35,Public,4 Year,13698,9625,23323,27295,40993,24607,0,0.19,0.06,0.09,0,0.02,0.36,0.17,0.08,0.39,0.49,0.51
+24,Barton College,North Carolina,South,South Atlantic,42400,77900,62,6,Private,4 Year,10120,30880,41000,30880,41000,1035,0.01,0.01,0.24,0.05,0,0.03,0.34,0.03,0.05,0.58,0.69,0.31
+24,Wright State University,Ohio,Midwest,East North Central,50300,87800,49,31,Public,4 Year,11832,9254,21086,18398,30230,16842,0,0.03,0.12,0.03,0,0.04,0.21,0.11,0.01,0.68,0.52,0.48
+24,New Hope Christian College Eugene,Oregon,West,Pacific,34200,61600,,0,Private,4 Year,6300,14880,21180,14880,21180,162,0.01,0.04,0.04,0.09,0.04,0.09,0.31,0.03,0.06,0.61,0.49,0.51
+24,Grove City College,Pennsylvania,Northeast,Middle Atlantic,54400,98400,53,29,Private,4 Year,9770,17930,27700,17930,27700,,,,,,,,,,,,,
+24,Benedict College,South Carolina,South,South Atlantic,38100,67500,61,19,Private,4 Year,6200,16600,22800,16600,22800,2444,0,0,0.99,0,0,0,1,0,0,0,0.5,0.5
+24,Maryville College,Tennessee,South,East South Central,42800,75300,68,16,Private,4 Year,11424,34880,46304,34880,46304,1213,0.01,0.01,0.11,0.03,0,0.03,0.19,0.03,0.01,0.78,0.54,0.46
+24,Amberton University,Texas,South,West South Central,52800,93600,57,0,Private,4 Year,,12840,12840,12840,12840,,,,,,,,,,,,,
+24,Virginia State University,Virginia,South,South Atlantic,44900,81800,61,14,Public,4 Year,11208,9056,20264,19576,30784,5025,0,0.01,0.85,0.02,0,0,0.88,0,0.09,0.03,0.6,0.4
+24,Clark College,Washington,West,Pacific,43500,78400,,9,Public,2 Year,,4287,4287,9718,9718,10911,0.01,0.04,0.02,0.09,0.01,0.08,0.23,0.01,0.06,0.69,0.57,0.43
+24,University Wisconsin Parkside,Wisconsin,Midwest,East North Central,46000,81400,47,17,Public,4 Year,8026,7529,15555,15518,23544,4543,0,0.03,0.09,0.12,0,0.04,0.28,0.02,0,0.7,0.52,0.48
+25,Miles College,Alabama,South,East South Central,34800,65100,64,19,Private,4 Year,7042,11604,18646,11604,18646,1782,0,0,0.97,0,0,0.01,0.98,0,0,0.02,0.49,0.51
+25,University San Diego,California,West,Pacific,58900,109400,48,12,Private,4 Year,12980,49358,62338,49358,62338,8349,0.01,0.08,0.04,0.18,0,0.05,0.35,0.07,0.05,0.53,0.57,0.43
+25,Florida Agricultural and Mechanical University,Florida,South,South Atlantic,48000,83900,62,8,Public,4 Year,10594,5827,16421,17768,28362,10241,0,0.01,0.88,0.02,0,0,0.92,0.01,0,0.07,0.62,0.38
+25,Columbus State University,Georgia,South,South Atlantic,43300,77900,59,10,Public,4 Year,9880,7200,17080,20682,30562,8192,0,0.02,0.36,0.05,0,0.02,0.46,0.01,0,0.53,0.6,0.4
+25,Lewis University,Illinois,Midwest,East North Central,49700,89800,53,14,Private,4 Year,10578,32450,43028,32450,43028,6689,0,0.03,0.09,0.16,0,0.02,0.3,0.01,0.04,0.64,0.6,0.4
+25,Iowa Wesleyan University,Iowa,Midwest,West North Central,42600,77200,60,8,Private,4 Year,10500,30500,41000,30500,41000,473,0.01,0.01,0.06,0.04,0,0.02,0.14,0.05,0.21,0.6,0.6,0.4
+25,Central Christian College Kansas,Kansas,Midwest,West North Central,37100,66100,,2,Private,4 Year,8286,26674,34960,26674,34960,1165,0.02,0.01,0.18,0.09,0,0.02,0.32,0.01,0.22,0.46,0.49,0.51
+25,Lindsey Wilson College,Kentucky,South,East South Central,35300,64100,52,2,Private,4 Year,9385,24850,34235,24850,34235,2641,0.01,0.01,0.1,0.01,0,0.01,0.13,0,0.2,0.67,0.61,0.39
+25,Hood College,Maryland,South,South Atlantic,47900,82600,49,32,Private,4 Year,12700,39492,52192,39492,52192,2365,0,0.03,0.11,0.06,0,0.03,0.23,0.07,0.04,0.66,0.64,0.37
+25,Wheaton College (Massachusetts),Massachusetts,Northeast,New England,52600,97500,46,28,Private,4 Year,13424,52626,66050,52626,66050,1587,0,0.04,0.06,0.07,0,0.03,0.2,0.1,0.02,0.68,0.64,0.36
+25,Saginaw Valley State University,Michigan,Midwest,East North Central,46400,82200,54,12,Public,4 Year,10186,10308,20494,24215,34401,9829,0,0.01,0.1,0.03,0,0.02,0.16,0.06,0.06,0.72,0.59,0.41
+25,St Catherine University,Minnesota,Midwest,West North Central,48800,82600,65,2,Private,4 Year,9260,39669,48929,39669,48929,5055,0.01,0.08,0.08,0.05,0,0.02,0.23,0.01,0.06,0.7,0.94,0.06
+25,Columbia College (Missouri),Missouri,Midwest,West North Central,44100,76600,52,2,Private,4 Year,7808,22704,30512,22704,30512,16567,0.01,0.01,0.24,0.07,0.01,0.03,0.37,0.01,0.06,0.56,0.59,0.41
+25,Stockton University,New Jersey,Northeast,Middle Atlantic,47400,85800,49,16,Public,4 Year,12282,13739,26021,20866,33148,8570,0,0.05,0.06,0.1,0,0.03,0.24,0,0.02,0.74,0.61,0.39
+25,Western Carolina University,North Carolina,South,South Atlantic,44700,77700,58,8,Public,4 Year,9682,4220,13902,8220,17902,10382,0.01,0.01,0.06,0.05,0,0.03,0.17,0.03,0.01,0.8,0.56,0.44
+25,Bowling Green State University,Ohio,Midwest,East North Central,47200,87500,45,11,Public,4 Year,9168,11105,20273,19093,28261,16554,0,0.01,0.09,0.04,0,0.03,0.17,0.04,0.03,0.76,0.57,0.43
+25,Pennsylvania State University Penn State Erie Behrend College,Pennsylvania,Northeast,Middle Atlantic,58800,97900,44,32,Public,4 Year,11570,15198,26768,24450,36020,4138,0,0.03,0.04,0.03,0,0.01,0.11,0.07,0.02,0.8,0.35,0.65
+25,Columbia International University,South Carolina,South,South Atlantic,36600,66200,62,0,Private,4 Year,8150,23690,31840,23690,31840,1103,0,0.03,0.18,0.03,0,0.02,0.26,0.05,0.03,0.66,0.48,0.52
+25,Milligan College,Tennessee,South,East South Central,41200,74900,63,5,Private,4 Year,7100,33700,40800,33700,40800,1164,0,0.01,0.04,0.05,0,0.02,0.12,0.03,0.01,0.85,0.65,0.35
+25,Southwestern University,Texas,South,West South Central,51800,93500,51,19,Private,4 Year,12000,42000,54000,42000,54000,1538,0,0.03,0.05,0.19,0,0.03,0.3,0.05,0.01,0.65,0.58,0.42
+25,Ferrum College,Virginia,South,South Atlantic,43000,80600,54,6,Private,4 Year,11500,34175,45675,34175,45675,1451,0,0.01,0.3,0.05,0,0.05,0.41,0.01,0.03,0.55,0.47,0.53
+25,Heritage University,Washington,West,Pacific,41100,73600,,17,Private,4 Year,,18124,18124,18124,18124,1241,0.05,0.02,0.01,0.47,0,0.04,0.59,0.01,0.06,0.35,0.74,0.26
+25,University Wisconsin River Falls,Wisconsin,Midwest,East North Central,47100,81300,52,14,Public,4 Year,6513,7862,14375,15435,21948,6198,0,0.02,0.02,0.03,0,0.02,0.09,0.05,0,0.86,0.61,0.39
