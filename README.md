@@ -94,7 +94,6 @@ Presentations are drafted in Google Slides.
 All code in the main branch is production-ready.
 
 The main branch should include:
-- [ ] All code necessary to perform exploratory analysis
 - [ ] Some code necessary to complete the machine learning portion of project
 
 #### README.md
