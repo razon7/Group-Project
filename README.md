@@ -15,7 +15,7 @@
 
 ### Machine Learning 
 * **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/ML%20mockup.pdf).
-* **SciKitLearn** is the ML library we intend to use. 
+* **SciKitLearn** is being used to train_test_split and **Imbalanced-learn** is our primary ML library. 
 
 ### Dashboard
 * **Tableau** will be used to create and host our dashboard. 
@@ -28,6 +28,7 @@ We believe that by studying these datasets, we can better understand how to opti
 _Our initial focus will be to better understand our datasets, asking some basic questions, such as:_
 * How many colleges are in each state?
 * How many public, private, and for-profit colleges are in each state?
+* What are the average tuition costs by state of a two-year and four-year college?
 * How does field of study influence early career pay?
 * What states have the highest early career pay?
 * What regions have the highest early careery pay?
