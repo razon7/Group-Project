@@ -50,14 +50,14 @@ Possible additional features:
 * Early Career Salary
 
 **At the end of this project, we seek to answer the following questions:**
-* Does the college location (state, region, and/or division) influence early career salary?
-* Does the college tuition cost (in-state or out-of-state) influence early career salary?
-* Does the college enrollment size influence early career salary?
-* Does the degree length (two-year or four-year) influence early career salary?
-* Does a public, private, or for-profit college influence early career salary?
-* How does a two-year degree compare to a four-year degree with regards to early career salary? 
-* How does in-state tuition costs compare to out-of-state with regards to early career salary?
-* How does geographical region (and/or division) influence early career salary?
+* Does the college location (state, region, and/or division) influence early career pay?
+* Does the college tuition cost (in-state or out-of-state) influence early career pay?
+* Does the college enrollment size influence early career pay?
+* How does field of study influence early career pay?
+* Does a public, private, or for-profit college influence early career pay?
+* How does a two-year degree compare to a four-year degree with regards to early career pay? 
+* How does in-state tuition costs compare to out-of-state with regards to early career pay?
+* How does geographical region (and/or division) influence early career pay?
 
 ## Data Sources
 Our data is spread across four CSV files and can be found in the Resources folder housed on the main branch of this repository. These files were sourced from [Kaggle](https://www.kaggle.com/) and below is a breakdown of where the data originated.
@@ -73,9 +73,9 @@ Our presentation is hosted on Google Slides and can be viewed [here](TBD LINK)
 | **File** | **Link** |
 |----- | ---- |
 | Presentation | [Google Slides](TBD LINK)|
-| Exploratory Analysis Code | [FILE TITLE TBD](TBD LINK) |
-| Machine Learning Code | [FILE TITLE TBD](TBD LINK) |
-| Database Integration | [FILE TITLE TBD](TBD LINK) |
+| Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA_College_Statistics.ipynb) |
+| Machine Learning Code | [Machine_Learning_Models](https://github.com/razon7/Group-Project/tree/main/Resources/Machine_Learning_Models) |
+| Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/University_Salary_ML_Table.sql) |
 | Dashbard Blueprint | [Google Slides](TBD LINK) |
 
 --------------------------------------------
