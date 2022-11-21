@@ -63,7 +63,7 @@ Possible additional features:
 Our data is spread across four CSV files and can be found in the Resources folder housed on the main branch of this repository. These files were sourced from [Kaggle](https://www.kaggle.com/) and below is a breakdown of where the data originated.
 * School name, tuition, fees, school type, degree length, state, and in-state vs out-of-state comes from [The Chronicle of Higher Education](https://www.chronicle.com/).
 * Enrollment size comes from [TuitionTracker.org](https://www.tuitiontracker.org/).
-* Potential salary data and percentage of STEM degrees comes from [payscale.com](https://www.payscale.com/).
+* Potential salary data, percentage of STEM degrees, and Make World Better percent comes from [payscale.com](https://www.payscale.com/).
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
 ## Presentation
