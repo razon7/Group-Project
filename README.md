@@ -7,7 +7,7 @@
 ## Technologies and Platforms
 
 ### Data Cleaning and Analysis
-* **Python** along with the **Pandas library**, **Matplotlib**, and **Plotly** was used to clean the data and perform initial analysis. 
+* **Python** along with the **Pandas**, **Matplotlib**, and **Plotly** was used to clean the data and perform initial analysis. 
 
 ### Database Storage
 * **QuickDBD** was used to create our database diagram and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png).
@@ -18,7 +18,7 @@
 * **SciKitLearn** is being used to train_test_split and **Imbalanced-learn** is our primary ML library. 
 
 ### Dashboard
-* **Tableau** will be used to create and host our dashboard. 
+* **Tableau Public** will be used to create and host our dashboard. 
 
 ## Selected Topic - College and Early Career Salary
 College tuition costs are a hot topic these days. According to the Department of Education, the typical undergraduate student with loans graduates with nearly $25,000 in debt. Since 1980, the total cost of both four-year public and four-year private college has nearly tripled, even after accounting for inflation[^1]. Due to the Covid pandemic, federal student loan repayment has been paused since March 2020 and the Biden administration has attempted to enact a Federal Student Loan Relief program for low- to middle-income borrowers, forgiving up to $10,000 of existing post-high school educational debt. Some believe that the cost of a college education should not be the responsibility of the student alone, and others disagree. Regardless of what school of thought you subscribe to, college tuition costs are an important factor when considering where to go and what to study, while keeping a focus on what will someone earn once they graduate.
