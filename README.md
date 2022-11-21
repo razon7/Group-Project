@@ -83,7 +83,7 @@ Our presentation is hosted on Google Slides and can be viewed [here](https://doc
 | Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA_College_Statistics.ipynb) |
 | Machine Learning Code | [Machine_Learning_Models](https://github.com/razon7/Group-Project/tree/main/Resources/Machine_Learning_Models) |
 | Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/University_Salary_ML_Table.sql) |
-| Dashbard Blueprint | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing) |
+| Dashboard Blueprint | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing) |
 
 --------------------------------------------
 ## Assigned Roles - Week 2
