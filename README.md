@@ -28,9 +28,9 @@ We believe that by studying these datasets, we can better understand how to opti
 _Our initial focus will be to better understand our datasets, asking some basic questions, such as:_
 * How many colleges are in each state?
 * How many public, private, and for-profit colleges are in each state?
-* What are the average tuition costs by state of a two-year and four-year college?
-* What states have the highest early career salary?
-* What regions have the highest early careery salary?
+* How does field of study influence early career pay?
+* What states have the highest early career pay?
+* What regions have the highest early careery pay?
 
 **We intend to use the following labels as our features:**
 * State
@@ -55,7 +55,6 @@ Possible additional features:
 * Does the college enrollment size influence early career pay?
 * How does field of study influence early career pay?
 * Does a public, private, or for-profit college influence early career pay?
-* How does a two-year degree compare to a four-year degree with regards to early career pay? 
 * How does in-state tuition costs compare to out-of-state with regards to early career pay?
 * How does geographical region (and/or division) influence early career pay?
 
