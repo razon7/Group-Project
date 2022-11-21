@@ -7,11 +7,11 @@
 ## Technologies and Platforms
 
 ### Data Cleaning and Analysis
-* **Python** along with the **Pandas library** will be used to clean any data and perform initial analysis. 
+* **Python** along with the **Pandas library**, **Matplotlib**, and **Plotly** was used to clean the data and perform initial analysis. 
 
 ### Database Storage
 * **QuickDBD** was used to create our database diagram and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png).
-* **Postgresql** is our chosen database.
+* **Postgresql** is our chosen database and **SQLAlchemy** is our Object Relational Mapper.
 
 ### Machine Learning 
 * **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/ML%20mockup.pdf).
@@ -67,16 +67,23 @@ Our data is spread across four CSV files and can be found in the Resources folde
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
 ## Presentation
-Our presentation is hosted on Google Slides and can be viewed [here](TBD LINK)
+Our presentation is hosted on Google Slides and can be viewed [here](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing).
+
+**Descriptions of the following can be found in the Google Slides:** 
+* Project Summary
+* Database
+* Exploratory Data Analysis
+* Machine Learning 
+* Dashboard Storyboard
 
 ## Project Deliverables - Week 2
 | **File** | **Link** |
 |----- | ---- |
-| Presentation | [College_Costs_Career_Pay](TBD LINK)|
+| Presentation | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing)|
 | Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA_College_Statistics.ipynb) |
 | Machine Learning Code | [Machine_Learning_Models](https://github.com/razon7/Group-Project/tree/main/Resources/Machine_Learning_Models) |
 | Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/University_Salary_ML_Table.sql) |
-| Dashbard Blueprint | [College_Costs_Career_Pay](TBD LINK) |
+| Dashbard Blueprint | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing) |
 
 --------------------------------------------
 ## Assigned Roles - Week 2
