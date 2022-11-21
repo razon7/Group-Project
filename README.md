@@ -72,11 +72,11 @@ Our presentation is hosted on Google Slides and can be viewed [here](TBD LINK)
 ## Project Deliverables - Week 2
 | **File** | **Link** |
 |----- | ---- |
-| Presentation | [Google Slides](TBD LINK)|
+| Presentation | [College_Costs_Career_Pay](TBD LINK)|
 | Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA_College_Statistics.ipynb) |
 | Machine Learning Code | [Machine_Learning_Models](https://github.com/razon7/Group-Project/tree/main/Resources/Machine_Learning_Models) |
 | Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/University_Salary_ML_Table.sql) |
-| Dashbard Blueprint | [Google Slides](TBD LINK) |
+| Dashbard Blueprint | [College_Costs_Career_Pay](TBD LINK) |
 
 --------------------------------------------
 ## Assigned Roles - Week 2
@@ -95,8 +95,8 @@ The presentation outlines the project, including the following:
 - [X] Reason topic was selected
 - [X] Description of the source of data
 - [X] Questions the team hopes to answer with the data
-- [ ] Description of the data exploration phase of the project
-- [ ] Description of the analysis phase of the project
+- [X] Description of the data exploration phase of the project
+- [X] Description of the analysis phase of the project
 
 #### Slides
 Presentations are drafted in Google Slides.
@@ -106,40 +106,40 @@ Presentations are drafted in Google Slides.
 All code in the main branch is production-ready.
 
 The main branch should include:
-- [ ] Some code necessary to complete the machine learning portion of project
+- [X] Some code necessary to complete the machine learning portion of project
 
 #### README.md
 README.md should include:
 - [X] Description of the communication protocols
-- [ ] Outline of the project (this may include images, but they should be easy to follow and digest)
+- [X] Outline of the project (this may include images, but they should be easy to follow and digest)
 
 #### Individual Branches
 Requirements for the individual branches follow:
 - [X] At least one branch for each team member
-- [ ] Each team member has at least four commits for the duration of the second segment (eight total commits per person)
+- [X] Each team member has at least four commits for the duration of the second segment (eight total commits per person)
 
 ### Machine Learning Model (30 points)
 The team members are expected to submit the code for the machine learning model, as well as the following:
-- [ ] Description of preliminary data preprocessing
-- [ ] Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
-- [ ] Description of how data was split into training and testing sets
-- [ ] Explanation of model choice, including limitations and benefits
+- [X] Description of preliminary data preprocessing
+- [X] Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+- [X] Description of how data was split into training and testing sets
+- [X] Explanation of model choice, including limitations and benefits
 
 ### Database Integration (30 points)
 The team members are expected to present a fully integrated database, including the following:
-- [ ] Database stores static data for use during the project
-- [ ] Database interfaces with the project in some format (e.g., scraping updates the database)
-- [ ] Includes at least two tables (or collections, if using MongoDB)
-- [ ] Includes at least one join using the database language (not including any joins in Pandas)
-- [ ] Includes at least one connection string (using SQLAlchemy or PyMongo)
+- [X] Database stores static data for use during the project
+- [X] Database interfaces with the project in some format (e.g., scraping updates the database)
+- [X] Includes at least two tables (or collections, if using MongoDB)
+- [X] Includes at least one join using the database language (not including any joins in Pandas)
+- [X] Includes at least one connection string (using SQLAlchemy or PyMongo)
 
 ERD relationships must be provided with the SQL database.
 
 ### Dashboard (15 points)
 A blueprint for the dashboard is created and includes all of the following:
-- [ ] Storyboard on a Google Slide(s)
-- [ ] Description of the tool(s) that will be used to create the final dashboard
-- [ ] Description of interactive element(s)
+- [X] Storyboard on a Google Slide(s)
+- [X] Description of the tool(s) that will be used to create the final dashboard
+- [X] Description of interactive element(s)
 
 --------------------------------------------
 ## Assigned Roles - Week 1
