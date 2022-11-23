@@ -7,18 +7,18 @@
 ## Technologies and Platforms
 
 ### Data Cleaning and Analysis
-* **Python** along with the **Pandas library** will be used to clean any data and perform initial analysis. 
+* **Python** along with the **Pandas**, **Matplotlib**, and **Plotly** was used to clean the data and perform initial analysis. 
 
 ### Database Storage
 * **QuickDBD** was used to create our database diagram and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png).
-* **Postgresql** is our chosen database.
+* **Postgresql** is our chosen database and **SQLAlchemy** is our Object Relational Mapper.
 
 ### Machine Learning 
 * **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/ML%20mockup.pdf).
-* **SciKitLearn** is the ML library we intend to use. 
+* **SciKitLearn** is being used to train_test_split and **Imbalanced-learn** is our primary ML library. 
 
 ### Dashboard
-* **Tableau** will be used to create and host our dashboard. 
+* **Tableau Public** will be used to create and host our dashboard. 
 
 ## Selected Topic - College and Early Career Salary
 College tuition costs are a hot topic these days. According to the Department of Education, the typical undergraduate student with loans graduates with nearly $25,000 in debt. Since 1980, the total cost of both four-year public and four-year private college has nearly tripled, even after accounting for inflation[^1]. Due to the Covid pandemic, federal student loan repayment has been paused since March 2020 and the Biden administration has attempted to enact a Federal Student Loan Relief program for low- to middle-income borrowers, forgiving up to $10,000 of existing post-high school educational debt. Some believe that the cost of a college education should not be the responsibility of the student alone, and others disagree. Regardless of what school of thought you subscribe to, college tuition costs are an important factor when considering where to go and what to study, while keeping a focus on what will someone earn once they graduate.
@@ -29,8 +29,9 @@ _Our initial focus will be to better understand our datasets, asking some basic 
 * How many colleges are in each state?
 * How many public, private, and for-profit colleges are in each state?
 * What are the average tuition costs by state of a two-year and four-year college?
-* What states have the highest early career salary?
-* What regions have the highest early careery salary?
+* How does field of study influence early career pay?
+* What states have the highest early career pay?
+* What regions have the highest early careery pay?
 
 **We intend to use the following labels as our features:**
 * State
@@ -50,21 +51,39 @@ Possible additional features:
 * Early Career Salary
 
 **At the end of this project, we seek to answer the following questions:**
-* Does the college location (state, region, and/or division) influence early career salary?
-* Does the college tuition cost (in-state or out-of-state) influence early career salary?
-* Does the college enrollment size influence early career salary?
-* Does the degree length (two-year or four-year) influence early career salary?
-* Does a public, private, or for-profit college influence early career salary?
-* How does a two-year degree compare to a four-year degree with regards to early career salary? 
-* How does in-state tuition costs compare to out-of-state with regards to early career salary?
-* How does geographical region (and/or division) influence early career salary?
+* Does the college location (state, region, and/or division) influence early career pay?
+* Does the college tuition cost (in-state or out-of-state) influence early career pay?
+* Does the college enrollment size influence early career pay?
+* How does field of study influence early career pay?
+* Does a public, private, or for-profit college influence early career pay?
+* How does in-state tuition costs compare to out-of-state with regards to early career pay?
+* How does geographical region (and/or division) influence early career pay?
 
 ## Data Sources
 Our data is spread across four CSV files and can be found in the Resources folder housed on the main branch of this repository. These files were sourced from [Kaggle](https://www.kaggle.com/) and below is a breakdown of where the data originated.
 * School name, tuition, fees, school type, degree length, state, and in-state vs out-of-state comes from [The Chronicle of Higher Education](https://www.chronicle.com/).
 * Enrollment size comes from [TuitionTracker.org](https://www.tuitiontracker.org/).
-* Potential salary data and percentage of STEM degrees comes from [payscale.com](https://www.payscale.com/).
+* Potential salary data, percentage of STEM degrees, and Make World Better percent comes from [payscale.com](https://www.payscale.com/).
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
+
+## Presentation
+Our presentation is hosted on Google Slides and can be viewed [here](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing).
+
+**Descriptions of the following can be found in the Google Slides:** 
+* Project Summary
+* Database
+* Exploratory Data Analysis
+* Machine Learning 
+* Dashboard Storyboard
+
+## Project Deliverables - Week 2
+| **File** | **Link** |
+|----- | ---- |
+| Presentation | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing)|
+| Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA_College_Statistics.ipynb) |
+| Machine Learning Code | [Machine_Learning_Models](https://github.com/razon7/Group-Project/tree/main/Resources/Machine_Learning_Models) |
+| Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/University_Salary_ML_Table.sql) |
+| Dashboard Blueprint | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing) |
 
 --------------------------------------------
 ## Assigned Roles - Week 2
@@ -83,8 +102,8 @@ The presentation outlines the project, including the following:
 - [X] Reason topic was selected
 - [X] Description of the source of data
 - [X] Questions the team hopes to answer with the data
-- [ ] Description of the data exploration phase of the project
-- [ ] Description of the analysis phase of the project
+- [X] Description of the data exploration phase of the project
+- [X] Description of the analysis phase of the project
 
 #### Slides
 Presentations are drafted in Google Slides.
@@ -94,41 +113,40 @@ Presentations are drafted in Google Slides.
 All code in the main branch is production-ready.
 
 The main branch should include:
-- [ ] All code necessary to perform exploratory analysis
-- [ ] Some code necessary to complete the machine learning portion of project
+- [X] Some code necessary to complete the machine learning portion of project
 
 #### README.md
 README.md should include:
 - [X] Description of the communication protocols
-- [ ] Outline of the project (this may include images, but they should be easy to follow and digest)
+- [X] Outline of the project (this may include images, but they should be easy to follow and digest)
 
 #### Individual Branches
 Requirements for the individual branches follow:
 - [X] At least one branch for each team member
-- [ ] Each team member has at least four commits for the duration of the second segment (eight total commits per person)
+- [X] Each team member has at least four commits for the duration of the second segment (eight total commits per person)
 
 ### Machine Learning Model (30 points)
 The team members are expected to submit the code for the machine learning model, as well as the following:
-- [ ] Description of preliminary data preprocessing
-- [ ] Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
-- [ ] Description of how data was split into training and testing sets
-- [ ] Explanation of model choice, including limitations and benefits
+- [X] Description of preliminary data preprocessing
+- [X] Description of preliminary feature engineering and preliminary feature selection, including the decision-making process
+- [X] Description of how data was split into training and testing sets
+- [X] Explanation of model choice, including limitations and benefits
 
 ### Database Integration (30 points)
 The team members are expected to present a fully integrated database, including the following:
-- [ ] Database stores static data for use during the project
-- [ ] Database interfaces with the project in some format (e.g., scraping updates the database)
-- [ ] Includes at least two tables (or collections, if using MongoDB)
-- [ ] Includes at least one join using the database language (not including any joins in Pandas)
-- [ ] Includes at least one connection string (using SQLAlchemy or PyMongo)
+- [X] Database stores static data for use during the project
+- [X] Database interfaces with the project in some format (e.g., scraping updates the database)
+- [X] Includes at least two tables (or collections, if using MongoDB)
+- [X] Includes at least one join using the database language (not including any joins in Pandas)
+- [X] Includes at least one connection string (using SQLAlchemy or PyMongo)
 
 ERD relationships must be provided with the SQL database.
 
 ### Dashboard (15 points)
 A blueprint for the dashboard is created and includes all of the following:
-- [ ] Storyboard on a Google Slide(s)
-- [ ] Description of the tool(s) that will be used to create the final dashboard
-- [ ] Description of interactive element(s)
+- [X] Storyboard on a Google Slide(s)
+- [X] Description of the tool(s) that will be used to create the final dashboard
+- [X] Description of interactive element(s)
 
 --------------------------------------------
 ## Assigned Roles - Week 1
