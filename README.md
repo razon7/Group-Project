@@ -74,7 +74,7 @@ Our presentation is hosted on Google Slides and can be viewed [here](https://doc
 | Dashboard  | [Tableau Public](TBD ON Link) |
 
 ## Technologies and Platforms
-![tech_platforms_algorithms](https://github.com/Kelfang/test/blob/main/tech_platforms_algorithms.png)
+![tech_platforms_algorithms](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/tech_platforms_algorithms.png)
 
 ## Database 
 PostgreSQL, via PGAdmin, is used to store the tables of data. We used SQLAlchemy as our Object Relational Mapper. 
@@ -88,11 +88,11 @@ The most common features within our datasets are **TB UPDATED WITH NEW DBD IMAGE
 After cleaning the data, which entailed matching and formatting the school names, we were left with 907 rows and 27 columns. Overall, the initial review showed that Mississippi had the lowest average of Early Career Pay while New York edged out California for the highest. Here are some highlights we found during the EDA process. 
 
 * The visual below shows the average Early Career Pay by Division. The divisions are comprised of smaller groups with the regions, as defined by the U.S. Census Bureau. The Middle Atlantic includes New York and East South Central includes Mississippi. 
-![avg_career_pay_by_division](https://github.com/Kelfang/test/blob/main/avg_career_pay_by_division.png)
+![avg_career_pay_by_division](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/avg_career_pay_by_division.png)
 
 
 * What we found most interesting was the correlation of **Stem Percent** (the percentage of students enrolled in STEM fields of study) to **Early Career Pay**. The higher the percentage, the higher the pay. In sharp contrast, the lower the **Make World Better Percent** (the percentage of students who identified themselves in fields of study to better the world around them) the lower the **Early Career Pay**. As you can see, these patterns exist across all regions of the United States.
-![stem_vs_mwb_eda](https://github.com/Kelfang/test/blob/main/stem_vs_mwb_eda.png)
+![stem_vs_mwb_eda](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/stem_vs_mwb_eda.png)
 
 ## Machine Learning
 
@@ -117,7 +117,7 @@ Of the dropped columns above we selected to remove Mid Career Pay and Rank for t
 While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column.
 
 ### Model Training and Testing - TB Updated if needed
- ![four_ml_models_tested](https://github.com/Kelfang/test/blob/main/four_ml_models_tested.png)
+ ![four_ml_models_tested](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/four_ml_models_tested.png)
 
 ### Model Selection with Benefits and Limitations - TB Updated
 TBD
@@ -131,13 +131,13 @@ The interactive dashboard is created and hosted on Tableau Public. The direct li
 ### Interactive Elements
 TBD
 
-## Analysis 
+## Analysis - TB Updated with Group
 TBD
 
-### Improvements - TB Updated
+### Improvements - TB Updated with Group
 * Collected more Early Career Pay on more schools, focusing on more two-year schools. By having more two-year data this could provided valuable information to those future students who are unsure of which degree length to select.?
 
-### Recommendations for Additional Analysis - TB Updated
+### Recommendations for Additional Analysis - TB Updated with Group
 * Include the cost of living expenses by state so that it could be directly compared to Early Career Pay. In most cases higher pay can be found where the cost of living is higher.
 * Unemployment rate (by state)?
 
