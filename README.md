@@ -14,7 +14,7 @@
 
 
 ## Selected Topic - College and Early Career Salary
-College tuition costs are a hot topic these days. According to the Department of Education, the typical undergraduate student with loans graduates with nearly $25,000 in debt. Since 1980, the total cost of both four-year public and four-year private college has nearly tripled, even after accounting for inflation[^1]. Due to the Covid pandemic, federal student loan repayment has been paused since March 2020 and the Biden administration has attempted to enact a Federal Student Loan Relief program for low- to middle-income borrowers, forgiving up to $10,000 of existing post-high school educational debt. Some believe that the cost of a college education should not be the responsibility of the student alone, and others disagree. Regardless of what school of thought you subscribe to, college tuition costs are an important factor when considering where to go and what to study, while keeping a focus on what will someone earn once they graduate.
+College tuition costs are a hot topic these days. According to the Department of Education, the typical undergraduate student with loans graduates with nearly $25,000 in debt. Since 1980, the total cost of both four-year public and four-year private college has nearly tripled, even after accounting for inflation[^1]. Due to the Covid pandemic, federal student loan repayment has been paused since March 2020 and the Biden administration has attempted to enact a Federal Student Loan Relief program for low- to middle-income borrowers, forgiving up to $20,000 of existing post-high school educational debt. Some believe that the cost of a college education should not be the responsibility of the student alone, and others disagree. Regardless of what school of thought you subscribe to, college tuition costs are an important factor when considering where to go and what to study, while keeping a focus on what will someone earn once they graduate.
 
 We believe that by studying these datasets, we can better understand how to optimize college expenses in relation to the early career salary. This data-driven research could provide another layer of insight to future college bound students, coupled with their intuition and/or personal experience. 
 
@@ -76,12 +76,16 @@ Our presentation is hosted on Google Slides and can be viewed [here](https://doc
 ## Technologies and Platforms
 ![tech_platforms_algorithms](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/tech_platforms_algorithms.png)
 
+## ETL Process
+![etl_visual](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/etl_visual.png)
+
 ## Database 
 PostgreSQL, via PGAdmin, is used to store the tables of data. We used SQLAlchemy as our Object Relational Mapper. 
 
 Below is our entity relational diagram that outlines our datasets and assisted with our EDA process. 
 
-The most common features within our datasets are **TB UPDATED WITH NEW DBD IMAGE BELOW**
+The most common features within our datasets are **University_Name_Clean** and **State**. 
+**TB UPDATED WITH NEW DBD IMAGE BELOW**
 ![University_Salary_DBD](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png)
 
 ## Exploratory Data Analysis 
