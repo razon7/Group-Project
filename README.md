@@ -130,7 +130,7 @@ While we were initially interested in the difference of Early Career Pay between
 * Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **Optimized Machine Learning code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
 
 ## Dashboard
-The interactive dashboard is created and hosted on Tableau Public. The direct link is [here](TBD on link).
+The interactive dashboard is created and hosted on Tableau Public. 
 
 ### Interactive Elements 
 * Map of the United States with Tooltip of State Name, Average Career Pay, and University Name (of school with the highest Early Career Pay). 
