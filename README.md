@@ -69,7 +69,7 @@ Our presentation is hosted on Google Slides and can be viewed [here](https://doc
 |----- | ---- |
 | Presentation | [Google Slides](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing)|
 | Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA/EDA_College_Statistics.ipynb) |
-| Machine Learning Code | [Machine_Learning](TBD ON LINK) |
+| Machine Learning Code | [EasyEnsemble_Classifier](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb) |
 | Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/Database/University_Salary_ML_Table.sql) |
 | Dashboard  | [Tableau Public](TBD ON Link) |
 
