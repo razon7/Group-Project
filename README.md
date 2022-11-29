@@ -127,7 +127,7 @@ While we were initially interested in the difference of Early Career Pay between
 
 ### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3 
 * After further testing, we are confident in our initial choice of the Easy Ensemble model. 
-* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. 
+* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **Optimized Machine Learning code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
 
 ## Dashboard
 The interactive dashboard is created and hosted on Tableau Public. The direct link is [here](TBD on link).
