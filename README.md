@@ -123,17 +123,18 @@ While we were initially interested in the difference of Early Career Pay between
 ### Model Training and Testing - TB Updated if needed
  ![four_ml_models_tested](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/four_ml_models_tested.png)
 
-### Model Selection with Benefits and Limitations - TB Updated
-TBD
+### Model Selection with Benefits and Limitations
+![ml_benefit_limits](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_benefit_limits.png)
 
-### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3 - TB Updated
-TBD
+### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3 
+* After further testing, we are confident in our initial choice of the Easy Ensemble model. 
+* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. 
 
 ## Dashboard - TB Updated
 The interactive dashboard is created and hosted on Tableau Public. The direct link is [here](TBD on link).
 
-### Interactive Elements
-TBD
+### Interactive Elements 
+
 
 ## Analysis - TB Updated with Group
 TBD
@@ -200,9 +201,9 @@ The team members are expected to submit the code for the machine learning model,
 - [X] Description of feature engineering and the feature selection, including the decision-making process
 - [X] Description of how data was split into training and testing sets
 - [X] Explanation of model choice, including limitations and benefits
-- [] Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+- [X] Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
 - [] Description of how they have trained the model thus far, and any additional training that will take place
-- [] Description of current accuracy score
+- [X] Description of current accuracy score
 
 ***Additionally, the model obviously addresses the question or problem the team is solving.***
 
