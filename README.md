@@ -85,7 +85,6 @@ PostgreSQL, via PGAdmin, is used to store the tables of data. We used SQLAlchemy
 Below is our entity relational diagram that outlines our datasets and assisted with our EDA process. 
 
 The most common features within our datasets are **University_Name_Clean** and **State**. 
-**TB UPDATED WITH NEW DBD IMAGE BELOW**
 ![University_Salary_DBD](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png)
 
 ## Exploratory Data Analysis 
@@ -115,12 +114,12 @@ After cleaning the data, which entailed matching and formatting the school names
     * Region
     * Type
 
-### Feature Selection and Engineering Process - TB Updated
+### Feature Selection and Engineering Process
 We elected to convert the target column values (Early Career Pay) to either “Low” (less than $45,000) or “Medium/High” for all other amounts.  
 Of the dropped columns above we selected to remove Mid Career Pay and Rank for the initial phase of modeling. These features may be added back in pending further testing.  
 While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column.
 
-### Model Training and Testing - TB Updated if needed
+### Model Training and Testing 
  ![four_ml_models_tested](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/four_ml_models_tested.png)
 
 ### Model Selection with Benefits and Limitations
@@ -130,21 +129,15 @@ While we were initially interested in the difference of Early Career Pay between
 * After further testing, we are confident in our initial choice of the Easy Ensemble model. 
 * Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. 
 
-## Dashboard - TB Updated
+## Dashboard
 The interactive dashboard is created and hosted on Tableau Public. The direct link is [here](TBD on link).
 
 ### Interactive Elements 
+* Map of the United States with Tooltip of State Name, Average Career Pay, and University Name (of school with the highest Early Career Pay). 
+* Filter by State (and/or University Name) that showcases two bar charts listing the University Name, In-State Tuition and Out-of-State Tuition along with the Early Career Pay tied to that University. 
+* Filter by State (and/or University Name) that presents pie charts outlining Diversity within the specific schools.
 
-
-## Analysis - TB Updated with Group
-TBD
-
-### Improvements - TB Updated with Group
-* Collected more Early Career Pay on more schools, focusing on more two-year schools. By having more two-year data this could provided valuable information to those future students who are unsure of which degree length to select.?
-
-### Recommendations for Additional Analysis - TB Updated with Group
-* Include the cost of living expenses by state so that it could be directly compared to Early Career Pay. In most cases higher pay can be found where the cost of living is higher.
-* Unemployment rate (by state)?
+![dashboard_v1](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_v1.png)
 
  
 --------------------------------------------
@@ -213,9 +206,9 @@ There are no deliverables for the database integration section of the project fo
 
 ### Dashboard (30 points)
 The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
-- [] Images from the initial analysis
-- [] Data (images or report) from the machine learning task
-- [] At least one interactive element
+- [X] Images from the initial analysis
+- [X] Data (images or report) from the machine learning task
+- [X] At least one interactive element
 
 </details>
 
