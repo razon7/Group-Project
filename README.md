@@ -125,9 +125,10 @@ While we were initially interested in the difference of Early Career Pay between
 ### Model Selection with Benefits and Limitations
 ![ml_benefit_limits](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_benefit_limits.png)
 
-### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3 
+### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3
+![model_optimization](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/model_optimization.png)
 * After further testing, we are confident in our initial choice of the Easy Ensemble model. 
-* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **Optimized Machine Learning code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
+* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
 
 ## Dashboard
 The interactive dashboard is created and hosted on Tableau Public. 
@@ -195,7 +196,7 @@ The team members are expected to submit the code for the machine learning model,
 - [X] Description of how data was split into training and testing sets
 - [X] Explanation of model choice, including limitations and benefits
 - [X] Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
-- [] Description of how they have trained the model thus far, and any additional training that will take place
+- [X] Description of how they have trained the model thus far, and any additional training that will take place
 - [X] Description of current accuracy score
 
 ***Additionally, the model obviously addresses the question or problem the team is solving.***
