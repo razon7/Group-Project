@@ -1,27 +1,20 @@
-# Group Project Overview
-## Communication Protocols
-* Slack will be the primary communcation tool. Outside of our classes held on Mondays and Wednesdays, we intend to meet after class and on an as-needed basis each week. 
-* Each team member will generate their own pull request once they have completed their weekly tasks and will notify the team, via Slack, that there is a pull request to review.
-* All pull requests within GitHub will require approval from a minimum of two team members prior to merging into the main branch. 
+# College Costs and Career Pay 
 
-## Technologies and Platforms
 
-### Data Cleaning and Analysis
-* **Python** along with the **Pandas**, **Matplotlib**, and **Plotly** was used to clean the data and perform initial analysis. 
+### Team Members
+| **Name** | **Primary Role** |
+|----- | ----- |
+| Billy Barlett | Dashboard Lead |
+| Kelly Fangmann | Presentation Lead |
+| Jumoke Hicok | Machine Learning Lead |
+| Rajkala Pugazhendhi | EDA / GitHub Lead |
+| David Schultz | Database Lead |
 
-### Database Storage
-* **QuickDBD** was used to create our database diagram and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png).
-* **Postgresql** is our chosen database and **SQLAlchemy** is our Object Relational Mapper.
+*While primary roles were established, we collaborated and participated on each part of the project.*
 
-### Machine Learning 
-* **LucidChart** was used to create our Machine Learning flowchart and can be viewed [here](https://github.com/razon7/Group-Project/blob/main/ML%20mockup.pdf).
-* **SciKitLearn** is being used to train_test_split and **Imbalanced-learn** is our primary ML library. 
-
-### Dashboard
-* **Tableau Public** will be used to create and host our dashboard. 
 
 ## Selected Topic - College and Early Career Salary
-College tuition costs are a hot topic these days. According to the Department of Education, the typical undergraduate student with loans graduates with nearly $25,000 in debt. Since 1980, the total cost of both four-year public and four-year private college has nearly tripled, even after accounting for inflation[^1]. Due to the Covid pandemic, federal student loan repayment has been paused since March 2020 and the Biden administration has attempted to enact a Federal Student Loan Relief program for low- to middle-income borrowers, forgiving up to $10,000 of existing post-high school educational debt. Some believe that the cost of a college education should not be the responsibility of the student alone, and others disagree. Regardless of what school of thought you subscribe to, college tuition costs are an important factor when considering where to go and what to study, while keeping a focus on what will someone earn once they graduate.
+College tuition costs are a hot topic these days. According to the Department of Education, the typical undergraduate student with loans graduates with nearly $25,000 in debt. Since 1980, the total cost of both four-year public and four-year private college has nearly tripled, even after accounting for inflation[^1]. Due to the Covid pandemic, federal student loan repayment has been paused since March 2020 and the Biden administration has attempted to enact a Federal Student Loan Relief program for low- to middle-income borrowers, forgiving up to $20,000 of existing post-high school educational debt. Some believe that the cost of a college education should not be the responsibility of the student alone, and others disagree. Regardless of what school of thought you subscribe to, college tuition costs are an important factor when considering where to go and what to study, while keeping a focus on what will someone earn once they graduate.
 
 We believe that by studying these datasets, we can better understand how to optimize college expenses in relation to the early career salary. This data-driven research could provide another layer of insight to future college bound students, coupled with their intuition and/or personal experience. 
 
@@ -66,24 +59,161 @@ Our data is spread across four CSV files and can be found in the Resources folde
 * Potential salary data, percentage of STEM degrees, and Make World Better percent comes from [payscale.com](https://www.payscale.com/).
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
+
 ## Presentation
 Our presentation is hosted on Google Slides and can be viewed [here](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing).
 
-**Descriptions of the following can be found in the Google Slides:** 
-* Project Summary
-* Database
-* Exploratory Data Analysis
-* Machine Learning 
-* Dashboard Storyboard
 
-## Project Deliverables - Week 2
+## Project Deliverables
 | **File** | **Link** |
 |----- | ---- |
-| Presentation | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing)|
-| Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA_College_Statistics.ipynb) |
-| Machine Learning Code | [Machine_Learning_Models](https://github.com/razon7/Group-Project/tree/main/Resources/Machine_Learning_Models) |
-| Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/University_Salary_ML_Table.sql) |
-| Dashboard Blueprint | [College_Costs_Career_Pay](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing) |
+| Presentation | [Google Slides](https://docs.google.com/presentation/d/1GK0qrnXJ9t7PlQptir__Jj1SPL5RivTaPqMgYYJwcZw/edit?usp=sharing)|
+| Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA/EDA_College_Statistics.ipynb) |
+| Machine Learning Code | [EasyEnsemble_Classifier](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb) |
+| Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/Database/University_Salary_ML_Table.sql) |
+| Dashboard  | Tableau Public - link to come |
+
+## Technologies and Platforms
+![tech_platforms_algorithms](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/tech_platforms_algorithms.png)
+
+## ETL Process
+![etl_visual](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/etl_visual.png)
+
+## Database 
+PostgreSQL, via PGAdmin, is used to store the tables of data. We used SQLAlchemy as our Object Relational Mapper. 
+
+Below is our entity relational diagram that outlines our datasets and assisted with our EDA process. 
+
+The most common features within our datasets are **University_Name_Clean** and **State**. 
+![University_Salary_DBD](https://github.com/razon7/Group-Project/blob/main/Images/University_Salary_DBD.png)
+
+## Exploratory Data Analysis 
+After cleaning the data, which entailed matching and formatting the school names, we were left with 907 rows and 27 columns. Overall, the initial review showed that Mississippi had the lowest average of Early Career Pay while New York edged out California for the highest. Here are some highlights we found during the EDA process. 
+
+* The visual below shows the average Early Career Pay by Division. The divisions are comprised of smaller groups with the regions, as defined by the U.S. Census Bureau. The Middle Atlantic includes New York and East South Central includes Mississippi. 
+![avg_career_pay_by_division](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/avg_career_pay_by_division.png)
+
+
+* What we found most interesting was the correlation of **Stem Percent** (the percentage of students enrolled in STEM fields of study) to **Early Career Pay**. The higher the percentage, the higher the pay. In sharp contrast, the lower the **Make World Better Percent** (the percentage of students who identified themselves in fields of study to better the world around them) the lower the **Early Career Pay**. As you can see, these patterns exist across all regions of the United States.
+![stem_vs_mwb_eda](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/stem_vs_mwb_eda.png)
+
+## Machine Learning
+
+### Preliminary Data Preprocessing
+* Assessed the data types
+* Replaced the nulls with zero
+* Dropped the unnecessary columns:
+    * University Name
+    * Rank
+    * Mid Career Pay
+    * Degree Length
+
+* Pandas.get_dummies was used to convert the following to integers:
+    * Division
+    * State
+    * Region
+    * Type
+
+### Feature Selection and Engineering Process
+We elected to convert the target column values (Early Career Pay) to either “Low” (less than $45,000) or “Medium/High” for all other amounts.  
+Of the dropped columns above we selected to remove Mid Career Pay and Rank for the initial phase of modeling. These features may be added back in pending further testing.  
+While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column.
+
+### Model Training and Testing 
+ ![four_ml_models_tested](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/four_ml_models_tested.png)
+
+### Model Selection with Benefits and Limitations
+![ml_benefit_limits](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_benefit_limits.png)
+
+### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3
+![model_optimization](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/model_optimization.png)
+* After further testing, we are confident in our initial choice of the Easy Ensemble model. 
+* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
+
+## Dashboard
+The interactive dashboard is created and hosted on Tableau Public. 
+
+### Interactive Elements 
+* Map of the United States with Tooltip of State Name, Average Career Pay, and University Name (of school with the highest Early Career Pay). 
+* Filter by State (and/or University Name) that showcases two bar charts listing the University Name, In-State Tuition and Out-of-State Tuition along with the Early Career Pay tied to that University. 
+* Filter by State (and/or University Name) that presents pie charts outlining Diversity within the specific schools.
+
+![dashboard_v1](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_v1.png)
+
+ 
+--------------------------------------------
+## WEEKLY ROLES AND RUBRIC
+<details><summary>Week 3 Deliverables</summary>
+
+--------------------------------------------
+## Assigned Roles - Week 3
+* Billy / David - Dashboard
+* Jumoke / Rajkala - Machine Learning Model
+* All - GitHub
+* Kelly - Presentation
+
+## Deliverables - Week 3
+### Presentation (15 points)
+#### Content
+
+The presentation outlines the project, including the following:
+- [X] Selected topic
+- [X] Reason topic was selected
+- [X] Description of the source of data
+- [X] Questions the team hopes to answer with the data
+- [X] Description of the data exploration phase of the project
+- [X] Description of the analysis phase of the project
+- [X] Technologies, languages, tools, and algorithms used throughout the project
+
+#### Slides
+Presentations are drafted in Google Slides.
+
+### GitHub Repository (10 points)
+#### Main Branch
+All code in the main branch is production-ready.
+
+The main branch should include:
+- [X] All code necessary to perform exploratory analysis
+- [X] Most code necessary to complete the machine learning portion of the project 
+
+#### README.md
+README.md should include:
+- [X] Description of the communication protocols has been removed
+- [X] Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
+- [X] Link to Google Slides draft presentation
+
+***The descriptions and explanations required in the project deliverables should also be in your README.md as part of your outline, unless otherwise noted.***
+
+#### Individual Branches
+Requirements for the individual branches follow:
+- [X] At least one branch for each team member
+- [X] Each team member has at least four commits for the duration of the second segment (12 total commits per person)
+
+### Machine Learning Model (45 points)
+The team members are expected to submit the code for the machine learning model, as well as the following:
+- [X] Description of data preprocessing
+- [X] Description of feature engineering and the feature selection, including the decision-making process
+- [X] Description of how data was split into training and testing sets
+- [X] Explanation of model choice, including limitations and benefits
+- [X] Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+- [X] Description of how they have trained the model thus far, and any additional training that will take place
+- [X] Description of current accuracy score
+
+***Additionally, the model obviously addresses the question or problem the team is solving.***
+
+### Database Integration (0 points)
+There are no deliverables for the database integration section of the project for this segment.
+
+
+### Dashboard (30 points)
+The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes the following:
+- [X] Images from the initial analysis
+- [X] Data (images or report) from the machine learning task
+- [X] At least one interactive element
+
+</details>
+
+<details><summary>Week 2 Deliverables</summary>
 
 --------------------------------------------
 ## Assigned Roles - Week 2
@@ -148,6 +278,10 @@ A blueprint for the dashboard is created and includes all of the following:
 - [X] Description of the tool(s) that will be used to create the final dashboard
 - [X] Description of interactive element(s)
 
+</details>
+
+<details><summary>Week 1 Deliverables</summary>
+
 --------------------------------------------
 ## Assigned Roles - Week 1
 * Billy - Project Manager (PM)
@@ -193,6 +327,8 @@ Team members will be expected to present a provisional database that stands in f
 
 There are no deliverables associated with the dashboard for this segment.
 
+</details>
 
 
 [^1]: [The White House Fact Sheet: President Biden Announces Student Loan Relief...](https://www.whitehouse.gov/briefing-room/statements-releases/2022/08/24/fact-sheet-president-biden-announces-student-loan-relief-for-borrowers-who-need-it-most/)
+
