@@ -4,7 +4,7 @@
 ### Team Members
 | **Name** | **Primary Role** |
 |----- | ----- |
-| Billy Barlett | Dashboard Lead |
+| Billy Bartlett | Dashboard Lead |
 | Kelly Fangmann | Presentation Lead |
 | Jumoke Hicok | Machine Learning Lead |
 | Rajkala Pugazhendhi | EDA / GitHub Lead |
