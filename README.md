@@ -140,9 +140,103 @@ The interactive dashboard is created and hosted on Tableau Public.
 
 ![dashboard_v1](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_v1.png)
 
- 
---------------------------------------------
 ## WEEKLY ROLES AND RUBRIC
+<details><summary>Week 4 Deliverables</summary>
+
+--------------------------------------------
+## Assigned Roles - Week 4
+* Billy / David - Dashboard
+* Jumoke - Machine Learning Model
+* Rajkala - EDA
+* All - GitHub
+* Kelly - Presentation
+
+## Deliverables - Week 4
+### Presentation (25 points)
+#### Content
+
+The presentation outlines the project, including the following:
+- [X] Selected topic
+- [X] Reason topic was selected
+- [X] Description of the source of data
+- [X] Questions the team hopes to answer with the data
+- [X] Description of the data exploration phase of the project
+- [X] Description of the analysis phase of the project
+- [X] Technologies, languages, tools, and algorithms used throughout the project
+- [] Result of the analysis
+- [X] Recommendation for future analysis
+- [X] Anything the team would have done differently
+
+#### Slides
+Presentations are finalized in Google Slides and should include:
+- [X] Slides are primarily images or graphics (rather than primarily text).
+- [X] Images are clear, in high-definition, and directly illustrative of subject matter. 
+
+### Live Presentation
+The team members deliver the presentation in equal portions. The live presentation should include the following:
+- [] Demonstrates the interactivity of the dashboard in real time. 
+- [] Adheres to the time limits provided by instructor
+- [] Includes speaker notes, flashcards or video of the presentation rehearsal
+
+### GitHub Repository (10 points)
+#### Main Branch
+All code in the main branch is production-ready. All code is clean, commented, easy to read, and adheres to a coding standard (e.g., PEP8).
+
+The main branch should include:
+- [X] All code necessary to perform exploratory analysis
+- [X] Most code necessary to complete the machine learning portion of the project 
+- [X] Any images that have been created (at least three)
+- [X] ~Requirements.txt file~ *Per TA this was no longer required.*
+
+#### README.md
+README.md should include:
+- [X] Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
+- [] Link to dashboard (or link to video of dashboard demonstration)
+- [X] Link to Google Slides draft presentation
+
+***The descriptions and explanations required in the project deliverables should also be in your README.md as part of your outline, unless otherwise noted.***
+
+#### Individual Branches
+Requirements for the individual branches follow:
+- [X] At least one branch for each team member
+- [X] Each team member has at least four commits for the duration of the final segment (16 total commits per person)
+- [X] Link to Google Slides draft presentation
+
+### Machine Learning Model (25 points)
+The team members are expected to submit the code for the machine learning model, as well as the following:
+- [X] Description of data preprocessing
+- [X] Description of feature engineering and the feature selection, including the decision-making process
+- [X] Description of how data was split into training and testing sets
+- [X] Explanation of model choice, including limitations and benefits
+- [X] Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+- [X] Description of how the model was trained (or retrained, if the team is using an existing model)
+- [] Description and explanation of model's confusion matrix, including final accuracy score
+
+***Additionally, the model obviously addresses the question or problem the team is solving.***
+
+***If statistical analysis is not included as part of the current analysis, the team should descrie how it would be included in the next phases of the project.***
+
+### Database Integration (25 points)
+Students will be expected to present a final project with a fully integrated database. 
+- [X] Database stores static data for use during the project
+- [X] Database interfaces with the project in some format (e.g., scraping updates the database)
+- [X] Includes at least two tables (or collections, if using MongoDB)
+- [X] Includes at least one join using the database language (not including any joins in Pandas)
+- [X] Includes at least one connection string (using SQLAlchemy or PyMongo)
+
+***If you use a SQL database, you must provide your ERD with relationships.***
+
+
+### Dashboard (15 points)
+The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes all of the following:
+- [X] Images from the initial analysis
+- [X] Data (images or report) from the machine learning task
+- [X] At least one interactive element
+
+***Either the dashboard is published or the submission includes a screen capture video of it in action.***
+
+</details>
+ 
 <details><summary>Week 3 Deliverables</summary>
 
 --------------------------------------------
