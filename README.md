@@ -108,7 +108,7 @@ After cleaning the data, which entailed matching and formatting the school names
 
 University Name is the primary key for the table, Rank is state specific, and Mid-Career Pay is essentially another target variable so we elected to drop those columns right away.  While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column either.  After a few rounds of training the decision was made to also remove the Region and State columns as they may have been confusing the model and decreasing its performance.
 
-* The features we ended up keeping: 
+* The features we kept: 
     * In-State and Out-of-State tuitions
     * Room and Board
     * Total Enrollment count 
@@ -127,7 +127,7 @@ University Name is the primary key for the table, Rank is state specific, and Mi
 
 After feature selection we assessed the remaining data types and encoded the two object fields using Pandas.get_dummies.  We chose to replace null values with zeros instead of removing entire records.  Out of the 907 rows, 29 were missing values for the Make World Better Percentage, 50 were missing for Room and Board, and 27 were missing the Enrollment and Diversity percentages. We elected to convert the target column values (Early Career Pay) to either “Low” (less than $45,000) or “Medium/High” for all other amounts using a lambda function.  This was done to prepare the data for use with a classification model and to answer the question of whether we are able to accurately predict which features will result in a low early career pay.
 
-### Model Training and Testing 
+### Model Selection with Benefits and Limitations
 For our model we chose the Easy Ensemble Classifier using Adaptive Boosting.   
 
 #### Benefits
@@ -139,11 +139,7 @@ For our model we chose the Easy Ensemble Classifier using Adaptive Boosting.
 * Outcome can be harder to interpret
 * Slower to train and could significantly increase the amount of resources needed  
 
-
-### Model Selection with Benefits and Limitations
-![ml_benefit_limits](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_benefit_limits.png)
-
-### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3
+### Model Training and Optimization
 ![model_optimization](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/model_optimization.png)
 * Adjusted 75/25 train/test split to 80/20
 * Increased the number of learners from 10 to 150
