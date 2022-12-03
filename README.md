@@ -99,36 +99,57 @@ After cleaning the data, which entailed matching and formatting the school names
 
 ## Machine Learning
 
-### Preliminary Data Preprocessing
-* Assessed the data types
-* Replaced the nulls with zero
+### Feature Selection
 * Dropped the unnecessary columns:
     * University Name
     * Rank
     * Mid Career Pay
     * Degree Length
 
-* Pandas.get_dummies was used to convert the following to integers:
-    * Division
-    * State
-    * Region
-    * Type
+University Name is the primary key for the table, Rank is state specific, and Mid-Career Pay is essentially another target variable so we elected to drop those columns right away.  While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column either.  After a few rounds of training the decision was made to also remove the Region and State columns as they may have been confusing the model and decreasing its performance.
 
-### Feature Selection and Engineering Process
-We elected to convert the target column values (Early Career Pay) to either “Low” (less than $45,000) or “Medium/High” for all other amounts.  
-Of the dropped columns above we selected to remove Mid Career Pay and Rank for the initial phase of modeling. These features may be added back in pending further testing.  
-While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column.
+* The features we ended up keeping: 
+    * In-State and Out-of-State tuitions
+    * Room and Board
+    * Total Enrollment count 
+    * Division 
+    * School type (public/private) 
+    * Make World Better % 
+    * Stem % 
+    * All of the diversity percentages.
+
+
+### Data Preprocessing
+* Assessed the data types
+* Encoded labels using Pandas.get_dummies
+* Replaced null values with zeros
+* Converted continuous target values to categorical values
+
+After feature selection we assessed the remaining data types and encoded the two object fields using Pandas.get_dummies.  We chose to replace null values with zeros instead of removing entire records.  Out of the 907 rows, 29 were missing values for the Make World Better Percentage, 50 were missing for Room and Board, and 27 were missing the Enrollment and Diversity percentages. We elected to convert the target column values (Early Career Pay) to either “Low” (less than $45,000) or “Medium/High” for all other amounts using a lambda function.  This was done to prepare the data for use with a classification model and to answer the question of whether we are able to accurately predict which features will result in a low early career pay.
 
 ### Model Training and Testing 
- ![four_ml_models_tested](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/four_ml_models_tested.png)
+For our model we chose the Easy Ensemble Classifier using Adaptive Boosting.   
+
+#### Benefits
+* Uses an ensemble of learners that evaluate previous errors and give those errors extra weight when fitting subsequent classifiers  
+* Utilizes random bootstrap sampling to help with overfitting 
+* Utilizes random undersampling to help with class imbalance  
+
+#### Limitations
+* Outcome can be harder to interpret
+* Slower to train and could significantly increase the amount of resources needed  
+
 
 ### Model Selection with Benefits and Limitations
 ![ml_benefit_limits](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_benefit_limits.png)
 
 ### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3
 ![model_optimization](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/model_optimization.png)
-* After further testing, we are confident in our initial choice of the Easy Ensemble model. 
-* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
+* Adjusted 75/25 train/test split to 80/20
+* Increased the number of learners from 10 to 150
+* Adjusted the sampling ration from 1.0 to 0.75
+
+Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
 
 ## Dashboard
 The interactive dashboard is created and hosted on Tableau Public. 
