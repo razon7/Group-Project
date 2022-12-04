@@ -145,6 +145,8 @@ For our model we chose the Easy Ensemble Classifier using Adaptive Boosting.
 * Increased the number of learners from 10 to 150
 * Adjusted the sampling ration from 1.0 to 0.75
 
+![ml_training_optimization_results](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_training_optimization_results.png)
+
 Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
 
 ## Dashboard
