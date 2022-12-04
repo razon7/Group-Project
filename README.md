@@ -191,9 +191,9 @@ Presentations are finalized in Google Slides and should include:
 
 ### Live Presentation
 The team members deliver the presentation in equal portions. The live presentation should include the following:
-- [] Demonstrates the interactivity of the dashboard in real time. 
-- [] Adheres to the time limits provided by instructor
-- [] Includes speaker notes, flashcards or video of the presentation rehearsal
+- [X] Demonstrates the interactivity of the dashboard in real time. 
+- [X] Adheres to the time limits provided by instructor
+- [X] Includes speaker notes, flashcards or video of the presentation rehearsal
 
 ### GitHub Repository (10 points)
 #### Main Branch
@@ -208,7 +208,7 @@ The main branch should include:
 #### README.md
 README.md should include:
 - [X] Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
-- [] Link to dashboard (or link to video of dashboard demonstration)
+- [X] Link to dashboard (or link to video of dashboard demonstration)
 - [X] Link to Google Slides draft presentation
 
 ***The descriptions and explanations required in the project deliverables should also be in your README.md as part of your outline, unless otherwise noted.***
@@ -227,7 +227,7 @@ The team members are expected to submit the code for the machine learning model,
 - [X] Explanation of model choice, including limitations and benefits
 - [X] Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
 - [X] Description of how the model was trained (or retrained, if the team is using an existing model)
-- [] Description and explanation of model's confusion matrix, including final accuracy score
+- [X] Description and explanation of model's confusion matrix, including final accuracy score
 
 ***Additionally, the model obviously addresses the question or problem the team is solving.***
 
