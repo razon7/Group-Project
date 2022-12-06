@@ -193,7 +193,7 @@ The presentation outlines the project, including the following:
 - [X] Description of the data exploration phase of the project
 - [X] Description of the analysis phase of the project
 - [X] Technologies, languages, tools, and algorithms used throughout the project
-- [] Result of the analysis
+- [X] Result of the analysis
 - [X] Recommendation for future analysis
 - [X] Anything the team would have done differently
 
