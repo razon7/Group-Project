@@ -71,7 +71,7 @@ Our presentation is hosted on Google Slides and can be viewed [here](https://doc
 | Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA/EDA_College_Statistics.ipynb) |
 | Machine Learning Code | [EasyEnsemble_Classifier](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb) |
 | Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/Database/University_Salary_ML_Table.sql) |
-| Dashboard  | Tableau Public - link to come |
+| Dashboard  | [Tableau Public](https://public.tableau.com/app/profile/david.b.schultz/viz/University_Salary/Dashboard?publish=yes) |
 
 ## Technologies and Platforms
 ![tech_platforms_algorithms](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/tech_platforms_algorithms.png)
@@ -150,7 +150,7 @@ For our model we chose the Easy Ensemble Classifier using Adaptive Boosting.
 Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
 
 ## Dashboard
-The interactive dashboard is created and hosted on Tableau Public. 
+The interactive dashboard is created and hosted on Tableau Public. It can be viewed [here](https://public.tableau.com/app/profile/david.b.schultz/viz/University_Salary/Dashboard?publish=yes).
 
 ### Interactive Elements 
 * Map of the United States with Tooltip of State Name, Average Career Pay, and University Name (of school with the highest Early Career Pay). 
@@ -158,6 +158,17 @@ The interactive dashboard is created and hosted on Tableau Public.
 * Filter by State (and/or University Name) that presents pie charts outlining Diversity within the specific schools.
 
 ![dashboard_v1](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_v1.png)
+
+## Conclusion
+Our key takeaways:
+* Our machine learning model was able to predict low salary (less than $45K) with **90% accuracy**. 
+* **STEM percent** and **diversity** have _positive correlations_ to early career pay. 
+* **Public** colleges are _competitive_ with **private** when it comes to early career pay. 
+* Geography plays a pivotal role in early career pay. There are significant variances from state-to-state.
+
+### Improvements and Future Recommendations 
+![improvements_recs](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/improvements_recs.png)
+
 
 ## WEEKLY ROLES AND RUBRIC
 <details><summary>Week 4 Deliverables</summary>
