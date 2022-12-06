@@ -1,5 +1,9 @@
-Our presentation dashboard was made in Tableau. 
-There are 3 parts to our dashboard.
+Thank you for passing it over to me, Jumoke! I'll be test driving our, simple, but very festive, Tableau dashboard with you all today. Tis the season for green and red! 
+
+Our dashboard was created using Tableau and is hosted on Tableau Public. 
+
+For our dashboard, we have created 3 separate visuals, 2 of which have corresponding legends, and a manual filter that allows users to select one or multiple states to compare data.  
+
 Max Early Career Pay by State (interactive map of the United States)
 Annual Tuition vs. Early Career Salary - we should update this to say "Pay" instead of "Salary"
 Diversity by University. 
@@ -10,18 +14,19 @@ The map is color coded with a green scale where lighter green indicates the lowe
 The main land of the US makes up the majority of the map with Alaska and Hawaii also included on the bottom left of the map. 
 Users can select a single state if there is a specific state they are interested in. They can also hold control and select multiple states. Additionally, the user can click and drag to select multiple states if they prefer that method. 
 Selecting one state or multiple states will update the Annual Tuition vs. Early Career Salary section and the Diversity by University section of the dashboard. 
+Clicking in the white space on the map will deselect your selections.
+A user can click a university in the Diversity by University section to update the Annual Tuition v. Early Career Pay section to perform a comparison. 
+
+
+Diversity
 
 Call outs
 Some universities do not populate diversity graph as diversity information was not available for those universities. 
+Selecting a state on the map is not tied to the filter on the right. They are independent. However, using either method will update the dashboard visuals. 
 
-What we would do different.
+What we would do different
 
 
-Is there a way to make the filters not overlap the graphs? 
-Should we update "Annual Tuition v. Early Career Salary" to "Annual Tuition vs. Early Career Pay?"
-Walk through "Annual Tuition v. Early Career Salary section again.
-Left is in state and right is out of state. Are we just sandwiching early career pay with the in state and out of state? 
-Does selecting a state on the map serve the same function as selecting a state in the filter? 
-Can we add a scroll bar to the annual tuition section? 
+
 
 
