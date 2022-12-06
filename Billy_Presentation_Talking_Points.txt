@@ -24,3 +24,4 @@ Left is in state and right is out of state. Are we just sandwiching early career
 Does selecting a state on the map serve the same function as selecting a state in the filter? 
 Can we add a scroll bar to the annual tuition section? 
 
+
