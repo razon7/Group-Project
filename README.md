@@ -160,7 +160,7 @@ The interactive dashboard is created and hosted on Tableau Public. It can be vie
 ![dashboard_v1](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_v1.png)
 
 ## Conclusion
-Our key takeaways:
+Key takeaways:
 * Our machine learning model was able to predict low salary (less than $45K) with **90% accuracy**. 
 * **STEM percent** and **diversity** have _positive correlations_ to early career pay. 
 * **Public** colleges are _competitive_ with **private** when it comes to early career pay. 
