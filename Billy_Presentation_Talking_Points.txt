@@ -1,32 +1,37 @@
 Thank you for passing it over to me, Jumoke! I'll be test driving our, simple, but very festive, Tableau dashboard with you all today. Tis the season for green and red! 
 
-Our dashboard was created using Tableau and is hosted on Tableau Public. 
+Our interactive dashboard was created using Tableau and is hosted on Tableau Public. 
 
-For our dashboard, we have created 3 separate visuals, 2 of which have corresponding legends, and a manual filter that allows users to select one or multiple states to compare data.  
+For our dashboard, we have created 3 separate visuals, 2 of which have corresponding legends, and a manual filter that allows users the freedom to explore a single state or the ability to select multiple states in order to compare data. 
 
-Max Early Career Pay by State (interactive map of the United States)
-Annual Tuition vs. Early Career Salary - we should update this to say "Pay" instead of "Salary"
+On the top left of the dashboard, you see the "Max Early Career Pay by State" map. This is an interactive map of the United States visualizing Early Career Pay.
+
+Moving to the right, you see the "Annual Tuition vs. Early Career Pay" stacked bar graphs. These graphs visualize in state and out of state tuition to Early Career Pay.
+
+On the bottom of the dashboard, you see the "Diversity by University" pie graphs.
+
+On the far right of the dashboard, you see the legend for the "Annual Tuition v. Early Career Pay" stacked bar graphs, the manual filter users can utilize to view one or multiple states, and the legend for the "Diversity by University" pie graphs.
+
+Moving back to the "Max Early Career Pay by State" map, you see a map of the United States highlighted in a gradient of green shades. Light green indicates the lowest Max Early Career Pay (51k) while dark green represents the hightest Early Career Pay (91k). Hovering over a state will load a pop up box that contains the name of the state, the highest early career pay for a graduate in the state, the name of the university with the highest early career pay in the state, the type of university (public or private), the average early career pay for the state, the average in-state tuition for the state, and the average out-of-state tuition for the state.
+
+As you can see, when a user selects the state of Kansas, all visuals update with Kansas data. Likewise, when a user selects Missouri, Missouri data is populated within all the visuals. 
+
+Moving to the right, i'd like to highlight the "Annual Tuition v. Early Career Pay" stacked bar graphs. This graph compares both in-state and out-of-state tuition to the average Early Career Pay for each state. 
+
+On the bottom of the dashboard, you see the "Diversity by University" pie graphs. These graphs provide a visual breakdown of the diversity of each university. As you can see, some universities in the state of Missouri do not display a diversity pie graph. These universities had null values in the dataset indicating the diversity information was not available. 
+
+This concludes your test drive of our Tabluea dashboard. We hope you enjoyed the ride as much as we did. 
+
+Before we go, we'd like to transition to the conclusion of our presentation for a quick wrap up.  
+
+Add conclusion notes here.
 Diversity by University. 
-The Max Early Career Pay by State Map allows the user to hover over each state to view information for any state they are interested in. 
-When hovering over a state, information is populated in a pop up box. 
-The name of the state, the highest early career pay for a graduate in the state, the name of the university with the highest early career pay in the state, they type of university (public or private), the average early career pay for the state, the average in-state tuition for the state, and the average out of state tuition for the state. 
-The map is color coded with a green scale where lighter green indicates the lowest early career pay. The scale moves through darker shades of green all the way to the darkest shade which indicates the highest early career pay. The scale goes from 51k (the lowest early career pay) to 91k (the highest early career pay). 
-The main land of the US makes up the majority of the map with Alaska and Hawaii also included on the bottom left of the map. 
-Users can select a single state if there is a specific state they are interested in. They can also hold control and select multiple states. Additionally, the user can click and drag to select multiple states if they prefer that method. 
-Selecting one state or multiple states will update the Annual Tuition vs. Early Career Salary section and the Diversity by University section of the dashboard. 
-Clicking in the white space on the map will deselect your selections.
-A user can click a university in the Diversity by University section to update the Annual Tuition v. Early Career Pay section to perform a comparison. 
 
-
-Diversity
-
-Call outs
-Some universities do not populate diversity graph as diversity information was not available for those universities. 
-Selecting a state on the map is not tied to the filter on the right. They are independent. However, using either method will update the dashboard visuals. 
+Call out
+The map is not tied to the filter on the right. They are independent. However, using either method will update the dashboard visuals. 
 
 What we would do different
-
-
+Add notes here.
 
 
 
