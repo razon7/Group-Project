@@ -157,7 +157,7 @@ The interactive dashboard is created and hosted on Tableau Public. It can be vie
 * Filter by State (and/or University Name) that showcases two bar charts listing the University Name, In-State Tuition and Out-of-State Tuition along with the Early Career Pay tied to that University. 
 * Filter by State (and/or University Name) that presents pie charts outlining Diversity within the specific schools.
 
-![dashboard_v1](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_v1.png)
+![dashboard_final](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_final.png)
 
 ## Conclusion
 Key takeaways:
