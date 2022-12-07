@@ -4,7 +4,7 @@
 ### Team Members
 | **Name** | **Primary Role** |
 |----- | ----- |
-| Billy Barlett | Dashboard Lead |
+| Billy Bartlett | Dashboard Lead |
 | Kelly Fangmann | Presentation Lead |
 | Jumoke Hicok | Machine Learning Lead |
 | Rajkala Pugazhendhi | EDA / GitHub Lead |
@@ -55,7 +55,7 @@ Possible additional features:
 ## Data Sources
 Our data is spread across four CSV files and can be found in the Resources folder housed on the main branch of this repository. These files were sourced from [Kaggle](https://www.kaggle.com/) and below is a breakdown of where the data originated.
 * School name, tuition, fees, school type, degree length, state, and in-state vs out-of-state comes from [The Chronicle of Higher Education](https://www.chronicle.com/).
-* Enrollment size comes from [TuitionTracker.org](https://www.tuitiontracker.org/).
+* Enrollment size and diversity comes from [TuitionTracker.org](https://www.tuitiontracker.org/).
 * Potential salary data, percentage of STEM degrees, and Make World Better percent comes from [payscale.com](https://www.payscale.com/).
 * Region and division of states comes from [United States Census Bureau](https://www.census.gov/geographies/reference-maps/2010/geo/2010-census-regions-and-divisions-of-the-united-states.html).
 
@@ -71,7 +71,7 @@ Our presentation is hosted on Google Slides and can be viewed [here](https://doc
 | Exploratory Analysis Code | [EDA_College_statistics](https://github.com/razon7/Group-Project/blob/main/EDA/EDA_College_Statistics.ipynb) |
 | Machine Learning Code | [EasyEnsemble_Classifier](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb) |
 | Database Integration | [University_Salary_ML_Table](https://github.com/razon7/Group-Project/blob/main/Database/University_Salary_ML_Table.sql) |
-| Dashboard  | Tableau Public - link to come |
+| Dashboard  | [Tableau Public](https://public.tableau.com/app/profile/david.b.schultz/viz/University_Salary/Dashboard?publish=yes) |
 
 ## Technologies and Platforms
 ![tech_platforms_algorithms](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/tech_platforms_algorithms.png)
@@ -99,50 +99,174 @@ After cleaning the data, which entailed matching and formatting the school names
 
 ## Machine Learning
 
-### Preliminary Data Preprocessing
-* Assessed the data types
-* Replaced the nulls with zero
+### Feature Selection
 * Dropped the unnecessary columns:
     * University Name
     * Rank
     * Mid Career Pay
     * Degree Length
 
-* Pandas.get_dummies was used to convert the following to integers:
-    * Division
-    * State
-    * Region
-    * Type
+University Name is the primary key for the table, Rank is state specific, and Mid-Career Pay is essentially another target variable so we elected to drop those columns right away.  While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column either.  After a few rounds of training the decision was made to also remove the Region and State columns as they may have been confusing the model and decreasing its performance.
 
-### Feature Selection and Engineering Process
-We elected to convert the target column values (Early Career Pay) to either “Low” (less than $45,000) or “Medium/High” for all other amounts.  
-Of the dropped columns above we selected to remove Mid Career Pay and Rank for the initial phase of modeling. These features may be added back in pending further testing.  
-While we were initially interested in the difference of Early Career Pay between two-year and four-year degrees, we only had six rows of data associated with two-year degrees. Therefore, we did not use the Degree Length column.
+* The features we kept: 
+    * In-State and Out-of-State tuitions
+    * Room and Board
+    * Total Enrollment count 
+    * Division 
+    * School type (public/private) 
+    * Make World Better % 
+    * Stem % 
+    * All of the diversity percentages.
 
-### Model Training and Testing 
- ![four_ml_models_tested](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/four_ml_models_tested.png)
+
+### Data Preprocessing
+* Assessed the data types
+* Encoded labels using Pandas.get_dummies
+* Replaced null values with zeros
+* Converted continuous target values to categorical values
+
+After feature selection we assessed the remaining data types and encoded the two object fields using Pandas.get_dummies.  We chose to replace null values with zeros instead of removing entire records.  Out of the 907 rows, 29 were missing values for the Make World Better Percentage, 50 were missing for Room and Board, and 27 were missing the Enrollment and Diversity percentages. We elected to convert the target column values (Early Career Pay) to either “Low” (less than $45,000) or “Medium/High” for all other amounts using a lambda function.  This was done to prepare the data for use with a classification model and to answer the question of whether we are able to accurately predict which features will result in a low early career pay.
 
 ### Model Selection with Benefits and Limitations
-![ml_benefit_limits](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_benefit_limits.png)
+For our model we chose the Easy Ensemble Classifier using Adaptive Boosting.   
 
-### Model Optimization with Accuracy Score - Segment 2 vs. Segment 3
+#### Benefits
+* Uses an ensemble of learners that evaluate previous errors and give those errors extra weight when fitting subsequent classifiers  
+* Utilizes random bootstrap sampling to help with overfitting 
+* Utilizes random undersampling to help with class imbalance  
+
+#### Limitations
+* Outcome can be harder to interpret
+* Slower to train and could significantly increase the amount of resources needed  
+
+### Model Training and Optimization
 ![model_optimization](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/model_optimization.png)
-* After further testing, we are confident in our initial choice of the Easy Ensemble model. 
-* Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
+* Adjusted 75/25 train/test split to 80/20
+* Increased the number of learners from 10 to 150
+* Adjusted the sampling ration from 1.0 to 0.75
+
+![ml_training_optimization_results](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/ml_training_optimization_results.png)
+
+Our model is able to correctly predict **90%** of the test targets. With a **97% recall rate**, the model correctly identified 37 of the 38 early career salaries that are under $45K. There were 24 false positives (incorrectly predicted as low salary) resulting in a precision rate of 61%. **The entire final code can be seen [here](https://github.com/razon7/Group-Project/blob/kelly-branch/Machine%20Learning/EasyEnsemble_Classifier_Model_Final.ipynb).**
 
 ## Dashboard
-The interactive dashboard is created and hosted on Tableau Public. 
+The interactive dashboard is created and hosted on Tableau Public. It can be viewed [here](https://public.tableau.com/app/profile/david.b.schultz/viz/University_Salary/Dashboard?publish=yes).
 
 ### Interactive Elements 
 * Map of the United States with Tooltip of State Name, Average Career Pay, and University Name (of school with the highest Early Career Pay). 
 * Filter by State (and/or University Name) that showcases two bar charts listing the University Name, In-State Tuition and Out-of-State Tuition along with the Early Career Pay tied to that University. 
 * Filter by State (and/or University Name) that presents pie charts outlining Diversity within the specific schools.
 
-![dashboard_v1](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_v1.png)
+![dashboard_final](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/dashboard_final.png)
 
- 
---------------------------------------------
+## Conclusion
+Key takeaways:
+* Our machine learning model was able to predict low salary (less than $45K) with **90% accuracy**. 
+* **STEM percent** and **diversity** have _positive correlations_ to early career pay. 
+* **Public** colleges are _competitive_ with **private** when it comes to early career pay. 
+* Geography plays a pivotal role in early career pay. There are significant variances from state-to-state.
+
+### Improvements and Future Recommendations 
+![improvements_recs](https://github.com/razon7/Group-Project/blob/kelly-branch/Images/improvements_recs.png)
+
+
 ## WEEKLY ROLES AND RUBRIC
+<details><summary>Week 4 Deliverables</summary>
+
+--------------------------------------------
+## Assigned Roles - Week 4
+* Billy / David - Dashboard
+* Jumoke - Machine Learning Model
+* Rajkala - EDA
+* All - GitHub
+* Kelly - Presentation
+
+## Deliverables - Week 4
+### Presentation (25 points)
+#### Content
+
+The presentation outlines the project, including the following:
+- [X] Selected topic
+- [X] Reason topic was selected
+- [X] Description of the source of data
+- [X] Questions the team hopes to answer with the data
+- [X] Description of the data exploration phase of the project
+- [X] Description of the analysis phase of the project
+- [X] Technologies, languages, tools, and algorithms used throughout the project
+- [X] Result of the analysis
+- [X] Recommendation for future analysis
+- [X] Anything the team would have done differently
+
+#### Slides
+Presentations are finalized in Google Slides and should include:
+- [X] Slides are primarily images or graphics (rather than primarily text).
+- [X] Images are clear, in high-definition, and directly illustrative of subject matter. 
+
+### Live Presentation
+The team members deliver the presentation in equal portions. The live presentation should include the following:
+- [X] Demonstrates the interactivity of the dashboard in real time. 
+- [X] Adheres to the time limits provided by instructor
+- [X] Includes speaker notes, flashcards or video of the presentation rehearsal
+
+### GitHub Repository (10 points)
+#### Main Branch
+All code in the main branch is production-ready. All code is clean, commented, easy to read, and adheres to a coding standard (e.g., PEP8).
+
+The main branch should include:
+- [X] All code necessary to perform exploratory analysis
+- [X] Most code necessary to complete the machine learning portion of the project 
+- [X] Any images that have been created (at least three)
+- [X] ~Requirements.txt file~ *Per TA this was no longer required.*
+
+#### README.md
+README.md should include:
+- [X] Cohesive, structured outline of the project (this may include images, but they should be easy to follow and digest)
+- [X] Link to dashboard (or link to video of dashboard demonstration)
+- [X] Link to Google Slides draft presentation
+
+***The descriptions and explanations required in the project deliverables should also be in your README.md as part of your outline, unless otherwise noted.***
+
+#### Individual Branches
+Requirements for the individual branches follow:
+- [X] At least one branch for each team member
+- [X] Each team member has at least four commits for the duration of the final segment (16 total commits per person)
+- [X] Link to Google Slides draft presentation
+
+### Machine Learning Model (25 points)
+The team members are expected to submit the code for the machine learning model, as well as the following:
+- [X] Description of data preprocessing
+- [X] Description of feature engineering and the feature selection, including the decision-making process
+- [X] Description of how data was split into training and testing sets
+- [X] Explanation of model choice, including limitations and benefits
+- [X] Explanation of changes in model choice (if changes occurred between the Segment 2 and Segment 3 deliverables)
+- [X] Description of how the model was trained (or retrained, if the team is using an existing model)
+- [X] Description and explanation of model's confusion matrix, including final accuracy score
+
+***Additionally, the model obviously addresses the question or problem the team is solving.***
+
+***If statistical analysis is not included as part of the current analysis, the team should descrie how it would be included in the next phases of the project.***
+
+### Database Integration (25 points)
+Students will be expected to present a final project with a fully integrated database. 
+- [X] Database stores static data for use during the project
+- [X] Database interfaces with the project in some format (e.g., scraping updates the database)
+- [X] Includes at least two tables (or collections, if using MongoDB)
+- [X] Includes at least one join using the database language (not including any joins in Pandas)
+- [X] Includes at least one connection string (using SQLAlchemy or PyMongo)
+
+***If you use a SQL database, you must provide your ERD with relationships.***
+
+
+### Dashboard (15 points)
+The dashboard presents a data story that is logical and easy to follow for someone unfamiliar with the topic. It includes all of the following:
+- [X] Images from the initial analysis
+- [X] Data (images or report) from the machine learning task
+- [X] At least one interactive element
+
+***Either the dashboard is published or the submission includes a screen capture video of it in action.***
+
+</details>
+ 
 <details><summary>Week 3 Deliverables</summary>
 
 --------------------------------------------
